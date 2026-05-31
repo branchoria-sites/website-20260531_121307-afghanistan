@@ -6674,17 +6674,8 @@
 
 
 
-      /* Root node (all modes) */
-
-      var rootRow = makeNode("div", "ct-root-row");
-
-      var rootBubble = buildTreeNodeBubble(rootNode, "ct-node-root");
-
-      if (strategy === "fanout") {
-        rootBubble.classList.add("ct-node-root-wide");
-      }
-
-      rootRow.appendChild(rootBubble);
+      /* Keep the synthetic root in data for layout/state, but do not draw a
+         visible root card above the actual map contents. */
 
 
 
@@ -6693,10 +6684,6 @@
         /* --- CENTERED ROOT + RESPONSIVE CHILD FANOUT --- */
 
         board.classList.add("ct-layout-fanout");
-
-        rootRow.appendChild(makeNode("span", "ct-connector ct-connector-rail ct-connector-fanout", ""));
-
-        board.appendChild(rootRow);
 
         var fanoutWrap = makeNode("div", "ct-fanout-wrap");
 
@@ -6724,10 +6711,6 @@
 
         board.classList.add("ct-layout-cascade");
 
-        rootRow.appendChild(makeNode("span", "ct-connector ct-connector-v", ""));
-
-        board.appendChild(rootRow);
-
         var cascadeWrap = makeNode("div", "ct-cascade-levels");
 
         var branchLevel = makeNode("div", "ct-cascade-row");
@@ -6753,8 +6736,6 @@
         /* --- COMPACT GRID --- */
 
         board.classList.add("ct-layout-grid");
-
-        board.appendChild(rootRow);
 
         var gridWrap = makeNode("div", "ct-grid-wrap");
         gridWrap.setAttribute("data-ct-subtree-layout", "top-level-grid");
@@ -6784,10 +6765,6 @@
         /* --- HORIZONTAL TREE --- */
 
         board.classList.add("ct-layout-tree");
-
-        rootRow.appendChild(makeNode("span", "ct-connector ct-connector-rail", ""));
-
-        board.appendChild(rootRow);
 
         var treeWrap = makeNode("div", "ct-tree-wrap");
         var treeGrid = makeNode("div", "ct-tree-grid");
