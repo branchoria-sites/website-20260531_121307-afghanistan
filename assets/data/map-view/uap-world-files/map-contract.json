@@ -1,0 +1,59 @@
+﻿{
+    "schemaVersion":  1,
+    "component":  "branchoria-map-viewer",
+    "id":  "uap-world-files",
+    "title":  "UAP World Files",
+    "mapKind":  "world",
+    "itemType":  "country",
+    "mapSrc":  "assets/maps/simplemaps-world.svg",
+    "itemsSrc":  "assets/data/map-view/uap-world-files/items.json",
+    "legacyItemsSrc":  "assets/data/uap-world-map.json",
+    "label":  "Interactive world map linking to country UAP files",
+    "fallbackSummary":  "Open this country file from the map.",
+    "indexHref":  "contents/",
+    "searchHref":  "search/",
+    "previewTemplate":  {
+                            "kickerField":  "label",
+                            "titleField":  "title",
+                            "summaryField":  "summary",
+                            "imageField":  "image",
+                            "urlField":  "url"
+                        },
+    "regions":  [
+                    {
+                        "key":  "asia",
+                        "label":  "Asia",
+                        "itemsSrc":  "assets/data/map-view/uap-world-files/regions/asia.json",
+                        "detailsSrc":  "assets/data/map-view/uap-world-files/details/asia.json",
+                        "count":  45
+                    },
+                    {
+                        "key":  "europe",
+                        "label":  "Europe",
+                        "itemsSrc":  "assets/data/map-view/uap-world-files/regions/europe.json",
+                        "detailsSrc":  "assets/data/map-view/uap-world-files/details/europe.json",
+                        "count":  42
+                    },
+                    {
+                        "key":  "africa",
+                        "label":  "Africa",
+                        "itemsSrc":  "assets/data/map-view/uap-world-files/regions/africa.json",
+                        "detailsSrc":  "assets/data/map-view/uap-world-files/details/africa.json",
+                        "count":  54
+                    },
+                    {
+                        "key":  "americas",
+                        "label":  "Americas",
+                        "itemsSrc":  "assets/data/map-view/uap-world-files/regions/americas.json",
+                        "detailsSrc":  "assets/data/map-view/uap-world-files/details/americas.json",
+                        "count":  35
+                    },
+                    {
+                        "key":  "oceania",
+                        "label":  "Oceania",
+                        "itemsSrc":  "assets/data/map-view/uap-world-files/regions/oceania.json",
+                        "detailsSrc":  "assets/data/map-view/uap-world-files/details/oceania.json",
+                        "count":  8
+                    }
+                ]
+}

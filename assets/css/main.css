@@ -15320,6 +15320,29 @@ a.fr-book-fit:focus-visible {
 
 
 /* UAP country map root card */
+.map-view-home {
+  display: grid;
+  gap: 0.95rem;
+}
+
+.map-view-home-toolbar {
+  display: flex;
+  justify-content: flex-end;
+  gap: 0.55rem;
+  flex-wrap: wrap;
+}
+
+.map-view-home .map-viewer-shell {
+  min-height: min(68vh, 46rem);
+}
+
+.map-view-home-note {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.95rem;
+  text-align: right;
+}
+
 .uap-world-root-card {
   grid-template-columns: minmax(0, 1fr) auto;
 }
