@@ -391,9 +391,9 @@ sibling_links:
   permalink: /afghanistan/
   short_title: Afghanistan UAP
 - basename: Albania_79b9d2
-  title: AlbanianUFOs
+  title: Albanian UFOs
   permalink: /albania/
-  short_title: AlbanianUFOs
+  short_title: Albanian UFOs
 - basename: Algeria_bd6acc
   title: Algeria UFOs
   permalink: /algeria/

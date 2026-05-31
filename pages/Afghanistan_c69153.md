@@ -387,9 +387,9 @@ ui_strings:
   search_kind_relevant_snippet: Relevant snippet
 sibling_links:
 - basename: Albania_79b9d2
-  title: AlbanianUFOs
+  title: Albanian UFOs
   permalink: /albania/
-  short_title: AlbanianUFOs
+  short_title: Albanian UFOs
 - basename: Algeria_bd6acc
   title: Algeria UFOs
   permalink: /algeria/
@@ -1177,9 +1177,9 @@ child_links:
   heading_title: Why War Zone Footage Looks So Strange
 next_link:
   basename: Albania_79b9d2
-  title: AlbanianUFOs
+  title: Albanian UFOs
   permalink: /albania/
-  short_title: AlbanianUFOs
+  short_title: Albanian UFOs
 date: '2026-05-31 03:53:51 '
 header:
   og_image: /assets/images/Afghanistan_c69153-overview-social.jpg

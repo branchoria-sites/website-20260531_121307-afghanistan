@@ -23,7 +23,7 @@ sidebar_expanded_urls:
 - /albania/
 nav_short_title: Communist Era Reports
 title: How Did Albania's Cold War Secrecy Shape UFO Sightings?
-title_full: How Did Albania's Cold War Secrecy Shape UFO Sightings? | AlbanianUFOs
+title_full: How Did Albania's Cold War Secrecy Shape UFO Sightings? | Albanian UFOs
 display_title_short: Communist Era Reports
 display_title: Communist Era Reports
 heading_title: How Did Albania's Cold War Secrecy Shape UFO Sightings?
@@ -198,20 +198,20 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: AlbanianUFOs
+parent_title: Albanian UFOs
 parent_permalink: /albania/
-parent_nav_short_title: AlbanianUFOs
+parent_nav_short_title: Albanian UFOs
 parent_heading_title: What Unexplained Aerial Phenomena Have Occurred in Albania?
 ancestor_links:
 - basename: Albania_79b9d2
-  title: AlbanianUFOs
+  title: Albanian UFOs
   permalink: /albania/
-  short_title: AlbanianUFOs
+  short_title: Albanian UFOs
 breadcrumb_links:
 - basename: Albania_79b9d2
-  title: AlbanianUFOs
+  title: Albanian UFOs
   permalink: /albania/
-  short_title: AlbanianUFOs
+  short_title: Albanian UFOs
 sibling_links:
 - basename: Albania_79b9d2_early_ufo_reports_6c784f
   title: Early Reports | What Unexplained Aerial Phenomena Have Occurred in...
@@ -230,9 +230,9 @@ sibling_links:
   heading_title: Did a UFO Land in Roskovec in 2006?
 up_link:
   basename: Albania_79b9d2
-  title: AlbanianUFOs
+  title: Albanian UFOs
   permalink: /albania/
-  short_title: AlbanianUFOs
+  short_title: Albanian UFOs
 next_link:
   basename: Albania_79b9d2_early_ufo_reports_6c784f
   title: Early Reports | What Unexplained Aerial Phenomena Have Occurred in...

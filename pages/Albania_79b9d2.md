@@ -219,9 +219,9 @@ heading_title: What Unexplained Aerial Phenomena Have Occurred in Albania?
 page_heading_title: What Unexplained Aerial Phenomena Have Occurred in Albania?
 source_count: 202
 infographic_count: 3
-page_website_name: AlbanianUFOs
+page_website_name: Albanian UFOs
 page_banner_line: Tracking Albania's most compelling UFO sightings and witness reports
-site_website_name: AlbanianUFOs
+site_website_name: Albanian UFOs
 site_banner_line: Tracking Albania's most compelling UFO sightings and witness reports
 site_image_description: A night sky over Mount Tomorr showing scattered bright lights above a silhouetted mountain ridge with a few observers pointing...
 output_language: English

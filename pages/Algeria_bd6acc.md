@@ -391,9 +391,9 @@ sibling_links:
   permalink: /afghanistan/
   short_title: Afghanistan UAP
 - basename: Albania_79b9d2
-  title: AlbanianUFOs
+  title: Albanian UFOs
   permalink: /albania/
-  short_title: AlbanianUFOs
+  short_title: Albanian UFOs
 - basename: Antigua_and_Barbuda_0f8518
   title: Antigua UFOs
   permalink: /antigua-and-barbuda/
@@ -1177,9 +1177,9 @@ child_links:
   heading_title: What Are Recent UFO Sightings in Algeria?
 prev_link:
   basename: Albania_79b9d2
-  title: AlbanianUFOs
+  title: Albanian UFOs
   permalink: /albania/
-  short_title: AlbanianUFOs
+  short_title: Albanian UFOs
 next_link:
   basename: Antigua_and_Barbuda_0f8518
   title: Antigua UFOs

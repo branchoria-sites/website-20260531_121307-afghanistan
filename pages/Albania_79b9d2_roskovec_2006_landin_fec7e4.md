@@ -23,7 +23,7 @@ sidebar_expanded_urls:
 - /albania/
 nav_short_title: Roskovec 2006
 title: Did a UFO Land in Roskovec in 2006?
-title_full: Did a UFO Land in Roskovec in 2006? | AlbanianUFOs
+title_full: Did a UFO Land in Roskovec in 2006? | Albanian UFOs
 display_title_short: Roskovec 2006
 display_title: Roskovec 2006
 heading_title: Did a UFO Land in Roskovec in 2006?
@@ -198,20 +198,20 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: AlbanianUFOs
+parent_title: Albanian UFOs
 parent_permalink: /albania/
-parent_nav_short_title: AlbanianUFOs
+parent_nav_short_title: Albanian UFOs
 parent_heading_title: What Unexplained Aerial Phenomena Have Occurred in Albania?
 ancestor_links:
 - basename: Albania_79b9d2
-  title: AlbanianUFOs
+  title: Albanian UFOs
   permalink: /albania/
-  short_title: AlbanianUFOs
+  short_title: Albanian UFOs
 breadcrumb_links:
 - basename: Albania_79b9d2
-  title: AlbanianUFOs
+  title: Albanian UFOs
   permalink: /albania/
-  short_title: AlbanianUFOs
+  short_title: Albanian UFOs
 sibling_links:
 - basename: Albania_79b9d2_communist_era_ufo_re_4d5af0
   title: Communist Era Reports | What Unexplained Aerial Phenomena Have Occurred in...
@@ -230,9 +230,9 @@ sibling_links:
   heading_title: What Are the Most Documented Albanian UFO Events Since 1990?
 up_link:
   basename: Albania_79b9d2
-  title: AlbanianUFOs
+  title: Albanian UFOs
   permalink: /albania/
-  short_title: AlbanianUFOs
+  short_title: Albanian UFOs
 prev_link:
   basename: Albania_79b9d2_post_1990_sightings_114a00
   title: Post 1990 Sightings | What Unexplained Aerial Phenomena Have Occurred in...

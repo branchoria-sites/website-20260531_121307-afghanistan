@@ -3150,6 +3150,19 @@
         return String((node && (node.full_label || node.display_label || node.label)) || "Untitled");
       }
 
+      function normalizeCardTitleForCompare(value) {
+        return String(value || "").replace(/\s+/g, " ").trim().toLowerCase();
+      }
+
+      function getSecondaryCardTitle(node) {
+        var fullLabel = getFullLabel(node).replace(/\s+/g, " ").trim();
+        var displayLabel = getDisplayLabel(node).replace(/\s+/g, " ").trim();
+        if (!fullLabel || normalizeCardTitleForCompare(fullLabel) === normalizeCardTitleForCompare(displayLabel)) {
+          return "";
+        }
+        return fullLabel;
+      }
+
       function getNodeImage(node) {
         return String((node && node.image) || "").trim();
       }
@@ -3357,6 +3370,11 @@
 
         var content = makeNode("span", "ct-node-content");
         content.appendChild(makeNode("span", "ct-node-label", getDisplayLabel(node)));
+
+        var secondaryTitle = getSecondaryCardTitle(node);
+        if (secondaryTitle) {
+          content.appendChild(makeNode("span", "ct-node-title-full", secondaryTitle));
+        }
 
         var summary = getNodeSummary(node);
         if (summary) {
@@ -5043,6 +5061,25 @@
 
       }
 
+      function normalizeCardTitleForCompare(value) {
+
+        return String(value || "").replace(/\s+/g, " ").trim().toLowerCase();
+
+      }
+
+      function getSecondaryCardTitle(node, displayLabel) {
+
+        var fullLabel = getFullLabel(node).replace(/\s+/g, " ").trim();
+        var compactLabel = String(displayLabel || getDisplayLabel(node)).replace(/\s+/g, " ").trim();
+
+        if (!fullLabel || normalizeCardTitleForCompare(fullLabel) === normalizeCardTitleForCompare(compactLabel)) {
+          return "";
+        }
+
+        return fullLabel;
+
+      }
+
       function getNodeImage(node) {
 
         return String((node && node.image) || "").trim();
@@ -5990,6 +6027,11 @@
         var label = makeNode("span", "ct-node-label", labelText);
 
         content.appendChild(label);
+
+        var secondaryTitle = getSecondaryCardTitle(node, labelText);
+        if (secondaryTitle && sizeClass !== "ct-node-root") {
+          content.appendChild(makeNode("span", "ct-node-title-full", secondaryTitle));
+        }
 
         var summaryText = getNodeSummary(node);
         if (summaryText && shouldShowNodeSummary(node, sizeClass)) {
@@ -8542,6 +8584,369 @@
     }
   }
 
+  function initUapWorldMap() {
+    var root = document.querySelector('[data-uap-world-map]');
+    if (!root || root.__uapWorldMapInitialized) {
+      return;
+    }
+    root.__uapWorldMapInitialized = true;
+    var canvas = root.querySelector('[data-uap-world-map-canvas]');
+    var preview = root.querySelector('[data-uap-world-map-preview]');
+    var mapSrc = root.getAttribute('data-map-src');
+    var dataSrc = root.getAttribute('data-map-data-src');
+    if (!canvas || !mapSrc || !dataSrc) {
+      return;
+    }
+    var loadText = function(url) {
+      if (typeof fetch === 'function') {
+        return fetch(url, { credentials: 'same-origin' }).then(function(res) {
+          if (!res.ok) {
+            throw new Error('Failed to load ' + url);
+          }
+          return res.text();
+        });
+      }
+      return new Promise(function(resolve, reject) {
+        var xhr = new XMLHttpRequest();
+        xhr.open('GET', url, true);
+        xhr.onload = function() {
+          if (xhr.status >= 200 && xhr.status < 300) {
+            resolve(xhr.responseText);
+          } else {
+            reject(new Error('Failed to load ' + url));
+          }
+        };
+        xhr.onerror = function() { reject(new Error('Failed to load ' + url)); };
+        xhr.send();
+      });
+    };
+
+    var siteAssetBase = (function() {
+      var source = String(mapSrc || dataSrc || '').trim();
+      try {
+        var sourceUrl = new URL(source || '.', document.baseURI);
+        var path = sourceUrl.pathname || '';
+        var marker = path.indexOf('/assets/');
+        if (marker !== -1) {
+          sourceUrl.pathname = path.slice(0, marker + 1);
+          sourceUrl.search = '';
+          sourceUrl.hash = '';
+          return sourceUrl.href;
+        }
+      } catch (err) {
+        return document.baseURI;
+      }
+      return document.baseURI;
+    })();
+
+    var resolveSiteAssetUrl = function(url) {
+      var value = String(url || '').trim();
+      if (!value) {
+        return '';
+      }
+      if (/^(?:[a-z][a-z0-9+.-]*:|\/\/)/i.test(value)) {
+        return value;
+      }
+      try {
+        return new URL(value.replace(/^\/+/, ''), siteAssetBase).href;
+      } catch (err) {
+        return value;
+      }
+    };
+
+    var inlineDataNode = root.querySelector('[data-uap-world-map-data]');
+    var inlineSvg = canvas.querySelector('svg');
+    var countryAliases = {
+      UK: 'GB',
+      EL: 'GR'
+    };
+    var timezoneCountryRules = [
+      [/^Europe\/London$/i, 'GB'],
+      [/^Europe\/Dublin$/i, 'IE'],
+      [/^America\/(New_York|Detroit|Kentucky|Indiana|Chicago|North_Dakota|Denver|Boise|Phoenix|Los_Angeles|Anchorage|Adak|Honolulu)$/i, 'US'],
+      [/^America\/(Toronto|Vancouver|Edmonton|Winnipeg|Regina|Halifax|St_Johns|Moncton|Whitehorse|Yellowknife|Iqaluit)$/i, 'CA'],
+      [/^Australia\//i, 'AU'],
+      [/^Pacific\/(Auckland|Chatham)$/i, 'NZ'],
+      [/^Europe\/Paris$/i, 'FR'],
+      [/^Europe\/Berlin$/i, 'DE'],
+      [/^Europe\/Madrid$/i, 'ES'],
+      [/^Europe\/Rome$/i, 'IT'],
+      [/^Europe\/Amsterdam$/i, 'NL'],
+      [/^Europe\/Brussels$/i, 'BE'],
+      [/^Europe\/Zurich$/i, 'CH'],
+      [/^Europe\/Stockholm$/i, 'SE'],
+      [/^Europe\/Oslo$/i, 'NO'],
+      [/^Europe\/Copenhagen$/i, 'DK'],
+      [/^Europe\/Helsinki$/i, 'FI'],
+      [/^Europe\/Warsaw$/i, 'PL'],
+      [/^Europe\/Prague$/i, 'CZ'],
+      [/^Europe\/Vienna$/i, 'AT'],
+      [/^Europe\/Lisbon$/i, 'PT'],
+      [/^America\/Mexico_City$/i, 'MX'],
+      [/^America\/Sao_Paulo$/i, 'BR'],
+      [/^America\/Buenos_Aires$/i, 'AR'],
+      [/^America\/Santiago$/i, 'CL'],
+      [/^Asia\/(Tokyo)$/i, 'JP'],
+      [/^Asia\/(Seoul)$/i, 'KR'],
+      [/^Asia\/(Shanghai|Hong_Kong)$/i, 'CN'],
+      [/^Asia\/(Kolkata|Calcutta)$/i, 'IN'],
+      [/^Asia\/Singapore$/i, 'SG'],
+      [/^Asia\/Dubai$/i, 'AE'],
+      [/^Africa\/Johannesburg$/i, 'ZA'],
+      [/^Africa\/Lagos$/i, 'NG']
+    ];
+    var normaliseCountryIso = function(value) {
+      var iso = String(value || '').trim().toUpperCase().replace(/[^A-Z]/g, '');
+      if (countryAliases[iso]) {
+        iso = countryAliases[iso];
+      }
+      return iso.length === 2 ? iso : '';
+    };
+    var inferCountryFromTimezone = function(availableCountries) {
+      var timezone = '';
+      try {
+        timezone = String(Intl.DateTimeFormat().resolvedOptions().timeZone || '');
+      } catch (err) {}
+      if (!timezone) {
+        return '';
+      }
+      for (var i = 0; i < timezoneCountryRules.length; i += 1) {
+        var rule = timezoneCountryRules[i];
+        if (rule[0].test(timezone) && availableCountries[rule[1]]) {
+          return rule[1];
+        }
+      }
+      return '';
+    };
+    var inferCountryFromLocale = function(availableCountries) {
+      var languages = [];
+      try {
+        if (navigator.languages && navigator.languages.length) {
+          languages = Array.prototype.slice.call(navigator.languages);
+        } else if (navigator.language) {
+          languages = [navigator.language];
+        }
+      } catch (err) {}
+      for (var i = 0; i < languages.length; i += 1) {
+        var parts = String(languages[i] || '').replace(/_/g, '-').split('-');
+        if (parts.length < 2) {
+          continue;
+        }
+        var iso = normaliseCountryIso(parts[parts.length - 1]);
+        if (iso && availableCountries[iso]) {
+          return iso;
+        }
+      }
+      return '';
+    };
+    var guessVisitorCountryIso = function(availableCountries) {
+      return inferCountryFromTimezone(availableCountries) || inferCountryFromLocale(availableCountries) || '';
+    };
+    var dataPromise = inlineDataNode && inlineSvg
+      ? Promise.resolve([null, JSON.parse(inlineDataNode.textContent || '{}'), true])
+      : Promise.all([
+        loadText(mapSrc),
+        loadText(dataSrc).then(function(text) { return JSON.parse(text); }),
+        Promise.resolve(false)
+      ]);
+
+    dataPromise.then(function(results) {
+      var svgText = results[0];
+      var mapData = results[1] || {};
+      var isInline = !!results[2];
+      var byIso = {};
+      (mapData.countries || []).forEach(function(item) {
+        if (item && item.iso) {
+          byIso[String(item.iso).toUpperCase()] = item;
+        }
+      });
+      if (!isInline) {
+        canvas.innerHTML = svgText;
+      }
+      var svg = canvas.querySelector('svg');
+      if (!svg) {
+        return;
+      }
+      svg.setAttribute('role', 'img');
+      svg.setAttribute('aria-label', 'World map of UAP country files');
+      var zoomState = { scale: 1, x: 0, y: 0 };
+      var minZoom = 1;
+      var maxZoom = 6;
+      var applyZoom = function() {
+        svg.style.transform = 'translate(' + zoomState.x + 'px, ' + zoomState.y + 'px) scale(' + zoomState.scale + ')';
+        svg.style.transformOrigin = '0 0';
+        root.setAttribute('data-uap-world-map-zoom', zoomState.scale > 1.01 ? 'zoomed' : 'default');
+      };
+      var clampPan = function() {
+        var rect = canvas.getBoundingClientRect();
+        var width = rect.width || 0;
+        var height = rect.height || 0;
+        var maxX = Math.max(0, width * (zoomState.scale - 1));
+        var maxY = Math.max(0, height * (zoomState.scale - 1));
+        zoomState.x = Math.min(0, Math.max(-maxX, zoomState.x));
+        zoomState.y = Math.min(0, Math.max(-maxY, zoomState.y));
+      };
+      var setZoom = function(nextScale, originX, originY) {
+        var rect = canvas.getBoundingClientRect();
+        var oldScale = zoomState.scale;
+        var scale = Math.max(minZoom, Math.min(maxZoom, nextScale));
+        var localX = typeof originX === 'number' ? originX : rect.width / 2;
+        var localY = typeof originY === 'number' ? originY : rect.height / 2;
+        if (Math.abs(scale - oldScale) < 0.001) {
+          return;
+        }
+        zoomState.x = localX - ((localX - zoomState.x) * scale / oldScale);
+        zoomState.y = localY - ((localY - zoomState.y) * scale / oldScale);
+        zoomState.scale = scale;
+        clampPan();
+        applyZoom();
+      };
+      var resetZoom = function() {
+        zoomState = { scale: 1, x: 0, y: 0 };
+        applyZoom();
+      };
+      var zoomToNode = function(node, nextScale) {
+        var canvasRect = canvas.getBoundingClientRect();
+        var nodeRect = node.getBoundingClientRect();
+        if (!canvasRect.width || !canvasRect.height || !nodeRect.width || !nodeRect.height) {
+          return;
+        }
+        var screenX = nodeRect.left - canvasRect.left + nodeRect.width / 2;
+        var screenY = nodeRect.top - canvasRect.top + nodeRect.height / 2;
+        var worldX = (screenX - zoomState.x) / zoomState.scale;
+        var worldY = (screenY - zoomState.y) / zoomState.scale;
+        zoomState.scale = Math.max(minZoom, Math.min(maxZoom, nextScale));
+        zoomState.x = canvasRect.width / 2 - worldX * zoomState.scale;
+        zoomState.y = canvasRect.height / 2 - worldY * zoomState.scale;
+        clampPan();
+        applyZoom();
+      };
+      var controls = document.createElement('div');
+      controls.className = 'uap-world-map-controls';
+      controls.setAttribute('aria-label', 'Map zoom controls');
+      controls.setAttribute('role', 'group');
+      var makeZoomButton = function(label, ariaLabel, handler) {
+        var button = document.createElement('button');
+        button.type = 'button';
+        button.className = 'uap-world-map-control';
+        button.textContent = label;
+        button.setAttribute('aria-label', ariaLabel);
+        button.addEventListener('click', function(event) {
+          event.preventDefault();
+          handler();
+        });
+        return button;
+      };
+      controls.appendChild(makeZoomButton('+', 'Zoom in', function() { setZoom(zoomState.scale * 1.35); }));
+      controls.appendChild(makeZoomButton('-', 'Zoom out', function() { setZoom(zoomState.scale / 1.35); }));
+      controls.appendChild(makeZoomButton('Reset', 'Reset map zoom', resetZoom));
+      canvas.appendChild(controls);
+      canvas.addEventListener('wheel', function(event) {
+        event.preventDefault();
+        var rect = canvas.getBoundingClientRect();
+        var factor = event.deltaY < 0 ? 1.18 : 1 / 1.18;
+        setZoom(zoomState.scale * factor, event.clientX - rect.left, event.clientY - rect.top);
+      }, { passive: false });
+      var dragState = null;
+      canvas.addEventListener('pointerdown', function(event) {
+        if (event.target && event.target.closest && event.target.closest('.uap-world-map-controls')) {
+          return;
+        }
+        if (zoomState.scale <= 1.01) {
+          return;
+        }
+        dragState = {
+          pointerId: event.pointerId,
+          startX: event.clientX,
+          startY: event.clientY,
+          originX: zoomState.x,
+          originY: zoomState.y
+        };
+        canvas.setPointerCapture(event.pointerId);
+        canvas.classList.add('is-panning');
+      });
+      canvas.addEventListener('pointermove', function(event) {
+        if (!dragState || dragState.pointerId !== event.pointerId) {
+          return;
+        }
+        zoomState.x = dragState.originX + event.clientX - dragState.startX;
+        zoomState.y = dragState.originY + event.clientY - dragState.startY;
+        clampPan();
+        applyZoom();
+      });
+      var endPan = function(event) {
+        if (!dragState || dragState.pointerId !== event.pointerId) {
+          return;
+        }
+        dragState = null;
+        canvas.classList.remove('is-panning');
+      };
+      canvas.addEventListener('pointerup', endPan);
+      canvas.addEventListener('pointercancel', endPan);
+      applyZoom();
+      var active = null;
+      var updatePreview = function(item) {
+        if (!item || !preview) {
+          return;
+        }
+        var imageUrl = resolveSiteAssetUrl(item.image);
+        var imageHtml = imageUrl ? '<img src="' + escapeHtml(imageUrl) + '" alt="" loading="eager" decoding="async" fetchpriority="high">' : '';
+        preview.innerHTML = imageHtml + '<span class="uap-world-map-preview-kicker">' + escapeHtml(item.country || item.mapName || 'Country file') + '</span><strong data-uap-world-map-preview-title>' + escapeHtml(item.title || item.label || item.country || 'Country file') + '</strong><span data-uap-world-map-preview-summary>' + escapeHtml(item.summary || 'Open this country file from the map.') + '</span>';
+      };
+      var clearActive = function() {
+        if (active) {
+          active.classList.remove('is-hovered');
+          active = null;
+        }
+      };
+      var focusCountry = function(node, item, options) {
+        clearActive();
+        active = node;
+        node.classList.add('is-hovered');
+        updatePreview(item);
+        if (options && options.zoom) {
+          zoomToNode(node, options.scale || 2.7);
+        }
+      };
+      var guessedIso = guessVisitorCountryIso(byIso);
+      var guessedNode = null;
+      Object.keys(byIso).forEach(function(iso) {
+        var node = svg.getElementById ? svg.getElementById(iso) : svg.querySelector('#' + iso);
+        var item = byIso[iso];
+        if (!node || !item) {
+          return;
+        }
+        if (iso === guessedIso) {
+          guessedNode = node;
+        }
+        node.classList.add('is-linked');
+        node.setAttribute('data-uap-country', iso);
+        node.setAttribute('tabindex', '0');
+        node.setAttribute('role', 'link');
+        node.setAttribute('aria-label', 'Open ' + (item.country || item.mapName) + ' UAP file');
+        node.addEventListener('mouseenter', function() { focusCountry(node, item); });
+        node.addEventListener('focus', function() { focusCountry(node, item); });
+        node.addEventListener('mouseleave', clearActive);
+        node.addEventListener('click', function() { if (item.url) { window.location.href = resolveSiteAssetUrl(item.url); } });
+        node.addEventListener('keydown', function(event) {
+          if ((event.key === 'Enter' || event.key === ' ') && item.url) {
+            event.preventDefault();
+            window.location.href = resolveSiteAssetUrl(item.url);
+          }
+        });
+      });
+      if (guessedIso && guessedNode) {
+        window.setTimeout(function() {
+          if (!active) {
+            focusCountry(guessedNode, byIso[guessedIso], { zoom: true });
+          }
+        }, 160);
+      }
+    }).catch(function() {
+      canvas.textContent = 'World map unavailable.';
+    });
+  }
+
   function init() {
     initContentPageScrollReset();
     initScrollAnimations();
@@ -8561,6 +8966,7 @@
     initHomeResponsiveDisclosures();
     initHomeModeSwitcher();
     initHomeVerticalView();
+    initUapWorldMap();
     initHomeFilter();
     initHomeCardNavigation();
     initHierarchyGraphs();
