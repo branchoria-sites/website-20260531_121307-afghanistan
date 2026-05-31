@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Branchoria
+title: UAP World Files
 permalink: /
 home: true
 homepage_audience_mode: production
@@ -167,10 +167,10 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 header:
-  og_image: /assets/images/Greece_4902a4-overview-social.jpg
-  preview_image: /assets/images/Greece_4902a4-overview-social.jpg
-image: /assets/images/Greece_4902a4-overview-social.jpg
-site_image_description: A night view of a remote Afghan airfield with mountains behind it, a surveillance aircraft on the runway, and small bright lights...
+  og_image: /assets/images/uap-world-files-site.png
+  preview_image: /assets/images/uap-world-files-site.png
+image: /assets/images/uap-world-files-site.png
+site_image_description: A night sky over a world map desk with case folders, aircraft silhouettes, and archival photographs spread out.
 ---
 
 <section class="home-adaptive-home home-adaptive-home--indexed-hierarchy" data-home-archetype="indexed-hierarchy" data-home-level-1-count="193" data-home-level-1-tier="overflow" data-home-top-child-tier="balanced" data-home-max-breadth="772" data-home-max-depth="1">

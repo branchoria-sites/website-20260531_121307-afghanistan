@@ -1,9 +1,9 @@
-title: 'Afghanistan UAP'
-short_title: 'Afghanistan UAP'
+title: 'UAP World Files'
+short_title: 'UAP World Files'
 brand_name: 'Branchoria'
 brand_domain: 'branchoria.com'
-description: 'Practical guides on Afghanistan UAP, organized for fast browsing and comparison.'
-tagline: 'A cautious look at Afghan UFO claims, military sensors, and contested videos.'
+description: 'Country-by-country UFO and UAP case files, records, explanations, and evidence checks.'
+tagline: 'Country-by-country UFO cases, records, explanations, and evidence checks.'
 encoding: utf-8
 lang: 'en'
 locale: 'en'
@@ -29,7 +29,7 @@ endnotes_collapse_threshold: 4
 endnotes_initial_visible: 3
 endnotes_show_accessed: false
 baseurl: ""
-url: "https://afghanistan-uap.branchoria.com"
+url: "https://uap-world-files.branchoria.com"
 ui_priority: 'home-first'
 homepage_audience_mode: 'production'
 homepage_copy_policy: 'polished'
