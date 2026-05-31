@@ -15325,7 +15325,11 @@ a.fr-book-fit:focus-visible {
 }
 
 .uap-world-root-card .uap-world-root-heading {
-  display: none;
+  display: none !important;
+}
+
+.uap-world-root-card .uap-world-root-heading * {
+  display: none !important;
 }
 
 .uap-world-root-card > .ct-node-badge,
