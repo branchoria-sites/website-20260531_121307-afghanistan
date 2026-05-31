@@ -1,0 +1,591 @@
+---
+level: 2
+basename: North_Macedonia_cece1d_likely_sky_causes_b6869f
+parent_basename: North_Macedonia_cece1d
+child_basenames: []
+sibling_basenames:
+- North_Macedonia_cece1d_evidence_quality_ef04cc
+- North_Macedonia_cece1d_official_airspace_re_44caa1
+- North_Macedonia_cece1d_skopje_sightings_88af74
+tags:
+- north-macedonia
+- likely-causes
+keywords:
+- north-macedonia
+- likely-causes
+affiliate_category: north-macedonia
+show_ads: true
+description: Many dramatic lights over North Macedonia can be tested against meteors, Starlink passes, drones, aircraft, and atmospheric effects.
+hero_summary: Many dramatic lights over North Macedonia can be tested against meteors, Starlink passes, drones, aircraft, and atmospheric effects.
+layout: default
+permalink: /likely-causes-30bbea/
+sidebar_expanded_urls:
+- /what-is-really-in-north-macedonias-ufo/
+nav_short_title: Likely Causes
+title: What Ordinary Sky Events Look Like UFOs?
+title_full: What Ordinary Sky Events Look Like UFOs? | North Macedonia UFOs
+display_title_short: Likely Causes
+display_title: Likely Causes
+heading_title: What Ordinary Sky Events Look Like UFOs?
+page_heading_title: What Ordinary Sky Events Look Like UFOs?
+source_count: 46
+infographic_count: 3
+planned_sections:
+- Fireballs and the Lake Ohrid meteor example
+- Starlink trains and satellite tracking
+- Drones aircraft and misleading light angles
+focal_unit_type: mechanism
+topic_lens: mechanism
+topic_granularity: theme_cluster
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+parent_title: North Macedonia UFOs
+parent_permalink: /what-is-really-in-north-macedonias-ufo/
+parent_nav_short_title: North Macedonia UFOs
+parent_heading_title: What Is Really in North Macedonia's UFO Record?
+ancestor_links:
+- basename: North_Macedonia_cece1d
+  title: North Macedonia UFOs
+  permalink: /what-is-really-in-north-macedonias-ufo/
+  short_title: North Macedonia UFOs
+breadcrumb_links:
+- basename: North_Macedonia_cece1d
+  title: North Macedonia UFOs
+  permalink: /what-is-really-in-north-macedonias-ufo/
+  short_title: North Macedonia UFOs
+sibling_links:
+- basename: North_Macedonia_cece1d_evidence_quality_ef04cc
+  title: Evidence Test | What Is Really in North Macedonia's UFO Record?
+  permalink: /evidence-test-00758b/
+  short_title: Evidence Test
+  heading_title: Which UFO Reports Are Worth Taking Seriously?
+- basename: North_Macedonia_cece1d_official_airspace_re_44caa1
+  title: Official Files | What Is Really in North Macedonia's UFO Record?
+  permalink: /official-files-8ffb40/
+  short_title: Official Files
+  heading_title: Are There Official UFO Files to Check?
+- basename: North_Macedonia_cece1d_skopje_sightings_88af74
+  title: Skopje Cases | What Is Really in North Macedonia's UFO Record?
+  permalink: /skopje-cases/
+  short_title: Skopje Cases
+  heading_title: Why Do Skopje UFO Reports Stand Out?
+up_link:
+  basename: North_Macedonia_cece1d
+  title: North Macedonia UFOs
+  permalink: /what-is-really-in-north-macedonias-ufo/
+  short_title: North Macedonia UFOs
+prev_link:
+  basename: North_Macedonia_cece1d_evidence_quality_ef04cc
+  title: Evidence Test | What Is Really in North Macedonia's UFO Record?
+  permalink: /evidence-test-00758b/
+  short_title: Evidence Test
+  heading_title: Which UFO Reports Are Worth Taking Seriously?
+next_link:
+  basename: North_Macedonia_cece1d_official_airspace_re_44caa1
+  title: Official Files | What Is Really in North Macedonia's UFO Record?
+  permalink: /official-files-8ffb40/
+  short_title: Official Files
+  heading_title: Are There Official UFO Files to Check?
+date: '2026-05-31 04:26:18 '
+header:
+  og_image: /assets/images/North_Macedonia_cece1d_likely_sky_causes_b6869f-Illustration-1-social.jpg
+  preview_image: /assets/images/North_Macedonia_cece1d_likely_sky_causes_b6869f-Illustration-1.webp
+image: /assets/images/North_Macedonia_cece1d_likely_sky_causes_b6869f-Illustration-1-social.jpg
+---
+
+## Introduction
+
+Many reports of strange lights over [North Macedonia]({{ 'what-is-really-in-north-macedonias-ufo/' | relative_url }}) become far less mysterious once the most common sky phenomena are considered first. In a country where publicly documented UFO cases are relatively sparse, meteors, satellites, aircraft and drones account for a large share of sightings that initially appear extraordinary. The key question is usually not whether a light was unidentified at first glance, but whether enough information exists to compare it with known astronomical, aviation and technological activity.
+
+
+<img src="{{ "/assets/images/North_Macedonia_cece1d_likely_sky_causes_b6869f-Illustration-1-light.svg" | relative_url }}" alt="Likely Causes illustration 1" data-theme-src-dark="{{ "/assets/images/North_Macedonia_cece1d_likely_sky_causes_b6869f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Macedonia_cece1d_likely_sky_causes_b6869f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+This matters because some of the most dramatic-looking events seen from Skopje, Ohrid and other parts of the country have characteristics that closely match well-understood phenomena: brilliant fireballs crossing the atmosphere, strings of Starlink satellites moving in formation, distant aircraft viewed at unusual angles, or drones whose lights create misleading impressions at night. Understanding these mechanisms helps separate genuinely unexplained reports from events that only appear unusual from the ground.
+
+## Fireballs and the Lake Ohrid Meteor Example
+
+One of the clearest examples of a spectacular but ordinary sky event occurred above Lake Ohrid during the Perseid meteor shower. In August 2024, a bright fireball was recorded by multiple cameras in the Ohrid region, producing exactly the sort of dramatic visual display that often generates UFO speculation. The object appeared as a brilliant streak crossing the sky before disappearing, behaviour entirely consistent with a large meteor entering Earth's atmosphere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/perseid-meteor-shower-fireball-macedonia-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">A webcam system installed throughout the Lake Ohrid region captured the dramatic</span><span class="citation-popover-snippet">SpaceWatch a Perseid fireball light up the skies above...Aug 13, 2024 — A dazzling Perseid fireball streaked across Macedonian skies abo...</span></span></span>
+
+For observers unfamiliar with meteor behaviour, fireballs can appear remarkably strange:
+
+
+<div class="content-enhancement content-enhancement--example" markdown="1">
+
+* They may glow green, blue, orange or white.
+* They can brighten suddenly and then fragment.
+* They often seem lower and closer than they really are.
+* Their brief duration makes size and distance difficult to judge.
+
+</div>
+
+Meteor organisations maintain extensive databases of fireball reports because these events are common enough to be expected but rare enough to attract attention. Large fireballs are routinely observed across Europe, including the Balkans, and can be visible over hundreds of kilometres. American Meteor Society <span class="citation-chip-wrap"><a class="citation-chip" href="https://fireball.imo.net/members/imo_view/browse_reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fireball.imo.net">[Fireball.imo.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fireball.imo.net</span><span class="citation-popover-title">browse reports</span><span class="citation-popover-snippet">Fireball reportsReports found: 4792 in the last 30 days Page 1 / 96; Event 2625-2026; 2625a, 2026-04-04 01:10 UT, 2026-04-04 03:10 CEST...</span><span class="citation-popover-meta">Published: April 4, 2026</span></span></span>
+
+In North Macedonia, especially around Lake Ohrid's dark skies and mountain surroundings, bright meteors are particularly noticeable. A witness seeing a luminous object streaking silently across the night sky for several seconds could easily conclude that it was something unconventional when, in reality, it was a natural atmospheric event.
+
+## Why Meteors Are Frequently Reported as UFOs
+
+Several characteristics make meteors one of the leading explanations for dramatic UFO reports.
+
+First, they are unexpected. Most people spend little time watching the night sky, so when a fireball suddenly appears, there is no obvious frame of reference. NASA notes that especially bright meteors, known as fireballs, are common enough to produce seasonal spikes in reports, particularly during periods of increased meteor activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">It&#x27;s Fireball Season!</span><span class="citation-popover-snippet">Answering Your Meteor QuestionsMar 26, 2026 — Some astronomers think the Earth passes through more large debris at this time of year, cau...</span></span></span>
+
+Second, perspective is deceptive. A meteor burning tens of kilometres above the Earth can appear to hover over a nearby hill or city district. Witnesses frequently underestimate altitude and overestimate size.
+
+Third, colour is often misunderstood. Green fireballs in particular have repeatedly triggered UFO speculation worldwide despite having well-known physical explanations involving atmospheric heating and the composition of the incoming object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2023/07/18/green-fireball-caught-on-ring-camera-sparks-ufo-theories/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">New York PostGreen fireball caught on Ring camera sparks UFO theories18 Jul 2023 — Green fireball caught on Ring camera sparks UFO panic...</span></span></span>
+
+When reviewing reports from North Macedonia, especially those involving a single bright object crossing the sky quickly, meteor activity should be among the first explanations checked.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Zc3FiAOEFcU" title="Are These Strange Lights UFOs or Drones?! | The Proof is Out There (Season 3) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Zc3FiAOEFcU" target="_blank" rel="noopener noreferrer">Are These Strange Lights UFOs or Drones?! | The Proof is Out There (Season 3) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 84.3K &middot; Uploaded: July 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Zc3FiAOEFcU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Zc3FiAOEFcU">Open on YouTube</a></p></div></div></div>
+
+## Starlink Trains and Satellite Tracking
+
+Since 2019, satellite constellations have created an entirely new source of UFO reports across Europe, including the Balkans. The most notable are SpaceX Starlink satellite trains.
+
+A newly launched Starlink group can appear as a line of evenly spaced lights moving silently across the sky. To someone seeing it for the first time, the formation can look highly unusual: dozens of lights travelling together without visible wings, sound or flashing navigation lamps. Space <span class="citation-chip-wrap"><a class="citation-chip" href="https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: starwalk.space">[Star Walk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">starwalk.space</span><span class="citation-popover-snippet">The weird-looking moving lights in the sky may be Starlink satellites, not aliens! A...Read more...</span></span></span>
+
+Typical characteristics include:
+
+* A straight line or "train" formation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</span></span></span>
+* Constant speed.
+* No visible sound.
+* No sudden manoeuvres.
+* Appearance shortly after sunset or before sunrise when satellites remain illuminated by the Sun. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</span></span></span>
+
+Many international UFO reports from recent years have later been identified as Starlink passes. Even databases that collect UFO reports contain entries eventually attributed to satellite trains. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gist.github.com/Yujia-Huo/a16c2c58f1e92a46d9055a14953a6406" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gist.github.com">[Gist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gist.github.com</span><span class="citation-popover-snippet">Gistnuforc_reports.csv · GitHubA line of Oval/ Pill shaped UFO&#x27;s Heading North East from South... Ball of light, turns into Alien aircra...</span></span></span>
+
+For North Macedonia, satellite visibility is particularly relevant because the country's latitude and generally favourable viewing conditions allow routine observation of low-Earth-orbit satellites. Modern satellite-tracking services can often confirm whether a reported sighting coincided with a known pass. A report that once might have remained unexplained can now frequently be matched to a specific satellite trajectory within minutes.
+
+
+<img src="{{ "/assets/images/North_Macedonia_cece1d_likely_sky_causes_b6869f-Illustration-2-light.svg" | relative_url }}" alt="Likely Causes illustration 2" data-theme-src-dark="{{ "/assets/images/North_Macedonia_cece1d_likely_sky_causes_b6869f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Macedonia_cece1d_likely_sky_causes_b6869f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+### Bright Satellite Flares Can Look Extraordinary
+
+Even a single satellite can create confusion.
+
+Researchers have documented cases where sunlight reflecting from Starlink satellites produced unusually bright flares visible from the ground. Under the right conditions, a satellite can suddenly brighten and then fade, creating the impression of an object accelerating, changing shape or appearing and disappearing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2405.13091" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Extreme Flaring of Starlink Satellites</span><span class="citation-popover-snippet">arXivExtreme Flaring of Starlink SatellitesMay 21, 2024...</span><span class="citation-popover-meta">Published: May 21, 2024</span></span></span>
+
+Such reflections are especially important when evaluating reports that describe:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* A stationary light suddenly becoming brilliant.
+* A star-like object that vanishes without moving.
+* A bright point that appears to pulse or flash.
+
+</div>
+
+These effects may seem inconsistent with ordinary satellites, yet they are fully compatible with known orbital behaviour.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1miihYGG3P4" title="Watch this meteor shower over Croatia, Albania and North Macedonia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1miihYGG3P4" target="_blank" rel="noopener noreferrer">Watch this meteor shower over Croatia, Albania and North Macedonia</a></p><p class="youtube-embed-meta">Channel: Reuters &middot; Views: 3.3K &middot; Uploaded: August 2023 &middot; Length: 33 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1miihYGG3P4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1miihYGG3P4">Open on YouTube</a></p></div></div></div>
+
+## Drones, Aircraft and Misleading Viewing Angles
+
+Not every strange light is astronomical. Increasing civilian drone use across Europe has added another layer of complexity to modern sightings. North Macedonia permits drone operations under aviation regulations, meaning recreational and commercial drones are part of the normal airspace environment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://drone-laws.com/drone-laws-in-european-countries-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drone-laws.com">[Drone Laws]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drone-laws.com</span><span class="citation-popover-title">drone laws in european countries 2</span><span class="citation-popover-snippet">Drone LawsDrone Laws in European Countries 202614 Jan 2026 — Drones are allowed in Macedonia, subject to MCAA regulations. Official links...</span></span></span>
+
+At night, drones can be surprisingly deceptive. Small navigation lights viewed against a dark background provide few visual clues about size, speed or distance. A hovering drone several hundred metres away may appear to be a much larger object suspended far higher in the atmosphere.
+
+Aircraft can create similar confusion.
+
+Several factors commonly mislead observers:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* Landing lights can appear stationary for long periods when an aircraft is flying directly toward the observer.
+* Atmospheric haze can distort brightness and colour.
+* Multiple aircraft lights may merge into a single glowing object.
+* Distant aircraft can seem to hover before suddenly moving sideways as their flight path changes relative to the viewer.
+
+</div>
+
+Aviation researchers and investigators repeatedly note that unfamiliarity with normal air traffic patterns contributes significantly to UFO reports. Objects that seem to perform unusual manoeuvres often turn out to be conventional aircraft viewed from an unexpected angle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/space-exploration/search-for-life/planes-drones-or-ufos-what-are-people-seeing-in-the-new-jersey-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">SpacePlanes, drones or UFOs: What are people seeing in the...21 Dec 2024 — Planes, drones or UFOs: What are people seeing in the New Jer...</span></span></span>
+
+In and around Skopje, where commercial aviation traffic is more concentrated than in rural regions, this explanation deserves particular attention. A witness may accurately describe what they saw while still misjudging what produced it.
+
+
+<img src="{{ "/assets/images/North_Macedonia_cece1d_likely_sky_causes_b6869f-Illustration-3-light.svg" | relative_url }}" alt="Likely Causes illustration 3" data-theme-src-dark="{{ "/assets/images/North_Macedonia_cece1d_likely_sky_causes_b6869f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Macedonia_cece1d_likely_sky_causes_b6869f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## A Practical Test for North Macedonia Sightings
+
+When evaluating reports of unusual lights in North Macedonia, the most reliable approach is a process of elimination.
+
+Before considering exotic explanations, investigators can ask:
+
+
+<div class="content-enhancement content-enhancement--step-flow" markdown="1">
+
+1. Was a meteor shower active, or were fireballs reported regionally?
+2. Did a Starlink train or other satellite pass occur at that time?
+3. Were aircraft operating along nearby routes?
+4. Could a drone have been visible from the observation point?
+5. Do photographs or videos contain enough information to estimate direction, duration and movement?
+
+</div>
+
+The more detailed the answers become, the smaller the genuinely unexplained category tends to be.
+
+This does not mean every sighting can be identified with certainty. Some reports lack enough information for a definitive conclusion. However, the strongest lesson from North Macedonia's available record is that many dramatic lights can be matched to ordinary causes once meteor activity, satellites, aircraft and drones are systematically examined. The Lake Ohrid fireball and the growing visibility of Starlink satellites illustrate how easily striking but natural or human-made events can be mistaken for something far more mysterious. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/perseid-meteor-shower-fireball-macedonia-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">A webcam system installed throughout the Lake Ohrid region captured the dramatic</span><span class="citation-popover-snippet">SpaceWatch a Perseid fireball light up the skies above...Aug 13, 2024 — A dazzling Perseid fireball streaked across Macedonian skies abo...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1TPO_ULrHQA" title="Fireball over Europe, 8 March 2026" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1TPO_ULrHQA" target="_blank" rel="noopener noreferrer">Fireball over Europe, 8 March 2026</a></p><p class="youtube-embed-meta">Channel: ESA Extras &middot; Views: 89.9K &middot; Uploaded: March 2026 &middot; Length: 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1TPO_ULrHQA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1TPO_ULrHQA">Open on YouTube</a></p></div></div></div>
+
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to What Ordinary Sky Events Look Like UFOs?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+        </h4>
+        <p class="fr-book-author">By Leslie Kean</p>
+        
+        <p class="fr-book-desc">Contrasts well-documented reports against ordinary aerial misidentifications.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+        </h4>
+        <p class="fr-book-author">By Terence Dickinson</p>
+        
+        <p class="fr-book-desc">Explains visible night-sky phenomena often mistaken for UFOs.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practical Astronomer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8cyOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Practical Astronomer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practical Astronomer">The Practical Astronomer</a>
+        </h4>
+        <p class="fr-book-author">By Will Gater</p>
+        
+        <p class="fr-book-desc">Helps identify meteors, satellites, planets, and other commonly misidentified objects.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Showers and their Parent Comets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=14zKCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteor Showers and their Parent Comets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
+        </h4>
+        <p class="fr-book-author">By Peter Jenniskens</p>
+        
+        <p class="fr-book-desc">Relevant to fireballs and meteor events like those discussed on the page.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practical+Astronomer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practical Astronomer</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: space.com  
+   Title: A webcam system installed throughout the Lake Ohrid region captured the dramatic  
+   Link: [https://www.space.com/perseid-meteor-shower-fireball-macedonia-video](https://www.space.com/perseid-meteor-shower-fireball-macedonia-video)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceWatch a Perseid fireball light up the skies above...Aug 13, 2024 — A dazzling Perseid fireball streaked across Macedonian skies abo...</p></details>
+
+2. <a id="endnote-2"></a>
+   Source: fireball.imo.net  
+   Title: browse reports  
+   Link: [https://fireball.imo.net/members/imo_view/browse_reports](https://fireball.imo.net/members/imo_view/browse_reports)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball reportsReports found: 4792 in the last 30 days Page 1 / 96; Event 2625-2026; 2625a, 2026-04-04 01:10 UT, 2026-04-04 03:10 CEST...</p></details>
+   Published: April 4, 2026  
+
+3. <a id="endnote-3"></a>
+   Source: nasa.gov  
+   Title: It's Fireball Season!  
+   Link: [https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/](https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Answering Your Meteor QuestionsMar 26, 2026 — Some astronomers think the Earth passes through more large debris at this time of year, cau...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: space.com  
+   Title: Starlink satellite train: how to see and track it in the night sky  
+   Link: [https://www.space.com/starlink-satellite-train-how-to-see-and-track-it](https://www.space.com/starlink-satellite-train-how-to-see-and-track-it)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: arxiv.org  
+   Title: arXiv Extreme Flaring of Starlink Satellites  
+   Link: [https://arxiv.org/abs/2405.13091](https://arxiv.org/abs/2405.13091)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivExtreme Flaring of Starlink SatellitesMay 21, 2024...</p></details>
+   Published: May 21, 2024  
+
+6. <a id="endnote-6"></a>
+   Source: drone-laws.com  
+   Title: drone laws in european countries 2  
+   Link: [https://drone-laws.com/drone-laws-in-european-countries-2/](https://drone-laws.com/drone-laws-in-european-countries-2/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone LawsDrone Laws in European Countries 202614 Jan 2026 — Drones are allowed in Macedonia, subject to MCAA regulations. Official links...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: space.com  
+   Link: [https://www.space.com/space-exploration/search-for-life/planes-drones-or-ufos-what-are-people-seeing-in-the-new-jersey-sky](https://www.space.com/space-exploration/search-for-life/planes-drones-or-ufos-what-are-people-seeing-in-the-new-jersey-sky)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpacePlanes, drones or UFOs: What are people seeing in the...21 Dec 2024 — Planes, drones or UFOs: What are people seeing in the New Jer...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: imo.net  
+   Title: meteor activity outlook for 4 10 april 2026  
+   Link: [https://www.imo.net/meteor-activity-outlook-for-4-10-april-2026/](https://www.imo.net/meteor-activity-outlook-for-4-10-april-2026/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteor Activity Outlook for 4-10 April 20265 days ago — Evening observers this weekend can expect total hourly rates of 2 from mid-northe...</p></details>
+   Published: april 2026  
+
+9. <a id="endnote-9"></a>
+   Source: nypost.com  
+   Link: [https://nypost.com/2023/07/18/green-fireball-caught-on-ring-camera-sparks-ufo-theories/](https://nypost.com/2023/07/18/green-fireball-caught-on-ring-camera-sparks-ufo-theories/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>New York PostGreen fireball caught on Ring camera sparks UFO theories18 Jul 2023 — Green fireball caught on Ring camera sparks UFO panic...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: starwalk.space  
+   Link: [https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide](https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The weird-looking moving lights in the sky may be Starlink satellites, not aliens! A...Read more...</p></details>
+
+### Additional References
+
+11. <a id="endnote-11"></a>
+   Source: gist.github.com  
+   Link: [https://gist.github.com/Yujia-Huo/a16c2c58f1e92a46d9055a14953a6406](https://gist.github.com/Yujia-Huo/a16c2c58f1e92a46d9055a14953a6406)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gistnuforc_reports.csv · GitHubA line of Oval/ Pill shaped UFO&#x27;s Heading North East from South... Ball of light, turns into Alien aircra...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/southafricans/posts/update-last-nights-late-night-video-was-starlink-we-have-asked-them-why-they-wer/606401988717508/](https://www.facebook.com/southafricans/posts/update-last-nights-late-night-video-was-starlink-we-have-asked-them-why-they-wer/606401988717508/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: Last night&#x27;s late-night video was Starlink. We have...It is a Starlink Satellite: “The mysterious rows of lights in the night sk...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/ForgottenLanguages/comments/1ep7ymg/understanding/](https://www.reddit.com/r/ForgottenLanguages/comments/1ep7ymg/understanding/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding: r/ForgottenLanguagesWhat you see from the ground is just a typical UFO sighting of MilOrbs being released from a triangul...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: theguardian.com  
+   Link: [https://www.theguardian.com/news/ng-interactive/2025/oct/05/a-collective-anxiety-attack-the-psychology-of-unexplained-drone-sightings-across-europe](https://www.theguardian.com/news/ng-interactive/2025/oct/05/a-collective-anxiety-attack-the-psychology-of-unexplained-drone-sightings-across-europe)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;A collective anxiety attack&#x27;: the psychology of unexplained...5 Oct 2025 — Incursions have so far caused few physical effects but exper...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: pickensprogress.com  
+   Link: [https://pickensprogress.com/unusual-string-of-lights-dots-night-sky-was-starlink-satellite-train-seen-over-pickens/](https://pickensprogress.com/unusual-string-of-lights-dots-night-sky-was-starlink-satellite-train-seen-over-pickens/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unusual string of lights dots night sky: Was Starlink satellite...16 Apr 2025 — An unusual “train” of lights was spotted near the Picken...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/shorts/nvlTbCMsd0Q](https://www.youtube.com/shorts/nvlTbCMsd0Q)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Green fireball ignites UFO frenzy over MoscowStunned drivers in Moscow captured a glowing green fireball streaking through the early morn...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/LovinMalta/posts/several-locals-were-left-scratching-their-heads-early-this-morning-after-strange/1239691968199319/](https://www.facebook.com/LovinMalta/posts/several-locals-were-left-scratching-their-heads-early-this-morning-after-strange/1239691968199319/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>strange UFO/ very large drone. Has any... No, they&#x27;re not aliens — SpaceX&#x27;s Starlink satellites surprise British...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: orbitaltoday.com  
+   Title: The cause points to slow-moving asteroidal objects from a specific sky  
+   Link: [https://orbitaltoday.com/2026/04/02/two-rare-meteorites-in-nine-days-what-the-2026-fireball-data-actually-shows/](https://orbitaltoday.com/2026/04/02/two-rare-meteorites-in-nine-days-what-the-2026-fireball-data-actually-shows/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Two Rare Meteorites in Nine Days: What the 2026 Fireball...Apr 2, 2026 — Large fireball activity has doubled in Q1 2026, AMS data shows...</p></details>
+
+19. <a id="endnote-19"></a>
+   Source: instagram.com  
+   Title: My clearest sighting of a Starlink satellite "train" from orbit!  
+   Link: [https://www.instagram.com/reel/DPhlge7jsq_/](https://www.instagram.com/reel/DPhlge7jsq_/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange lights near the horizon! Reports of strange lights aren&#x27;t uncommon and lately they have been getting more frequent. The cause...</p></details>
+
+20. <a id="endnote-20"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/VisitMacedonia1/posts/tuesday-august-13-2019-several-bright-perseid-meteor-dash-across-the-sky-near-a-/1669064763224010/](https://www.facebook.com/VisitMacedonia1/posts/tuesday-august-13-2019-several-bright-perseid-meteor-dash-across-the-sky-near-a-/1669064763224010/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>2y... A man points his light at the Milky Way during the peak of the Perseid meteor...Read more...</p></details>

@@ -1,0 +1,551 @@
+---
+level: 2
+basename: Namibia_bfe79d_omusati_space_ball_b9be81
+parent_basename: Namibia_bfe79d
+child_basenames: []
+sibling_basenames:
+- Namibia_bfe79d_coastal_fireballs_9e6e2d
+- Namibia_bfe79d_dark_skies_misreads_415926
+- Namibia_bfe79d_ufo_chronology_e3bb30
+tags:
+- namibia
+- space-ball
+keywords:
+- namibia
+- space-ball
+affiliate_category: namibia
+show_ads: true
+description: Namibia's most physical UFO-adjacent case looks less like alien hardware and more like human-made debris from orbit.
+hero_summary: Namibia's most physical UFO-adjacent case looks less like alien hardware and more like human-made debris from orbit.
+layout: default
+permalink: /space-ball/
+sidebar_expanded_urls:
+- /what-is-really-behind-namibias-ufo/
+nav_short_title: Space Ball
+title: Was Namibia's Space Ball Really From Space?
+title_full: Was Namibia's Space Ball Really From Space? | Namibia UFOs
+display_title_short: Space Ball
+display_title: Space Ball
+heading_title: Was Namibia's Space Ball Really From Space?
+page_heading_title: Was Namibia's Space Ball Really From Space?
+source_count: 22
+infographic_count: 3
+planned_sections:
+- What was found near Onamatunga
+- Why officials suspected space debris
+- How physical evidence changes UFO claims
+focal_unit_type: event_time_window
+topic_lens: evidence
+topic_granularity: pillar
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+parent_title: Namibia UFOs
+parent_permalink: /what-is-really-behind-namibias-ufo/
+parent_nav_short_title: Namibia UFOs
+parent_heading_title: What Is Really Behind Namibia's UFO Stories?
+ancestor_links:
+- basename: Namibia_bfe79d
+  title: Namibia UFOs
+  permalink: /what-is-really-behind-namibias-ufo/
+  short_title: Namibia UFOs
+breadcrumb_links:
+- basename: Namibia_bfe79d
+  title: Namibia UFOs
+  permalink: /what-is-really-behind-namibias-ufo/
+  short_title: Namibia UFOs
+sibling_links:
+- basename: Namibia_bfe79d_coastal_fireballs_9e6e2d
+  title: Coastal Lights | What Is Really Behind Namibia's UFO Stories?
+  permalink: /coastal-lights/
+  short_title: Coastal Lights
+  heading_title: Why Namibia's Coast Produces Strange Lights
+- basename: Namibia_bfe79d_dark_skies_misreads_415926
+  title: Dark Skies | What Is Really Behind Namibia's UFO Stories?
+  permalink: /dark-skies/
+  short_title: Dark Skies
+  heading_title: When Dark Skies Make UFOs More Convincing
+- basename: Namibia_bfe79d_ufo_chronology_e3bb30
+  title: Timeline | What Is Really Behind Namibia's UFO Stories?
+  permalink: /timeline-be32cb/
+  short_title: Timeline
+  heading_title: Which Namibia UFO Cases Hold Up Best?
+up_link:
+  basename: Namibia_bfe79d
+  title: Namibia UFOs
+  permalink: /what-is-really-behind-namibias-ufo/
+  short_title: Namibia UFOs
+prev_link:
+  basename: Namibia_bfe79d_dark_skies_misreads_415926
+  title: Dark Skies | What Is Really Behind Namibia's UFO Stories?
+  permalink: /dark-skies/
+  short_title: Dark Skies
+  heading_title: When Dark Skies Make UFOs More Convincing
+next_link:
+  basename: Namibia_bfe79d_ufo_chronology_e3bb30
+  title: Timeline | What Is Really Behind Namibia's UFO Stories?
+  permalink: /timeline-be32cb/
+  short_title: Timeline
+  heading_title: Which Namibia UFO Cases Hold Up Best?
+date: '2026-05-31 04:35:41 '
+header:
+  og_image: /assets/images/Namibia_bfe79d_omusati_space_ball_b9be81-Illustration-1-social.jpg
+  preview_image: /assets/images/Namibia_bfe79d_omusati_space_ball_b9be81-Illustration-1.webp
+image: /assets/images/Namibia_bfe79d_omusati_space_ball_b9be81-Illustration-1-social.jpg
+---
+
+## Introduction
+
+The Omusati “space ball” is the strongest piece of physical UFO-related evidence ever recovered in [Namibia]({{ 'what-is-really-behind-namibias-ufo/' | relative_url }}), yet it ultimately became one of the clearest examples of a mysterious object being explained through ordinary aerospace technology rather than extraterrestrial activity. Found near Onamatunga village in the Omusati Region in late 2011, the metal sphere initially attracted international attention because it appeared to have fallen from the sky, created an impact site, and could not immediately be identified. For a short period, its origin was genuinely unknown.
+
+
+<img src="{{ "/assets/images/Namibia_bfe79d_omusati_space_ball_b9be81-Illustration-1-light.svg" | relative_url }}" alt="Space Ball illustration 1" data-theme-src-dark="{{ "/assets/images/Namibia_bfe79d_omusati_space_ball_b9be81-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Namibia_bfe79d_omusati_space_ball_b9be81-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+What makes the case important is not that it remained unexplained, but that investigators had an actual object to examine. Unlike many UFO reports that rely solely on eyewitness testimony, the Omusati incident produced measurable evidence: a recovered sphere, an impact location, witness accounts, and forensic examination. As more information emerged, the balance of evidence shifted strongly towards a space-debris explanation rather than any extraordinary interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.namibian.com.na/metal-ball-from-space-falls-in-omusati-region/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: namibian.com.na">[The Namibian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">namibian.com.na</span><span class="citation-popover-snippet">The NamibianMetal ball from space falls in Omusati RegionAn as-yet-unidentified metallic ball was discovered in the Omusati Region last m...</span></span></span>
+
+## What Was Found Near Onamatunga?
+
+In December 2011, Namibian authorities confirmed that a metallic sphere had been discovered near Onamatunga in the Omusati Region of northern Namibia. According to reports from the National Forensic Science Institute, the object weighed slightly more than six kilograms and had a circumference of roughly 1.1 metres. Investigators described it as a hollow metal sphere consisting of two halves welded together. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.namibian.com.na/metal-ball-from-space-falls-in-omusati-region/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: namibian.com.na">[The Namibian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">namibian.com.na</span><span class="citation-popover-snippet">The NamibianMetal ball from space falls in Omusati RegionAn as-yet-unidentified metallic ball was discovered in the Omusati Region last m...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://phys.org/news/2011-12-space-ball-namibia.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phys.org">[Phys.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phys.org</span><span class="citation-popover-title">2011 12 space ball namibia</span><span class="citation-popover-snippet">Space ball&#x27; drops on Namibia22 Dec 2011 — A large metallic ball fell out of the sky on a remote grassland in Namibia, prompting baffled...</span></span></span>
+
+The object was reportedly found after local residents heard loud explosive sounds in the area between 15 and 20 November. A farmer later discovered the sphere and alerted police. Investigators documented an impact site and found the object some distance away from the crater it apparently created when it struck the ground. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.namibian.com.na/metal-ball-from-space-falls-in-omusati-region/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: namibian.com.na">[The Namibian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">namibian.com.na</span><span class="citation-popover-snippet">The NamibianMetal ball from space falls in Omusati RegionAn as-yet-unidentified metallic ball was discovered in the Omusati Region last m...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/14028-namibia-space-ball-orbital-debris.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">14028 namibia space ball orbital debris</span><span class="citation-popover-snippet">SpaceMysterious &#x27;Space Ball&#x27; Crashes in Namibia22 Dec 2011 — A strange metal ball dropped out of the sky and slammed into the remote gras...</span></span></span> Several aspects of the discovery immediately stood out:
+
+* The sphere appeared manufactured rather than natural.
+* Its welded construction suggested industrial engineering.
+* The object survived atmospheric entry and ground impact largely intact.
+* Witnesses reported sounds consistent with a high-speed descent.
+* No associated wreckage field was found nearby. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.namibian.com.na/metal-ball-from-space-falls-in-omusati-region/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: namibian.com.na">[The Namibian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">namibian.com.na</span><span class="citation-popover-snippet">The NamibianMetal ball from space falls in Omusati RegionAn as-yet-unidentified metallic ball was discovered in the Omusati Region last m...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://phys.org/news/2011-12-space-ball-namibia.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phys.org">[Phys.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phys.org</span><span class="citation-popover-title">2011 12 space ball namibia</span><span class="citation-popover-snippet">Space ball&#x27; drops on Namibia22 Dec 2011 — A large metallic ball fell out of the sky on a remote grassland in Namibia, prompting baffled...</span></span></span>
+
+Those facts made the case unusual enough to attract international media coverage and inquiries from space agencies.
+
+## Why Officials Suspected Space Debris
+
+The most important detail in the investigation was that Namibian forensic specialists never treated the sphere as evidence of alien technology.
+
+National Forensic Science Institute director Paul Ludik publicly stated that the object was made from a metal alloy already known to science and industry. While he described the material as sophisticated, he specifically rejected speculation that it was extraterrestrial in origin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.namibian.com.na/metal-ball-from-space-falls-in-omusati-region/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: namibian.com.na">[The Namibian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">namibian.com.na</span><span class="citation-popover-snippet">The NamibianMetal ball from space falls in Omusati RegionAn as-yet-unidentified metallic ball was discovered in the Omusati Region last m...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.christianpost.com/news/mysterious-space-ball-falls-in-namibia.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: christianpost.com">[Christian Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">christianpost.com</span><span class="citation-popover-title">mysterious space ball falls in namibia</span><span class="citation-popover-snippet">22 Dec 2011 — Authorities have been investigating a large metallic sphere that fell out of the sky onto remote grasslands in Namibia in N...</span></span></span>
+
+Several characteristics pointed investigators towards aerospace hardware:
+
+* The sphere was hollow rather than solid.
+* It was engineered with welded hemispheres.
+* Its dimensions matched components used in space systems.
+* Similar spheres had reportedly been recovered elsewhere in the world after re-entry events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/14028-namibia-space-ball-orbital-debris.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">14028 namibia space ball orbital debris</span><span class="citation-popover-snippet">SpaceMysterious &#x27;Space Ball&#x27; Crashes in Namibia22 Dec 2011 — A strange metal ball dropped out of the sky and slammed into the remote gras...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.keranews.org/2011-12-23/cue-the-scary-music-space-ball-crashes-in-namibia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: keranews.org">[News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">keranews.org</span><span class="citation-popover-title">cue the scary music space ball crashes in namibia</span><span class="citation-popover-snippet">KERA NewsCue The Scary Music: &#x27;Space Ball&#x27; Crashes In Namibia23 Dec 2011 — It&#x27;s said to be made of a &quot;metal alloy known to man.&quot; But it i...</span></span></span>
+
+Because of these features, Namibian authorities contacted both NASA and the European Space Agency to determine whether the object could be linked to known spacecraft or launch systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/spherical-object-drops-from-the-sky-in-namibia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">spherical object drops from the sky in namibia</span><span class="citation-popover-snippet">Universe TodaySpherical Object Drops from the Sky in Namibia22 Dec 2011 — Officials from Namibia have been examining a hollow ball that f...</span><span class="citation-popover-meta">Published: November 2011</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://phys.org/news/2011-12-space-ball-namibia.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phys.org">[Phys.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phys.org</span><span class="citation-popover-title">2011 12 space ball namibia</span><span class="citation-popover-snippet">Space ball&#x27; drops on Namibia22 Dec 2011 — A large metallic ball fell out of the sky on a remote grassland in Namibia, prompting baffled...</span></span></span>
+
+At the time, neither agency immediately identified the exact source. However, the broad conclusion emerging from aerospace experts was that the sphere closely resembled pressure vessels used on rockets and satellites. Such tanks are designed to withstand extreme internal pressure and can survive atmospheric re-entry better than many other spacecraft components. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/14028-namibia-space-ball-orbital-debris.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">14028 namibia space ball orbital debris</span><span class="citation-popover-snippet">SpaceMysterious &#x27;Space Ball&#x27; Crashes in Namibia22 Dec 2011 — A strange metal ball dropped out of the sky and slammed into the remote gras...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/spherical-object-drops-from-the-sky-in-namibia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">spherical object drops from the sky in namibia</span><span class="citation-popover-snippet">Universe TodaySpherical Object Drops from the Sky in Namibia22 Dec 2011 — Officials from Namibia have been examining a hollow ball that f...</span><span class="citation-popover-meta">Published: November 2011</span></span></span>
+
+
+<img src="{{ "/assets/images/Namibia_bfe79d_omusati_space_ball_b9be81-Illustration-2-light.svg" | relative_url }}" alt="Space Ball illustration 2" data-theme-src-dark="{{ "/assets/images/Namibia_bfe79d_omusati_space_ball_b9be81-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Namibia_bfe79d_omusati_space_ball_b9be81-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## The Pressure-Vessel Explanation
+
+The leading explanation is that the object was a component from a launch vehicle or spacecraft, most likely a spherical pressure tank used to store gas or fluids.
+
+Pressure vessels occupy a special place in re-entry investigations. Many spacecraft structures are thin and burn up completely during atmospheric descent. Spherical tanks, by contrast, are compact, mechanically strong, and often manufactured from heat-resistant alloys. As a result, they are among the components most likely to reach the ground intact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/14028-namibia-space-ball-orbital-debris.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">14028 namibia space ball orbital debris</span><span class="citation-popover-snippet">SpaceMysterious &#x27;Space Ball&#x27; Crashes in Namibia22 Dec 2011 — A strange metal ball dropped out of the sky and slammed into the remote gras...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/spherical-object-drops-from-the-sky-in-namibia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">spherical object drops from the sky in namibia</span><span class="citation-popover-snippet">Universe TodaySpherical Object Drops from the Sky in Namibia22 Dec 2011 — Officials from Namibia have been examining a hollow ball that f...</span><span class="citation-popover-meta">Published: November 2011</span></span></span>
+
+The Omusati sphere matched several characteristics commonly associated with recovered aerospace pressure vessels:
+
+* Nearly spherical shape.
+* Welded hemispherical construction.
+* Hollow interior.
+* Relatively low weight compared with size.
+* Survival after atmospheric re-entry. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.namibian.com.na/metal-ball-from-space-falls-in-omusati-region/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: namibian.com.na">[The Namibian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">namibian.com.na</span><span class="citation-popover-snippet">The NamibianMetal ball from space falls in Omusati RegionAn as-yet-unidentified metallic ball was discovered in the Omusati Region last m...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.koreatimes.co.kr/business/tech-science/20111223/mysterious-space-ball-crashes-in-namibia-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreatimes.co.kr">[The Korea Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreatimes.co.kr</span><span class="citation-popover-snippet">Mysterious &#x27;space ball&#x27; crashes in Namibia: reportThe hollow ball with a circumference of 1.1 meters (43 inches) was found near a village...</span></span></span>
+
+This explanation also fits the witness reports. Residents described hearing explosive sounds before the discovery. Investigators suggested these noises could have been caused by atmospheric entry or sonic effects associated with an object travelling at very high speed through the atmosphere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://azertag.az/en/xeber/strange_metal_ball_drops_from_space_in_namibia-75984" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: azertag.az">[AZƏRTAC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">azertag.az</span><span class="citation-popover-title">AZƏRTACStrange metal ball drops from space in Namibia</span><span class="citation-popover-snippet">AZERTAC27 Dec 2011 — Daily Mail reports the impact of the ball left a crater 12 inches deep and 13 ft wide, but it rebounded on impact an...</span></span></span>
+
+Importantly, no evidence emerged indicating propulsion systems, unknown materials, advanced electronics, or other features that would challenge a conventional aerospace interpretation.
+
+## What Remained Uncertain?
+
+Although the broad explanation became increasingly clear, one question remained unresolved in public reporting: exactly which spacecraft or rocket produced the sphere.
+
+This distinction matters because identifying an object as space debris is not the same as tracing it to a specific mission.
+
+Public reports from the period indicate that authorities could not immediately connect the sphere to a particular launch or satellite. The object therefore remained partly unidentified in a narrow sense. Investigators knew what kind of thing it likely was, but not necessarily which specific vehicle it came from. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/spherical-object-drops-from-the-sky-in-namibia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">spherical object drops from the sky in namibia</span><span class="citation-popover-snippet">Universe TodaySpherical Object Drops from the Sky in Namibia22 Dec 2011 — Officials from Namibia have been examining a hollow ball that f...</span><span class="citation-popover-meta">Published: November 2011</span></span></span>
+
+That uncertainty sometimes fuelled sensational interpretations. However, uncertainty about origin is common in debris investigations. Space hardware can remain in orbit for years before re-entering, and components may travel thousands of kilometres from their launch sites before eventually reaching Earth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Space_debris" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Space debris</span><span class="citation-popover-snippet">Space debris</span></span></span>
+
+The available evidence never produced a comparable uncertainty about the object's manufactured nature. The question was largely “which spacecraft?”, not “whether it was a spacecraft component”.
+
+
+<img src="{{ "/assets/images/Namibia_bfe79d_omusati_space_ball_b9be81-Illustration-3-light.svg" | relative_url }}" alt="Space Ball illustration 3" data-theme-src-dark="{{ "/assets/images/Namibia_bfe79d_omusati_space_ball_b9be81-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Namibia_bfe79d_omusati_space_ball_b9be81-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## How Physical Evidence Changes UFO Claims
+
+The Omusati case highlights a crucial difference between eyewitness UFO reports and incidents involving recoverable objects.
+
+In many UFO stories, investigators must rely on recollections, photographs, or descriptions of lights in the sky. Such evidence can be difficult to verify. The Omusati sphere provided something far more useful: a tangible object that could be measured, weighed, photographed, and analysed.
+
+That physical evidence altered the investigation in several ways:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* Material composition could be examined.
+* Manufacturing techniques could be identified.
+* Impact effects could be measured.
+* Claims could be tested against known aerospace engineering.
+
+</div>
+
+Rather than strengthening extraordinary claims, the physical evidence pushed investigators towards an ordinary explanation. The more closely the sphere was examined, the more it resembled known human technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.namibian.com.na/metal-ball-from-space-falls-in-omusati-region/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: namibian.com.na">[The Namibian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">namibian.com.na</span><span class="citation-popover-snippet">The NamibianMetal ball from space falls in Omusati RegionAn as-yet-unidentified metallic ball was discovered in the Omusati Region last m...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.christianpost.com/news/mysterious-space-ball-falls-in-namibia.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: christianpost.com">[Christian Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">christianpost.com</span><span class="citation-popover-title">mysterious space ball falls in namibia</span><span class="citation-popover-snippet">22 Dec 2011 — Authorities have been investigating a large metallic sphere that fell out of the sky onto remote grasslands in Namibia in N...</span></span></span>
+
+This is the opposite of what many popular UFO narratives assume. Physical evidence does not automatically support extraordinary conclusions. Sometimes it does the reverse by providing enough detail to identify a mundane source.
+
+## Where the Case Fits in Namibia's UFO Record
+
+Within Namibia's broader catalogue of unusual aerial reports, the Omusati space ball remains unique because it produced an actual recovered object rather than a fleeting sighting.
+
+Many Namibian UFO accounts involve distant lights, fireballs, or observations made under exceptionally dark desert skies. Those events often leave little evidence beyond witness testimony. The Omusati incident generated a recoverable artefact and a documented investigation. For that reason, it occupies a central place in any assessment of Namibia's UFO history.
+
+Yet the lesson of the case is not that Namibia recovered alien hardware. The strongest available evidence points in the opposite direction. The object appears to have been a human-made component that survived re-entry from orbit and landed in northern Namibia. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.9news.com.au/world/namibian-space-ball-identified/df07c504-d8f2-4710-9c6c-51949cc2031f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 9news.com.au">[News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">9news.com.au</span><span class="citation-popover-snippet">9NewsNamibian &#x27;space ball&#x27; identified26 Dec 2011 — The hollow ball, which weighed six-kilograms and had a diameter of 35-centimetres, was...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/14028-namibia-space-ball-orbital-debris.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space As a result]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">14028 namibia space ball orbital debris</span><span class="citation-popover-snippet">SpaceMysterious &#x27;Space Ball&#x27; Crashes in Namibia22 Dec 2011 — A strange metal ball dropped out of the sky and slammed into the remote gras...</span></span></span>, the Omusati space ball stands as one of Namibia's best-documented UFO-adjacent incidents and one of its most persuasive demonstrations of how a genuine mystery can move from “unidentified” to “largely explained” once physical evidence becomes available. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.namibian.com.na/metal-ball-from-space-falls-in-omusati-region/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: namibian.com.na">[The Namibian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">namibian.com.na</span><span class="citation-popover-snippet">The NamibianMetal ball from space falls in Omusati RegionAn as-yet-unidentified metallic ball was discovered in the Omusati Region last m...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.keranews.org/2011-12-23/cue-the-scary-music-space-ball-crashes-in-namibia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: keranews.org">[News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">keranews.org</span><span class="citation-popover-title">cue the scary music space ball crashes in namibia</span><span class="citation-popover-snippet">KERA NewsCue The Scary Music: &#x27;Space Ball&#x27; Crashes In Namibia23 Dec 2011 — It&#x27;s said to be made of a &quot;metal alloy known to man.&quot; But it i...</span></span></span>
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Was Namibia&#x27;s Space Ball Really From Space?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Space+Debris+and+Other+Threats+from+Outer+Space+by+Joseph+N.+Pelton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Space Debris and Other Threats from Outer Space on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=keFHAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Space Debris and Other Threats from Outer Space" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Space+Debris+and+Other+Threats+from+Outer+Space+by+Joseph+N.+Pelton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Space Debris and Other Threats from Outer Space">Space Debris and Other Threats from Outer Space</a>
+        </h4>
+        <p class="fr-book-author">By Joseph N. Pelton</p>
+        
+        <p class="fr-book-desc">Directly addresses re-entry debris and aerospace hazards.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Space+Debris+and+Other+Threats+from+Outer+Space+by+Joseph+N.+Pelton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+        </h4>
+        <p class="fr-book-author">By Leslie Kean</p>
+        
+        <p class="fr-book-desc">Provides context for assessing physical-evidence UFO claims.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+        </h4>
+        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        
+        <p class="fr-book-desc">Useful for comparing evidence-based cases with speculative interpretations.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Packing for Mars on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Packing for Mars">Packing for Mars</a>
+        </h4>
+        <p class="fr-book-author">By Mary Roach</p>
+        
+        <p class="fr-book-desc">Introduces readers to practical realities of space technology and hardware.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Space+Debris+and+Other+Threats+from+Outer+Space&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Space Debris and Other Threats from Outer Space</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: space.com  
+   Title: 14028 namibia space ball orbital debris  
+   Link: [https://www.space.com/14028-namibia-space-ball-orbital-debris.html](https://www.space.com/14028-namibia-space-ball-orbital-debris.html)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceMysterious &#x27;Space Ball&#x27; Crashes in Namibia22 Dec 2011 — A strange metal ball dropped out of the sky and slammed into the remote gras...</p></details>
+
+2. <a id="endnote-2"></a>
+   Source: phys.org  
+   Title: 2011 12 space ball namibia  
+   Link: [https://phys.org/news/2011-12-space-ball-namibia.html](https://phys.org/news/2011-12-space-ball-namibia.html)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Space ball&#x27; drops on Namibia22 Dec 2011 — A large metallic ball fell out of the sky on a remote grassland in Namibia, prompting baffled...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: azertag.az  
+   Title: AZƏRTACStrange metal ball drops from space in Namibia  
+   Link: [https://azertag.az/en/xeber/strange_metal_ball_drops_from_space_in_namibia-75984](https://azertag.az/en/xeber/strange_metal_ball_drops_from_space_in_namibia-75984)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AZERTAC27 Dec 2011 — Daily Mail reports the impact of the ball left a crater 12 inches deep and 13 ft wide, but it rebounded on impact an...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: Wikipedia  
+   Title: Space debris  
+   Link: [https://en.wikipedia.org/wiki/Space_debris](https://en.wikipedia.org/wiki/Space_debris)  
+
+5. <a id="endnote-5"></a>
+   Source: Wikipedia  
+   Link: [https://en.wikipedia.org/wiki/Namibia](https://en.wikipedia.org/wiki/Namibia)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NamibiaWith a population of 3.1 million people, Namibia is one of the most sparsely populated countries in the world. Since the end of...</p></details>
+
+6. <a id="endnote-6"></a>
+   Source: namibian.com.na  
+   Link: [https://www.namibian.com.na/metal-ball-from-space-falls-in-omusati-region/](https://www.namibian.com.na/metal-ball-from-space-falls-in-omusati-region/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The NamibianMetal ball from space falls in Omusati RegionAn as-yet-unidentified metallic ball was discovered in the Omusati Region last m...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: koreatimes.co.kr  
+   Link: [https://www.koreatimes.co.kr/business/tech-science/20111223/mysterious-space-ball-crashes-in-namibia-report](https://www.koreatimes.co.kr/business/tech-science/20111223/mysterious-space-ball-crashes-in-namibia-report)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious &#x27;space ball&#x27; crashes in Namibia: reportThe hollow ball with a circumference of 1.1 meters (43 inches) was found near a village...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: christianpost.com  
+   Title: mysterious space ball falls in namibia  
+   Link: [https://www.christianpost.com/news/mysterious-space-ball-falls-in-namibia.html](https://www.christianpost.com/news/mysterious-space-ball-falls-in-namibia.html)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>22 Dec 2011 — Authorities have been investigating a large metallic sphere that fell out of the sky onto remote grasslands in Namibia in N...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: universetoday.com  
+   Title: spherical object drops from the sky in namibia  
+   Link: [https://www.universetoday.com/articles/spherical-object-drops-from-the-sky-in-namibia](https://www.universetoday.com/articles/spherical-object-drops-from-the-sky-in-namibia)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Universe TodaySpherical Object Drops from the Sky in Namibia22 Dec 2011 — Officials from Namibia have been examining a hollow ball that f...</p></details>
+   Published: November 2011  
+
+### Additional References
+
+10. <a id="endnote-10"></a>
+   Source: keranews.org  
+   Title: cue the scary music space ball crashes in namibia  
+   Link: [https://www.keranews.org/2011-12-23/cue-the-scary-music-space-ball-crashes-in-namibia](https://www.keranews.org/2011-12-23/cue-the-scary-music-space-ball-crashes-in-namibia)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>KERA NewsCue The Scary Music: &#x27;Space Ball&#x27; Crashes In Namibia23 Dec 2011 — It&#x27;s said to be made of a &quot;metal alloy known to man.&quot; But it i...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: dailyedge.ie  
+   Link: [https://www.dailyedge.ie/mysterious-space-ball-drops-from-the-sky-in-namibia-312919-Dec2011/](https://www.dailyedge.ie/mysterious-space-ball-drops-from-the-sky-in-namibia-312919-Dec2011/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious &#x27;space ball&#x27; drops from the sky in NamibiaThe 14″ orb, weighting around 6kg, apparently fell from space last month – and nobod...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/kalenjinsonline/posts/a-metallic-object-fell-from-the-sky-in-kapsabet-alarming-the-residents-of-st-mar/1060154986209199/](https://www.facebook.com/kalenjinsonline/posts/a-metallic-object-fell-from-the-sky-in-kapsabet-alarming-the-residents-of-st-mar/1060154986209199/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>t. Mary&#x27;s area. Described as &quot;weird&quot; and partially damaged...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: lonelyplanet.com  
+   Title: Namibia travel  
+   Link: [https://www.lonelyplanet.com/destinations/namibia](https://www.lonelyplanet.com/destinations/namibia)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>AfricaExplore towering sand dunes, Etosha National Park and more top attractions in our Namibia travel guide. Plan safaris and outdoor ad...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: rhinoafrica.com  
+   Link: [https://www.rhinoafrica.com/en/destinations/namibia/2516](https://www.rhinoafrica.com/en/destinations/namibia/2516)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>vel tips, the best time to visit, and more...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: thecommonwealth.org  
+   Link: [https://thecommonwealth.org/our-member-countries/namibia](https://thecommonwealth.org/our-member-countries/namibia)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>CommonwealthNamibia is a country on the south-west coast of Africa. It is one of the driest and most sparsely populated countries on eart...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: theworld.org  
+   Title: alien space ball drops namibian grassland nasa alerted video  
+   Link: [https://theworld.org/stories/2016/07/31/alien-space-ball-drops-namibian-grassland-nasa-alerted-video](https://theworld.org/stories/2016/07/31/alien-space-ball-drops-namibian-grassland-nasa-alerted-video)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Alien&#x27; space ball drops into Namibian grassland31 Jul 2016 — Namibian officials have alerted NASA and the European Space Agency after a...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: 9news.com.au  
+   Link: [https://www.9news.com.au/world/namibian-space-ball-identified/df07c504-d8f2-4710-9c6c-51949cc2031f](https://www.9news.com.au/world/namibian-space-ball-identified/df07c504-d8f2-4710-9c6c-51949cc2031f)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>9NewsNamibian &#x27;space ball&#x27; identified26 Dec 2011 — The hollow ball, which weighed six-kilograms and had a diameter of 35-centimetres, was...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: atlasobscura.com  
+   Title: namibia s space ball  
+   Link: [https://www.atlasobscura.com/places/namibia-s-space-ball](https://www.atlasobscura.com/places/namibia-s-space-ball)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Namibia&#x27;s Space Ball in Windhoek25 Dec 2011 — Amid reports of explosions just north of Windhoek in mid-November, Namibian authorities dis...</p></details>
+
+19. <a id="endnote-19"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/gondwana.collection.namibia/posts/locals-and-officers-of-a-nearby-police-station-and-villagers-in-the-area-heard-s/2893606833998620/](https://www.facebook.com/gondwana.collection.namibia/posts/locals-and-officers-of-a-nearby-police-station-and-villagers-in-the-area-heard-s/2893606833998620/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gondwana Collection NamibiaThe sphere, which weighs just over 6 kg and has a circumference of 110 centimetres, landed near Onamatunga som...</p></details>

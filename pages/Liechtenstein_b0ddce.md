@@ -1,0 +1,1613 @@
+---
+level: 1
+basename: Liechtenstein_b0ddce
+child_basenames:
+- Liechtenstein_b0ddce_aviation_records_b9d383
+- Liechtenstein_b0ddce_hans_adam_ufo_patron_937268
+- Liechtenstein_b0ddce_index
+- Liechtenstein_b0ddce_rhine_valley_skies_0e5bbf
+- Liechtenstein_b0ddce_strange_lights_expla_fd6687
+sibling_basenames:
+- Afghanistan_c69153
+- Albania_79b9d2
+- Algeria_bd6acc
+- Andorra_9d3bd1
+- Angola_a42522
+- Antigua_and_Barbuda_0f8518
+- Argentina_354bf9
+- Armenia_5f4599
+- Australia_ceafb5
+- Austria_593905
+- Azerbaijan_213598
+- Bahrain_3ae11c
+- Bangladesh_fa6c37
+- Barbados_93409a
+- Belarus_027a12
+- Belgium_5cb4c9
+- Belize_42ab0c
+- Benin_373616
+- Bhutan_bb2254
+- Bolivia_Plurinationa_9e2db7
+- Bosnia_and_Herzegovi_552c9f
+- Botswana_180c89
+- Brazil_37497a
+- Brunei_Darussalam_eab94a
+- Bulgaria_5c7772
+- Burkina_Faso_f61e5f
+- Burundi_461758
+- Cabo_Verde_2a5bf1
+- Cambodia_314ccd
+- Cameroon_73a7dd
+- Canada_cd6a7b
+- Central_African_Repu_358788
+- Chad_6c6b1b
+- Chile_349507
+- China_d2eaf2
+- Colombia_2f7373
+- Comoros_e5bb59
+- Congo_77f256
+- Costa_Rica_fe586b
+- Cote_d_Ivoire_f8cb1a
+- Croatia_d7e045
+- Cuba_c484b1
+- Cyprus_852add
+- Czechia_045e2f
+- Democratic_People_s_808714
+- Democratic_Republic_679868
+- Denmark_89da12
+- Djibouti_60a8b0
+- Dominica_bc1cd4
+- Dominican_Republic_dba665
+- Ecuador_09f199
+- Egypt_1c39ab
+- El_Salvador_9b83b7
+- Equatorial_Guinea_ae2c01
+- Eritrea_18740a
+- Estonia_f0a96d
+- Eswatini_16cc7f
+- Ethiopia_3d91f7
+- Fiji_bbb7ef
+- Finland_c909b1
+- France_e3772a
+- Gabon_a06dcd
+- Gambia_7c3997
+- Georgia_9113c6
+- Germany_17d53e
+- Ghana_317dba
+- Greece_4902a4
+- Grenada_dbf2a2
+- Guatemala_11760e
+- Guinea-Bissau_b07cb9
+- Guinea_b47b54
+- Guyana_bc88a2
+- Haiti_a4842f
+- Honduras_5aa588
+- Hungary_f14e46
+- Iceland_b3c92e
+- India_967ce3
+- Indonesia_35536a
+- Iran_Islamic_Republi_94f9ee
+- Iraq_1aed9e
+- Ireland_eb2131
+- Israel_4c197d
+- Italy_ad79ef
+- Jamaica_5eedd6
+- Japan_fcf29f
+- Jordan_674027
+- Kazakhstan_2f36b6
+- Kenya_a84f56
+- Kiribati_3f57ad
+- Kuwait_93295b
+- Kyrgyzstan_c78791
+- Lao_People_s_Democra_44f2bd
+- Latvia_c5f5bb
+- Lebanon_5caa7f
+- Lesotho_93b12b
+- Liberia_1ed5dd
+- Libya_55949d
+- Lithuania_74a788
+- Luxembourg_507672
+- Madagascar_f92bcb
+- Malawi_0ce65b
+- Malaysia_ff3ea3
+- Maldives_213cb2
+- Mali_daa6a4
+- Malta_1a591a
+- Marshall_Islands_ccbdc0
+- Mauritania_85fa35
+- Mauritius_26160d
+- Mexico_41937b
+- Micronesia_Federated_30e9e8
+- Monaco_35ab1c
+- Mongolia_f54da3
+- Montenegro_479fb3
+- Morocco_32e087
+- Mozambique_a40a9b
+- Myanmar_928b7c
+- Namibia_bfe79d
+- Nauru_f648c7
+- Nepal_0e1d58
+- Netherlands_Kingdom_d6d70a
+- New_Zealand_3d3336
+- Nicaragua_481264
+- Niger_6687e1
+- Nigeria_9742d0
+- North_Macedonia_cece1d
+- Norway_988455
+- Oman_c14c36
+- Pakistan_82d220
+- Palau_e5e0b6
+- Panama_1e36b3
+- Papua_New_Guinea_90e80c
+- Paraguay_71a452
+- Peru_36c572
+- Philippines_806736
+- Poland_5ff03b
+- Portugal_a49519
+- Qatar_83ef3e
+- Republic_of_Korea_8d9deb
+- Republic_of_Moldova_a6ad94
+- Romania_d6b897
+- Russian_Federation_87c89a
+- Rwanda_7266a1
+- Saint_Kitts_and_Nevi_a66de5
+- Saint_Lucia_85ac35
+- Saint_Vincent_and_th_3bce2a
+- Samoa_f56806
+- San_Marino_8ff2c5
+- Sao_Tome_and_Princip_3437b2
+- Saudi_Arabia_8bf7f8
+- Senegal_d8973b
+- Serbia_6d31bf
+- Seychelles_3d2d7b
+- Sierra_Leone_817b0d
+- Singapore_20c0b7
+- Slovakia_b6c149
+- Slovenia_d1aa05
+- Solomon_Islands_6f943d
+- Somalia_4dfdf1
+- South_Africa_3b27c8
+- South_Sudan_80ac9c
+- Spain_20a8df
+- Sri_Lanka_db33ad
+- Sudan_1193ba
+- Suriname_b17fc6
+- Sweden_72ddd2
+- Switzerland_77dcd8
+- Syrian_Arab_Republic_099887
+- Tajikistan_279c77
+- Thailand_a2b7c1
+- The_Bahamas_f765dc
+- Timor-Leste_2d79f6
+- Togo_30949d
+- Tonga_e8a123
+- Trinidad_and_Tobago_a73120
+- Tunisia_edf404
+- Turkiye_c8c5d5
+- Turkmenistan_1f8dc1
+- Tuvalu_9a2248
+- Uganda_e92904
+- Ukraine_c951ec
+- United_Arab_Emirates_c92b89
+- United_Kingdom_d25561
+- United_Republic_of_T_f850a5
+- United_States_f5f19f
+- Uruguay_66b989
+- Uzbekistan_db800e
+- Vanuatu_d16ad2
+- Venezuela_Bolivarian_3dc4c3
+- Viet_Nam_82ecdd
+- Yemen_ac33d6
+- Zambia_dcf25e
+- Zimbabwe_5922f5
+tags:
+- liechtenstein
+keywords:
+- liechtenstein
+affiliate_category: liechtenstein
+show_ads: true
+description: Liechtenstein has a thinner UFO record than its dramatic Alpine setting might suggest.
+hero_summary: Liechtenstein has a thinner UFO record than its dramatic Alpine setting might suggest. There is no well-known national “Roswell-style” incident, no public declassified UFO archive comparable to larger states, and no clear pattern of official investigations centred on the principality.
+layout: default
+permalink: /what-makes-liechtensteins-ufo-story/
+nav_short_title: What Makes Liechtenstein's UFO Story Unusual?
+title: What Makes Liechtenstein's UFO Story Unusual?
+title_full: What Makes Liechtenstein's UFO Story Unusual?
+display_title_short: What Makes Liechtenstein's UFO Story Unusual?
+display_title: What Makes Liechtenstein's UFO Story Unusual?
+heading_title: What Makes Liechtenstein's UFO Story Unusual?
+page_heading_title: What Makes Liechtenstein's UFO Story Unusual?
+source_count: 176
+infographic_count: 3
+page_website_name: Liechtenstein UFOs
+page_banner_line: Evidence-led pages on strange lights, royal UFO patronage, and Alpine explanations.
+site_website_name: Liechtenstein UFOs
+site_banner_line: Evidence-led pages on strange lights, royal UFO patronage, and Alpine explanations.
+site_image_description: Vaduz Castle above the Rhine Valley at dusk, with small points of light crossing the Alpine sky.
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+sibling_links:
+- basename: Afghanistan_c69153
+  title: Afghanistan UAP
+  permalink: /afghanistan/
+  short_title: Afghanistan UAP
+- basename: Albania_79b9d2
+  title: AlbanianUFOs
+  permalink: /albania/
+  short_title: AlbanianUFOs
+- basename: Algeria_bd6acc
+  title: Algeria UFOs
+  permalink: /algeria/
+  short_title: Algeria UFOs
+- basename: Antigua_and_Barbuda_0f8518
+  title: Antigua UFOs
+  permalink: /antigua-and-barbuda/
+  short_title: Antigua UFOs
+- basename: Monaco_35ab1c
+  title: Monaco UFOs
+  permalink: /are-monaco-ufo-sightings-really/
+  short_title: Monaco UFOs
+- basename: Mali_daa6a4
+  title: Mali UFOs
+  permalink: /are-there-any-real-mali-ufo-cases/
+  short_title: Mali UFOs
+- basename: Montenegro_479fb3
+  title: MontenegroUFOs
+  permalink: /are-ufos-really-seen-over-montenegro/
+  short_title: MontenegroUFOs
+- basename: Argentina_354bf9
+  title: Argentina OVNI
+  permalink: /argentinas-ufo-stories-records-and/
+  short_title: Argentina OVNI
+- basename: Bangladesh_fa6c37
+  title: Bangladesh UFOs
+  permalink: /bangladesh/
+  short_title: Bangladesh UFOs
+- basename: Bolivia_Plurinationa_9e2db7
+  title: Bolivia UFOs
+  permalink: /bolivia-plurinational-state-of/
+  short_title: Bolivia UFOs
+- basename: Bosnia_and_Herzegovi_552c9f
+  title: BosniaUFOs
+  permalink: /bosnia-and-herzegovina/
+  short_title: BosniaUFOs
+- basename: Brunei_Darussalam_eab94a
+  title: Brunei UAP
+  permalink: /brunei-darussalam/
+  short_title: Brunei UAP
+- basename: Burkina_Faso_f61e5f
+  title: BurkinaUFO
+  permalink: /burkina-faso/
+  short_title: BurkinaUFO
+- basename: Central_African_Repu_358788
+  title: CAR UFOs
+  permalink: /central-african-republic/
+  short_title: CAR UFOs
+- basename: Cote_d_Ivoire_f8cb1a
+  title: Ivoire UFOs
+  permalink: /cote-d-ivoire/
+  short_title: Ivoire UFOs
+- basename: Czechia_045e2f
+  title: CzechUFOs
+  permalink: /czechia/
+  short_title: CzechUFOs
+- basename: Democratic_People_s_808714
+  title: DPRKUFOs
+  permalink: /democratic-people-s-republic-of-korea/
+  short_title: DPRKUFOs
+- basename: Democratic_Republic_679868
+  title: DRC UFOs
+  permalink: /democratic-republic-of-the-congo/
+  short_title: DRC UFOs
+- basename: Djibouti_60a8b0
+  title: DjiboutiUAP
+  permalink: /djibouti/
+  short_title: DjiboutiUAP
+- basename: Dominica_bc1cd4
+  title: Dominica UAP
+  permalink: /does-dominica-have-real-ufo-cases/
+  short_title: Dominica UAP
+- basename: Iceland_b3c92e
+  title: Iceland UFOs
+  permalink: /does-iceland-have-a-real-ufo-record/
+  short_title: Iceland UFOs
+- basename: Dominican_Republic_dba665
+  title: Dominican UAP
+  permalink: /dominican-republic/
+  short_title: Dominican UAP
+- basename: Equatorial_Guinea_ae2c01
+  title: EquatorialGuineaUFOs
+  permalink: /equatorial-guinea/
+  short_title: EquatorialGuineaUFOs
+- basename: Fiji_bbb7ef
+  title: Fiji UFOs
+  permalink: /fiji/
+  short_title: Fiji UFOs
+- basename: Finland_c909b1
+  title: Finland UFOs
+  permalink: /finland/
+  short_title: Finland UFOs
+- basename: Ghana_317dba
+  title: GhanaUFOs
+  permalink: /ghana/
+  short_title: GhanaUFOs
+- basename: Comoros_e5bb59
+  title: ComorosUFOs
+  permalink: /have-ufos-really-been-seen-over-comoros/
+  short_title: ComorosUFOs
+- basename: Chile_349507
+  title: ChileUFOs
+  permalink: /how-chile-investigates-ufos-and-aerial/
+  short_title: ChileUFOs
+- basename: France_e3772a
+  title: FranceUFOs
+  permalink: /how-france-investigates-and-archives-ufo/
+  short_title: FranceUFOs
+- basename: Iran_Islamic_Republi_94f9ee
+  title: Iran UFOs
+  permalink: /iran-islamic-republic-of/
+  short_title: Iran UFOs
+- basename: Iraq_1aed9e
+  title: Iraq UAP
+  permalink: /iraq/
+  short_title: Iraq UAP
+- basename: Lao_People_s_Democra_44f2bd
+  title: Laos UFOs
+  permalink: /lao-people-s-democratic-republic/
+  short_title: Laos UFOs
+- basename: Madagascar_f92bcb
+  title: Madagascar UFOs
+  permalink: /madagascars-ufo-record-famous-case-thin/
+  short_title: Madagascar UFOs
+- basename: Maldives_213cb2
+  title: MaldivesUFOs
+  permalink: /maldives/
+  short_title: MaldivesUFOs
+- basename: Micronesia_Federated_30e9e8
+  title: Micronesia UFOs
+  permalink: /micronesia-federated-states-of/
+  short_title: Micronesia UFOs
+- basename: Morocco_32e087
+  title: Morocco UFOs
+  permalink: /moroccos-ufo-mystery-and-its-best/
+  short_title: Morocco UFOs
+- basename: Netherlands_Kingdom_d6d70a
+  title: Dutch UFOs
+  permalink: /netherlands-kingdom-of-the/
+  short_title: Dutch UFOs
+- basename: Papua_New_Guinea_90e80c
+  title: PNG UFOs
+  permalink: /papua-new-guinea/
+  short_title: PNG UFOs
+- basename: Philippines_806736
+  title: Philippines UFOs
+  permalink: /philippines/
+  short_title: Philippines UFOs
+- basename: Portugal_a49519
+  title: Portugal UFOs
+  permalink: /portugals-ufo-files-mystery-memory-and/
+  short_title: Portugal UFOs
+- basename: Republic_of_Korea_8d9deb
+  title: Korea UFOs
+  permalink: /republic-of-korea/
+  short_title: Korea UFOs
+- basename: Republic_of_Moldova_a6ad94
+  title: Moldova UAP
+  permalink: /republic-of-moldova/
+  short_title: Moldova UAP
+- basename: Russian_Federation_87c89a
+  title: Russian UFOs
+  permalink: /russian-federation/
+  short_title: Russian UFOs
+- basename: Saint_Kitts_and_Nevi_a66de5
+  title: Kitts UFOs
+  permalink: /saint-kitts-and-nevis/
+  short_title: Kitts UFOs
+- basename: Saint_Vincent_and_th_3bce2a
+  title: SVG UFOs
+  permalink: /saint-vincent-and-the-grenadines/
+  short_title: SVG UFOs
+- basename: Sao_Tome_and_Princip_3437b2
+  title: Sao Tome UFOs
+  permalink: /sao-tome-and-principe/
+  short_title: Sao Tome UFOs
+- basename: Spain_20a8df
+  title: Spain UFOs
+  permalink: /spains-ufo-files-mystery-evidence-and/
+  short_title: Spain UFOs
+- basename: Syrian_Arab_Republic_099887
+  title: Syrian UAP
+  permalink: /syrian-arab-republic/
+  short_title: Syrian UAP
+- basename: Thailand_a2b7c1
+  title: Thailand UFOs
+  permalink: /thailand/
+  short_title: Thailand UFOs
+- basename: The_Bahamas_f765dc
+  title: Bahamas UFOs
+  permalink: /the-bahamas/
+  short_title: Bahamas UFOs
+- basename: Trinidad_and_Tobago_a73120
+  title: Trinidad UFOs
+  permalink: /trinidad-and-tobago/
+  short_title: Trinidad UFOs
+- basename: Turkiye_c8c5d5
+  title: Türkiye UFOs
+  permalink: /turkiye/
+  short_title: Türkiye UFOs
+- basename: Luxembourg_507672
+  title: LuxUFO
+  permalink: /uncovering-ufo-activity-across/
+  short_title: LuxUFO
+- basename: Israel_4c197d
+  title: Israel UFOs
+  permalink: /uncovering-ufo-phenomena-across-israel/
+  short_title: Israel UFOs
+- basename: United_Arab_Emirates_c92b89
+  title: UAE UFOs
+  permalink: /united-arab-emirates/
+  short_title: UAE UFOs
+- basename: United_Kingdom_d25561
+  title: UK UFOs
+  permalink: /united-kingdom/
+  short_title: UK UFOs
+- basename: United_Republic_of_T_f850a5
+  title: Tanzania UFOs
+  permalink: /united-republic-of-tanzania/
+  short_title: Tanzania UFOs
+- basename: United_States_f5f19f
+  title: US UFOs
+  permalink: /united-states/
+  short_title: US UFOs
+- basename: Venezuela_Bolivarian_3dc4c3
+  title: Venezuela UFOs
+  permalink: /venezuela-bolivarian-republic-of/
+  short_title: Venezuela UFOs
+- basename: Malawi_0ce65b
+  title: MalawiUFOs
+  permalink: /what-are-malawis-documented-ufos-and-sky/
+  short_title: MalawiUFOs
+- basename: Belarus_027a12
+  title: Belarus UFOs
+  permalink: /what-belarus-ufo-reports-really-show/
+  short_title: Belarus UFOs
+- basename: Brazil_37497a
+  title: BrazilUFOs
+  permalink: /what-brazils-ufo-records-reveal-about/
+  short_title: BrazilUFOs
+- basename: Angola_a42522
+  title: Angola UFOs
+  permalink: /what-can-angolas-ufo-record-really-prove/
+  short_title: Angola UFOs
+- basename: Benin_373616
+  title: Benin UFOs
+  permalink: /what-can-really-be-said-about-benin-ufos/
+  short_title: Benin UFOs
+- basename: Serbia_6d31bf
+  title: Serbia UFOs
+  permalink: /what-can-serbias-ufo-record-really-show/
+  short_title: Serbia UFOs
+- basename: Tuvalu_9a2248
+  title: Tuvalu UFOs
+  permalink: /what-can-tuvalus-ufo-record-really-show/
+  short_title: Tuvalu UFOs
+- basename: Canada_cd6a7b
+  title: Canada UAP
+  permalink: /what-canada-ufo-reports-really-show/
+  short_title: Canada UAP
+- basename: China_d2eaf2
+  title: China UFOs
+  permalink: /what-chinas-ufo-cases-really-show/
+  short_title: China UFOs
+- basename: South_Sudan_80ac9c
+  title: South Sudan UFOs
+  permalink: /what-counts-as-a-south-sudan-ufo-case/
+  short_title: South Sudan UFOs
+- basename: Jordan_674027
+  title: Jordan UFOs
+  permalink: /what-counts-as-a-ufo-in-jordan/
+  short_title: Jordan UFOs
+- basename: Croatia_d7e045
+  title: Croatia UFOs
+  permalink: /what-croatias-ufo-records-reveal-about/
+  short_title: Croatia UFOs
+- basename: Bahrain_3ae11c
+  title: Bahrain UFOs
+  permalink: /what-did-bahrains-ufo-sightings-really/
+  short_title: Bahrain UFOs
+- basename: Viet_Nam_82ecdd
+  title: Viet Nam UFOs
+  permalink: /what-did-viet-nams-ufo-reports-really/
+  short_title: Viet Nam UFOs
+- basename: Austria_593905
+  title: Austria UFOs
+  permalink: /what-do-austrias-ufo-reports-really-show/
+  short_title: Austria UFOs
+- basename: Belize_42ab0c
+  title: Belize UAP
+  permalink: /what-do-belize-ufo-reports-really-show/
+  short_title: Belize UAP
+- basename: Cameroon_73a7dd
+  title: Cameroon UFOs
+  permalink: /what-do-cameroons-ufo-stories-really/
+  short_title: Cameroon UFOs
+- basename: Cuba_c484b1
+  title: Cuba UFOs
+  permalink: /what-do-cubas-ufo-sightings-reveal-about/
+  short_title: Cuba UFOs
+- basename: Gabon_a06dcd
+  title: Gabon UFOs
+  permalink: /what-do-gabons-ufo-stories-really-show/
+  short_title: Gabon UFOs
+- basename: Guinea-Bissau_b07cb9
+  title: Guinea Bissau UFOs
+  permalink: /what-do-guinea-bissaus-ufo-reports/
+  short_title: Guinea Bissau UFOs
+- basename: Honduras_5aa588
+  title: Honduras UFOs
+  permalink: /what-do-honduras-ufo-reports-really-show/
+  short_title: Honduras UFOs
+- basename: Hungary_f14e46
+  title: Hungary UFOs
+  permalink: /what-do-hungarys-ufo-stories-really-show/
+  short_title: Hungary UFOs
+- basename: India_967ce3
+  title: India UAP
+  permalink: /what-do-indias-ufo-reports-really-show/
+  short_title: India UAP
+- basename: Lebanon_5caa7f
+  title: Lebanon UFOs
+  permalink: /what-do-lebanons-ufo-reports-really-show/
+  short_title: Lebanon UFOs
+- basename: Libya_55949d
+  title: Libya UFOs
+  permalink: /what-do-libyas-ufo-reports-really-show/
+  short_title: Libya UFOs
+- basename: Malaysia_ff3ea3
+  title: Malaysia UFOs
+  permalink: /what-do-malaysias-ufo-stories-really/
+  short_title: Malaysia UFOs
+- basename: Mongolia_f54da3
+  title: Mongolia UFOs
+  permalink: /what-do-mongolias-ufo-reports-really/
+  short_title: Mongolia UFOs
+- basename: Nauru_f648c7
+  title: Nauru UFOs
+  permalink: /what-do-nauru-ufo-reports-really-show/
+  short_title: Nauru UFOs
+- basename: Nigeria_9742d0
+  title: Nigeria UFOs
+  permalink: /what-do-nigerias-ufo-reports-really-show/
+  short_title: Nigeria UFOs
+- basename: Pakistan_82d220
+  title: Pakistan UFOs
+  permalink: /what-do-pakistans-ufo-cases-really-show/
+  short_title: Pakistan UFOs
+- basename: Panama_1e36b3
+  title: Panama UFOs
+  permalink: /what-do-panama-ufo-reports-really-show/
+  short_title: Panama UFOs
+- basename: Qatar_83ef3e
+  title: Qatar UFOs
+  permalink: /what-do-qatars-ufo-reports-really-show/
+  short_title: Qatar UFOs
+- basename: Seychelles_3d2d7b
+  title: Seychelles UFOs
+  permalink: /what-do-seychelles-ufo-reports-really/
+  short_title: Seychelles UFOs
+- basename: Sierra_Leone_817b0d
+  title: Sierra Leone UAP
+  permalink: /what-do-sierra-leones-ufo-reports-really/
+  short_title: Sierra Leone UAP
+- basename: Somalia_4dfdf1
+  title: Somalia UFOs
+  permalink: /what-do-somalias-ufo-reports-really-show/
+  short_title: Somalia UFOs
+- basename: Tajikistan_279c77
+  title: Tajikistan UFOs
+  permalink: /what-do-tajikistans-ufo-reports-really/
+  short_title: Tajikistan UFOs
+- basename: Timor-Leste_2d79f6
+  title: Timor Leste UFOs
+  permalink: /what-do-timor-leste-ufo-reports-really/
+  short_title: Timor Leste UFOs
+- basename: Guinea_b47b54
+  title: Guinea UFOs
+  permalink: /what-do-ufo-reports-in-guinea-really/
+  short_title: Guinea UFOs
+- basename: Bhutan_bb2254
+  title: BhutanUFOs
+  permalink: /what-do-ufo-sightings-in-bhutan-really/
+  short_title: BhutanUFOs
+- basename: Botswana_180c89
+  title: Botswana UFOs
+  permalink: /what-does-botswanas-ufo-record-really/
+  short_title: Botswana UFOs
+- basename: Ecuador_09f199
+  title: EcuadorUFOs
+  permalink: /what-evidence-exists-for-ufos-in-ecuador/
+  short_title: EcuadorUFOs
+- basename: Georgia_9113c6
+  title: Georgia UFOs
+  permalink: /what-georgias-ufo-reports-reveal-about/
+  short_title: Georgia UFOs
+- basename: Germany_17d53e
+  title: Germany UFOs
+  permalink: /what-germanys-ufo-record-really-shows/
+  short_title: Germany UFOs
+- basename: Greece_4902a4
+  title: Greece UFOs
+  permalink: /what-greeces-ufo-records-reveal-about/
+  short_title: Greece UFOs
+- basename: Guatemala_11760e
+  title: GuatemalaUFOs
+  permalink: /what-guatemalas-ufo-reports-really/
+  short_title: GuatemalaUFOs
+- basename: Latvia_c5f5bb
+  title: Latvia UFOs
+  permalink: /what-has-latvia-really-seen-in-the-sky/
+  short_title: Latvia UFOs
+- basename: Malta_1a591a
+  title: Malta UFOs
+  permalink: /what-has-malta-really-seen-in-the-sky/
+  short_title: Malta UFOs
+- basename: Saint_Lucia_85ac35
+  title: Saint Lucia UFOs
+  permalink: /what-has-saint-lucia-really-reported/
+  short_title: Saint Lucia UFOs
+- basename: Samoa_f56806
+  title: Samoa UFOs
+  permalink: /what-has-samoa-really-seen-in-the-sky/
+  short_title: Samoa UFOs
+- basename: Zambia_dcf25e
+  title: Zambia UFOs
+  permalink: /what-has-zambia-really-seen-in-the-sky/
+  short_title: Zambia UFOs
+- basename: Indonesia_35536a
+  title: Indonesia UFOs
+  permalink: /what-indonesias-ufo-record-really-shows/
+  short_title: Indonesia UFOs
+- basename: Andorra_9d3bd1
+  title: Andorra UFOs
+  permalink: /what-is-actually-known-about-andorra/
+  short_title: Andorra UFOs
+- basename: Azerbaijan_213598
+  title: Azerbaijan UAP
+  permalink: /what-is-behind-azerbaijans-ufo-reports/
+  short_title: Azerbaijan UAP
+- basename: Liberia_1ed5dd
+  title: Liberia UFOs
+  permalink: /what-is-known-about-ufos-in-liberia/
+  short_title: Liberia UFOs
+- basename: Chad_6c6b1b
+  title: Chad UFOs
+  permalink: /what-is-really-behind-chads-ufo-reports/
+  short_title: Chad UFOs
+- basename: Gambia_7c3997
+  title: Gambia UFOs
+  permalink: /what-is-really-behind-gambias-ufo/
+  short_title: Gambia UFOs
+- basename: Myanmar_928b7c
+  title: Myanmar UFOs
+  permalink: /what-is-really-behind-myanmar-ufo/
+  short_title: Myanmar UFOs
+- basename: Namibia_bfe79d
+  title: Namibia UFOs
+  permalink: /what-is-really-behind-namibias-ufo/
+  short_title: Namibia UFOs
+- basename: Slovakia_b6c149
+  title: Slovak UFOs
+  permalink: /what-is-really-behind-slovakias-ufo/
+  short_title: Slovak UFOs
+- basename: Eswatini_16cc7f
+  title: Eswatini UFOs
+  permalink: /what-is-really-in-eswatinis-ufo-record/
+  short_title: Eswatini UFOs
+- basename: Jamaica_5eedd6
+  title: Jamaica UFOs
+  permalink: /what-is-really-in-jamaicas-ufo-record/
+  short_title: Jamaica UFOs
+- basename: North_Macedonia_cece1d
+  title: North Macedonia UFOs
+  permalink: /what-is-really-in-north-macedonias-ufo/
+  short_title: North Macedonia UFOs
+- basename: Uzbekistan_db800e
+  title: Uzbekistan UFOs
+  permalink: /what-is-really-in-uzbekistans-ufo-record/
+  short_title: Uzbekistan UFOs
+- basename: Yemen_ac33d6
+  title: Yemen UFOs
+  permalink: /what-is-really-in-yemens-ufo-record/
+  short_title: Yemen UFOs
+- basename: Burundi_461758
+  title: Burundi UFOs
+  permalink: /what-is-really-known-about-burundi-ufos/
+  short_title: Burundi UFOs
+- basename: Colombia_2f7373
+  title: Colombia UAP
+  permalink: /what-is-really-known-about-colombias-ufo/
+  short_title: Colombia UAP
+- basename: Kiribati_3f57ad
+  title: Kiribati UFOs
+  permalink: /what-is-really-known-about-kiribati-ufos/
+  short_title: Kiribati UFOs
+- basename: Lesotho_93b12b
+  title: Lesotho UAP
+  permalink: /what-is-really-known-about-lesotho-ufos/
+  short_title: Lesotho UAP
+- basename: Niger_6687e1
+  title: Niger UFOs
+  permalink: /what-is-really-known-about-niger-ufos/
+  short_title: Niger UFOs
+- basename: Palau_e5e0b6
+  title: Palau UAP
+  permalink: /what-is-really-known-about-palau-ufos/
+  short_title: Palau UAP
+- basename: Turkmenistan_1f8dc1
+  title: Turkmenistan UFOs
+  permalink: /what-is-really-known-about-turkmenistan/
+  short_title: Turkmenistan UFOs
+- basename: Ireland_eb2131
+  title: Irish UAP
+  permalink: /what-is-really-seen-over-ireland/
+  short_title: Irish UAP
+- basename: Kazakhstan_2f36b6
+  title: Kazakhstan UFOs
+  permalink: /what-is-really-seen-over-kazakhstan/
+  short_title: Kazakhstan UFOs
+- basename: Ukraine_c951ec
+  title: Ukraine UFOs
+  permalink: /what-is-really-seen-over-ukraine/
+  short_title: Ukraine UFOs
+- basename: Rwanda_7266a1
+  title: Rwanda UFOs
+  permalink: /what-is-rwandas-real-ufo-record/
+  short_title: Rwanda UFOs
+- basename: Sri_Lanka_db33ad
+  title: Sri Lanka UFOs
+  permalink: /what-is-sri-lankas-ufo-record-really/
+  short_title: Sri Lanka UFOs
+- basename: Switzerland_77dcd8
+  title: Swiss UFOs
+  permalink: /what-is-switzerlands-ufo-record-really/
+  short_title: Swiss UFOs
+- basename: Lithuania_74a788
+  title: Lithuania UFOs
+  permalink: /what-lithuanias-ufo-reports-really-show/
+  short_title: Lithuania UFOs
+- basename: Egypt_1c39ab
+  title: EgyptUFOs
+  permalink: /what-makes-egypt-a-hotspot-for-ufo/
+  short_title: EgyptUFOs
+- basename: Italy_ad79ef
+  title: Italy UFOs
+  permalink: /what-makes-italys-ufo-record-unique-and/
+  short_title: Italy UFOs
+- basename: Japan_fcf29f
+  title: Japan UFOs
+  permalink: /what-makes-japans-ufo-record-so-unusual/
+  short_title: Japan UFOs
+- basename: Norway_988455
+  title: Norway UFOs
+  permalink: /what-makes-norways-ufo-record-different/
+  short_title: Norway UFOs
+- basename: Peru_36c572
+  title: Peru UFOs
+  permalink: /what-makes-perus-ufo-story-so/
+  short_title: Peru UFOs
+- basename: Sweden_72ddd2
+  title: Swedish UFOs
+  permalink: /what-makes-swedens-ufo-record-different/
+  short_title: Swedish UFOs
+- basename: New_Zealand_3d3336
+  title: NZ UFOs
+  permalink: /what-new-zealands-ufo-files-really-show/
+  short_title: NZ UFOs
+- basename: Sudan_1193ba
+  title: Sudan UFOs
+  permalink: /what-really-appeared-over-sudan/
+  short_title: Sudan UFOs
+- basename: Congo_77f256
+  title: Congo UFOs
+  permalink: /what-really-counts-as-a-congo-ufo/
+  short_title: Congo UFOs
+- basename: Oman_c14c36
+  title: Oman UFOs
+  permalink: /what-really-counts-as-an-oman-ufo/
+  short_title: Oman UFOs
+- basename: Ethiopia_3d91f7
+  title: Ethiopia UFOs
+  permalink: /what-really-counts-as-ethiopias-ufo/
+  short_title: Ethiopia UFOs
+- basename: Tonga_e8a123
+  title: Tonga UFOs
+  permalink: /what-really-exists-in-tongas-ufo-record/
+  short_title: Tonga UFOs
+- basename: Armenia_5f4599
+  title: Armenia UFOs
+  permalink: /what-really-explains-armenias-ufo/
+  short_title: Armenia UFOs
+- basename: Bulgaria_5c7772
+  title: Bulgaria UFOs
+  permalink: /what-really-explains-bulgarias-ufo/
+  short_title: Bulgaria UFOs
+- basename: Kyrgyzstan_c78791
+  title: Kyrgyzstan UFOs
+  permalink: /what-really-explains-kyrgyzstans-ufo/
+  short_title: Kyrgyzstan UFOs
+- basename: Marshall_Islands_ccbdc0
+  title: Marshall UFOs
+  permalink: /what-really-explains-marshall-islands/
+  short_title: Marshall UFOs
+- basename: Saudi_Arabia_8bf7f8
+  title: Saudi UFOs
+  permalink: /what-really-explains-saudi-arabias-ufo/
+  short_title: Saudi UFOs
+- basename: Vanuatu_d16ad2
+  title: Vanuatu UAP
+  permalink: /what-really-explains-vanuatus-strange/
+  short_title: Vanuatu UAP
+- basename: Kenya_a84f56
+  title: Kenya UFOs
+  permalink: /what-really-fell-from-kenyas-skies/
+  short_title: Kenya UFOs
+- basename: El_Salvador_9b83b7
+  title: El Salvador UFOs
+  permalink: /what-really-flies-over-el-salvador/
+  short_title: El Salvador UFOs
+- basename: Belgium_5cb4c9
+  title: Belgium
+  permalink: /what-really-happened-during-belgiums/
+  short_title: Belgium
+- basename: Australia_ceafb5
+  title: Australia UFOs
+  permalink: /what-really-happened-in-australias-ufo/
+  short_title: Australia UFOs
+- basename: Barbados_93409a
+  title: Barbados UFOs
+  permalink: /what-really-happened-in-barbados-skies/
+  short_title: Barbados UFOs
+- basename: Cambodia_314ccd
+  title: Cambodia UFOs
+  permalink: /what-really-happened-in-cambodias-ufo/
+  short_title: Cambodia UFOs
+- basename: Costa_Rica_fe586b
+  title: Costa Rica UFOs
+  permalink: /what-really-happened-in-costa-ricas-ufo/
+  short_title: Costa Rica UFOs
+- basename: Haiti_a4842f
+  title: Haiti UFOs
+  permalink: /what-really-happened-in-haitis-ufo/
+  short_title: Haiti UFOs
+- basename: Kuwait_93295b
+  title: Kuwait UAP
+  permalink: /what-really-happened-in-kuwaits-ufo/
+  short_title: Kuwait UAP
+- basename: Mauritius_26160d
+  title: Mauritius UFOs
+  permalink: /what-really-happened-in-mauritius-sky/
+  short_title: Mauritius UFOs
+- basename: Mexico_41937b
+  title: Mexico UFOs
+  permalink: /what-really-happened-in-mexicos-ufo/
+  short_title: Mexico UFOs
+- basename: Nepal_0e1d58
+  title: Nepal UFOs
+  permalink: /what-really-happened-in-nepals-ufo/
+  short_title: Nepal UFOs
+- basename: Nicaragua_481264
+  title: Nicaragua UFOs
+  permalink: /what-really-happened-in-nicaraguas-ufo/
+  short_title: Nicaragua UFOs
+- basename: Paraguay_71a452
+  title: Paraguay UFOs
+  permalink: /what-really-happened-in-paraguays-ufo/
+  short_title: Paraguay UFOs
+- basename: Poland_5ff03b
+  title: Poland UFOs
+  permalink: /what-really-happened-in-polands-ufo/
+  short_title: Poland UFOs
+- basename: Solomon_Islands_6f943d
+  title: Solomon UFOs
+  permalink: /what-really-happened-in-solomon/
+  short_title: Solomon UFOs
+- basename: Togo_30949d
+  title: Togo UFOs
+  permalink: /what-really-happened-in-togos-ufo-files/
+  short_title: Togo UFOs
+- basename: Tunisia_edf404
+  title: Tunisia UFOs
+  permalink: /what-really-happened-in-tunisias-ufo/
+  short_title: Tunisia UFOs
+- basename: Uganda_e92904
+  title: Uganda UFOs
+  permalink: /what-really-happened-in-ugandas-ufo/
+  short_title: Uganda UFOs
+- basename: Zimbabwe_5922f5
+  title: Zimbabwe UFOs
+  permalink: /what-really-happened-in-zimbabwes-ufo/
+  short_title: Zimbabwe UFOs
+- basename: Estonia_f0a96d
+  title: Estonia UFOs
+  permalink: /what-really-shapes-estonias-ufo-record/
+  short_title: Estonia UFOs
+- basename: Slovenia_d1aa05
+  title: Slovenia UFOs
+  permalink: /what-really-stands-out-in-slovenias-ufo/
+  short_title: Slovenia UFOs
+- basename: South_Africa_3b27c8
+  title: South Africa UFOs
+  permalink: /what-really-stands-out-in-south/
+  short_title: South Africa UFOs
+- basename: Mozambique_a40a9b
+  title: Mozambique UFOs
+  permalink: /what-really-survives-in-mozambiques-ufo/
+  short_title: Mozambique UFOs
+- basename: Romania_d6b897
+  title: Romania UFOs
+  permalink: /what-romanias-ufo-record-really-shows/
+  short_title: Romania UFOs
+- basename: Singapore_20c0b7
+  title: Singapore UFOs
+  permalink: /what-singapore-ufo-sightings-really-show/
+  short_title: Singapore UFOs
+- basename: Suriname_b17fc6
+  title: Suriname UFOs
+  permalink: /what-surinames-ufo-stories-really-show/
+  short_title: Suriname UFOs
+- basename: Senegal_d8973b
+  title: Senegal UFOs
+  permalink: /what-survives-in-senegals-ufo-record/
+  short_title: Senegal UFOs
+- basename: Cabo_Verde_2a5bf1
+  title: Cabo Verde UFOs
+  permalink: /what-ufo-reports-survive-cabo-verde/
+  short_title: Cabo Verde UFOs
+- basename: Cyprus_852add
+  title: CyprusUFOs
+  permalink: /what-ufo-sightings-have-shaped-cyprus/
+  short_title: CyprusUFOs
+- basename: Eritrea_18740a
+  title: Eritrea UFOs
+  permalink: /what-ufos-have-been-reported-in/
+  short_title: Eritrea UFOs
+- basename: Uruguay_66b989
+  title: Uruguay UFOs
+  permalink: /what-uruguays-ufo-files-really-show/
+  short_title: Uruguay UFOs
+- basename: Denmark_89da12
+  title: Denmark UFOs
+  permalink: /what-we-know-about-ufo-phenomena-in/
+  short_title: Denmark UFOs
+- basename: Guyana_bc88a2
+  title: Guyana UFOs
+  permalink: /what-we-know-about-ufo-sightings-in/
+  short_title: Guyana UFOs
+- basename: Mauritania_85fa35
+  title: Mauritania UAP
+  permalink: /why-are-mauritanias-ufo-records-so/
+  short_title: Mauritania UAP
+- basename: Grenada_dbf2a2
+  title: Grenada UFOs
+  permalink: /why-grenada-became-a-ufo-footnote/
+  short_title: Grenada UFOs
+- basename: San_Marino_8ff2c5
+  title: San Marino UFOs
+  permalink: /why-san-marino-became-a-ufo-meeting/
+  short_title: San Marino UFOs
+child_links:
+- basename: Liechtenstein_b0ddce_aviation_records_b9d383
+  title: Official Records | What Makes Liechtenstein's UFO Story...
+  permalink: /official-records-2a07b6/
+  short_title: Official Records
+  heading_title: Where Would Liechtenstein UFO Files Be?
+- basename: Liechtenstein_b0ddce_hans_adam_ufo_patron_937268
+  title: Royal Patronage | What Makes Liechtenstein's UFO Story...
+  permalink: /royal-patronage/
+  short_title: Royal Patronage
+  heading_title: Why Did Liechtenstein's Prince Fund UFO Research?
+- basename: Liechtenstein_b0ddce_strange_lights_expla_fd6687
+  title: Sky Reports | What Makes Liechtenstein's UFO Story...
+  permalink: /sky-reports/
+  short_title: Sky Reports
+  heading_title: Were Liechtenstein's Strange Lights Really UFOs?
+- basename: Liechtenstein_b0ddce_rhine_valley_skies_0e5bbf
+  title: Valley Skies | What Makes Liechtenstein's UFO Story...
+  permalink: /valley-skies/
+  short_title: Valley Skies
+  heading_title: Why Alpine Geography Makes UFOs Harder to Read
+prev_link:
+  basename: Japan_fcf29f
+  title: Japan UFOs
+  permalink: /what-makes-japans-ufo-record-so-unusual/
+  short_title: Japan UFOs
+next_link:
+  basename: Norway_988455
+  title: Norway UFOs
+  permalink: /what-makes-norways-ufo-record-different/
+  short_title: Norway UFOs
+date: '2026-05-31 04:21:02 '
+header:
+  og_image: /assets/images/Liechtenstein_b0ddce-overview-social.jpg
+  preview_image: /assets/images/Liechtenstein_b0ddce-overview.webp
+image: /assets/images/Liechtenstein_b0ddce-overview-social.jpg
+---
+
+## Why Liechtenstein Has a Sparse UFO Record
+
+Liechtenstein is small enough that even a modest evidence gap matters. Official statistics describe it as a country of roughly 41,000 people spread across eleven municipalities, with Schaan and Vaduz as the largest population centres. Its territory is only about 160 square kilometres, with the Rhine Valley forming the main settled corridor and the rest rising into slopes and inner-Alpine terrain. In practical terms, that means fewer witnesses, fewer newspapers, fewer police or aviation files, and fewer chances for repeated independent observation than in larger neighbouring countries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.statistikportal.li/statistikportal/publications/103-liechtenstein-in-figures/2026/01/1/102.2026.01.1_02_liechtenstein-in-figures-2026.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: statistikportal.li">[statistikportal.li]</a><span class="citation-popover" role="note"><span class="citation-popover-source">statistikportal.li</span><span class="citation-popover-title">102.2026.01.1 02 liechtenstein in figures 2026</span><span class="citation-popover-snippet">102.2026.01.1 02 liechtenstein in figures 2026</span></span></span>
+
+
+<img src="{{ "/assets/images/Liechtenstein_b0ddce-overview.webp" | relative_url }}" alt="Overview image for What Makes Liechtenstein&#x27;s UFO Story..." loading="eager" decoding="sync" fetchpriority="high">
+That does not mean unusual aerial observations never occur. It means the evidential baseline is fragile. A light seen from Balzers, Triesen, Vaduz, Schaan, Eschen, or Mauren can cross national borders in seconds, and the same object may be part of a Swiss, Austrian, German, or wider European sky event rather than a specifically Liechtenstein incident. The National UFO Reporting Center’s public location index lists many countries and gives nearby counts for Austria, Switzerland and others, but Liechtenstein does not appear as a separate listed country entry in the visible index; that absence is useful, but it is not proof that no residents have ever submitted reports elsewhere or under neighbouring locations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
+
+The country’s aviation administration also complicates any search for “national UFO files”. Liechtenstein’s own civil aviation page says its Office of Structural Engineering and Spatial Planning handles civil aviation matters, including drone-ban exemptions around government buildings, parliament buildings and Vaduz Castle, and landing permits for foreign military and state aircraft. It also states that Swiss aviation legislation is applied in Liechtenstein and enforced by Swiss authorities, with the Swiss Federal Office of Civil Aviation acting as the competent aviation authority. That makes [aviation records]({{ 'official-records-2a07b6/' | relative_url }}) a cross-border subject rather than a purely domestic Liechtenstein archive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.llv.li/en/national-administration/office-of-building-construction-and-spatial-planning/civil-aviation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: llv.li">[llv.li]</a><span class="citation-popover" role="note"><span class="citation-popover-source">llv.li</span><span class="citation-popover-title">Civil Aviation</span><span class="citation-popover-snippet">Civil Aviation</span></span></span>
+
+## A Short Chronology of the Best-Supported Material
+
+Liechtenstein’s UFO chronology is best understood as a narrow sequence of documented claims and explainable sky events, not a long catalogue of major incidents.
+
+**1950s family sighting stories.** The earliest UFO material connected to Liechtenstein’s ruling family is not a confirmed public incident over Liechtenstein itself. Swissinfo, drawing on Jacques Vallée’s diaries, reports that Prince Hans-Adam II told Vallée his interest had been awakened by a UFO sighting by his aunt in Munich in the 1950s, and that another family member was also said to have had an encounter. These are family-history claims as transmitted through Vallée’s records, not independently verified case files. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/ger/culture/ufo-forschung_der-fuerst-von-liechtenstein-und-das-ufo-das-richtung-schweiz-verschwand/45769790" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-title">SWI swissinfo.ch Der Fürst und das UFO, das Richtung Schweiz verschwand</span><span class="citation-popover-snippet">SWI swissinfo.ch Der Fürst und das UFO, das Richtung Schweiz verschwand</span></span></span>
+
+**1980s and 1990s [royal patronage]({{ 'royal-patronage/' | relative_url }}).** The best-documented UFO-related story involving Liechtenstein is Hans-Adam II’s contact with international ufology. Swissinfo reports that Vallée’s diaries place the prince in UFO discussions at Vaduz Castle in November 1989 and describe his financial support for researchers, meetings and studies, much of it directed towards the United States. One example given is a study, reportedly commissioned in the early 1990s with Robert Bigelow, to estimate how many Americans believed they had been abducted by extraterrestrials. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/ger/culture/ufo-forschung_der-fuerst-von-liechtenstein-und-das-ufo-das-richtung-schweiz-verschwand/45769790" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-title">SWI swissinfo.ch Der Fürst und das UFO, das Richtung Schweiz verschwand</span><span class="citation-popover-snippet">SWI swissinfo.ch Der Fürst und das UFO, das Richtung Schweiz verschwand</span></span></span>
+
+**2015 regional meteor event.** A bright meteor over Switzerland and southern Germany in March 2015 produced numerous reports to police and meteor astronomy specialists. Vaterland reported that the object was visible for five to six seconds and was identified as a meteor rather than an aircraft crash or anomalous craft. For Liechtenstein readers, this matters because regional fireballs can be seen across borders and can easily become local “mystery object” talk before an astronomical explanation is available. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vaterland.li/international/gesellschaft/vermischtes/meteor-kommt-der-schweiz-ganz-nahe-art-119429" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vaterland.li">[Vaterland online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vaterland.li</span><span class="citation-popover-title">online Meteor kommt der Schweiz ganz nahe</span><span class="citation-popover-snippet">online Meteor kommt der Schweiz ganz nahe</span></span></span>
+
+**2026 local “mystery flight object” report.** A more recent Liechtenstein media item described a strange observation in the night sky. Vaterland’s article summary says Hans Stromeyer, a spaceflight expert and project leader of MIR ’97, explained that the observed points of light were very probably not a single satellite but fragments of a rocket stage re-entering Earth’s atmosphere. This is a good example of the modern UFO pipeline: the initial observation is sincerely puzzling, but orbital debris and re-entry analysis may supply a conventional explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vaterland.li/international/gesellschaft/vermischtes/meteor-kommt-der-schweiz-ganz-nahe-art-119429" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vaterland.li">[Vaterland online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vaterland.li</span><span class="citation-popover-title">online Meteor kommt der Schweiz ganz nahe</span><span class="citation-popover-snippet">online Meteor kommt der Schweiz ganz nahe</span></span></span>
+
+
+<img src="{{ "/assets/images/Liechtenstein_b0ddce-Illustration-1-light.svg" | relative_url }}" alt="What Makes Liechtenstein&#x27;s UFO Story... illustration 1" data-theme-src-dark="{{ "/assets/images/Liechtenstein_b0ddce-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Liechtenstein_b0ddce-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Prince Hans-Adam II: The Central Liechtenstein UFO Story
+
+The most distinctive Liechtenstein contribution to UFO history is not a sighting report but patronage. Swissinfo’s 2020 investigation presents Hans-Adam II as a long-term sponsor of UFO research who maintained contacts with figures such as Jacques Vallée and Robert Bigelow. Vallée is a significant figure in UFO literature because he combined scientific and technical credentials with a long-standing interest in anomalous reports, while Bigelow became one of the best-known private funders of UFO-related research in the United States. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/ger/culture/ufo-forschung_der-fuerst-von-liechtenstein-und-das-ufo-das-richtung-schweiz-verschwand/45769790" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-title">SWI swissinfo.ch Der Fürst und das UFO, das Richtung Schweiz verschwand</span><span class="citation-popover-snippet">SWI swissinfo.ch Der Fürst und das UFO, das Richtung Schweiz verschwand</span></span></span>
+
+The same account should be handled carefully. Vallée’s diaries are valuable as a near-contemporaneous insider record, but diaries are not neutral laboratory data. They preserve conversations, impressions and claims from a research subculture where rumour, speculation, sincere belief and genuine investigation often overlapped. Swissinfo itself frames the wider UFO world around Vallée as one full of hobby researchers, officials, alleged contactees, myths and frauds, while also noting that some participants pursued evidence seriously. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/ger/culture/ufo-forschung_der-fuerst-von-liechtenstein-und-das-ufo-das-richtung-schweiz-verschwand/45769790" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-title">SWI swissinfo.ch Der Fürst und das UFO, das Richtung Schweiz verschwand</span><span class="citation-popover-snippet">SWI swissinfo.ch Der Fürst und das UFO, das Richtung Schweiz verschwand</span></span></span>
+
+The most credible conclusion is therefore limited but interesting: Hans-Adam II appears to have had a serious personal interest in the UFO subject and to have financed research connected to it. That does not validate extraterrestrial explanations, abduction claims, or speculative beliefs attributed to him in diary entries. It shows that Liechtenstein’s royal household intersected with the late twentieth-century international UFO network in a way that is unusual for a European microstate.
+
+## Local Reports: What Counts as Evidence?
+
+For Liechtenstein, evidence quality varies sharply by type.
+
+**Confirmed evidence** includes documented media reporting about Hans-Adam II’s UFO research connections, the official structure of civil aviation responsibilities, and conventional explanations for regional sky phenomena such as meteors or likely rocket-stage re-entry. These do not prove extraordinary craft; they prove that UFO discourse, reports and explanations have touched Liechtenstein in traceable ways. Vaterland online <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/ger/culture/ufo-forschung_der-fuerst-von-liechtenstein-und-das-ufo-das-richtung-schweiz-verschwand/45769790" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-title">SWI swissinfo.ch Der Fürst und das UFO, das Richtung Schweiz verschwand</span><span class="citation-popover-snippet">SWI swissinfo.ch Der Fürst und das UFO, das Richtung Schweiz verschwand</span></span></span>
+
+**Contested evidence** includes family sighting stories and diary-based claims about what the prince believed or said. They are relevant because they explain why a head of state may have funded UFO research, but they remain second-hand or third-hand accounts unless supported by independent witness statements, photographs, instrument data, or official incident records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/ger/culture/ufo-forschung_der-fuerst-von-liechtenstein-und-das-ufo-das-richtung-schweiz-verschwand/45769790" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-title">SWI swissinfo.ch Der Fürst und das UFO, das Richtung Schweiz verschwand</span><span class="citation-popover-snippet">SWI swissinfo.ch Der Fürst und das UFO, das Richtung Schweiz verschwand</span></span></span>
+
+**Debunked or conventionally explained claims** include some “strange light” episodes where the explanation is a meteor, satellite train, rocket-stage debris, or re-entry. The 2015 meteor report and the 2026 re-entry explanation show the pattern clearly: a dramatic observation can be real, widely noticed and initially mysterious without being anomalous in the stronger sense. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vaterland.li/international/gesellschaft/vermischtes/meteor-kommt-der-schweiz-ganz-nahe-art-119429" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vaterland.li">[Vaterland online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vaterland.li</span><span class="citation-popover-title">online Meteor kommt der Schweiz ganz nahe</span><span class="citation-popover-snippet">online Meteor kommt der Schweiz ganz nahe</span></span></span>
+
+**Weak evidence** includes generic UFO-database pages that invite Liechtenstein reports but provide little or no verifiable local detail. Such pages may be useful as reporting portals, but they should not be treated as national archives unless they provide dates, places, witness descriptions, original submissions and a clear review standard. NUFORC is more transparent about its own limitations, stating that its reports are public and reviewed, but also that it makes no claims as to their validity and that most are posted in the witness’s own words. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank | NUFORC</span><span class="citation-popover-snippet">Data Bank | NUFORC</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MJy8GCuRfY4" title="Ancient Aliens: Prince Philip&#x27;s Secret UFO Investigation (Season 18) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MJy8GCuRfY4" target="_blank" rel="noopener noreferrer">Ancient Aliens: Prince Philip&#x27;s Secret UFO Investigation (Season 18) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 737.9K &middot; Uploaded: February 2022 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MJy8GCuRfY4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MJy8GCuRfY4">Open on YouTube</a></p></div></div></div>
+
+## Why the Rhine Valley and the Mountains Matter
+
+Liechtenstein’s geography affects how aerial mysteries are seen. The Rhine Valley is a narrow, settled corridor with roads, villages, industry and cross-border movement. Lights seen from this strip may be aircraft approaching or leaving regional airports, helicopters, drones, satellites, planets low on the horizon, meteors, or reflections seen against mountain silhouettes. The same line of sight can point across Switzerland, Austria or Germany, so a witness may describe a “Liechtenstein” sighting even when the object’s path is regional.
+
+The mountain areas change the viewing conditions. Darker skies away from the valley improve visibility of meteors and satellites, while ridges can hide or reveal moving objects abruptly, making ordinary lights appear to vanish behind trees, slopes or cloud. Seasonal tourism around places such as Malbun also changes the witness mix: a winter visitor, a hiker, a commuter and a local astronomer may describe the same sky event very differently. The official description of the country as a small state divided between the Rhine Valley and Alpine terrain is therefore not just geography; it shapes UFO interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bayefsky.com/reports/liechtenstein_e_1990_5_add_66_2004_annex.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bayefsky.com">[bayefsky.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bayefsky.com</span><span class="citation-popover-title">Microsoft Word</span><span class="citation-popover-snippet">Microsoft Word</span></span></span>
+
+
+<img src="{{ "/assets/images/Liechtenstein_b0ddce-Illustration-3-light.svg" | relative_url }}" alt="What Makes Liechtenstein&#x27;s UFO Story... illustration 3" data-theme-src-dark="{{ "/assets/images/Liechtenstein_b0ddce-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Liechtenstein_b0ddce-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## The Most Likely Explanations for Liechtenstein Sightings
+
+Most plausible Liechtenstein UFO reports are likely to fall into a few recurring categories.
+
+Meteors and fireballs are among the strongest candidates for sudden bright objects. They can be spectacular, brief and alarming, and regional examples have produced police and astronomy reports in nearby Switzerland. The 2015 meteor event described by Vaterland lasted only seconds, exactly the kind of duration that can generate urgent witness reports before the explanation is known. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vaterland.li/international/gesellschaft/vermischtes/meteor-kommt-der-schweiz-ganz-nahe-art-119429" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vaterland.li">[Vaterland online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vaterland.li</span><span class="citation-popover-title">online Meteor kommt der Schweiz ganz nahe</span><span class="citation-popover-snippet">online Meteor kommt der Schweiz ganz nahe</span></span></span>
+
+Satellites and satellite trains are another modern source of confusion. Space.com notes that Starlink satellites can appear shortly after launch as a line of bright, evenly spaced moving lights and are often mistaken for UFOs because of their unusual appearance. This explanation is especially relevant for reports describing multiple points moving in formation across a clear evening sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">Starlink satellite train: how to see and track it in the night sky</span></span></span>
+
+Rocket bodies and re-entering debris can produce longer, fragmented light displays. The 2026 Vaterland report is important because it shows a Liechtenstein-specific media case in which a spaceflight expert reportedly favoured rocket-stage fragments re-entering the atmosphere. That category can look stranger than a meteor because debris may break into several glowing pieces, persist for longer, and move in a cluster. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vaterland.li/international/gesellschaft/vermischtes/meteor-kommt-der-schweiz-ganz-nahe-art-119429" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vaterland.li">[Vaterland online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vaterland.li</span><span class="citation-popover-title">online Meteor kommt der Schweiz ganz nahe</span><span class="citation-popover-snippet">online Meteor kommt der Schweiz ganz nahe</span></span></span>
+
+Drones and aircraft remain ordinary but important explanations. Liechtenstein has a drone flight-ban zone around government buildings, parliament buildings and Vaduz Castle, and the national civil aviation page explicitly lists exemptions from that ban as part of the relevant office’s responsibilities. A drone near Vaduz at dusk, especially seen from below or at an angle against the castle hill, could easily become a “mystery light” unless flight permissions, location and timing are checked. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.llv.li/serviceportal2/amtsstellen/stabstelle-fuer-staatliche-liegenschaften/ssl-abi-projekt-schulzentrum-muehleholz.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: llv.li">[llv.li]</a><span class="citation-popover" role="note"><span class="citation-popover-source">llv.li</span><span class="citation-popover-snippet">Open source on llv.li.</span></span></span>
+
+
+<img src="{{ "/assets/images/Liechtenstein_b0ddce-Illustration-2-light.svg" | relative_url }}" alt="What Makes Liechtenstein&#x27;s UFO Story... illustration 2" data-theme-src-dark="{{ "/assets/images/Liechtenstein_b0ddce-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Liechtenstein_b0ddce-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## How to Verify a Liechtenstein UFO Claim
+
+A useful Liechtenstein UFO report should be tested in a cross-border way. The first question is not “Was it alien?” but “What airspace, sky event or orbital event matched the time and direction?”
+
+A strong report should include the exact date and time, municipality, viewing direction, angular height above the horizon, duration, colour, motion, sound, weather, number of witnesses, and whether any photo or video preserves the original metadata. For Liechtenstein, the location should be precise because a few kilometres can change whether the line of sight points over Switzerland, Austria, the Rhine Valley, or the mountains.
+
+The next check is against ordinary sources: meteor reports, satellite and Starlink trackers, aircraft-tracking data where available, drone restrictions, local police notices, weather radar, and regional news from Switzerland and Vorarlberg. Because Swiss aviation law and Swiss authorities are central to Liechtenstein’s aviation framework, unexplained aircraft-like events may need Swiss as well as Liechtenstein context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.llv.li/en/news/brochure-lt%3Cliechtenstein-in-zahlen-2025%3Egt-is-published" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: llv.li">[llv.li]</a><span class="citation-popover" role="note"><span class="citation-popover-source">llv.li</span><span class="citation-popover-title">brochure lt gt is published</span><span class="citation-popover-snippet">brochure lt gt is published</span></span></span>
+
+The final test is independence. A single witness report can be interesting, but it becomes much stronger if several observers from different municipalities, or from both sides of the Rhine, describe the same object consistently. Instrument data, unedited images, or a matching official aviation or astronomical record can move a case from anecdote to something worth sustained investigation.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BvvHyt_faa0" title="&quot;The Queen Was Into Crop Circles&quot; | Documentary Explores Royals Fascination With UFO&#x27;s And Aliens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BvvHyt_faa0" target="_blank" rel="noopener noreferrer">&quot;The Queen Was Into Crop Circles&quot; | Documentary Explores Royals Fascination With UFO&#x27;s And Aliens</a></p><p class="youtube-embed-meta">Channel: TalkTV &middot; Views: 13.2K &middot; Uploaded: October 2024 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BvvHyt_faa0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BvvHyt_faa0">Open on YouTube</a></p></div></div></div>
+
+## What Is Known, What Is Not
+
+The known record supports a modest conclusion. Liechtenstein has a real UFO-related footprint, but it is not primarily a catalogue of unexplained national incidents. Its most substantial thread is the documented connection between Prince Hans-Adam II and international UFO research circles. Its local sighting record is sparse, and the strongest recent examples point towards conventional explanations such as meteors and re-entering space debris. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/ger/culture/ufo-forschung_der-fuerst-von-liechtenstein-und-das-ufo-das-richtung-schweiz-verschwand/45769790" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-title">SWI swissinfo.ch Der Fürst und das UFO, das Richtung Schweiz verschwand</span><span class="citation-popover-snippet">SWI swissinfo.ch Der Fürst und das UFO, das Richtung Schweiz verschwand</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vaterland.li/international/gesellschaft/vermischtes/meteor-kommt-der-schweiz-ganz-nahe-art-119429" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vaterland.li">[Vaterland online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vaterland.li</span><span class="citation-popover-title">online Meteor kommt der Schweiz ganz nahe</span><span class="citation-popover-snippet">online Meteor kommt der Schweiz ganz nahe</span></span></span>
+
+What remains unknown is whether there are unpublished police notes, private witness files, local newspaper items, or Swiss-linked aviation records that would significantly enlarge the picture. The current public evidence does not justify dramatic claims about Liechtenstein as a UFO hotspot. It does justify treating the principality as a small but distinctive branch of the wider Central European UFO story: sparse in sightings, unusually rich in royal patronage, and highly dependent on careful cross-border explanation.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/szGw3MxzY0k" title="THE KING OF UFOs Official Trailer (2024) Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=szGw3MxzY0k" target="_blank" rel="noopener noreferrer">THE KING OF UFOs Official Trailer (2024) Documentary</a></p><p class="youtube-embed-meta">Channel: Indie Film Worldwide | BritFlicks &middot; Views: 7.6K &middot; Uploaded: May 2024 &middot; Length: 1 minute 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=szGw3MxzY0k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=szGw3MxzY0k">Open on YouTube</a></p></div></div></div>
+
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to What Makes Liechtenstein&#x27;s UFO Story Unusual?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+        </h4>
+        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        
+        <p class="fr-book-desc">Provides a structured approach to sparse national sighting records.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+        </h4>
+        <p class="fr-book-author">By J. Allen Hynek</p>
+        
+        <p class="fr-book-desc">Useful comparative reading on documented versus undocumented UFO histories.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael D. Swords</p>
+        
+        <p class="fr-book-desc">Helps place Liechtenstein&#x27;s sparse record in a wider international context.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+        </h4>
+        <p class="fr-book-author">By Jacques Vallee</p>
+        
+        <p class="fr-book-desc">Fits a page focused on unusual national UFO narratives and cultural context.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: swissinfo.ch  
+   Title: SWI swissinfo.ch Der Fürst und das UFO, das Richtung Schweiz verschwand  
+   Link: [https://www.swissinfo.ch/ger/culture/ufo-forschung_der-fuerst-von-liechtenstein-und-das-ufo-das-richtung-schweiz-verschwand/45769790](https://www.swissinfo.ch/ger/culture/ufo-forschung_der-fuerst-von-liechtenstein-und-das-ufo-das-richtung-schweiz-verschwand/45769790)  
+
+2. <a id="endnote-2"></a>
+   Source: llv.li  
+   Title: Civil Aviation  
+   Link: [https://www.llv.li/en/national-administration/office-of-building-construction-and-spatial-planning/civil-aviation](https://www.llv.li/en/national-administration/office-of-building-construction-and-spatial-planning/civil-aviation)  
+
+3. <a id="endnote-3"></a>
+   Source: statistikportal.li  
+   Title: 102.2026.01.1 02 liechtenstein in figures 2026  
+   Link: [https://www.statistikportal.li/statistikportal/publications/103-liechtenstein-in-figures/2026/01/1/102.2026.01.1_02_liechtenstein-in-figures-2026.pdf](https://www.statistikportal.li/statistikportal/publications/103-liechtenstein-in-figures/2026/01/1/102.2026.01.1_02_liechtenstein-in-figures-2026.pdf)  
+
+4. <a id="endnote-4"></a>
+   Source: bayefsky.com  
+   Title: Microsoft Word  
+   Link: [https://www.bayefsky.com/reports/liechtenstein_e_1990_5_add_66_2004_annex.pdf](https://www.bayefsky.com/reports/liechtenstein_e_1990_5_add_66_2004_annex.pdf)  
+
+5. <a id="endnote-5"></a>
+   Source: nuforc.org  
+   Title: Reports by Location  
+   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+
+6. <a id="endnote-6"></a>
+   Source: vaterland.li  
+   Title: online Meteor kommt der Schweiz ganz nahe  
+   Link: [https://www.vaterland.li/international/gesellschaft/vermischtes/meteor-kommt-der-schweiz-ganz-nahe-art-119429](https://www.vaterland.li/international/gesellschaft/vermischtes/meteor-kommt-der-schweiz-ganz-nahe-art-119429)  
+
+7. <a id="endnote-7"></a>
+   Source: vaterland.li  
+   Title: online Mysteriöse Flugobjektsichtung am Freitag  
+   Link: [https://www.vaterland.li/liechtenstein/gesellschaft/mysterioese-flugobjektsichtung-am-freitag-art-728245](https://www.vaterland.li/liechtenstein/gesellschaft/mysterioese-flugobjektsichtung-am-freitag-art-728245)  
+
+8. <a id="endnote-8"></a>
+   Source: nuforc.org  
+   Title: Data Bank | NUFORC  
+   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
+
+9. <a id="endnote-9"></a>
+   Source: space.com  
+   Title: Starlink satellite train: how to see and track it in the night sky  
+   Link: [https://www.space.com/starlink-satellite-train-how-to-see-and-track-it](https://www.space.com/starlink-satellite-train-how-to-see-and-track-it)  
+
+10. <a id="endnote-10"></a>
+   Source: llv.li  
+   Link: [https://www.llv.li/serviceportal2/amtsstellen/stabstelle-fuer-staatliche-liegenschaften/ssl-abi-projekt-schulzentrum-muehleholz.pdf](https://www.llv.li/serviceportal2/amtsstellen/stabstelle-fuer-staatliche-liegenschaften/ssl-abi-projekt-schulzentrum-muehleholz.pdf)  
+
+11. <a id="endnote-11"></a>
+   Source: llv.li  
+   Title: brochure lt<liechtenstein in zahlen 2025>gt is published  
+   Link: [https://www.llv.li/en/news/brochure-lt%3Cliechtenstein-in-zahlen-2025%3Egt-is-published](https://www.llv.li/en/news/brochure-lt%3Cliechtenstein-in-zahlen-2025%3Egt-is-published)  
+
+12. <a id="endnote-12"></a>
+   Source: llv.li  
+   Title: 40900 persons in the citizen population  
+   Link: [https://www.llv.li/en/news/40900-persons-in-the-citizen-population](https://www.llv.li/en/news/40900-persons-in-the-citizen-population)  
+
+13. <a id="endnote-13"></a>
+   Source: nuforc.org  
+   Link: [https://nuforc.org/](https://nuforc.org/)  
+
+14. <a id="endnote-14"></a>
+   Source: nuforc.org  
+   Link: [https://nuforc.org/map/](https://nuforc.org/map/)  
+
+15. <a id="endnote-15"></a>
+   Source: nuforc.org  
+   Link: [https://nuforc.org/subndx/?id=v](https://nuforc.org/subndx/?id=v)  
+
+16. <a id="endnote-16"></a>
+   Source: statistikportal.li  
+   Title: 103.2025.01.1 01 liechtenstein in figures 2025  
+   Link: [https://www.statistikportal.li/statistikportal/publications/103-liechtenstein-in-figures/2025/01/1/103.2025.01.1_01_liechtenstein-in-figures-2025.pdf](https://www.statistikportal.li/statistikportal/publications/103-liechtenstein-in-figures/2025/01/1/103.2025.01.1_01_liechtenstein-in-figures-2025.pdf)  
+
+17. <a id="endnote-17"></a>
+   Source: statistikportal.li  
+   Title: 103.2024.01.1 01 liechtenstein in figures 2024  
+   Link: [https://www.statistikportal.li/statistikportal/publications/103-liechtenstein-in-figures/2024/01/1/103.2024.01.1_01_liechtenstein-in-figures-2024.pdf](https://www.statistikportal.li/statistikportal/publications/103-liechtenstein-in-figures/2024/01/1/103.2024.01.1_01_liechtenstein-in-figures-2024.pdf)  
+
+18. <a id="endnote-18"></a>
+   Source: swissinfo.ch  
+   Title: liechtenstein das etwas andere frauenstimmrecht  
+   Link: [https://www.swissinfo.ch/ger/politics/liechtenstein_das-etwas-andere-frauenstimmrecht/46420194](https://www.swissinfo.ch/ger/politics/liechtenstein_das-etwas-andere-frauenstimmrecht/46420194)  
+
+19. <a id="endnote-19"></a>
+   Source: swissinfo.ch  
+   Title: Gesellschaft Archives  
+   Link: [https://www.swissinfo.ch/ger/topic/gesellschaft/page/128/](https://www.swissinfo.ch/ger/topic/gesellschaft/page/128/)  
+
+20. <a id="endnote-20"></a>
+   Source: swissinfo.ch  
+   Title: liechtenstein o príncipe caçador de discos voadores  
+   Link: [https://www.swissinfo.ch/por/culture/liechtenstein_o-pr%C3%ADncipe-ca%C3%A7ador-de-discos-voadores/45799684](https://www.swissinfo.ch/por/culture/liechtenstein_o-pr%C3%ADncipe-ca%C3%A7ador-de-discos-voadores/45799684)  
+
+21. <a id="endnote-21"></a>
+   Source: 2009-2017.state.gov  
+   Link: [https://2009-2017.state.gov/outofdate/bgn/liechtenstein/14622.htm](https://2009-2017.state.gov/outofdate/bgn/liechtenstein/14622.htm)  
+
+22. <a id="endnote-22"></a>
+   Source: vaterland.li  
+   Title: bis zu 140 sternschnuppen pro stunde art 283359  
+   Link: [https://www.vaterland.li/liechtenstein/gesellschaft/vermischtes/bis-zu-140-sternschnuppen-pro-stunde-art-283359](https://www.vaterland.li/liechtenstein/gesellschaft/vermischtes/bis-zu-140-sternschnuppen-pro-stunde-art-283359)  
+
+23. <a id="endnote-23"></a>
+   Source: vaterland.li  
+   Link: [https://www.vaterland.li/?ressort%253Dhome%2526source%253Dsda%2526id%253D159175=](https://www.vaterland.li/?ressort%253Dhome%2526source%253Dsda%2526id%253D159175=)  
+
+24. <a id="endnote-24"></a>
+   Source: vaterland.li  
+   Link: [https://www.vaterland.li/?ressort=](https://www.vaterland.li/?ressort=)  
+
+25. <a id="endnote-25"></a>
+   Source: vaterland.li  
+   Link: [https://www.vaterland.li/?id%253D29177%2526source%253Dlv%2526ressort%253Dhome=](https://www.vaterland.li/?id%253D29177%2526source%253Dlv%2526ressort%253Dhome=)  
+
+26. <a id="endnote-26"></a>
+   Source: vaterland.li  
+   Title: spacex bringt us militaersatelliten ins all art 364270  
+   Link: [https://www.vaterland.li/international/wirtschaft/international/spacex-bringt-us-militaersatelliten-ins-all-art-364270](https://www.vaterland.li/international/wirtschaft/international/spacex-bringt-us-militaersatelliten-ins-all-art-364270)  
+
+27. <a id="endnote-27"></a>
+   Source: vaterland.li  
+   Title: swissloop stellt claude nicollier vor art 389624  
+   Link: [https://www.vaterland.li/international/wirtschaft/international/swissloop-stellt-claude-nicollier-vor-art-389624](https://www.vaterland.li/international/wirtschaft/international/swissloop-stellt-claude-nicollier-vor-art-389624)  
+
+28. <a id="endnote-28"></a>
+   Source: vaterland.li  
+   Title: obama weiter vertrauen in raumfahrt art 93815  
+   Link: [https://www.vaterland.li/international/obama-weiter-vertrauen-in-raumfahrt-art-93815](https://www.vaterland.li/international/obama-weiter-vertrauen-in-raumfahrt-art-93815)  
+
+29. <a id="endnote-29"></a>
+   Source: vaduz.li  
+   Title: Nr. 30 September 2002  
+   Link: [https://www.vaduz.li/application/files/4016/0806/6087/Nr._30_-_September_2002.pdf](https://www.vaduz.li/application/files/4016/0806/6087/Nr._30_-_September_2002.pdf)  
+   Published: September 2002  
+
+30. <a id="endnote-30"></a>
+   Source: archive.org  
+   Link: [https://archive.org/stream/anzeiger1899germuoft/anzeiger1899germuoft_djvu.txt](https://archive.org/stream/anzeiger1899germuoft/anzeiger1899germuoft_djvu.txt)  
+
+31. <a id="endnote-31"></a>
+   Source: space.com  
+   Title: perseid meteor shower 2026 guide  
+   Link: [https://www.space.com/perseid-meteor-shower-2026-guide](https://www.space.com/perseid-meteor-shower-2026-guide)  
+
+32. <a id="endnote-32"></a>
+   Source: Wikipedia  
+   Link: [https://en.wikipedia.org/wiki/Liechtenstein](https://en.wikipedia.org/wiki/Liechtenstein)  
+
+33. <a id="endnote-33"></a>
+   Source: eliechtensteinensia.li  
+   Link: [https://www.eliechtensteinensia.li/viewer/api/v1/records/000476564_2017/files/images/2017-08-11_006_vbhp_4c_2017-08-11.tif/full.pdf?divID=LOG_0003](https://www.eliechtensteinensia.li/viewer/api/v1/records/000476564_2017/files/images/2017-08-11_006_vbhp_4c_2017-08-11.tif/full.pdf?divID=LOG_0003)  
+
+34. <a id="endnote-34"></a>
+   Source: eliechtensteinensia.li  
+   Link: [https://www.eliechtensteinensia.li/viewer/api/v1/records/000476564_2014/files/images/2014-04-02_024_vbhp_4c_2014-04-02.tif/full.pdf?divID=LOG_0003](https://www.eliechtensteinensia.li/viewer/api/v1/records/000476564_2014/files/images/2014-04-02_024_vbhp_4c_2014-04-02.tif/full.pdf?divID=LOG_0003)  
+
+35. <a id="endnote-35"></a>
+   Source: austria-forum.org  
+   Title: Hans-Adam II  
+   Link: [https://austria-forum.org/af/AustriaWiki/Hans-Adam_II](https://austria-forum.org/af/AustriaWiki/Hans-Adam_II)  
+
+36. <a id="endnote-36"></a>
+   Source: destatis.de  
+   Link: [https://www.destatis.de/Europa/EN/Country/EFTA-countries/Liechtenstein.html](https://www.destatis.de/Europa/EN/Country/EFTA-countries/Liechtenstein.html)  
+
+37. <a id="endnote-37"></a>
+   Source: macrotrends.net  
+   Link: [https://www.macrotrends.net/global-metrics/countries/lie/liechtenstein/population](https://www.macrotrends.net/global-metrics/countries/lie/liechtenstein/population)  
+
+38. <a id="endnote-38"></a>
+   Source: geofactbook.com  
+   Link: [https://geofactbook.com/countries/liechtenstein](https://geofactbook.com/countries/liechtenstein)  
+
+39. <a id="endnote-39"></a>
+   Source: spacevalley.ch  
+   Link: [https://spacevalley.ch/](https://spacevalley.ch/)  
+
+40. <a id="endnote-40"></a>
+   Source: tradingeconomics.com  
+   Link: [https://tradingeconomics.com/liechtenstein/population](https://tradingeconomics.com/liechtenstein/population)  
+
+41. <a id="endnote-41"></a>
+   Source: ourworldindata.org  
+   Link: [https://ourworldindata.org/profile/population-demography/liechtenstein](https://ourworldindata.org/profile/population-demography/liechtenstein)  
+
+42. <a id="endnote-42"></a>
+   Source: metabunk.org  
+   Title: nuforc sightings categorized by decade and shape.14610  
+   Link: [https://www.metabunk.org/threads/nuforc-sightings-categorized-by-decade-and-shape.14610/](https://www.metabunk.org/threads/nuforc-sightings-categorized-by-decade-and-shape.14610/)  
+
+### Additional References
+
+43. <a id="endnote-43"></a>
+   Source: youtube.com  
+   Title: Ancient Aliens: Prince Philip's Secret UFO Investigation (Season 18) | History  
+   Link: [https://www.youtube.com/watch?v=MJy8GCuRfY4](https://www.youtube.com/watch?v=MJy8GCuRfY4)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;The Queen Was Into Crop Circles&quot; | Documentary Explores Royals Fascination With UFO&#x27;s And Aliens...</p></details>
+
+44. <a id="endnote-44"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=SGoFFEInFyQ](https://www.youtube.com/watch?v=SGoFFEInFyQ)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Secrets They Tried to Hide | The Proof Is Out There | History...</p></details>
+
+45. <a id="endnote-45"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=BvvHyt_faa0](https://www.youtube.com/watch?v=BvvHyt_faa0)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE KING OF UFOs Official Trailer (2024) Documentary...</p></details>
+
+46. <a id="endnote-46"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=szGw3MxzY0k](https://www.youtube.com/watch?v=szGw3MxzY0k)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The King Of UFOs FULL DOCUMENTARY | Royal Family Documentaries | Dan Costello | The Dock...</p></details>
+
+47. <a id="endnote-47"></a>
+   Source: instagram.com  
+   Link: [https://www.instagram.com/p/DMFEeEZqMvE/](https://www.instagram.com/p/DMFEeEZqMvE/)  
+
+48. <a id="endnote-48"></a>
+   Source: academia.edu  
+   Link: [https://www.academia.edu/107388360/Hyperconvergence_Religion_Politics_and_UFOs](https://www.academia.edu/107388360/Hyperconvergence_Religion_Politics_and_UFOs)  
+
+49. <a id="endnote-49"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/sthlmsf/posts/150kr/1005872955134802/](https://www.facebook.com/sthlmsf/posts/150kr/1005872955134802/)  
+
+50. <a id="endnote-50"></a>
+   Source: bautzenerbote.de  
+   Link: [https://www.bautzenerbote.de/570-ps-beschlagnahmter-ferrari-soll-tschechischer-polizei-bei-verfolgungsjagden-helfen/](https://www.bautzenerbote.de/570-ps-beschlagnahmter-ferrari-soll-tschechischer-polizei-bei-verfolgungsjagden-helfen/)  
+
+51. <a id="endnote-51"></a>
+   Source: portugalresident.com  
+   Link: [https://www.portugalresident.com/sv/air-force-alert-for-ufo/](https://www.portugalresident.com/sv/air-force-alert-for-ufo/)  
+
+52. <a id="endnote-52"></a>
+   Source: instagram.com  
+   Link: [https://www.instagram.com/p/DTiK2vujUVG/](https://www.instagram.com/p/DTiK2vujUVG/)  

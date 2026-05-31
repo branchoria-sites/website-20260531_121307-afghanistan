@@ -1,0 +1,551 @@
+---
+level: 2
+basename: Russian_Federation_87c89a_dalnegorsk_debris_cl_f4dfd7
+parent_basename: Russian_Federation_87c89a
+child_basenames: []
+sibling_basenames:
+- Russian_Federation_87c89a_petrozavodsk_rocket_49a93a
+- Russian_Federation_87c89a_soviet_ufo_program_ef78b5
+- Russian_Federation_87c89a_voronezh_media_boom_b4a346
+tags:
+- russian-federation
+- dalnegorsk
+keywords:
+- russian-federation
+- dalnegorsk
+affiliate_category: russian-federation
+show_ads: true
+description: Dalnegorsk remains compelling because alleged material traces make it feel more evidential than most Russian UFO stories.
+hero_summary: Dalnegorsk remains compelling because alleged material traces make it feel more evidential than most Russian UFO stories.
+layout: default
+permalink: /dalnegorsk/
+sidebar_expanded_urls:
+- /russian-federation/
+nav_short_title: Dalnegorsk
+title: Why Is Dalnegorsk Called Russia's Roswell?
+title_full: Why Is Dalnegorsk Called Russia's Roswell? | Russian UFOs
+display_title_short: Dalnegorsk
+display_title: Dalnegorsk
+heading_title: Why Is Dalnegorsk Called Russia's Roswell?
+page_heading_title: Why Is Dalnegorsk Called Russia's Roswell?
+source_count: 29
+infographic_count: 3
+planned_sections:
+- The red sphere and Height 611
+- Metal droplets and residue claims
+- What debris can and cannot prove
+focal_unit_type: event_time_window
+topic_lens: evidence
+topic_granularity: case_family
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+parent_title: Russian UFOs
+parent_permalink: /russian-federation/
+parent_nav_short_title: Russian UFOs
+parent_heading_title: Russia's UFO Files, Myths, and Missile Trails
+ancestor_links:
+- basename: Russian_Federation_87c89a
+  title: Russian UFOs
+  permalink: /russian-federation/
+  short_title: Russian UFOs
+breadcrumb_links:
+- basename: Russian_Federation_87c89a
+  title: Russian UFOs
+  permalink: /russian-federation/
+  short_title: Russian UFOs
+sibling_links:
+- basename: Russian_Federation_87c89a_petrozavodsk_rocket_49a93a
+  title: Petrozavodsk | Russia's UFO Files, Myths, and Missile Trails
+  permalink: /petrozavodsk/
+  short_title: Petrozavodsk
+  heading_title: Was Petrozavodsk a UFO or a Rocket Plume?
+- basename: Russian_Federation_87c89a_soviet_ufo_program_ef78b5
+  title: State Files | Russia's UFO Files, Myths, and Missile Trails
+  permalink: /state-files/
+  short_title: State Files
+  heading_title: What Did Soviet UFO Investigators Actually Find?
+- basename: Russian_Federation_87c89a_voronezh_media_boom_b4a346
+  title: Voronezh | Russia's UFO Files, Myths, and Missile Trails
+  permalink: /voronezh/
+  short_title: Voronezh
+  heading_title: Why Did Voronezh Become a UFO Sensation?
+up_link:
+  basename: Russian_Federation_87c89a
+  title: Russian UFOs
+  permalink: /russian-federation/
+  short_title: Russian UFOs
+next_link:
+  basename: Russian_Federation_87c89a_petrozavodsk_rocket_49a93a
+  title: Petrozavodsk | Russia's UFO Files, Myths, and Missile Trails
+  permalink: /petrozavodsk/
+  short_title: Petrozavodsk
+  heading_title: Was Petrozavodsk a UFO or a Rocket Plume?
+date: '2026-05-31 04:29:07 '
+header:
+  og_image: /assets/images/Russian_Federation_87c89a_dalnegorsk_debris_cl_f4dfd7-Illustration-1-social.jpg
+  preview_image: /assets/images/Russian_Federation_87c89a_dalnegorsk_debris_cl_f4dfd7-Illustration-1.webp
+image: /assets/images/Russian_Federation_87c89a_dalnegorsk_debris_cl_f4dfd7-Illustration-1-social.jpg
+---
+
+## Introduction
+
+The Dalnegorsk incident is one of the most persistent UFO cases in the [Russian Federation]({{ 'russian-federation/' | relative_url }}) because it is not remembered primarily for eyewitness testimony. It is remembered for alleged physical traces. On 29 January 1986, residents of the mining town of Dalnegorsk in Primorsky Krai reported seeing a glowing red sphere move across the evening sky before striking a hillside known as Height 611. Witnesses described a bright object with no obvious tail, followed by a fire on the slope rather than a large explosion. What transformed the story from a local sighting into “Russia’s Roswell” was the later claim that investigators recovered unusual metallic droplets, glass-like material, and microscopic structures from the site. <span class="citation-chip-wrap"><a class="citation-chip" href="https://it.wikipedia.org/wiki/Incidente_di_Dal%27negorsk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente di Dal&#x27;negorsk</span><span class="citation-popover-snippet">September 14, 2011 — L&#x27;incidente di Dal&#x27;negorsk è un presunto UFO crash che sarebbe avvenuto in Unione Sovietica a Dal&#x27;negorsk, nel Primo...</span><span class="citation-popover-meta">Published: September 14, 2011</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/ufos/cover-ups/height-611-ufo-crash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">height 611 ufo crash</span><span class="citation-popover-snippet">UFO InsightThe 1986 “Height 611” Dalnegorsk UFO Crash3 Dec 2018 — Investigators collected curious metallic droplets and witnessed intense...</span></span></span>
+
+
+<img src="{{ "/assets/images/Russian_Federation_87c89a_dalnegorsk_debris_cl_f4dfd7-Illustration-1-light.svg" | relative_url }}" alt="Dalnegorsk illustration 1" data-theme-src-dark="{{ "/assets/images/Russian_Federation_87c89a_dalnegorsk_debris_cl_f4dfd7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Russian_Federation_87c89a_dalnegorsk_debris_cl_f4dfd7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+Unlike many Soviet-era UFO stories, Dalnegorsk became associated with laboratory analysis and material evidence. Supporters argued that some recovered fragments displayed unusual compositions or structures. Skeptics countered that unusual does not mean extraterrestrial, and that none of the reported findings demonstrated a non-human origin. The case remains important because it sits directly at the boundary between unexplained observation and unsupported conclusion.
+
+## The Red Sphere and Height 611
+
+According to witness accounts, the object appeared as a reddish luminous sphere travelling at relatively low altitude over the town. Multiple residents reportedly watched it move toward Height 611, a hill overlooking Dalnegorsk. Observers frequently noted the absence of the sonic boom or dramatic blast that might be expected from a meteor impact. Instead, the object appeared to strike the slope and burn intensely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/ufos/cover-ups/height-611-ufo-crash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">height 611 ufo crash</span><span class="citation-popover-snippet">UFO InsightThe 1986 “Height 611” Dalnegorsk UFO Crash3 Dec 2018 — Investigators collected curious metallic droplets and witnessed intense...</span></span></span>
+
+This detail became central to later interpretations. UFO researchers argued that the object's behaviour did not resemble a typical meteor. The reported slow movement, red glow, and lack of a conventional impact pattern encouraged speculation that the object was either controlled or represented an unknown aerospace phenomenon. Over time, the event became known internationally as the “Height 611 incident”, referencing the elevation of the hillside where the reported crash occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/ufos/cover-ups/height-611-ufo-crash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">height 611 ufo crash</span><span class="citation-popover-snippet">UFO InsightThe 1986 “Height 611” Dalnegorsk UFO Crash3 Dec 2018 — Investigators collected curious metallic droplets and witnessed intense...</span></span></span>
+
+Within Russian UFO culture, Dalnegorsk occupies a role similar to Roswell in the United States. Both stories revolve around an alleged crash, claims of recovered material, and decades of argument over whether the evidence points to something extraordinary or merely misunderstood debris. The comparison is cultural rather than evidential. Roswell involved military recovery claims and later alien narratives; Dalnegorsk became famous because researchers claimed to possess physical samples that could be examined directly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://it.wikipedia.org/wiki/Incidente_di_Dal%27negorsk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente di Dal&#x27;negorsk</span><span class="citation-popover-snippet">September 14, 2011 — L&#x27;incidente di Dal&#x27;negorsk è un presunto UFO crash che sarebbe avvenuto in Unione Sovietica a Dal&#x27;negorsk, nel Primo...</span><span class="citation-popover-meta">Published: September 14, 2011</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/odUSnDgU-oo" title="The Mysterious Roswell UFO Incident of 1947" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=odUSnDgU-oo" target="_blank" rel="noopener noreferrer">The Mysterious Roswell UFO Incident of 1947</a></p><p class="youtube-embed-meta">Channel: Smithsonian Channel &middot; Views: 317.4K &middot; Uploaded: January 2012 &middot; Length: 1 minute 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=odUSnDgU-oo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=odUSnDgU-oo">Open on YouTube</a></p></div></div></div>
+
+## Why the Debris Became the Real Story
+
+The reported impact site did not produce a large crater or a recognisable aircraft wreck. Instead, investigators described finding a scorched area and collecting small quantities of material from the hillside. The most frequently cited finds included:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* Tiny metallic droplets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/groups/2592649664331206/posts/4250026058593550/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">FacebookRussia&#x27;s Roswell UFO crash in DalnegorskWhen investigators examined the grounds more thoroughly, they would discover tiny metalli...</span></span></span>
+* Dark glass-like particles.
+* Residues containing silicon-rich material.
+* Microscopic fibres and mesh-like structures described in later UFO literature.
+* Burned rock and soil from the impact zone. Facebook <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/ufos/cover-ups/height-611-ufo-crash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">height 611 ufo crash</span><span class="citation-popover-snippet">UFO InsightThe 1986 “Height 611” Dalnegorsk UFO Crash3 Dec 2018 — Investigators collected curious metallic droplets and witnessed intense...</span></span></span>
+
+</div>
+
+These fragments became the centre of the mystery because they appeared to offer something rare in UFO research: material that could be analysed in laboratories. Many famous UFO incidents depend almost entirely on witness memory. Dalnegorsk's reputation survived because proponents argued that physical evidence existed independently of testimony. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/ufos/cover-ups/height-611-ufo-crash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">height 611 ufo crash</span><span class="citation-popover-snippet">UFO InsightThe 1986 “Height 611” Dalnegorsk UFO Crash3 Dec 2018 — Investigators collected curious metallic droplets and witnessed intense...</span></span></span>
+
+Supporters often highlighted reports that some metallic droplets showed unusual elemental combinations or microstructures. Later retellings emphasised claims about extremely thin fibres, metallic glass-like properties, and intricate microscopic formations. These descriptions helped create an image of technology that seemed advanced or difficult to explain through ordinary industrial processes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thesun.co.uk/news/33307868/putin-experimenting-alien-technology-military-ufo-crash/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thesun.co.uk">[The Sun]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thesun.co.uk</span><span class="citation-popover-title">putin experimenting alien technology military ufo crash</span><span class="citation-popover-snippet">Notably, only a diamond saw could cut through the material. Witnesses described the object as spherical, metallic, and lacking a tail. Va...</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Jj0YqdQhWIM" title="The Proof Is Out There: Mysterious Alien Found in Russia (Season 1) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Jj0YqdQhWIM" target="_blank" rel="noopener noreferrer">The Proof Is Out There: Mysterious Alien Found in Russia (Season 1) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 88.1K &middot; Uploaded: February 2024 &middot; Length: 3 minutes 56 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Jj0YqdQhWIM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Jj0YqdQhWIM">Open on YouTube</a></p></div></div></div>
+
+## Metal Droplets, Residues and Laboratory Claims
+
+The strongest pro-mystery argument in the Dalnegorsk case is not that debris was recovered, but that some analyses allegedly produced unexpected results. Various reports described metallic droplets measuring only a few millimetres across and containing combinations of elements that researchers considered unusual. Other samples were described as porous, glassy, or structurally complex under magnification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/2592649664331206/posts/4250026058593550/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">FacebookRussia&#x27;s Roswell UFO crash in DalnegorskWhen investigators examined the grounds more thoroughly, they would discover tiny metalli...</span></span></span>
+
+Particular attention focused on microscopic “mesh” fragments that later writers described as woven or intertwined structures. Some accounts claimed these contained extremely thin metallic threads. Over the years, these descriptions grew more dramatic in popular UFO literature, where the materials were sometimes presented as impossible to manufacture using known technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thesun.co.uk/news/33307868/putin-experimenting-alien-technology-military-ufo-crash/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thesun.co.uk">[The Sun]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thesun.co.uk</span><span class="citation-popover-title">putin experimenting alien technology military ufo crash</span><span class="citation-popover-snippet">Notably, only a diamond saw could cut through the material. Witnesses described the object as spherical, metallic, and lacking a tail. Va...</span></span></span>
+
+However, an important distinction often disappears in retellings: unusual laboratory results are not the same as proof of alien origin. Industrial metallurgy, mining activity, high-temperature combustion, atmospheric contamination, and incomplete sampling histories can all produce materials that appear surprising when removed from context. A finding can be difficult to identify while still having a conventional source.
+
+This distinction explains why Dalnegorsk remained unresolved rather than confirmed. Researchers could point to anomalies in samples, but they could not demonstrate a clear chain of evidence linking those samples to a non-human craft.
+
+
+<img src="{{ "/assets/images/Russian_Federation_87c89a_dalnegorsk_debris_cl_f4dfd7-Illustration-2-light.svg" | relative_url }}" alt="Dalnegorsk illustration 2" data-theme-src-dark="{{ "/assets/images/Russian_Federation_87c89a_dalnegorsk_debris_cl_f4dfd7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Russian_Federation_87c89a_dalnegorsk_debris_cl_f4dfd7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## What the Debris Can and Cannot Prove
+
+The key question is whether the recovered material actually establishes that an unknown vehicle crashed at Height 611.
+
+What the debris can potentially support:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* Something burned or deposited residue at the site.
+* Small metallic and glass-like particles were reportedly recovered.
+* Some investigators believed parts of the material were unusual enough to justify further study.
+* The case involved more than a simple anecdotal sighting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/ufos/cover-ups/height-611-ufo-crash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">height 611 ufo crash</span><span class="citation-popover-snippet">UFO InsightThe 1986 “Height 611” Dalnegorsk UFO Crash3 Dec 2018 — Investigators collected curious metallic droplets and witnessed intense...</span></span></span>
+
+</div>
+
+What the debris cannot establish on its own:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* That the object was extraterrestrial.
+* That the material originated from a spacecraft.
+* That known industrial or natural explanations were eliminated.
+* That all reported laboratory findings were independently replicated and verified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/ufos/cover-ups/height-611-ufo-crash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">height 611 ufo crash</span><span class="citation-popover-snippet">UFO InsightThe 1986 “Height 611” Dalnegorsk UFO Crash3 Dec 2018 — Investigators collected curious metallic droplets and witnessed intense...</span></span></span>
+
+</div>
+
+This evidential gap is why Dalnegorsk remains controversial. The existence of fragments is not itself extraordinary. The challenge is proving provenance: demonstrating exactly where the material came from and excluding every conventional source. That standard has never been met publicly.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fVgCuGIrohI" title="The Documentary That Got Banned! | Roswell UFO Crash | UFOTV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fVgCuGIrohI" target="_blank" rel="noopener noreferrer">The Documentary That Got Banned! | Roswell UFO Crash | UFOTV</a></p><p class="youtube-embed-meta">Channel: Sci-Fi Central &middot; Views: 73.4K &middot; Uploaded: March 2025 &middot; Length: 1 hour 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fVgCuGIrohI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fVgCuGIrohI">Open on YouTube</a></p></div></div></div>
+
+## The Skeptical Reading of Dalnegorsk
+
+Skeptical assessments generally focus less on the witnesses and more on the chain of custody surrounding the samples. The event occurred in a region associated with mining and industrial activity, making contamination and misidentification plausible concerns. Researchers examining unusual materials decades later face another problem: many original samples were small, fragmented, or documented through secondary reports rather than modern forensic procedures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/ufos/cover-ups/height-611-ufo-crash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">height 611 ufo crash</span><span class="citation-popover-snippet">UFO InsightThe 1986 “Height 611” Dalnegorsk UFO Crash3 Dec 2018 — Investigators collected curious metallic droplets and witnessed intense...</span></span></span>
+
+The broader Soviet and Russian UFO record also provides context. Investigators involved in official Soviet anomaly studies repeatedly concluded that most UFO reports ultimately involved rocket launches, aerospace activity, atmospheric phenomena, or mistaken observations. Even when some cases remained unresolved, official programmes did not conclude that extraterrestrial visitation had been demonstrated. This more cautious institutional approach contrasts with later popular accounts that presented Dalnegorsk as definitive evidence of alien technology.
+
+Another skeptical point concerns narrative inflation. Over nearly four decades, descriptions of the debris have often become more elaborate as they pass through books, documentaries, and UFO media. Claims about microscopic structures, exotic alloys, or impossible manufacturing techniques are frequently repeated, but the supporting documentation is often less accessible than the claims themselves.
+
+## Why Dalnegorsk Endures in Russian UFO Culture
+
+Dalnegorsk survives because it occupies a rare middle ground. It is neither a straightforward misidentification case nor a case with evidence strong enough to force a scientific consensus. The reported physical traces give it more apparent substance than many Russian UFO stories, yet the material evidence falls short of proving an extraordinary origin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/ufos/cover-ups/height-611-ufo-crash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">height 611 ufo crash</span><span class="citation-popover-snippet">UFO InsightThe 1986 “Height 611” Dalnegorsk UFO Crash3 Dec 2018 — Investigators collected curious metallic droplets and witnessed intense...</span></span></span>
+
+The timing also mattered. The incident occurred during the late Soviet period, when public interest in previously restricted topics was beginning to expand. As information barriers weakened in the years that followed, stories involving secret investigations, recovered materials, and unexplained laboratory findings attracted growing attention. Dalnegorsk therefore became part of a broader post-Soviet mythology in which UFO reports, military secrecy, and fragmentary scientific evidence blended together.
+
+That is ultimately why the case earned the label “Russia’s Roswell”. The comparison is less about what was proven than about what remained unresolved. A luminous object was reportedly seen. Material was reportedly recovered. Analyses produced claims that enthusiasts considered significant. Yet after decades of debate, the central question remains unchanged: the debris may show that something unusual happened on Height 611, but it has never demonstrated what that something actually was. <span class="citation-chip-wrap"><a class="citation-chip" href="https://it.wikipedia.org/wiki/Incidente_di_Dal%27negorsk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente di Dal&#x27;negorsk</span><span class="citation-popover-snippet">September 14, 2011 — L&#x27;incidente di Dal&#x27;negorsk è un presunto UFO crash che sarebbe avvenuto in Unione Sovietica a Dal&#x27;negorsk, nel Primo...</span><span class="citation-popover-meta">Published: September 14, 2011</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/ufos/cover-ups/height-611-ufo-crash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">height 611 ufo crash</span><span class="citation-popover-snippet">UFO InsightThe 1986 “Height 611” Dalnegorsk UFO Crash3 Dec 2018 — Investigators collected curious metallic droplets and witnessed intense...</span></span></span>
+
+
+<img src="{{ "/assets/images/Russian_Federation_87c89a_dalnegorsk_debris_cl_f4dfd7-Illustration-3-light.svg" | relative_url }}" alt="Dalnegorsk illustration 3" data-theme-src-dark="{{ "/assets/images/Russian_Federation_87c89a_dalnegorsk_debris_cl_f4dfd7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Russian_Federation_87c89a_dalnegorsk_debris_cl_f4dfd7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Is Dalnegorsk Called Russia&#x27;s Roswell?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+        </h4>
+        <p class="fr-book-author">By J. Allen Hynek</p>
+        
+        <p class="fr-book-desc">Discusses famous UFO cases and evidential standards relevant to debris claims.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+        </h4>
+        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        
+        <p class="fr-book-desc">Provides a framework for evaluating sightings, evidence claims and unexplained reports.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+chronicles+of+the+Soviet+Union+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO chronicles of the Soviet Union on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7930335-M.jpg" alt="Cover for UFO chronicles of the Soviet Union" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFO+chronicles+of+the+Soviet+Union+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO chronicles of the Soviet Union">UFO chronicles of the Soviet Union</a>
+        </h4>
+        <p class="fr-book-author">By Jacques Vallee</p>
+        
+        <p class="fr-book-desc">First published 1992. Subjects: Unidentified flying objects, Sightings and encounters, Unidentified flying objects, sightings and encount...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFO+chronicles+of+the+Soviet+Union+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+        </h4>
+        <p class="fr-book-author">By Jacques Vallee</p>
+        
+        <p class="fr-book-desc">Explores how unusual UFO cases are interpreted and why physical traces alone rarely settle extraordinary claims.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+chronicles+of+the+Soviet+Union&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO chronicles of the Soviet Union</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: Wikipedia  
+   Title: Incidente di Dal'negorsk  
+   Link: [https://it.wikipedia.org/wiki/Incidente_di_Dal%27negorsk](https://it.wikipedia.org/wiki/Incidente_di_Dal%27negorsk)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>September 14, 2011 — L&#x27;incidente di Dal&#x27;negorsk è un presunto UFO crash che sarebbe avvenuto in Unione Sovietica a Dal&#x27;negorsk, nel Primo...</p></details>
+   Published: September 14, 2011  
+
+2. <a id="endnote-2"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/groups/2592649664331206/posts/4250026058593550/](https://www.facebook.com/groups/2592649664331206/posts/4250026058593550/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookRussia&#x27;s Roswell UFO crash in DalnegorskWhen investigators examined the grounds more thoroughly, they would discover tiny metalli...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/TheUnXplainedZone/posts/uncover-the-secret-history-of-3-ufo-crash-sites-and-the-bizarre-phenomena-they-e/1214136700915760/](https://www.facebook.com/TheUnXplainedZone/posts/uncover-the-secret-history-of-3-ufo-crash-sites-and-the-bizarre-phenomena-they-e/1214136700915760/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>January 29, 1986, a strange, red sphere suddenly appeared in front of hundreds of...Read more...</p></details>
+   Published: January 29, 1986  
+
+4. <a id="endnote-4"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/ParanormalWarehouse/posts/%EF%B8%8F-russias-roswell-the-dalnegorsk-ufo-crashin-january-of-1986-residents-of-the-sm/1471923254543298/](https://www.facebook.com/ParanormalWarehouse/posts/%EF%B8%8F-russias-roswell-the-dalnegorsk-ufo-crashin-january-of-1986-residents-of-the-sm/1471923254543298/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>January 29, 1986, a strange, red sphere suddenly appeared in front of hundreds of witnesses in the skies...</p></details>
+   Published: January 29, 1986  
+
+5. <a id="endnote-5"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/groups/617328327480084/posts/839352018611046/](https://www.facebook.com/groups/617328327480084/posts/839352018611046/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious UFO incident in Kyrgyzstan mountainsWest Kazakhstan UFO sighting in 1965. Jim Lawrence ▻ ALIENS AND UFOS. 2y...Read more...</p></details>
+
+6. <a id="endnote-6"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2047972025640440/](https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2047972025640440/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Crash in Dalnegorsk, RussiaThe place at 611 m is the world&#x27;s only place with distinct traces of the UFO landing.” NOTE: The image is...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/groups/1217079128427424/posts/3250548398413810/](https://www.facebook.com/groups/1217079128427424/posts/3250548398413810/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Any info on UFO crash at Engilchek, Shaitan Mazar, 1991?The place at 611 m is the world&#x27;s only place with distinct traces of the UFO land...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: ufoinsight.com  
+   Title: height 611 ufo crash  
+   Link: [https://www.ufoinsight.com/ufos/cover-ups/height-611-ufo-crash](https://www.ufoinsight.com/ufos/cover-ups/height-611-ufo-crash)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightThe 1986 “Height 611” Dalnegorsk UFO Crash3 Dec 2018 — Investigators collected curious metallic droplets and witnessed intense...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: thesun.co.uk  
+   Title: putin experimenting alien technology military ufo crash  
+   Link: [https://www.thesun.co.uk/news/33307868/putin-experimenting-alien-technology-military-ufo-crash/](https://www.thesun.co.uk/news/33307868/putin-experimenting-alien-technology-military-ufo-crash/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Notably, only a diamond saw could cut through the material. Witnesses described the object as spherical, metallic, and lacking a tail. Va...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: ufotops.com  
+   Title: height 611 incident  
+   Link: [https://ufotops.com/pages/height-611-incident?srsltid=AfmBOoq9orT9TeCWypxvqGBTgsP1NAkohDHh5wPygLgL9OIscy8zPEPr](https://ufotops.com/pages/height-611-incident?srsltid=AfmBOoq9orT9TeCWypxvqGBTgsP1NAkohDHh5wPygLgL9OIscy8zPEPr)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dalnegorsk Height 611 UFO (1986): reported red sphere crash, debris claims, investigations, timeline, and key sources...</p></details>
+
+### Additional References
+
+11. <a id="endnote-11"></a>
+   Source: science.gov  
+   Link: [https://www.science.gov/topicpages/l/late%2Bvein-style%2Bau](https://www.science.gov/topicpages/l/late%2Bvein-style%2Bau)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>late vein-style auMetallic mineralization formed in three stages in quartz and quartz-calcite veins. Early porphyry-style (Stage 1) metal...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: wikidata.org  
+   Link: [https://www.wikidata.org/wiki/Q2733023](https://www.wikidata.org/wiki/Q2733023)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Height 611 UFO incidentHeight 611 UFO incident. an alleged UFO crash in the Soviet Union, on January 29, 1986. In more languages. Spanish...</p></details>
+   Published: January 29, 1986  
+
+13. <a id="endnote-13"></a>
+   Source: dmg-home.org  
+   Link: [https://www.dmg-home.org/fileadmin/user_upload/Konferenzen/Halle2009/CD_DMG%202009_Inhalt.pdf](https://www.dmg-home.org/fileadmin/user_upload/Konferenzen/Halle2009/CD_DMG%202009_Inhalt.pdf)  
+
+14. <a id="endnote-14"></a>
+   Source: dokumen.pub  
+   Link: [https://dokumen.pub/ufo-chronicles-of-the-soviet-union-a-cosmic-samizdat-1nbsped-0345373960-9780345373960.html](https://dokumen.pub/ufo-chronicles-of-the-soviet-union-a-cosmic-samizdat-1nbsped-0345373960-9780345373960.html)  
+
+15. <a id="endnote-15"></a>
+   Source: arxiv.org  
+   Link: [https://arxiv.org/html/2502.06794v2](https://arxiv.org/html/2502.06794v2)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivThe New Science of Unidentified Aerospace-Undersea...In doing so, our objective is to clarify the existing global and historical sc...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: downey-n1.cs.northwestern.edu  
+   Title: edubiennials verplank tsukino biysk woode nunnery icici gavar  
+   Link: [https://downey-n1.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/all_entity_str.txt](https://downey-n1.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/all_entity_str.txt)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>roswell mckelvey wyne khim terkel raghoji uppdal sevin kadirgamar madina... skeptical realmont storsponen kohima cogeneration confront j...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: dokumen.pub  
+   Link: [https://dokumen.pub/extraterrestrial-contacts-the-roswell-foil-ufos-and-how-they-alter-our-understanding-of-the-modern-world-0936618132-9780936618135.html](https://dokumen.pub/extraterrestrial-contacts-the-roswell-foil-ufos-and-how-they-alter-our-understanding-of-the-modern-world-0936618132-9780936618135.html)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>nd there are rumors others crashed in South Africa, Mexico, and China.24 But...Read more...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: archive.org  
+   Link: [https://archive.org/stream/pdfy-FKj0lS414wJslfGL/cooper%2BBEHOLD%2BA%2BPALE%2BHORSE%2BPG%2B333%2BJONATHON%2BMAY_djvu.txt](https://archive.org/stream/pdfy-FKj0lS414wJslfGL/cooper%2BBEHOLD%2BA%2BPALE%2BHORSE%2BPG%2B333%2BJONATHON%2BMAY_djvu.txt)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>It is my hope that this work will inspire you to begin an earnest...Read more...</p></details>
+
+19. <a id="endnote-19"></a>
+   Source: reddit.com  
+   Title: the january 29 1986 height 611 incident ufo  
+   Link: [https://www.reddit.com/r/UFOs/comments/10ik9ly/the_january_29_1986_height_611_incident_ufo/](https://www.reddit.com/r/UFOs/comments/10ik9ly/the_january_29_1986_height_611_incident_ufo/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The January 29, 1986 &quot;Height 611 Incident,&quot; UFO crash/...r/UFOs - Why do most UFO/alien incidents seem to come from the. 0. 28...Read more...</p></details>
+   Published: January 29, 1986  
+
+20. <a id="endnote-20"></a>
+   Source: academia.edu  
+   Link: [https://www.academia.edu/128019814/The_New_Science_of_Unidentified_Aerospace_Undersea_Phenomena_UAP_](https://www.academia.edu/128019814/The_New_Science_of_Unidentified_Aerospace_Undersea_Phenomena_UAP_)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>er of the world&#x27;s governments take Unidentified Aerospace-Undersea...</p></details>

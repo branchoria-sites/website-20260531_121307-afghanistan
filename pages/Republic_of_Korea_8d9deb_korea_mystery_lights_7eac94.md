@@ -1,0 +1,613 @@
+---
+level: 2
+basename: Republic_of_Korea_8d9deb_korea_mystery_lights_7eac94
+parent_basename: Republic_of_Korea_8d9deb
+child_basenames: []
+sibling_basenames:
+- Republic_of_Korea_8d9deb_gapyeong_ufo_photo_c20c78
+- Republic_of_Korea_8d9deb_korean_ufo_investiga_8f8625
+- Republic_of_Korea_8d9deb_seoul_1976_ufo_alert_ac36db
+tags:
+- republic-of-korea
+- explained-lights
+keywords:
+- republic-of-korea
+- explained-lights
+affiliate_category: republic-of-korea
+show_ads: true
+description: Many recent Korean UFO scares are best understood as ordinary sky events seen under confusing urban or online conditions.
+hero_summary: Many recent Korean UFO scares are best understood as ordinary sky events seen under confusing urban or online conditions.
+layout: default
+permalink: /explained-lights/
+sidebar_expanded_urls:
+- /republic-of-korea/
+nav_short_title: Explained Lights
+title: Why Korea's Mystery Lights Keep Reappearing
+title_full: Why Korea's Mystery Lights Keep Reappearing | Korea UFOs
+display_title_short: Explained Lights
+display_title: Explained Lights
+heading_title: Why Korea's Mystery Lights Keep Reappearing
+page_heading_title: Why Korea's Mystery Lights Keep Reappearing
+source_count: 44
+infographic_count: 3
+planned_sections:
+- Rockets, meteors and visible aerospace events
+- Urban viewing conditions and social media spread
+- How to separate anomalies from misidentifications
+focal_unit_type: mechanism
+topic_lens: critique_risk
+topic_granularity: pillar
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+parent_title: Korea UFOs
+parent_permalink: /republic-of-korea/
+parent_nav_short_title: Korea UFOs
+parent_heading_title: What Really Happened in Korea's UFO Cases?
+ancestor_links:
+- basename: Republic_of_Korea_8d9deb
+  title: Korea UFOs
+  permalink: /republic-of-korea/
+  short_title: Korea UFOs
+breadcrumb_links:
+- basename: Republic_of_Korea_8d9deb
+  title: Korea UFOs
+  permalink: /republic-of-korea/
+  short_title: Korea UFOs
+sibling_links:
+- basename: Republic_of_Korea_8d9deb_gapyeong_ufo_photo_c20c78
+  title: Gapyeong Photo | What Really Happened in Korea's UFO Cases?
+  permalink: /gapyeong-photo/
+  short_title: Gapyeong Photo
+  heading_title: Can the Gapyeong UFO Photo Prove Anything?
+- basename: Republic_of_Korea_8d9deb_korean_ufo_investiga_8f8625
+  title: Investigators | What Really Happened in Korea's UFO Cases?
+  permalink: /investigators-e18dbd/
+  short_title: Investigators
+  heading_title: Who Shaped Korea's UFO Evidence Trail?
+- basename: Republic_of_Korea_8d9deb_seoul_1976_ufo_alert_ac36db
+  title: Seoul 1976 | What Really Happened in Korea's UFO Cases?
+  permalink: /seoul-1976/
+  short_title: Seoul 1976
+  heading_title: Why Seoul's 1976 UFO Alert Still Matters
+up_link:
+  basename: Republic_of_Korea_8d9deb
+  title: Korea UFOs
+  permalink: /republic-of-korea/
+  short_title: Korea UFOs
+next_link:
+  basename: Republic_of_Korea_8d9deb_gapyeong_ufo_photo_c20c78
+  title: Gapyeong Photo | What Really Happened in Korea's UFO Cases?
+  permalink: /gapyeong-photo/
+  short_title: Gapyeong Photo
+  heading_title: Can the Gapyeong UFO Photo Prove Anything?
+date: '2026-05-31 04:28:30 '
+header:
+  og_image: /assets/images/Republic_of_Korea_8d9deb_korea_mystery_lights_7eac94-Illustration-1-social.jpg
+  preview_image: /assets/images/Republic_of_Korea_8d9deb_korea_mystery_lights_7eac94-Illustration-1.webp
+image: /assets/images/Republic_of_Korea_8d9deb_korea_mystery_lights_7eac94-Illustration-1-social.jpg
+---
+
+## Introduction
+
+South Korea’s most widely shared modern UFO scares have often turned out to be ordinary sky events seen under unusual conditions. In a country with dense urban populations, heavy military activity, frequent online video sharing and heightened security concerns around North Korea, unfamiliar lights can rapidly become national mysteries before an explanation emerges. The pattern is especially visible in reports involving rocket launches, bright meteors and high-altitude balloons.
+
+
+<img src="{{ "/assets/images/Republic_of_Korea_8d9deb_korea_mystery_lights_7eac94-Illustration-1-light.svg" | relative_url }}" alt="Explained Lights illustration 1" data-theme-src-dark="{{ "/assets/images/Republic_of_Korea_8d9deb_korea_mystery_lights_7eac94-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Republic_of_Korea_8d9deb_korea_mystery_lights_7eac94-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+That does not mean every sighting is immediately identifiable. Witnesses frequently report genuine uncertainty, and many events are initially difficult to interpret from the ground. Yet the strongest documented Korean cases in this category show how atmospheric effects, aerospace technology and human perception combine to create convincing UFO narratives. Understanding those mechanisms is often more revealing than the sightings themselves because it explains why similar stories keep reappearing across different regions and decades.
+
+## The 2022 rocket launch that looked like a UFO invasion
+
+The clearest modern example occurred on 30 December 2022, when people across Seoul, Gyeonggi, Gangwon and other regions reported a strange luminous object moving through the evening sky. Social media quickly filled with photographs and videos showing a bright white point surrounded by expanding blue, green and rainbow-coloured spirals. Many witnesses suspected a UFO, while others feared a North Korean missile attack. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/politics-south-korea-government-aerospace-technology-abe96197f899c94f9e9f5c02e407d367" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">I&#x27;m scared,” said one Twitter user. Another said they suspected it was a North Korean missile launch and worried about a war.Read more...</span></span></span>
+
+The explanation was much more ordinary, though still dramatic. South Korea's Ministry of National Defense later confirmed that it had conducted an unannounced solid-fuel rocket test connected to its space-surveillance programme. Because the launch had not been publicly announced, thousands of people encountered the phenomenon without any context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/politics-south-korea-government-aerospace-technology-abe96197f899c94f9e9f5c02e407d367" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">I&#x27;m scared,” said one Twitter user. Another said they suspected it was a North Korean missile launch and worried about a war.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.independent.co.uk/news/ap-south-korea-seoul-ufo-twitter-b2253548.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-title">ap south korea seoul ufo twitter b2253548</span><span class="citation-popover-snippet">South Korea&#x27;s unannounced rocket launch causes UFO...30 Dec 2022 — South Korea&#x27;s military confirms it test-fired a solid-fueled rocket a...</span></span></span>
+
+What made the event appear extraordinary was not simply the rocket itself but the visual conditions:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* Rocket exhaust expanded at high altitude where air pressure was extremely low.
+* Sunlight illuminated the exhaust plume after sunset, producing bright colours.
+* The twisting shape created spiral and jellyfish-like patterns unfamiliar to most observers.
+* Urban viewers saw the phenomenon against darkening skies and city lighting, making scale and distance difficult to judge.
+
+</div>
+
+Photographs from different parts of the country showed remarkably similar luminous trails, helping [investigators]({{ 'investigators-e18dbd/' | relative_url }}) match witness reports to the rocket launch. The military later apologised for poor public communication after the incident triggered widespread alarm. <span class="citation-chip-wrap"><a class="citation-chip" href="https://asianews.network/sk-ministry-sorry-for-poor-communication-after-public-alarmed-by-rocket-test/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asianews.network">[asianews.network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asianews.network</span><span class="citation-popover-title">UFO appearance or a North Korean missile or drone flying. (Photo</span><span class="citation-popover-snippet">SK ministry sorry for poor communication after public...Jan 3, 2023 — South Korea`s military confirmed it test-fired a solid-fueled rocket...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.koreaherald.com/article/3032867" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreaherald.com">[Korea Herald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreaherald.com</span><span class="citation-popover-snippet">unannounced launch triggered brief public scare of a suspected UFO appearance or a North Korean missile or drone flying. (Photo - AP). Th...</span></span></span>
+
+This episode became an important lesson for Korean UFO discussions because it demonstrated how a fully documented aerospace event could still generate nationwide speculation within minutes.
+
+## Why rockets create some of the strangest lights in Korean skies
+
+Rocket launches are especially effective at producing UFO reports because they combine unfamiliar motion with unusual atmospheric optics.
+
+Most aircraft remain close to the horizon and follow predictable paths. Rockets behave differently. They climb rapidly, change apparent direction as perspective shifts and release gases that spread into enormous illuminated clouds. To ground observers, the result can resemble a glowing orb, a comet-like object or even multiple objects moving together.
+
+South Korea's growing space and missile programmes increase the chances of such sightings. The country has conducted multiple solid-fuel rocket tests in recent years as part of surveillance and launch-vehicle development. One later test flight in December 2023 again produced visible sky effects, although public awareness was higher because the 2022 incident had already become a widely discussed example. <span class="citation-chip-wrap"><a class="citation-chip" href="https://english.news.cn/asiapacific/20231204/24efd79fa765458997f3c3201756a5d6/c.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.news.cn">[Xinhua News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.news.cn</span><span class="citation-popover-title">Xinhua News S</span><span class="citation-popover-snippet">Korea conducts test flight of solid-fuel space rocket4 Dec 2023 — It was the third of its kind to test-launch the homegrown solid-fuel sp...</span></span></span>
+
+For UFO investigators, rocket-related sightings have become a useful benchmark. When reports include expanding spirals, coloured plumes, rapidly growing clouds or long-lasting luminous trails visible across multiple provinces, aerospace activity is often one of the first explanations examined.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/opS1ypZ65rw" title="South Korea&#x27;s missile test causes UFO scare | WION Pulse | Latest English News | World News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=opS1ypZ65rw" target="_blank" rel="noopener noreferrer">South Korea&#x27;s missile test causes UFO scare | WION Pulse | Latest English News | World News</a></p><p class="youtube-embed-meta">Channel: WION &middot; Views: 432.1K &middot; Uploaded: December 2022 &middot; Length: 1 minute 9 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=opS1ypZ65rw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=opS1ypZ65rw">Open on YouTube</a></p></div></div></div>
+
+## Fireballs and meteors can fool entire regions at once
+
+Meteor events create a different kind of mystery. Unlike rockets, they arrive without warning and often last only a few seconds. Yet they can be bright enough to be seen across large parts of the Korean Peninsula.
+
+A recent example occurred in April 2026 when witnesses from multiple regions reported a large burning object crossing the sky. Descriptions included an oval-shaped glowing body and a dramatic descent that led some observers to wonder whether they had seen an aircraft accident or unidentified object. The Korea Astronomy and Space Science Institute assessed the phenomenon as a meteor, specifically a bright fireball produced by a larger meteoroid entering the atmosphere. [조선일보]
+
+The same pattern appeared after earlier Korean fireball events. A particularly influential case was the 2014 Jinju fireball, which attracted scientific attention and encouraged the development of dedicated Korean meteor-monitoring systems. Researchers later described how Korean observatories expanded efforts to track and analyse fireballs precisely because public reports often began as unexplained sky mysteries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1708.08196" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivProto-type installation of a double-station system for the optical-video-detection and orbital characterisation of a meteor/fireball...</span></span></span>
+
+Several features make meteors especially easy to misidentify:
+
+
+<div class="content-enhancement content-enhancement--comparison" markdown="1">
+
+* They can appear suddenly with no visible approach.
+* Bright fireballs sometimes cast shadows or appear larger than the Moon.
+* Fragmentation can look like multiple objects manoeuvring.
+* Witnesses often overestimate altitude and size.
+* The event is usually over before observers can compare notes.
+
+</div>
+
+In heavily populated regions around Seoul and the capital area, thousands of people may witness the same meteor from different angles. Online discussions then produce conflicting descriptions, making the event seem more mysterious than it actually was.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/s3Zmm1uKchg" title="South Korea: UFO Was Military Rocket Test | VOA News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=s3Zmm1uKchg" target="_blank" rel="noopener noreferrer">South Korea: UFO Was Military Rocket Test | VOA News</a></p><p class="youtube-embed-meta">Channel: Voice of America &middot; Views: 18.1K &middot; Uploaded: December 2022 &middot; Length: 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=s3Zmm1uKchg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=s3Zmm1uKchg">Open on YouTube</a></p></div></div></div>
+
+## Balloons occupy the grey zone between ordinary and suspicious
+
+Balloons create a different challenge because they are often real physical objects that remain unidentified for long periods.
+
+The Korean Peninsula has a long history of balloon activity connected to propaganda campaigns, weather monitoring and military tensions. Activist groups in South Korea have launched balloons carrying leaflets, electronic devices and other materials toward North Korea, while North Korea has sent balloons southward carrying rubbish and other payloads. In 2024 South Korean authorities reported detecting more than 150 balloons crossing from the North. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/asia-pacific/south-korea-alert-balloons-dropping-trash-north-2024-05-29/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">South Korea accuses North of &#x27;base&#x27; act by sending balloons with trash</span><span class="citation-popover-snippet">El equipo de respuesta militar fue desplegado para inspeccionar y recolectar los objetos, y se emitió una alerta para advertir a los resi...</span></span></span>
+
+From the ground, especially at dawn or dusk, such balloons can appear highly unusual:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* Metallic surfaces reflect sunlight intensely.
+* High-altitude balloons drift slowly or seem stationary.
+* Atmospheric haze obscures shape and scale.
+* Changing wind currents create apparent directional changes.
+
+</div>
+
+A witness seeing a reflective balloon at high altitude may perceive a glowing orb that remains motionless for long periods before suddenly appearing to move. This is one of the oldest sources of UFO reports worldwide, but the Korean context adds extra political sensitivity because unidentified aerial objects can immediately raise concerns about surveillance, military activity or cross-border operations.
+
+The result is a category of sightings that may begin as genuine unidentified objects but later receive mundane explanations once flight paths, weather conditions or recovery evidence become available.
+
+
+<img src="{{ "/assets/images/Republic_of_Korea_8d9deb_korea_mystery_lights_7eac94-Illustration-2-light.svg" | relative_url }}" alt="Explained Lights illustration 2" data-theme-src-dark="{{ "/assets/images/Republic_of_Korea_8d9deb_korea_mystery_lights_7eac94-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Republic_of_Korea_8d9deb_korea_mystery_lights_7eac94-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Why dense Korean cities amplify UFO rumours
+
+The [Republic of Korea]({{ 'republic-of-korea/' | relative_url }}) provides unusually fertile conditions for mystery-light stories because several factors overlap.
+
+### Limited sky visibility changes perception
+
+Most people in Seoul, Incheon and surrounding urban areas view the sky from streets, apartment complexes or office districts rather than open landscapes. Buildings restrict horizons and make it difficult to estimate distance, speed and altitude.
+
+A bright object emerging between towers can appear far closer than it really is. A meteor crossing behind buildings may seem to descend vertically. A rocket plume partly hidden by urban structures can resemble a hovering object.
+
+### Social media turns local sightings into national events
+
+The 2022 rocket incident showed how quickly photographs spread across Korean online communities. Within minutes, images from different provinces appeared on social platforms, messaging apps and news sites. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.c4isrnet.com/battlefield-tech/space/2022/12/30/south-koreas-unannounced-rocket-launch-causes-ufo-scare/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: c4isrnet.com">[C4ISRNet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">c4isrnet.com</span><span class="citation-popover-title">south koreas unannounced rocket launch causes ufo scare</span><span class="citation-popover-snippet">C4ISRNetSouth Korea&#x27;s unannounced rocket launch causes UFO...30 Dec 2022 — A twisty tendril of vapor in white-to-red ombre could be seen...</span></span></span>
+
+This rapid sharing has two opposing effects:
+
+* It helps investigators collect large numbers of observations.
+* It also spreads speculation before official explanations emerge.
+
+Once an event is framed as a possible UFO, later viewers often interpret new images through that lens. By the time authorities release an explanation, the mystery narrative may already be established.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3d6rDfhGlGQ" title="South Korea&#x27;s unannounced rocket launch causes a &#x27;UFO Scare&#x27; | Oneindia News International" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3d6rDfhGlGQ" target="_blank" rel="noopener noreferrer">South Korea&#x27;s unannounced rocket launch causes a &#x27;UFO Scare&#x27; | Oneindia News International</a></p><p class="youtube-embed-meta">Channel: Oneindia News &middot; Views: 14.6K &middot; Uploaded: December 2022 &middot; Length: 2 minutes 50 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3d6rDfhGlGQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3d6rDfhGlGQ">Open on YouTube</a></p></div></div></div>
+
+### Security anxieties shape interpretation
+
+South Korean observers do not watch the sky in a neutral environment. Missile tests, military exercises, drone incidents and inter-Korean tensions all influence public perception.
+
+During the 2022 rocket launch, many witnesses initially feared a North Korean missile or drone rather than extraterrestrial visitors. The UFO interpretation competed with a security interpretation, illustrating how national context affects the meaning people assign to unfamiliar lights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/politics-south-korea-government-aerospace-technology-abe96197f899c94f9e9f5c02e407d367" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">I&#x27;m scared,” said one Twitter user. Another said they suspected it was a North Korean missile launch and worried about a war.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lbc.co.uk/article/57db42fb73c449659318f8d4f8573907-DWzPYW_2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lbc.co.uk">[LBC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lbc.co.uk</span><span class="citation-popover-title">57db42fb73c449659318f8d4f8573907 DWzPYW 2</span><span class="citation-popover-snippet">scare of a suspected UFO appearance or a North Korean missile launch. The Defence Ministry said the rocket launch was part of its efforts...</span></span></span>
+
+## How investigators separate anomalies from misidentifications
+
+The most reliable Korean investigations generally follow a straightforward process rather than beginning with extraordinary explanations.
+
+Key questions include:
+
+**Was the object visible across a wide area?**
+
+If reports arrive simultaneously from multiple provinces, investigators often compare them with rocket launches, meteor trajectories and satellite data.
+
+**How long did the event last?**
+
+Meteors usually appear for seconds. Rocket plumes can remain visible for several minutes. Balloons may persist for hours.
+
+**Did the appearance change shape?**
+
+Expanding clouds, spirals and coloured halos often indicate illuminated exhaust rather than a solid craft.
+
+**Were there official aerospace activities?**
+
+Military tests, space launches and aviation operations are checked before more speculative interpretations are considered.
+
+**Do independent recordings match each other?**
+
+Videos from different locations can reveal whether witnesses observed the same physical event or separate unrelated phenomena.
+
+The Korean experience repeatedly shows that the strongest explanations emerge when visual reports are combined with astronomy, meteorology and aerospace records rather than treated as isolated eyewitness accounts.
+
+
+<img src="{{ "/assets/images/Republic_of_Korea_8d9deb_korea_mystery_lights_7eac94-Illustration-3-light.svg" | relative_url }}" alt="Explained Lights illustration 3" data-theme-src-dark="{{ "/assets/images/Republic_of_Korea_8d9deb_korea_mystery_lights_7eac94-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Republic_of_Korea_8d9deb_korea_mystery_lights_7eac94-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## The real lesson from Korea's recurring mystery lights
+
+The most important pattern in South Korean UFO history is not that unusual lights appear frequently. It is that the same mechanisms repeatedly generate convincing mysteries.
+
+Rocket exhaust becomes a glowing spiral over Seoul. A meteor becomes a fireball seen across several provinces. A balloon reflects sunlight and appears motionless above a city. Each event begins with uncertainty, gains momentum through social media and then attracts competing explanations before evidence narrows the possibilities.
+
+That cycle helps explain why mystery-light stories continue to reappear even when many individual cases receive ordinary explanations. The underlying conditions remain the same: dense urban populations, active aerospace programmes, visible military activity, rapid online communication and skies that occasionally produce spectacular natural phenomena. In the Republic of Korea, those factors ensure that UFO reports are often less a story about unknown craft than a story about how ordinary events become extraordinary when seen without context.
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Korea&#x27;s Mystery Lights Keep Reappearing. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+        </h4>
+        <p class="fr-book-author">By Carl Sagan</p>
+        
+        <p class="fr-book-desc">Explains how unusual observations can be misinterpreted.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+        </h4>
+        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        
+        <p class="fr-book-desc">Useful for assessing mystery lights and aerial reports.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+        </h4>
+        <p class="fr-book-author">By Leslie Kean</p>
+        
+        <p class="fr-book-desc">Provides comparisons with better-documented aerial cases.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
+        </h4>
+        <p class="fr-book-author">By David Clarke</p>
+        
+        <p class="fr-book-desc">Shows how rockets, atmospheric events and folklore create UFO stories.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: asianews.network  
+   Title: UFO appearance or a North Korean missile or drone flying. (Photo  
+   Link: [https://asianews.network/sk-ministry-sorry-for-poor-communication-after-public-alarmed-by-rocket-test/](https://asianews.network/sk-ministry-sorry-for-poor-communication-after-public-alarmed-by-rocket-test/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>SK ministry sorry for poor communication after public...Jan 3, 2023 — South Korea`s military confirmed it test-fired a solid-fueled rocket...</p></details>
+
+2. <a id="endnote-2"></a>
+   Source: arxiv.org  
+   Link: [https://arxiv.org/abs/1708.08196](https://arxiv.org/abs/1708.08196)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivProto-type installation of a double-station system for the optical-video-detection and orbital characterisation of a meteor/fireball...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: reuters.com  
+   Title: South Korea accuses North of 'base' act by sending balloons with trash  
+   Link: [https://www.reuters.com/world/asia-pacific/south-korea-alert-balloons-dropping-trash-north-2024-05-29/](https://www.reuters.com/world/asia-pacific/south-korea-alert-balloons-dropping-trash-north-2024-05-29/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>El equipo de respuesta militar fue desplegado para inspeccionar y recolectar los objetos, y se emitió una alerta para advertir a los resi...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: reuters.com  
+   Link: [https://www.reuters.com/world/asia-pacific/seoul-activists-develop-smart-balloons-send-messages-deep-into-north-korea-2024-06-10/](https://www.reuters.com/world/asia-pacific/seoul-activists-develop-smart-balloons-send-messages-deep-into-north-korea-2024-06-10/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>These balloons, made with 3D printers and costing up to $1,000 each, are designed to travel hundreds of kilometers across the border, pot...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: c4isrnet.com  
+   Title: south koreas unannounced rocket launch causes ufo scare  
+   Link: [https://www.c4isrnet.com/battlefield-tech/space/2022/12/30/south-koreas-unannounced-rocket-launch-causes-ufo-scare/](https://www.c4isrnet.com/battlefield-tech/space/2022/12/30/south-koreas-unannounced-rocket-launch-causes-ufo-scare/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>C4ISRNetSouth Korea&#x27;s unannounced rocket launch causes UFO...30 Dec 2022 — A twisty tendril of vapor in white-to-red ombre could be seen...</p></details>
+
+6. <a id="endnote-6"></a>
+   Source: lbc.co.uk  
+   Title: 57db42fb73c449659318f8d4f8573907 DWzPYW 2  
+   Link: [https://www.lbc.co.uk/article/57db42fb73c449659318f8d4f8573907-DWzPYW_2/](https://www.lbc.co.uk/article/57db42fb73c449659318f8d4f8573907-DWzPYW_2/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>scare of a suspected UFO appearance or a North Korean missile launch. The Defence Ministry said the rocket launch was part of its efforts...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: reuters.com  
+   Title: Video shows rocket launch in South Korea, not a UFO in Poland  
+   Link: [https://www.reuters.com/article/fact-check/video-shows-rocket-launch-in-south-korea-not-a-ufo-in-poland-idUSL1N3521NV/](https://www.reuters.com/article/fact-check/video-shows-rocket-launch-in-south-korea-not-a-ufo-in-poland-idUSL1N3521NV/)  
+
+8. <a id="endnote-8"></a>
+   Source: apnews.com  
+   Link: [https://apnews.com/article/politics-south-korea-government-aerospace-technology-abe96197f899c94f9e9f5c02e407d367](https://apnews.com/article/politics-south-korea-government-aerospace-technology-abe96197f899c94f9e9f5c02e407d367)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>I&#x27;m scared,” said one Twitter user. Another said they suspected it was a North Korean missile launch and worried about a war.Read more...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: independent.co.uk  
+   Title: ap south korea seoul ufo twitter b2253548  
+   Link: [https://www.independent.co.uk/news/ap-south-korea-seoul-ufo-twitter-b2253548.html](https://www.independent.co.uk/news/ap-south-korea-seoul-ufo-twitter-b2253548.html)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>South Korea&#x27;s unannounced rocket launch causes UFO...30 Dec 2022 — South Korea&#x27;s military confirms it test-fired a solid-fueled rocket a...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: koreaherald.com  
+   Link: [https://www.koreaherald.com/article/3032867](https://www.koreaherald.com/article/3032867)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>unannounced launch triggered brief public scare of a suspected UFO appearance or a North Korean missile or drone flying. (Photo - AP). Th...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: english.news.cn  
+   Title: Xinhua News S  
+   Link: [https://english.news.cn/asiapacific/20231204/24efd79fa765458997f3c3201756a5d6/c.html](https://english.news.cn/asiapacific/20231204/24efd79fa765458997f3c3201756a5d6/c.html)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Korea conducts test flight of solid-fuel space rocket4 Dec 2023 — It was the third of its kind to test-launch the homegrown solid-fuel sp...</p></details>
+
+### Additional References
+
+12. <a id="endnote-12"></a>
+   Source: instagram.com  
+   Link: [https://www.instagram.com/p/DXiYIgTGG4f/](https://www.instagram.com/p/DXiYIgTGG4f/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>KOREANOPNILER 業 MASSIVE &#x27;FIREBALL&#x27; LIGHTS UP...Not everything that streaks across the sky is a meteor. UFO and UAP reports going back de...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: straitstimes.com  
+   Link: [https://www.straitstimes.com/asia/east-asia/south-korean-military-s-solid-fuel-rocket-test-sparks-ufo-scare](https://www.straitstimes.com/asia/east-asia/south-korean-military-s-solid-fuel-rocket-test-sparks-ufo-scare)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Straits TimesSouth Korean military&#x27;s solid fuel rocket test sparks UFO...The meandering path and colour of the rocket caused some wi...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: hindustantimes.com  
+   Link: [https://www.hindustantimes.com/world-news/south-korea-ufo-scare-south-koreans-report-ufo-sighting-after-secret-rocket-launch-101672469214506.html](https://www.hindustantimes.com/world-news/south-korea-ufo-scare-south-koreans-report-ufo-sighting-after-secret-rocket-launch-101672469214506.html)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>South Koreans report UFO sighting after secret rocket launch31 Dec 2022 — Hundreds of people called police in South Korea after fearing t...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/KoreaJoongAngDaily/posts/witness-accounts-emerged-from-multiple-areas-across-korea-on-friday-evening-of-a/1366444208854466/](https://www.facebook.com/KoreaJoongAngDaily/posts/witness-accounts-emerged-from-multiple-areas-across-korea-on-friday-evening-of-a/1366444208854466/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Witnesses report &#x27;fireball&#x27; falling from sky over KoreaSeoul UFO Sightings (1995): Mysterious Object Over South Korea&#x27;s Capital In 1995...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: denvergazette.com  
+   Title: south koreas unannounced rocket launch has people saying they saw ufos  
+   Link: [https://www.denvergazette.com/2022/12/30/south-koreas-unannounced-rocket-launch-has-people-saying-they-saw-ufos/](https://www.denvergazette.com/2022/12/30/south-koreas-unannounced-rocket-launch-has-people-saying-they-saw-ufos/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>South Korea&#x27;s unannounced rocket launch has people...30 Dec 2022 — The South Korean military took responsibility for an unannounced rock...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: scmp.com  
+   Title: im scared south koreas unannounced rocket launch causes ufo scare  
+   Link: [https://www.scmp.com/news/asia/east-asia/article/3205143/im-scared-south-koreas-unannounced-rocket-launch-causes-ufo-scare](https://www.scmp.com/news/asia/east-asia/article/3205143/im-scared-south-koreas-unannounced-rocket-launch-causes-ufo-scare)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>South China Morning PostSouth Koreans report UFO sighting after secret rocket launch30 Dec 2022 — Some people said they saw mysterious li...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/VOANews/videos/south-korea-ufo-was-military-rocket-test/3448443275474418/](https://www.facebook.com/VOANews/videos/south-korea-ufo-was-military-rocket-test/3448443275474418/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>South Korea&#x27;s military confirmed it test-fired a solid- fueled rocket Friday after its unannounced...</p></details>
+
+19. <a id="endnote-19"></a>
+   Source: foxnews.com  
+   Title: south korean rocket launch causes ufo scare what is this  
+   Link: [https://www.foxnews.com/world/south-korean-rocket-launch-causes-ufo-scare-what-is-this](https://www.foxnews.com/world/south-korean-rocket-launch-causes-ufo-scare-what-is-this)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>South Korean rocket launch causes UFO scare: &#x27;What is this?&#x27;30 Dec 2022 — South Korea&#x27;s military confirmed that it had test-fired a solid...</p></details>
+
+20. <a id="endnote-20"></a>
+   Source: koreajoongangdaily.joins.com  
+   Title: Witnesses report fireball falling from sky over Korea  
+   Link: [https://koreajoongangdaily.joins.com/news/2026-04-25/national/socialAffairs/Witnesses-report-fireball-falling-from-sky-over-Korea/2577821](https://koreajoongangdaily.joins.com/news/2026-04-25/national/socialAffairs/Witnesses-report-fireball-falling-from-sky-over-Korea/2577821)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Korea Joongang DailyWitnesses report &#x27;fireball&#x27; falling from sky over Korea25 Apr 2026 — Witness accounts emerged from multiple areas acr...</p></details>
+
+21. <a id="endnote-21"></a>
+   Source: instagram.com  
+   Link: [https://www.instagram.com/newsofbahrain_/p/Cm1JtI5pv4M/?hl=en](https://www.instagram.com/newsofbahrain_/p/Cm1JtI5pv4M/?hl=en)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ced launch triggered brief scare of a suspected UFO appearance or a...Read more...</p></details>

@@ -1,0 +1,682 @@
+---
+level: 2
+basename: Rwanda_7266a1_rwanda_drones_space_263dc9
+parent_basename: Rwanda_7266a1
+child_basenames: []
+sibling_basenames:
+- Rwanda_7266a1_kigali_sky_sightings_5e33a6
+- Rwanda_7266a1_missing_rwanda_repor_bfb3e0
+- Rwanda_7266a1_ruwa_rwanda_confusio_dc975b
+tags:
+- rwanda
+- drones-space
+keywords:
+- rwanda
+- drones-space
+affiliate_category: rwanda
+show_ads: true
+description: Rwanda's satellites, space agency, and drone rules belong in the UFO story as context, not as evidence of alien craft.
+hero_summary: Rwanda's satellites, space agency, and drone rules belong in the UFO story as context, not as evidence of alien craft.
+layout: default
+permalink: /drones-space/
+sidebar_expanded_urls:
+- /what-is-rwandas-real-ufo-record/
+nav_short_title: Drones Space
+title: How Rwanda's Modern Skies Changed the UFO Question
+title_full: How Rwanda's Modern Skies Changed the UFO Question | Rwanda UFOs
+display_title_short: Drones Space
+display_title: Drones Space
+heading_title: How Rwanda's Modern Skies Changed the UFO Question
+page_heading_title: How Rwanda's Modern Skies Changed the UFO Question
+source_count: 71
+infographic_count: 3
+planned_sections:
+- RWASAT 1 and the space policy backdrop
+- Drone registration and flight controls
+- Why conventional technology matters for UFO checks
+focal_unit_type: policy_intervention
+topic_lens: governance
+topic_granularity: theme_cluster
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+parent_title: Rwanda UFOs
+parent_permalink: /what-is-rwandas-real-ufo-record/
+parent_nav_short_title: Rwanda UFOs
+parent_heading_title: What Is Rwanda's Real UFO Record?
+ancestor_links:
+- basename: Rwanda_7266a1
+  title: Rwanda UFOs
+  permalink: /what-is-rwandas-real-ufo-record/
+  short_title: Rwanda UFOs
+breadcrumb_links:
+- basename: Rwanda_7266a1
+  title: Rwanda UFOs
+  permalink: /what-is-rwandas-real-ufo-record/
+  short_title: Rwanda UFOs
+sibling_links:
+- basename: Rwanda_7266a1_kigali_sky_sightings_5e33a6
+  title: Kigali | What Is Rwanda's Real UFO Record?
+  permalink: /kigali/
+  short_title: Kigali
+  heading_title: What Would a Kigali UFO Sighting Need?
+- basename: Rwanda_7266a1_missing_rwanda_repor_bfb3e0
+  title: Missing Reports | What Is Rwanda's Real UFO Record?
+  permalink: /missing-reports-b9cb78/
+  short_title: Missing Reports
+  heading_title: Why Are Rwanda UFO Reports So Hard to Find?
+- basename: Rwanda_7266a1_ruwa_rwanda_confusio_dc975b
+  title: Ruwa Mixup | What Is Rwanda's Real UFO Record?
+  permalink: /ruwa-mixup/
+  short_title: Ruwa Mixup
+  heading_title: Why Ruwa Is Not a Rwanda UFO Case
+up_link:
+  basename: Rwanda_7266a1
+  title: Rwanda UFOs
+  permalink: /what-is-rwandas-real-ufo-record/
+  short_title: Rwanda UFOs
+next_link:
+  basename: Rwanda_7266a1_kigali_sky_sightings_5e33a6
+  title: Kigali | What Is Rwanda's Real UFO Record?
+  permalink: /kigali/
+  short_title: Kigali
+  heading_title: What Would a Kigali UFO Sighting Need?
+date: '2026-05-31 04:29:11 '
+header:
+  og_image: /assets/images/Rwanda_7266a1_rwanda_drones_space_263dc9-Illustration-1-social.jpg
+  preview_image: /assets/images/Rwanda_7266a1_rwanda_drones_space_263dc9-Illustration-1.webp
+image: /assets/images/Rwanda_7266a1_rwanda_drones_space_263dc9-Illustration-1-social.jpg
+---
+
+## Introduction
+
+[Rwanda]({{ 'what-is-rwandas-real-ufo-record/' | relative_url }})’s modern drone and space programmes do not provide evidence for unidentified flying objects, but they do change how unusual aerial sightings should be interpreted. A country that now operates satellite projects, has a national space agency, regulates unmanned aircraft and actively promotes advanced aviation technology naturally creates more ordinary sources of lights, aircraft movements and unfamiliar objects in the sky. For anyone examining UFO claims in Rwanda, this matters because the first question is no longer simply “what was seen?” but also “what technology was operating in that airspace at the time?”
+
+
+<img src="{{ "/assets/images/Rwanda_7266a1_rwanda_drones_space_263dc9-Illustration-1-light.svg" | relative_url }}" alt="Drones Space illustration 1" data-theme-src-dark="{{ "/assets/images/Rwanda_7266a1_rwanda_drones_space_263dc9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rwanda_7266a1_rwanda_drones_space_263dc9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+The most useful role of Rwanda’s space and drone sector in UFO discussions is therefore contextual rather than evidential. It provides a framework for ruling out conventional explanations before treating a report as genuinely unexplained. Rwanda’s satellite launches, drone regulations and international space partnerships help explain why modern sky observations can appear unusual without requiring an extraterrestrial interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rura.rw/fileadmin/user_upload/RURA/Documents/Press_Release/Launch_of_RWASAT-1_Press_release.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rura.rw">[rura.rw]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rura.rw</span><span class="citation-popover-snippet">08 October 2019 SUCCESSFUL LAUNCH OF RWASAT-1...Oct 8, 2019 — On September 24, 2019 at 1803hrs Rwanda time, an H2-B rocket carrying...</span><span class="citation-popover-meta">Published: September 24, 2019</span></span></span>
+
+## RWASAT-1 and the Space-Policy Backdrop
+
+The most visible milestone in Rwanda’s space story was the launch of RWASAT-1, the country’s first satellite. According to Rwandan government and regulatory sources, the CubeSat was launched in 2019 aboard a Japanese mission connected to the International Space Station. The project was designed to support environmental monitoring, agricultural observation and technical capacity-building rather than any military or secretive purpose. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rura.rw/fileadmin/user_upload/RURA/Documents/Press_Release/Launch_of_RWASAT-1_Press_release.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rura.rw">[rura.rw]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rura.rw</span><span class="citation-popover-snippet">08 October 2019 SUCCESSFUL LAUNCH OF RWASAT-1...Oct 8, 2019 — On September 24, 2019 at 1803hrs Rwanda time, an H2-B rocket carrying...</span><span class="citation-popover-meta">Published: September 24, 2019</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.minict.gov.rw/news-detail/minict-rura-and-embassy-of-japan-held-a-joint-press-conference-on-the-launch-of-rwasat-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minict.gov.rw">[2minict.gov.rw]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minict.gov.rw</span><span class="citation-popover-snippet">MINICT, RURA and Embassy of Japan held a joint press...INFO ON THE LAUNCH OF RWASAT-1: On September 24, 2019 at 1803hrs Rwanda time, an...</span><span class="citation-popover-meta">Published: September 24, 2019</span></span></span>
+
+For UFO researchers, RWASAT-1 is important because it marks the point at which Rwanda entered a more visible era of public space activity. Once a country begins discussing satellite launches, orbital infrastructure and space engineering in national media, public awareness of unusual sky events often increases. Bright satellites, satellite trains, launch-related coverage and growing interest in astronomy can all influence how people interpret objects seen at night.
+
+The broader policy environment reinforces that shift. Rwanda established the Rwanda Space Agency to coordinate national space development and has presented space technology as part of its long-term economic and scientific strategy. Agency materials emphasise infrastructure development, satellite applications and integration into the global space sector. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://space.gov.rw/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.gov.rw">[space.gov.rw]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.gov.rw</span><span class="citation-popover-title">Rwanda Space Agency</span><span class="citation-popover-snippet">RSARwanda Space Agency - Leading Africa&#x27;s space exploration and satellite technology initiatives.... Adopt new technologies. Establish s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://space.gov.rw/Rwanda_Space_Agency_Brochure.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.gov.rw">[space.gov.rw]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.gov.rw</span><span class="citation-popover-title">Rwanda Space Agency Brochure</span><span class="citation-popover-snippet">1Rwanda Space Agency (RSA) is the National Space agency that was established in 2020 with the mission of developing Rwanda&#x27;s space sector...</span></span></span>
+
+The country has also participated in international space governance. Rwanda became one of the first African signatories of the Artemis Accords, a US-led framework intended to guide civil space cooperation and future lunar exploration. The significance for UFO analysis is not that Rwanda gained access to hidden information about extraterrestrial life. Rather, it became more closely connected to international discussions about space operations, satellite technology and orbital activity, all of which increase the amount of ordinary aerospace activity that observers may encounter or hear about. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://2021-2025.state.gov/nigeria-and-rwanda-first-african-nations-sign-the-artemis-accords/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 2021-2025.state.gov">[U.S. Department of State]</a><span class="citation-popover" role="note"><span class="citation-popover-source">2021-2025.state.gov</span><span class="citation-popover-title">nigeria and rwanda first african nations sign the artemis accords</span><span class="citation-popover-snippet">Department of StateNigeria and Rwanda: First African Nations Sign the Artemis...13 Dec 2022 — At the first ever US-Africa Space Forum, N...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/missions/artemis/nasa-welcomes-nigeria-rwanda-as-newest-artemis-accords-signatories/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">welcomes nigeria rwanda as newest artemis accords signatories</span><span class="citation-popover-snippet">NASA Welcomes Nigeria, Rwanda as Newest Artemis...16 Oct 2023 — As the first African nations to sign the Artemis Accords, Nigeria and Rw...</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XcDdu1w7phg" title="Rwanda launches satellite to provide internet to rural schools" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XcDdu1w7phg" target="_blank" rel="noopener noreferrer">Rwanda launches satellite to provide internet to rural schools</a></p><p class="youtube-embed-meta">Channel: CNBC Africa &middot; Views: 5.4K &middot; Uploaded: March 2019 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XcDdu1w7phg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XcDdu1w7phg">Open on YouTube</a></p></div></div></div>
+
+## Drone Registration and Flight Controls
+
+Drone activity is a more immediate factor in Rwanda’s UFO context because drones can physically appear in local airspace and can be mistaken for unknown craft.
+
+Rwanda has developed one of Africa’s more structured regulatory environments for unmanned aircraft systems. The Rwanda Civil Aviation Authority requires drone registration, pilot certification and operational permissions for many forms of drone use. Regulatory material also states that imported drones must be declared to authorities and that operators must comply with national aviation rules. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Rwanda" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Rwanda]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">RwandaWith a population of about 14 million people living within a total area of 26,338 square kilometres (10,169 sq mi), of which lan...</span></span></span>
+
+Several aspects of drone operations make them relevant to UFO reports:
+
+* Bright navigation lights can appear unusual at night.
+* Hovering behaviour can make a drone seem unlike a conventional aircraft.
+* Quiet electric propulsion can reduce the sound cues people normally associate with aviation.
+* Sudden directional changes can appear extraordinary to observers unfamiliar with modern drone capabilities.
+* Commercial and governmental drone activity can occur at relatively low altitude, bringing unfamiliar technology closer to witnesses than satellites or conventional aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.gov.rw/unmanned-aircraft/uas-registration-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.gov.rw">[caa.gov.rw]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.gov.rw</span><span class="citation-popover-title">UA S Registration</span><span class="citation-popover-snippet">UAS Registration - DronesAll UAS/ Drones operators in Rwanda are required to register their UAS in accordance with Rwanda UAS Regulations...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.gov.rw/unmanned-aircraft/pilot-certificate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.gov.rw">[caa.gov.rw]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.gov.rw</span><span class="citation-popover-title">UA S Pilot Certificate</span><span class="citation-popover-snippet">UAS Pilot Certificate - DronesAll UAS remote pilots flying in Rwanda should have a Rwandan remote UAS Pilot Certificate that meets the re...</span></span></span>
+
+Rwanda’s reputation as a test bed for advanced drone applications has further increased the likelihood of misidentification. Over the past decade the country has attracted attention for using unmanned systems in logistics, medical delivery and technology development. Even when a specific sighting is not linked to a known operation, the existence of regular drone activity becomes part of the baseline explanation that investigators should consider before treating an object as anomalous.
+
+Importantly, regulation itself does not eliminate misidentifications. A registered drone can still be mistaken for something mysterious by a witness who sees it briefly, at night or from a distance. The regulations merely make it more plausible that a conventional explanation exists and may be traceable through operators, permits or aviation authorities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.gov.rw/service-details/uas-pilot-certificate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.gov.rw">[caa.gov.rw]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.gov.rw</span><span class="citation-popover-snippet">UAS Pilot CertificateAll UAS remote pilots flying in Rwanda should have a Rwandan remote UAS Pilot Certificate that meets the requirement...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.gov.rw/unmanned-aircraft" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.gov.rw">[caa.gov.rw]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.gov.rw</span><span class="citation-popover-snippet">DronesAll UAS remote pilots flying in Rwanda should have a Rwandan remote UAS Pilot Certificate that meets the requirements stipulated in...</span></span></span>
+
+
+<img src="{{ "/assets/images/Rwanda_7266a1_rwanda_drones_space_263dc9-Illustration-2-light.svg" | relative_url }}" alt="Drones Space illustration 2" data-theme-src-dark="{{ "/assets/images/Rwanda_7266a1_rwanda_drones_space_263dc9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rwanda_7266a1_rwanda_drones_space_263dc9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Why Conventional Technology Matters for UFO Checks
+
+The strongest lesson from Rwanda’s modern aerospace development is methodological. A sighting becomes more difficult to classify as unexplained when multiple conventional technologies could account for it.
+
+A useful UFO investigation sequence in the Rwandan context now includes several questions:
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tlu6apwfjzA" title="RWASAT 1 | A Satellite built by Rwandan was unveiled at the 2019 Transform Africa Summit" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tlu6apwfjzA" target="_blank" rel="noopener noreferrer">RWASAT 1 | A Satellite built by Rwandan was unveiled at the 2019 Transform Africa Summit</a></p><p class="youtube-embed-meta">Channel: RwandaTV &middot; Views: 903 &middot; Uploaded: May 2019 &middot; Length: 1 minute 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tlu6apwfjzA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tlu6apwfjzA">Open on YouTube</a></p></div></div></div>
+
+
+<div class="content-enhancement content-enhancement--step-flow" markdown="1">
+
+1. Was a registered drone operating in the area?
+2. Was the observation consistent with known drone lighting or flight behaviour?
+3. Could the object have been a satellite, including a highly visible low-Earth-orbit satellite?
+4. Did the sighting coincide with a widely observed astronomical event?
+5. Was there any aviation activity recorded in the relevant airspace?
+6. Is there evidence that remains unexplained after those checks?
+
+</div>
+
+This approach is particularly important because Rwanda has relatively little publicly documented UFO case material compared with some neighbouring countries. Where evidence is already sparse, investigators gain more value from careful elimination of ordinary causes than from speculative theories.
+
+The growth of satellite awareness also changes public expectations. In earlier decades, a moving light crossing the night sky might have appeared highly unusual. Today, observers may encounter satellites, satellite constellations or aerospace demonstrations that were far less common in public consciousness. Rwanda’s participation in satellite projects such as RWASAT-1 and related communications initiatives contributes to that changing environment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mineduc.gov.rw/news-detail/rwanda-and-oneweb-launch-icyerekezo-satellite-named-by-students-from-nkombo-island" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mineduc.gov.rw">[MINEDUC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mineduc.gov.rw</span><span class="citation-popover-snippet">The partnership kicked off today 27th February 2019, at 23:37 Rwanda time, in French...Read more...</span><span class="citation-popover-meta">Published: February 2019</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://spaceinafrica.com/2021/03/10/rwanda-legislature-approves-law-establishing-rwanda-space-agency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceinafrica.com">[Space in Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceinafrica.com</span><span class="citation-popover-title">rwanda legislature approves law establishing rwanda space agency</span><span class="citation-popover-snippet">Icyerekezo was launched in partnership with...Read more...</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/t3RpqGbM-EE" title="The Road to NST2 - Episode 7: Pioneering emerging technologies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=t3RpqGbM-EE" target="_blank" rel="noopener noreferrer">The Road to NST2 - Episode 7: Pioneering emerging technologies</a></p><p class="youtube-embed-meta">Channel: MINICT Rwanda &middot; Views: 2.9K &middot; Uploaded: March 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=t3RpqGbM-EE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=t3RpqGbM-EE">Open on YouTube</a></p></div></div></div>
+
+## The Real Impact on Rwanda's UFO Record
+
+The practical consequence of Rwanda’s drone and space activity is not an increase in proven UFO events but an increase in plausible conventional explanations.
+
+That does not mean every future aerial report can automatically be dismissed as a drone or satellite. Misidentification should never be assumed without evidence. However, the existence of a regulated drone ecosystem, a national space agency, satellite projects and participation in international space governance means that modern investigators have a larger catalogue of ordinary possibilities to test. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://space.gov.rw/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.gov.rw">[space.gov.rw]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.gov.rw</span><span class="citation-popover-title">Rwanda Space Agency</span><span class="citation-popover-snippet">RSARwanda Space Agency - Leading Africa&#x27;s space exploration and satellite technology initiatives.... Adopt new technologies. Establish s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.gov.rw/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.gov.rw">[caa.gov.rw]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.gov.rw</span><span class="citation-popover-snippet">Rwanda Civil Aviation Authority(250) 726936583 Address KN 5, Rd. Kigali International Airport E-Services Landing &amp; Overflight Clearance S...</span></span></span>
+
+For Rwanda, this is arguably the most important aerospace development in the UFO discussion. The country’s skies now contain more human-made technology than they did a decade ago. As a result, any claim of an unidentified object requires more rigorous checking against documented drone operations, satellite activity and aviation records before it can reasonably remain in the category of the unexplained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.gov.rw/service-details/uas-registration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.gov.rw">[caa.gov.rw]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.gov.rw</span><span class="citation-popover-snippet">UAS RegistrationAll UAS/ Drones operators in Rwanda are required to register their UAS in accordance with Rwanda UAS Regulations. The ope...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.gov.rw/unmanned-aircraft/uas-registration-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.gov.rw">[caa.gov.rw]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.gov.rw</span><span class="citation-popover-title">UA S Registration</span><span class="citation-popover-snippet">UAS Registration - DronesAll UAS/ Drones operators in Rwanda are required to register their UAS in accordance with Rwanda UAS Regulations...</span></span></span>
+
+
+<img src="{{ "/assets/images/Rwanda_7266a1_rwanda_drones_space_263dc9-Illustration-3-light.svg" | relative_url }}" alt="Drones Space illustration 3" data-theme-src-dark="{{ "/assets/images/Rwanda_7266a1_rwanda_drones_space_263dc9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rwanda_7266a1_rwanda_drones_space_263dc9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How Rwanda&#x27;s Modern Skies Changed the UFO Question. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+        </h4>
+        <p class="fr-book-author">By J. Allen Hynek</p>
+        
+        <p class="fr-book-desc">Useful for understanding misidentification risks.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+        </h4>
+        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        
+        <p class="fr-book-desc">Strong fit for distinguishing genuine anomalies from conventional technology.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+        </h4>
+        <p class="fr-book-author">By Leslie Kean</p>
+        
+        <p class="fr-book-desc">Focuses on aviation-linked observations and evidence.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+        </h4>
+        <p class="fr-book-author">By Jacques Vallee</p>
+        
+        <p class="fr-book-desc">Provides broader context for interpreting unusual reports.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: rura.rw  
+   Link: [https://www.rura.rw/fileadmin/user_upload/RURA/Documents/Press_Release/Launch_of_RWASAT-1_Press_release.pdf](https://www.rura.rw/fileadmin/user_upload/RURA/Documents/Press_Release/Launch_of_RWASAT-1_Press_release.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>08 October 2019 SUCCESSFUL LAUNCH OF RWASAT-1...Oct 8, 2019 — On September 24, 2019 at 1803hrs Rwanda time, an H2-B rocket carrying...</p></details>
+   Published: September 24, 2019  
+
+2. <a id="endnote-2"></a>
+   Source: space.gov.rw  
+   Title: Rwanda Space Agency  
+   Link: [https://space.gov.rw/](https://space.gov.rw/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>RSARwanda Space Agency - Leading Africa&#x27;s space exploration and satellite technology initiatives.... Adopt new technologies. Establish s...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: caa.gov.rw  
+   Title: UA S Registration  
+   Link: [https://www.caa.gov.rw/unmanned-aircraft/uas-registration-1](https://www.caa.gov.rw/unmanned-aircraft/uas-registration-1)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAS Registration - DronesAll UAS/ Drones operators in Rwanda are required to register their UAS in accordance with Rwanda UAS Regulations...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: minict.gov.rw  
+   Link: [https://www.minict.gov.rw/news-detail/minict-rura-and-embassy-of-japan-held-a-joint-press-conference-on-the-launch-of-rwasat-1](https://www.minict.gov.rw/news-detail/minict-rura-and-embassy-of-japan-held-a-joint-press-conference-on-the-launch-of-rwasat-1)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>MINICT, RURA and Embassy of Japan held a joint press...INFO ON THE LAUNCH OF RWASAT-1: On September 24, 2019 at 1803hrs Rwanda time, an...</p></details>
+   Published: September 24, 2019  
+
+5. <a id="endnote-5"></a>
+   Source: space.gov.rw  
+   Title: Rwanda Space Agency Brochure  
+   Link: [https://space.gov.rw/Rwanda_Space_Agency_Brochure.pdf](https://space.gov.rw/Rwanda_Space_Agency_Brochure.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>1Rwanda Space Agency (RSA) is the National Space agency that was established in 2020 with the mission of developing Rwanda&#x27;s space sector...</p></details>
+
+6. <a id="endnote-6"></a>
+   Source: 2021-2025.state.gov  
+   Title: nigeria and rwanda first african nations sign the artemis accords  
+   Link: [https://2021-2025.state.gov/nigeria-and-rwanda-first-african-nations-sign-the-artemis-accords/](https://2021-2025.state.gov/nigeria-and-rwanda-first-african-nations-sign-the-artemis-accords/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of StateNigeria and Rwanda: First African Nations Sign the Artemis...13 Dec 2022 — At the first ever US-Africa Space Forum, N...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: nasa.gov  
+   Title: welcomes nigeria rwanda as newest artemis accords signatories  
+   Link: [https://www.nasa.gov/missions/artemis/nasa-welcomes-nigeria-rwanda-as-newest-artemis-accords-signatories/](https://www.nasa.gov/missions/artemis/nasa-welcomes-nigeria-rwanda-as-newest-artemis-accords-signatories/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Welcomes Nigeria, Rwanda as Newest Artemis...16 Oct 2023 — As the first African nations to sign the Artemis Accords, Nigeria and Rw...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: caa.gov.rw  
+   Title: UA S Pilot Certificate  
+   Link: [https://www.caa.gov.rw/unmanned-aircraft/pilot-certificate](https://www.caa.gov.rw/unmanned-aircraft/pilot-certificate)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAS Pilot Certificate - DronesAll UAS remote pilots flying in Rwanda should have a Rwandan remote UAS Pilot Certificate that meets the re...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: caa.gov.rw  
+   Link: [https://www.caa.gov.rw/service-details/uas-pilot-certificate](https://www.caa.gov.rw/service-details/uas-pilot-certificate)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAS Pilot CertificateAll UAS remote pilots flying in Rwanda should have a Rwandan remote UAS Pilot Certificate that meets the requirement...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: rlrc.gov.rw  
+   Title: 10.15.1.4. Unmanned civil aircraft system MO n 01 Mos Trans of 2018  
+   Link: [https://www.rlrc.gov.rw/fileadmin/user_upload/RLRC/Laws_of_Rwanda_v2/Domestic_laws/Laws_in_force/10._Business/10.15._Aviation/10.15.1._Civil_Aviation_Organization/10.15.1.4._Unmanned_civil_aircraft_system_MO_n___01-Mos-Trans_of_2018.pdf](https://www.rlrc.gov.rw/fileadmin/user_upload/RLRC/Laws_of_Rwanda_v2/Domestic_laws/Laws_in_force/10._Business/10.15._Aviation/10.15.1._Civil_Aviation_Organization/10.15.1.4._Unmanned_civil_aircraft_system_MO_n___01-Mos-Trans_of_2018.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rwanda Land Registration CommissionOfficial Gazette nº Special of 23/01/2018 ITEKA RYA...23 Jan 2018 — (a) A remote pilot must, immediat...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: caa.gov.rw  
+   Link: [https://www.caa.gov.rw/unmanned-aircraft](https://www.caa.gov.rw/unmanned-aircraft)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>DronesAll UAS remote pilots flying in Rwanda should have a Rwandan remote UAS Pilot Certificate that meets the requirements stipulated in...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: mineduc.gov.rw  
+   Link: [https://www.mineduc.gov.rw/news-detail/rwanda-and-oneweb-launch-icyerekezo-satellite-named-by-students-from-nkombo-island](https://www.mineduc.gov.rw/news-detail/rwanda-and-oneweb-launch-icyerekezo-satellite-named-by-students-from-nkombo-island)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The partnership kicked off today 27th February 2019, at 23:37 Rwanda time, in French...Read more...</p></details>
+   Published: February 2019  
+
+13. <a id="endnote-13"></a>
+   Source: caa.gov.rw  
+   Link: [https://www.caa.gov.rw/](https://www.caa.gov.rw/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rwanda Civil Aviation Authority(250) 726936583 Address KN 5, Rd. [Kigali](&amp;#123;&amp;#123; &#x27;kigali/&#x27; | relative_url &amp;#125;&amp;#125;) International Airport E-Services Landing &amp; Overflight Clearance S...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: caa.gov.rw  
+   Link: [https://www.caa.gov.rw/service-details/uas-registration](https://www.caa.gov.rw/service-details/uas-registration)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAS RegistrationAll UAS/ Drones operators in Rwanda are required to register their UAS in accordance with Rwanda UAS Regulations. The ope...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: nasa.gov  
+   Link: [https://www.nasa.gov/](https://www.nasa.gov/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASANASA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery. About NA...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: nasa.gov  
+   Title: nasas big 2022 historic moon mission webb telescope images more  
+   Link: [https://www.nasa.gov/humans-in-space/nasas-big-2022-historic-moon-mission-webb-telescope-images-more/](https://www.nasa.gov/humans-in-space/nasas-big-2022-historic-moon-mission-webb-telescope-images-more/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s Big 2022: Historic Moon Mission, Webb Telescope...Dec 13, 2022 — Selected seven new additions to the team of flight directors to...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: youtube.com  
+   Title: The Road to NST2  
+   Link: [https://www.youtube.com/watch?v=t3RpqGbM-EE](https://www.youtube.com/watch?v=t3RpqGbM-EE)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rwanda launches satellite to provide internet to rural schools...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: youtube.com  
+   Title: Rwanda launches satellite to provide internet to rural schools  
+   Link: [https://www.youtube.com/watch?v=XcDdu1w7phg](https://www.youtube.com/watch?v=XcDdu1w7phg)  
+
+19. <a id="endnote-19"></a>
+   Source: spaceinafrica.com  
+   Title: rwanda legislature approves law establishing rwanda space agency  
+   Link: [https://spaceinafrica.com/2021/03/10/rwanda-legislature-approves-law-establishing-rwanda-space-agency/](https://spaceinafrica.com/2021/03/10/rwanda-legislature-approves-law-establishing-rwanda-space-agency/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Icyerekezo was launched in partnership with...Read more...</p></details>
+
+20. <a id="endnote-20"></a>
+   Source: rwandan-flyer.blog4ever.com  
+   Link: [https://rwandan-flyer.blog4ever.com/regulation-of-unmanned-aircraft-systems-drones-in-rwanda](https://rwandan-flyer.blog4ever.com/regulation-of-unmanned-aircraft-systems-drones-in-rwanda)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rwanda Aviation and Tourism NewsRegulation of Unmanned Aircraft Systems (Drones) in RwandaThe regulations, which fall under the supervisi...</p></details>
+
+21. <a id="endnote-21"></a>
+   Source: Wikipedia  
+   Link: [https://en.wikipedia.org/wiki/Rwanda](https://en.wikipedia.org/wiki/Rwanda)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>RwandaWith a population of about 14 million people living within a total area of 26,338 square kilometres (10,169 sq mi), of which lan...</p></details>
+
+22. <a id="endnote-22"></a>
+   Source: Wikipedia  
+   Title: Rwanda Space Agency  
+   Link: [https://en.wikipedia.org/wiki/Rwanda_Space_Agency](https://en.wikipedia.org/wiki/Rwanda_Space_Agency)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rwanda Space AgencyFrancis Ngabo, signed the Artemis Accords on the norms for space exploration and use of astronomical objects.... R...</p></details>
+
+23. <a id="endnote-23"></a>
+   Source: Wikipedia  
+   Title: Artemis Accords  
+   Link: [https://en.wikipedia.org/wiki/Artemis_Accords](https://en.wikipedia.org/wiki/Artemis_Accords)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Artemis AccordsOn December 13, 2022, at the United States–Africa Leaders Summit 2022, Rwanda and Nigeria became the first African nati...</p></details>
+   Published: December 13, 2022  
+
+24. <a id="endnote-24"></a>
+   Source: spaceinafrica.com  
+   Title: nigeria and rwanda sign nasa artemis accord  
+   Link: [https://spaceinafrica.com/2022/12/13/nigeria-and-rwanda-sign-nasa-artemis-accord/](https://spaceinafrica.com/2022/12/13/nigeria-and-rwanda-sign-nasa-artemis-accord/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>13 Dec 2022 — Nigeria and Rwanda have signed the NASA Artemis Accord during the US-Africa Space Forum on the sideline of the US-Africa Le...</p></details>
+
+25. <a id="endnote-25"></a>
+   Source: spaceinafrica.com  
+   Link: [https://spaceinafrica.com/tag/rwasat-1/](https://spaceinafrica.com/tag/rwasat-1/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>RwaSat-1 ArchivesRwanda&#x27;s first satellite in space is set for release from ISS. Rwanda&#x27;s first satellite in Space, RwaSat-1, is set to be...</p></details>
+
+26. <a id="endnote-26"></a>
+   Source: en.igihe.com  
+   Title: rwanda signs artemis accords  
+   Link: [https://en.igihe.com/news/article/rwanda-signs-artemis-accords](https://en.igihe.com/news/article/rwanda-signs-artemis-accords)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>signs &#x27;Artemis Accords&#x27;14 Dec 2022 — The two countries signed the accords on Tuesday, December 13, 2022 at the first ever U.S.-Africa Spa...</p></details>
+   Published: December 13, 2022  
+
+27. <a id="endnote-27"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=tlu6apwfjzA](https://www.youtube.com/watch?v=tlu6apwfjzA)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>RWASAT 1 | A Satellite built by Rwandan was unveiled at...A Satellite built by Rwandan and Japanese Engineers was unveiled at the 2019 T...</p></details>
+
+28. <a id="endnote-28"></a>
+   Source: marketscreener.com  
+   Title: Rwanda says Mozambique has secured funds for it to continue Cabo Delgado mission  
+   Link: [https://www.marketscreener.com/news/rwanda-says-mozambique-has-secured-funds-for-it-to-continue-cabo-delgado-mission-ce7f5ad8d88bf224](https://www.marketscreener.com/news/rwanda-says-mozambique-has-secured-funds-for-it-to-continue-cabo-delgado-mission-ce7f5ad8d88bf224)  
+
+29. <a id="endnote-29"></a>
+   Source: ktpress.rw  
+   Title: rwanda nigeria join nasa artemis space ambitions  
+   Link: [https://www.ktpress.rw/2022/12/rwanda-nigeria-join-nasa-artemis-space-ambitions/](https://www.ktpress.rw/2022/12/rwanda-nigeria-join-nasa-artemis-space-ambitions/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rwanda, Nigeria Join NASA Artemis Space Ambitions14 Dec 2022 — Rwanda has signed the Artemis Accords that will enable the country to deve...</p></details>
+
+30. <a id="endnote-30"></a>
+   Source: ktpress.rw  
+   Title: rwanda given 10 year grace period from one web satellite deal  
+   Link: [https://www.ktpress.rw/2019/02/rwanda-given-10-year-grace-period-from-one-web-satellite-deal/](https://www.ktpress.rw/2019/02/rwanda-given-10-year-grace-period-from-one-web-satellite-deal/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rwanda Given 10-Year Grace Period on One Web Satellite...28 Feb 2019 — “Under the agreement between Rwanda and One Web, a 10-year grace...</p></details>
+
+31. <a id="endnote-31"></a>
+   Source: linkedin.com  
+   Title: gatama rwanda 3 milestone satellites that put activity 7375232088821886976 BU38  
+   Link: [https://www.linkedin.com/posts/gatama_rwanda-3-milestone-satellites-that-put-activity-7375232088821886976-BU38](https://www.linkedin.com/posts/gatama_rwanda-3-milestone-satellites-that-put-activity-7375232088821886976-BU38)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rwanda&#x27;s space milestones: RwaSat-1, Icyerekezo, AI...⁠ ⁠RwaSat-1 RwaSat-1, launched in 2019, was Rwanda&#x27;s first satellite a CubeSat dev...</p></details>
+
+32. <a id="endnote-32"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/TheNewTimesRwanda/posts/rwanda-and-nigeria-on-tuesday-signed-artemis-accords-a-directive-on-guiding-the-/5427919670650406/](https://www.facebook.com/TheNewTimesRwanda/posts/rwanda-and-nigeria-on-tuesday-signed-artemis-accords-a-directive-on-guiding-the-/5427919670650406/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rwanda and Nigeria on Tuesday signed Artemis AccordsRwanda and Nigeria on Tuesday signed Artemis Accords - a directive on guiding the nex...</p></details>
+
+33. <a id="endnote-33"></a>
+   Source: scribd.com  
+   Link: [https://www.scribd.com/document/638344463/RCAA-Form-RPAS002A-Application-for-RPAS-Operator-Permit-or-Certificate](https://www.scribd.com/document/638344463/RCAA-Form-RPAS002A-Application-for-RPAS-Operator-Permit-or-Certificate)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>motely Piloted Aircraft System (RPAS) or drone operator permit...Read more...</p></details>
+
+34. <a id="endnote-34"></a>
+   Source: realmafricasafaris.com  
+   Link: [https://realmafricasafaris.com/rwanda-drone-filming-rules/](https://realmafricasafaris.com/rwanda-drone-filming-rules/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The label may, e.g., via a permanent marker, a sticker or engraving.Read more...</p></details>
+
+35. <a id="endnote-35"></a>
+   Source: rwandalii.org  
+   Link: [https://rwandalii.org/akn/rw/act/law/2019/7/eng%402019-05-23](https://rwandalii.org/akn/rw/act/law/2019/7/eng%402019-05-23)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Law establishing Rwanda Civil Aviation Authority23 May 2019 — The head office of RCAA is located in the City of Kigali, the Capital of th...</p></details>
+   Published: May 2019  
+
+36. <a id="endnote-36"></a>
+   Source: tanzaniatimes.net  
+   Title: rwanda only east african nation signatory to artemis accords  
+   Link: [https://tanzaniatimes.net/rwanda-only-east-african-nation-signatory-to-artemis-accords/](https://tanzaniatimes.net/rwanda-only-east-african-nation-signatory-to-artemis-accords/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rwanda is the only East African Nation which has signed...11 Dec 2024 — Angola and Rwanda are the only African Nations that are signator...</p></details>
+
+37. <a id="endnote-37"></a>
+   Source: capmad.com  
+   Title: rwanda turns to 400 billion usd space industry  
+   Link: [https://www.capmad.com/technology-en/rwanda-turns-to-400-billion-usd-space-industry/](https://www.capmad.com/technology-en/rwanda-turns-to-400-billion-usd-space-industry/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>26 Mar 2024 — In November 2019, Rwanda launched its first satellite, RwaSat-1.... collaboration with the OneWeb program, was sent into s...</p></details>
+   Published: November 2019  
+
+### Additional References
+
+38. <a id="endnote-38"></a>
+   Source: uavcoach.com  
+   Link: [https://uavcoach.com/drone-laws-in-rwanda/](https://uavcoach.com/drone-laws-in-rwanda/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Laws in RwandaGeneral Rules for Flying a Drone in Rwanda · All drones must be registered with the CAA. · The minimum age for anyone...</p></details>
+
+39. <a id="endnote-39"></a>
+   Source: visitrwanda.com  
+   Link: [https://visitrwanda.com/facts/drones/](https://visitrwanda.com/facts/drones/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>DronesA permit is required to fly a drone recreationally or commercially in Rwanda. Permits are issued by the Rwanda Civil Aviation Autho...</p></details>
+
+40. <a id="endnote-40"></a>
+   Source: nanosats.eu  
+   Link: [https://www.nanosats.eu/sat/rwasat.html](https://www.nanosats.eu/sat/rwasat.html)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>RWASAT-1 SpacecraftDeveloping space engineering capacity in Rwanda. It has two cameras for monitoring agriculture status. An antenna for...</p></details>
+
+41. <a id="endnote-41"></a>
+   Source: news24.com  
+   Link: [https://www.news24.com/world/africa/nigeria-and-rwanda-become-first-african-countries-to-sign-space-treaty-with-us-20221214](https://www.news24.com/world/africa/nigeria-and-rwanda-become-first-african-countries-to-sign-space-treaty-with-us-20221214)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nigeria and Rwanda become first African countries to sign...14 Dec 2022 — Nigeria and Rwanda became the first African countries to sign...</p></details>
+
+42. <a id="endnote-42"></a>
+   Source: unoosa.org  
+   Link: [https://www.unoosa.org/documents/pdf/WSF/2021/Posters/AngeCynthia_Umuhire_-_Rwanda_Space_Agency_Status_-_Undergoing_projects_and_prospects_of_development.pdf](https://www.unoosa.org/documents/pdf/WSF/2021/Posters/AngeCynthia_Umuhire_-_Rwanda_Space_Agency_Status_-_Undergoing_projects_and_prospects_of_development.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>After one year, in 2019, the Rwanda&#x27;s first satellite, RWASAT-1 was launched with a mission of monitoring...Read more...</p></details>
+
+43. <a id="endnote-43"></a>
+   Source: engineeringnews.co.za  
+   Title: nigeria and rwanda join nasas artemis space exploration accords 2022 12 14  
+   Link: [https://www.engineeringnews.co.za/article/nigeria-and-rwanda-join-nasas-artemis-space-exploration-accords-2022-12-14](https://www.engineeringnews.co.za/article/nigeria-and-rwanda-join-nasas-artemis-space-exploration-accords-2022-12-14)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nigeria and Rwanda join Nasa&#x27;s Artemis space exploration...Dec 14, 2022 — On Tuesday, Nigeria and Rwanda became the first African countr...</p></details>
+
+44. <a id="endnote-44"></a>
+   Source: tial.org  
+   Title: space technology as a catalyst for development rwandas space agency  
+   Link: [https://tial.org/illustration-cases/space-technology-as-a-catalyst-for-development-rwandas-space-agency/](https://tial.org/illustration-cases/space-technology-as-a-catalyst-for-development-rwandas-space-agency/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Space technology as a catalyst for development: Rwanda&#x27;s...Jul 7, 2025 — In November 2019, Rwanda launched its first satellite, RwaSat-1...</p></details>
+   Published: November 2019  
+
+45. <a id="endnote-45"></a>
+   Source: spacepolicyonline.com  
+   Title: two african countries join artemis accords bringing total to 23  
+   Link: [https://spacepolicyonline.com/news/two-african-countries-join-artemis-accords-bringing-total-to-23/](https://spacepolicyonline.com/news/two-african-countries-join-artemis-accords-bringing-total-to-23/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Two African Countries Join Artemis Accords Bringing Total...Dec 13, 2022 — Nigeria and Rwanda today became the first African countries t...</p></details>
+
+46. <a id="endnote-46"></a>
+   Source: x.com  
+   Link: [https://x.com/japaninrwanda/status/2047288483132129632](https://x.com/japaninrwanda/status/2047288483132129632)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>st 3U satellite, deployed from Kibo in 2019 for farming and...Read more...</p></details>
+
+47. <a id="endnote-47"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/nasa/comments/zuzvwz/why_did_nigeria_and_rwanda_sign_nasas_artemis/](https://www.reddit.com/r/nasa/comments/zuzvwz/why_did_nigeria_and_rwanda_sign_nasas_artemis/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Space Treaty, which has 112 countries as parties. BTW Greg...Read more...</p></details>

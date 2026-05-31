@@ -1,0 +1,1648 @@
+---
+level: 1
+basename: Tajikistan_279c77
+child_basenames:
+- Tajikistan_279c77_hissar_anomalous_zon_6e966d
+- Tajikistan_279c77_index
+- Tajikistan_279c77_khujand_sighting_pat_802a41
+- Tajikistan_279c77_meteors_camera_artif_bd070a
+- Tajikistan_279c77_tajik_air_1994_cable_7080ba
+sibling_basenames:
+- Afghanistan_c69153
+- Albania_79b9d2
+- Algeria_bd6acc
+- Andorra_9d3bd1
+- Angola_a42522
+- Antigua_and_Barbuda_0f8518
+- Argentina_354bf9
+- Armenia_5f4599
+- Australia_ceafb5
+- Austria_593905
+- Azerbaijan_213598
+- Bahrain_3ae11c
+- Bangladesh_fa6c37
+- Barbados_93409a
+- Belarus_027a12
+- Belgium_5cb4c9
+- Belize_42ab0c
+- Benin_373616
+- Bhutan_bb2254
+- Bolivia_Plurinationa_9e2db7
+- Bosnia_and_Herzegovi_552c9f
+- Botswana_180c89
+- Brazil_37497a
+- Brunei_Darussalam_eab94a
+- Bulgaria_5c7772
+- Burkina_Faso_f61e5f
+- Burundi_461758
+- Cabo_Verde_2a5bf1
+- Cambodia_314ccd
+- Cameroon_73a7dd
+- Canada_cd6a7b
+- Central_African_Repu_358788
+- Chad_6c6b1b
+- Chile_349507
+- China_d2eaf2
+- Colombia_2f7373
+- Comoros_e5bb59
+- Congo_77f256
+- Costa_Rica_fe586b
+- Cote_d_Ivoire_f8cb1a
+- Croatia_d7e045
+- Cuba_c484b1
+- Cyprus_852add
+- Czechia_045e2f
+- Democratic_People_s_808714
+- Democratic_Republic_679868
+- Denmark_89da12
+- Djibouti_60a8b0
+- Dominica_bc1cd4
+- Dominican_Republic_dba665
+- Ecuador_09f199
+- Egypt_1c39ab
+- El_Salvador_9b83b7
+- Equatorial_Guinea_ae2c01
+- Eritrea_18740a
+- Estonia_f0a96d
+- Eswatini_16cc7f
+- Ethiopia_3d91f7
+- Fiji_bbb7ef
+- Finland_c909b1
+- France_e3772a
+- Gabon_a06dcd
+- Gambia_7c3997
+- Georgia_9113c6
+- Germany_17d53e
+- Ghana_317dba
+- Greece_4902a4
+- Grenada_dbf2a2
+- Guatemala_11760e
+- Guinea-Bissau_b07cb9
+- Guinea_b47b54
+- Guyana_bc88a2
+- Haiti_a4842f
+- Honduras_5aa588
+- Hungary_f14e46
+- Iceland_b3c92e
+- India_967ce3
+- Indonesia_35536a
+- Iran_Islamic_Republi_94f9ee
+- Iraq_1aed9e
+- Ireland_eb2131
+- Israel_4c197d
+- Italy_ad79ef
+- Jamaica_5eedd6
+- Japan_fcf29f
+- Jordan_674027
+- Kazakhstan_2f36b6
+- Kenya_a84f56
+- Kiribati_3f57ad
+- Kuwait_93295b
+- Kyrgyzstan_c78791
+- Lao_People_s_Democra_44f2bd
+- Latvia_c5f5bb
+- Lebanon_5caa7f
+- Lesotho_93b12b
+- Liberia_1ed5dd
+- Libya_55949d
+- Liechtenstein_b0ddce
+- Lithuania_74a788
+- Luxembourg_507672
+- Madagascar_f92bcb
+- Malawi_0ce65b
+- Malaysia_ff3ea3
+- Maldives_213cb2
+- Mali_daa6a4
+- Malta_1a591a
+- Marshall_Islands_ccbdc0
+- Mauritania_85fa35
+- Mauritius_26160d
+- Mexico_41937b
+- Micronesia_Federated_30e9e8
+- Monaco_35ab1c
+- Mongolia_f54da3
+- Montenegro_479fb3
+- Morocco_32e087
+- Mozambique_a40a9b
+- Myanmar_928b7c
+- Namibia_bfe79d
+- Nauru_f648c7
+- Nepal_0e1d58
+- Netherlands_Kingdom_d6d70a
+- New_Zealand_3d3336
+- Nicaragua_481264
+- Niger_6687e1
+- Nigeria_9742d0
+- North_Macedonia_cece1d
+- Norway_988455
+- Oman_c14c36
+- Pakistan_82d220
+- Palau_e5e0b6
+- Panama_1e36b3
+- Papua_New_Guinea_90e80c
+- Paraguay_71a452
+- Peru_36c572
+- Philippines_806736
+- Poland_5ff03b
+- Portugal_a49519
+- Qatar_83ef3e
+- Republic_of_Korea_8d9deb
+- Republic_of_Moldova_a6ad94
+- Romania_d6b897
+- Russian_Federation_87c89a
+- Rwanda_7266a1
+- Saint_Kitts_and_Nevi_a66de5
+- Saint_Lucia_85ac35
+- Saint_Vincent_and_th_3bce2a
+- Samoa_f56806
+- San_Marino_8ff2c5
+- Sao_Tome_and_Princip_3437b2
+- Saudi_Arabia_8bf7f8
+- Senegal_d8973b
+- Serbia_6d31bf
+- Seychelles_3d2d7b
+- Sierra_Leone_817b0d
+- Singapore_20c0b7
+- Slovakia_b6c149
+- Slovenia_d1aa05
+- Solomon_Islands_6f943d
+- Somalia_4dfdf1
+- South_Africa_3b27c8
+- South_Sudan_80ac9c
+- Spain_20a8df
+- Sri_Lanka_db33ad
+- Sudan_1193ba
+- Suriname_b17fc6
+- Sweden_72ddd2
+- Switzerland_77dcd8
+- Syrian_Arab_Republic_099887
+- Thailand_a2b7c1
+- The_Bahamas_f765dc
+- Timor-Leste_2d79f6
+- Togo_30949d
+- Tonga_e8a123
+- Trinidad_and_Tobago_a73120
+- Tunisia_edf404
+- Turkiye_c8c5d5
+- Turkmenistan_1f8dc1
+- Tuvalu_9a2248
+- Uganda_e92904
+- Ukraine_c951ec
+- United_Arab_Emirates_c92b89
+- United_Kingdom_d25561
+- United_Republic_of_T_f850a5
+- United_States_f5f19f
+- Uruguay_66b989
+- Uzbekistan_db800e
+- Vanuatu_d16ad2
+- Venezuela_Bolivarian_3dc4c3
+- Viet_Nam_82ecdd
+- Yemen_ac33d6
+- Zambia_dcf25e
+- Zimbabwe_5922f5
+tags:
+- tajikistan
+keywords:
+- tajikistan
+affiliate_category: tajikistan
+show_ads: true
+description: Tajikistan’s UFO record is not a large, well-documented national case file.
+hero_summary: Tajikistan’s UFO record is not a large, well-documented national case file.
+layout: default
+permalink: /what-do-tajikistans-ufo-reports-really/
+nav_short_title: What Do Tajikistan's UFO Reports Really Show?
+title: What Do Tajikistan's UFO Reports Really Show?
+title_full: What Do Tajikistan's UFO Reports Really Show?
+display_title_short: What Do Tajikistan's UFO Reports Really Show?
+display_title: What Do Tajikistan's UFO Reports Really Show?
+heading_title: What Do Tajikistan's UFO Reports Really Show?
+page_heading_title: What Do Tajikistan's UFO Reports Really Show?
+source_count: 161
+infographic_count: 3
+page_website_name: Tajikistan UFOs
+page_banner_line: Careful pages on Tajikistan's thin but intriguing UFO record.
+site_website_name: Tajikistan UFOs
+site_banner_line: Careful pages on Tajikistan's thin but intriguing UFO record.
+site_image_description: A night sky over Tajik mountains with a distant passenger jet route, city lights below, and a single bright unexplained light near...
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+sibling_links:
+- basename: Afghanistan_c69153
+  title: Afghanistan UAP
+  permalink: /afghanistan/
+  short_title: Afghanistan UAP
+- basename: Albania_79b9d2
+  title: AlbanianUFOs
+  permalink: /albania/
+  short_title: AlbanianUFOs
+- basename: Algeria_bd6acc
+  title: Algeria UFOs
+  permalink: /algeria/
+  short_title: Algeria UFOs
+- basename: Antigua_and_Barbuda_0f8518
+  title: Antigua UFOs
+  permalink: /antigua-and-barbuda/
+  short_title: Antigua UFOs
+- basename: Monaco_35ab1c
+  title: Monaco UFOs
+  permalink: /are-monaco-ufo-sightings-really/
+  short_title: Monaco UFOs
+- basename: Mali_daa6a4
+  title: Mali UFOs
+  permalink: /are-there-any-real-mali-ufo-cases/
+  short_title: Mali UFOs
+- basename: Montenegro_479fb3
+  title: MontenegroUFOs
+  permalink: /are-ufos-really-seen-over-montenegro/
+  short_title: MontenegroUFOs
+- basename: Argentina_354bf9
+  title: Argentina OVNI
+  permalink: /argentinas-ufo-stories-records-and/
+  short_title: Argentina OVNI
+- basename: Bangladesh_fa6c37
+  title: Bangladesh UFOs
+  permalink: /bangladesh/
+  short_title: Bangladesh UFOs
+- basename: Bolivia_Plurinationa_9e2db7
+  title: Bolivia UFOs
+  permalink: /bolivia-plurinational-state-of/
+  short_title: Bolivia UFOs
+- basename: Bosnia_and_Herzegovi_552c9f
+  title: BosniaUFOs
+  permalink: /bosnia-and-herzegovina/
+  short_title: BosniaUFOs
+- basename: Brunei_Darussalam_eab94a
+  title: Brunei UAP
+  permalink: /brunei-darussalam/
+  short_title: Brunei UAP
+- basename: Burkina_Faso_f61e5f
+  title: BurkinaUFO
+  permalink: /burkina-faso/
+  short_title: BurkinaUFO
+- basename: Central_African_Repu_358788
+  title: CAR UFOs
+  permalink: /central-african-republic/
+  short_title: CAR UFOs
+- basename: Cote_d_Ivoire_f8cb1a
+  title: Ivoire UFOs
+  permalink: /cote-d-ivoire/
+  short_title: Ivoire UFOs
+- basename: Czechia_045e2f
+  title: CzechUFOs
+  permalink: /czechia/
+  short_title: CzechUFOs
+- basename: Democratic_People_s_808714
+  title: DPRKUFOs
+  permalink: /democratic-people-s-republic-of-korea/
+  short_title: DPRKUFOs
+- basename: Democratic_Republic_679868
+  title: DRC UFOs
+  permalink: /democratic-republic-of-the-congo/
+  short_title: DRC UFOs
+- basename: Djibouti_60a8b0
+  title: DjiboutiUAP
+  permalink: /djibouti/
+  short_title: DjiboutiUAP
+- basename: Dominica_bc1cd4
+  title: Dominica UAP
+  permalink: /does-dominica-have-real-ufo-cases/
+  short_title: Dominica UAP
+- basename: Iceland_b3c92e
+  title: Iceland UFOs
+  permalink: /does-iceland-have-a-real-ufo-record/
+  short_title: Iceland UFOs
+- basename: Dominican_Republic_dba665
+  title: Dominican UAP
+  permalink: /dominican-republic/
+  short_title: Dominican UAP
+- basename: Equatorial_Guinea_ae2c01
+  title: EquatorialGuineaUFOs
+  permalink: /equatorial-guinea/
+  short_title: EquatorialGuineaUFOs
+- basename: Fiji_bbb7ef
+  title: Fiji UFOs
+  permalink: /fiji/
+  short_title: Fiji UFOs
+- basename: Finland_c909b1
+  title: Finland UFOs
+  permalink: /finland/
+  short_title: Finland UFOs
+- basename: Ghana_317dba
+  title: GhanaUFOs
+  permalink: /ghana/
+  short_title: GhanaUFOs
+- basename: Comoros_e5bb59
+  title: ComorosUFOs
+  permalink: /have-ufos-really-been-seen-over-comoros/
+  short_title: ComorosUFOs
+- basename: Chile_349507
+  title: ChileUFOs
+  permalink: /how-chile-investigates-ufos-and-aerial/
+  short_title: ChileUFOs
+- basename: France_e3772a
+  title: FranceUFOs
+  permalink: /how-france-investigates-and-archives-ufo/
+  short_title: FranceUFOs
+- basename: Iran_Islamic_Republi_94f9ee
+  title: Iran UFOs
+  permalink: /iran-islamic-republic-of/
+  short_title: Iran UFOs
+- basename: Iraq_1aed9e
+  title: Iraq UAP
+  permalink: /iraq/
+  short_title: Iraq UAP
+- basename: Lao_People_s_Democra_44f2bd
+  title: Laos UFOs
+  permalink: /lao-people-s-democratic-republic/
+  short_title: Laos UFOs
+- basename: Madagascar_f92bcb
+  title: Madagascar UFOs
+  permalink: /madagascars-ufo-record-famous-case-thin/
+  short_title: Madagascar UFOs
+- basename: Maldives_213cb2
+  title: MaldivesUFOs
+  permalink: /maldives/
+  short_title: MaldivesUFOs
+- basename: Micronesia_Federated_30e9e8
+  title: Micronesia UFOs
+  permalink: /micronesia-federated-states-of/
+  short_title: Micronesia UFOs
+- basename: Morocco_32e087
+  title: Morocco UFOs
+  permalink: /moroccos-ufo-mystery-and-its-best/
+  short_title: Morocco UFOs
+- basename: Netherlands_Kingdom_d6d70a
+  title: Dutch UFOs
+  permalink: /netherlands-kingdom-of-the/
+  short_title: Dutch UFOs
+- basename: Papua_New_Guinea_90e80c
+  title: PNG UFOs
+  permalink: /papua-new-guinea/
+  short_title: PNG UFOs
+- basename: Philippines_806736
+  title: Philippines UFOs
+  permalink: /philippines/
+  short_title: Philippines UFOs
+- basename: Portugal_a49519
+  title: Portugal UFOs
+  permalink: /portugals-ufo-files-mystery-memory-and/
+  short_title: Portugal UFOs
+- basename: Republic_of_Korea_8d9deb
+  title: Korea UFOs
+  permalink: /republic-of-korea/
+  short_title: Korea UFOs
+- basename: Republic_of_Moldova_a6ad94
+  title: Moldova UAP
+  permalink: /republic-of-moldova/
+  short_title: Moldova UAP
+- basename: Russian_Federation_87c89a
+  title: Russian UFOs
+  permalink: /russian-federation/
+  short_title: Russian UFOs
+- basename: Saint_Kitts_and_Nevi_a66de5
+  title: Kitts UFOs
+  permalink: /saint-kitts-and-nevis/
+  short_title: Kitts UFOs
+- basename: Saint_Vincent_and_th_3bce2a
+  title: SVG UFOs
+  permalink: /saint-vincent-and-the-grenadines/
+  short_title: SVG UFOs
+- basename: Sao_Tome_and_Princip_3437b2
+  title: Sao Tome UFOs
+  permalink: /sao-tome-and-principe/
+  short_title: Sao Tome UFOs
+- basename: Spain_20a8df
+  title: Spain UFOs
+  permalink: /spains-ufo-files-mystery-evidence-and/
+  short_title: Spain UFOs
+- basename: Syrian_Arab_Republic_099887
+  title: Syrian UAP
+  permalink: /syrian-arab-republic/
+  short_title: Syrian UAP
+- basename: Thailand_a2b7c1
+  title: Thailand UFOs
+  permalink: /thailand/
+  short_title: Thailand UFOs
+- basename: The_Bahamas_f765dc
+  title: Bahamas UFOs
+  permalink: /the-bahamas/
+  short_title: Bahamas UFOs
+- basename: Trinidad_and_Tobago_a73120
+  title: Trinidad UFOs
+  permalink: /trinidad-and-tobago/
+  short_title: Trinidad UFOs
+- basename: Turkiye_c8c5d5
+  title: Türkiye UFOs
+  permalink: /turkiye/
+  short_title: Türkiye UFOs
+- basename: Luxembourg_507672
+  title: LuxUFO
+  permalink: /uncovering-ufo-activity-across/
+  short_title: LuxUFO
+- basename: Israel_4c197d
+  title: Israel UFOs
+  permalink: /uncovering-ufo-phenomena-across-israel/
+  short_title: Israel UFOs
+- basename: United_Arab_Emirates_c92b89
+  title: UAE UFOs
+  permalink: /united-arab-emirates/
+  short_title: UAE UFOs
+- basename: United_Kingdom_d25561
+  title: UK UFOs
+  permalink: /united-kingdom/
+  short_title: UK UFOs
+- basename: United_Republic_of_T_f850a5
+  title: Tanzania UFOs
+  permalink: /united-republic-of-tanzania/
+  short_title: Tanzania UFOs
+- basename: United_States_f5f19f
+  title: US UFOs
+  permalink: /united-states/
+  short_title: US UFOs
+- basename: Venezuela_Bolivarian_3dc4c3
+  title: Venezuela UFOs
+  permalink: /venezuela-bolivarian-republic-of/
+  short_title: Venezuela UFOs
+- basename: Malawi_0ce65b
+  title: MalawiUFOs
+  permalink: /what-are-malawis-documented-ufos-and-sky/
+  short_title: MalawiUFOs
+- basename: Belarus_027a12
+  title: Belarus UFOs
+  permalink: /what-belarus-ufo-reports-really-show/
+  short_title: Belarus UFOs
+- basename: Brazil_37497a
+  title: BrazilUFOs
+  permalink: /what-brazils-ufo-records-reveal-about/
+  short_title: BrazilUFOs
+- basename: Angola_a42522
+  title: Angola UFOs
+  permalink: /what-can-angolas-ufo-record-really-prove/
+  short_title: Angola UFOs
+- basename: Benin_373616
+  title: Benin UFOs
+  permalink: /what-can-really-be-said-about-benin-ufos/
+  short_title: Benin UFOs
+- basename: Serbia_6d31bf
+  title: Serbia UFOs
+  permalink: /what-can-serbias-ufo-record-really-show/
+  short_title: Serbia UFOs
+- basename: Tuvalu_9a2248
+  title: Tuvalu UFOs
+  permalink: /what-can-tuvalus-ufo-record-really-show/
+  short_title: Tuvalu UFOs
+- basename: Canada_cd6a7b
+  title: Canada UAP
+  permalink: /what-canada-ufo-reports-really-show/
+  short_title: Canada UAP
+- basename: China_d2eaf2
+  title: China UFOs
+  permalink: /what-chinas-ufo-cases-really-show/
+  short_title: China UFOs
+- basename: South_Sudan_80ac9c
+  title: South Sudan UFOs
+  permalink: /what-counts-as-a-south-sudan-ufo-case/
+  short_title: South Sudan UFOs
+- basename: Jordan_674027
+  title: Jordan UFOs
+  permalink: /what-counts-as-a-ufo-in-jordan/
+  short_title: Jordan UFOs
+- basename: Croatia_d7e045
+  title: Croatia UFOs
+  permalink: /what-croatias-ufo-records-reveal-about/
+  short_title: Croatia UFOs
+- basename: Bahrain_3ae11c
+  title: Bahrain UFOs
+  permalink: /what-did-bahrains-ufo-sightings-really/
+  short_title: Bahrain UFOs
+- basename: Viet_Nam_82ecdd
+  title: Viet Nam UFOs
+  permalink: /what-did-viet-nams-ufo-reports-really/
+  short_title: Viet Nam UFOs
+- basename: Austria_593905
+  title: Austria UFOs
+  permalink: /what-do-austrias-ufo-reports-really-show/
+  short_title: Austria UFOs
+- basename: Belize_42ab0c
+  title: Belize UAP
+  permalink: /what-do-belize-ufo-reports-really-show/
+  short_title: Belize UAP
+- basename: Cameroon_73a7dd
+  title: Cameroon UFOs
+  permalink: /what-do-cameroons-ufo-stories-really/
+  short_title: Cameroon UFOs
+- basename: Cuba_c484b1
+  title: Cuba UFOs
+  permalink: /what-do-cubas-ufo-sightings-reveal-about/
+  short_title: Cuba UFOs
+- basename: Gabon_a06dcd
+  title: Gabon UFOs
+  permalink: /what-do-gabons-ufo-stories-really-show/
+  short_title: Gabon UFOs
+- basename: Guinea-Bissau_b07cb9
+  title: Guinea Bissau UFOs
+  permalink: /what-do-guinea-bissaus-ufo-reports/
+  short_title: Guinea Bissau UFOs
+- basename: Honduras_5aa588
+  title: Honduras UFOs
+  permalink: /what-do-honduras-ufo-reports-really-show/
+  short_title: Honduras UFOs
+- basename: Hungary_f14e46
+  title: Hungary UFOs
+  permalink: /what-do-hungarys-ufo-stories-really-show/
+  short_title: Hungary UFOs
+- basename: India_967ce3
+  title: India UAP
+  permalink: /what-do-indias-ufo-reports-really-show/
+  short_title: India UAP
+- basename: Lebanon_5caa7f
+  title: Lebanon UFOs
+  permalink: /what-do-lebanons-ufo-reports-really-show/
+  short_title: Lebanon UFOs
+- basename: Libya_55949d
+  title: Libya UFOs
+  permalink: /what-do-libyas-ufo-reports-really-show/
+  short_title: Libya UFOs
+- basename: Malaysia_ff3ea3
+  title: Malaysia UFOs
+  permalink: /what-do-malaysias-ufo-stories-really/
+  short_title: Malaysia UFOs
+- basename: Mongolia_f54da3
+  title: Mongolia UFOs
+  permalink: /what-do-mongolias-ufo-reports-really/
+  short_title: Mongolia UFOs
+- basename: Nauru_f648c7
+  title: Nauru UFOs
+  permalink: /what-do-nauru-ufo-reports-really-show/
+  short_title: Nauru UFOs
+- basename: Nigeria_9742d0
+  title: Nigeria UFOs
+  permalink: /what-do-nigerias-ufo-reports-really-show/
+  short_title: Nigeria UFOs
+- basename: Pakistan_82d220
+  title: Pakistan UFOs
+  permalink: /what-do-pakistans-ufo-cases-really-show/
+  short_title: Pakistan UFOs
+- basename: Panama_1e36b3
+  title: Panama UFOs
+  permalink: /what-do-panama-ufo-reports-really-show/
+  short_title: Panama UFOs
+- basename: Qatar_83ef3e
+  title: Qatar UFOs
+  permalink: /what-do-qatars-ufo-reports-really-show/
+  short_title: Qatar UFOs
+- basename: Seychelles_3d2d7b
+  title: Seychelles UFOs
+  permalink: /what-do-seychelles-ufo-reports-really/
+  short_title: Seychelles UFOs
+- basename: Sierra_Leone_817b0d
+  title: Sierra Leone UAP
+  permalink: /what-do-sierra-leones-ufo-reports-really/
+  short_title: Sierra Leone UAP
+- basename: Somalia_4dfdf1
+  title: Somalia UFOs
+  permalink: /what-do-somalias-ufo-reports-really-show/
+  short_title: Somalia UFOs
+- basename: Timor-Leste_2d79f6
+  title: Timor Leste UFOs
+  permalink: /what-do-timor-leste-ufo-reports-really/
+  short_title: Timor Leste UFOs
+- basename: Guinea_b47b54
+  title: Guinea UFOs
+  permalink: /what-do-ufo-reports-in-guinea-really/
+  short_title: Guinea UFOs
+- basename: Bhutan_bb2254
+  title: BhutanUFOs
+  permalink: /what-do-ufo-sightings-in-bhutan-really/
+  short_title: BhutanUFOs
+- basename: Botswana_180c89
+  title: Botswana UFOs
+  permalink: /what-does-botswanas-ufo-record-really/
+  short_title: Botswana UFOs
+- basename: Ecuador_09f199
+  title: EcuadorUFOs
+  permalink: /what-evidence-exists-for-ufos-in-ecuador/
+  short_title: EcuadorUFOs
+- basename: Georgia_9113c6
+  title: Georgia UFOs
+  permalink: /what-georgias-ufo-reports-reveal-about/
+  short_title: Georgia UFOs
+- basename: Germany_17d53e
+  title: Germany UFOs
+  permalink: /what-germanys-ufo-record-really-shows/
+  short_title: Germany UFOs
+- basename: Greece_4902a4
+  title: Greece UFOs
+  permalink: /what-greeces-ufo-records-reveal-about/
+  short_title: Greece UFOs
+- basename: Guatemala_11760e
+  title: GuatemalaUFOs
+  permalink: /what-guatemalas-ufo-reports-really/
+  short_title: GuatemalaUFOs
+- basename: Latvia_c5f5bb
+  title: Latvia UFOs
+  permalink: /what-has-latvia-really-seen-in-the-sky/
+  short_title: Latvia UFOs
+- basename: Malta_1a591a
+  title: Malta UFOs
+  permalink: /what-has-malta-really-seen-in-the-sky/
+  short_title: Malta UFOs
+- basename: Saint_Lucia_85ac35
+  title: Saint Lucia UFOs
+  permalink: /what-has-saint-lucia-really-reported/
+  short_title: Saint Lucia UFOs
+- basename: Samoa_f56806
+  title: Samoa UFOs
+  permalink: /what-has-samoa-really-seen-in-the-sky/
+  short_title: Samoa UFOs
+- basename: Zambia_dcf25e
+  title: Zambia UFOs
+  permalink: /what-has-zambia-really-seen-in-the-sky/
+  short_title: Zambia UFOs
+- basename: Indonesia_35536a
+  title: Indonesia UFOs
+  permalink: /what-indonesias-ufo-record-really-shows/
+  short_title: Indonesia UFOs
+- basename: Andorra_9d3bd1
+  title: Andorra UFOs
+  permalink: /what-is-actually-known-about-andorra/
+  short_title: Andorra UFOs
+- basename: Azerbaijan_213598
+  title: Azerbaijan UAP
+  permalink: /what-is-behind-azerbaijans-ufo-reports/
+  short_title: Azerbaijan UAP
+- basename: Liberia_1ed5dd
+  title: Liberia UFOs
+  permalink: /what-is-known-about-ufos-in-liberia/
+  short_title: Liberia UFOs
+- basename: Chad_6c6b1b
+  title: Chad UFOs
+  permalink: /what-is-really-behind-chads-ufo-reports/
+  short_title: Chad UFOs
+- basename: Gambia_7c3997
+  title: Gambia UFOs
+  permalink: /what-is-really-behind-gambias-ufo/
+  short_title: Gambia UFOs
+- basename: Myanmar_928b7c
+  title: Myanmar UFOs
+  permalink: /what-is-really-behind-myanmar-ufo/
+  short_title: Myanmar UFOs
+- basename: Namibia_bfe79d
+  title: Namibia UFOs
+  permalink: /what-is-really-behind-namibias-ufo/
+  short_title: Namibia UFOs
+- basename: Slovakia_b6c149
+  title: Slovak UFOs
+  permalink: /what-is-really-behind-slovakias-ufo/
+  short_title: Slovak UFOs
+- basename: Eswatini_16cc7f
+  title: Eswatini UFOs
+  permalink: /what-is-really-in-eswatinis-ufo-record/
+  short_title: Eswatini UFOs
+- basename: Jamaica_5eedd6
+  title: Jamaica UFOs
+  permalink: /what-is-really-in-jamaicas-ufo-record/
+  short_title: Jamaica UFOs
+- basename: North_Macedonia_cece1d
+  title: North Macedonia UFOs
+  permalink: /what-is-really-in-north-macedonias-ufo/
+  short_title: North Macedonia UFOs
+- basename: Uzbekistan_db800e
+  title: Uzbekistan UFOs
+  permalink: /what-is-really-in-uzbekistans-ufo-record/
+  short_title: Uzbekistan UFOs
+- basename: Yemen_ac33d6
+  title: Yemen UFOs
+  permalink: /what-is-really-in-yemens-ufo-record/
+  short_title: Yemen UFOs
+- basename: Burundi_461758
+  title: Burundi UFOs
+  permalink: /what-is-really-known-about-burundi-ufos/
+  short_title: Burundi UFOs
+- basename: Colombia_2f7373
+  title: Colombia UAP
+  permalink: /what-is-really-known-about-colombias-ufo/
+  short_title: Colombia UAP
+- basename: Kiribati_3f57ad
+  title: Kiribati UFOs
+  permalink: /what-is-really-known-about-kiribati-ufos/
+  short_title: Kiribati UFOs
+- basename: Lesotho_93b12b
+  title: Lesotho UAP
+  permalink: /what-is-really-known-about-lesotho-ufos/
+  short_title: Lesotho UAP
+- basename: Niger_6687e1
+  title: Niger UFOs
+  permalink: /what-is-really-known-about-niger-ufos/
+  short_title: Niger UFOs
+- basename: Palau_e5e0b6
+  title: Palau UAP
+  permalink: /what-is-really-known-about-palau-ufos/
+  short_title: Palau UAP
+- basename: Turkmenistan_1f8dc1
+  title: Turkmenistan UFOs
+  permalink: /what-is-really-known-about-turkmenistan/
+  short_title: Turkmenistan UFOs
+- basename: Ireland_eb2131
+  title: Irish UAP
+  permalink: /what-is-really-seen-over-ireland/
+  short_title: Irish UAP
+- basename: Kazakhstan_2f36b6
+  title: Kazakhstan UFOs
+  permalink: /what-is-really-seen-over-kazakhstan/
+  short_title: Kazakhstan UFOs
+- basename: Ukraine_c951ec
+  title: Ukraine UFOs
+  permalink: /what-is-really-seen-over-ukraine/
+  short_title: Ukraine UFOs
+- basename: Rwanda_7266a1
+  title: Rwanda UFOs
+  permalink: /what-is-rwandas-real-ufo-record/
+  short_title: Rwanda UFOs
+- basename: Sri_Lanka_db33ad
+  title: Sri Lanka UFOs
+  permalink: /what-is-sri-lankas-ufo-record-really/
+  short_title: Sri Lanka UFOs
+- basename: Switzerland_77dcd8
+  title: Swiss UFOs
+  permalink: /what-is-switzerlands-ufo-record-really/
+  short_title: Swiss UFOs
+- basename: Lithuania_74a788
+  title: Lithuania UFOs
+  permalink: /what-lithuanias-ufo-reports-really-show/
+  short_title: Lithuania UFOs
+- basename: Egypt_1c39ab
+  title: EgyptUFOs
+  permalink: /what-makes-egypt-a-hotspot-for-ufo/
+  short_title: EgyptUFOs
+- basename: Italy_ad79ef
+  title: Italy UFOs
+  permalink: /what-makes-italys-ufo-record-unique-and/
+  short_title: Italy UFOs
+- basename: Japan_fcf29f
+  title: Japan UFOs
+  permalink: /what-makes-japans-ufo-record-so-unusual/
+  short_title: Japan UFOs
+- basename: Liechtenstein_b0ddce
+  title: Liechtenstein UFOs
+  permalink: /what-makes-liechtensteins-ufo-story/
+  short_title: Liechtenstein UFOs
+- basename: Norway_988455
+  title: Norway UFOs
+  permalink: /what-makes-norways-ufo-record-different/
+  short_title: Norway UFOs
+- basename: Peru_36c572
+  title: Peru UFOs
+  permalink: /what-makes-perus-ufo-story-so/
+  short_title: Peru UFOs
+- basename: Sweden_72ddd2
+  title: Swedish UFOs
+  permalink: /what-makes-swedens-ufo-record-different/
+  short_title: Swedish UFOs
+- basename: New_Zealand_3d3336
+  title: NZ UFOs
+  permalink: /what-new-zealands-ufo-files-really-show/
+  short_title: NZ UFOs
+- basename: Sudan_1193ba
+  title: Sudan UFOs
+  permalink: /what-really-appeared-over-sudan/
+  short_title: Sudan UFOs
+- basename: Congo_77f256
+  title: Congo UFOs
+  permalink: /what-really-counts-as-a-congo-ufo/
+  short_title: Congo UFOs
+- basename: Oman_c14c36
+  title: Oman UFOs
+  permalink: /what-really-counts-as-an-oman-ufo/
+  short_title: Oman UFOs
+- basename: Ethiopia_3d91f7
+  title: Ethiopia UFOs
+  permalink: /what-really-counts-as-ethiopias-ufo/
+  short_title: Ethiopia UFOs
+- basename: Tonga_e8a123
+  title: Tonga UFOs
+  permalink: /what-really-exists-in-tongas-ufo-record/
+  short_title: Tonga UFOs
+- basename: Armenia_5f4599
+  title: Armenia UFOs
+  permalink: /what-really-explains-armenias-ufo/
+  short_title: Armenia UFOs
+- basename: Bulgaria_5c7772
+  title: Bulgaria UFOs
+  permalink: /what-really-explains-bulgarias-ufo/
+  short_title: Bulgaria UFOs
+- basename: Kyrgyzstan_c78791
+  title: Kyrgyzstan UFOs
+  permalink: /what-really-explains-kyrgyzstans-ufo/
+  short_title: Kyrgyzstan UFOs
+- basename: Marshall_Islands_ccbdc0
+  title: Marshall UFOs
+  permalink: /what-really-explains-marshall-islands/
+  short_title: Marshall UFOs
+- basename: Saudi_Arabia_8bf7f8
+  title: Saudi UFOs
+  permalink: /what-really-explains-saudi-arabias-ufo/
+  short_title: Saudi UFOs
+- basename: Vanuatu_d16ad2
+  title: Vanuatu UAP
+  permalink: /what-really-explains-vanuatus-strange/
+  short_title: Vanuatu UAP
+- basename: Kenya_a84f56
+  title: Kenya UFOs
+  permalink: /what-really-fell-from-kenyas-skies/
+  short_title: Kenya UFOs
+- basename: El_Salvador_9b83b7
+  title: El Salvador UFOs
+  permalink: /what-really-flies-over-el-salvador/
+  short_title: El Salvador UFOs
+- basename: Belgium_5cb4c9
+  title: Belgium
+  permalink: /what-really-happened-during-belgiums/
+  short_title: Belgium
+- basename: Australia_ceafb5
+  title: Australia UFOs
+  permalink: /what-really-happened-in-australias-ufo/
+  short_title: Australia UFOs
+- basename: Barbados_93409a
+  title: Barbados UFOs
+  permalink: /what-really-happened-in-barbados-skies/
+  short_title: Barbados UFOs
+- basename: Cambodia_314ccd
+  title: Cambodia UFOs
+  permalink: /what-really-happened-in-cambodias-ufo/
+  short_title: Cambodia UFOs
+- basename: Costa_Rica_fe586b
+  title: Costa Rica UFOs
+  permalink: /what-really-happened-in-costa-ricas-ufo/
+  short_title: Costa Rica UFOs
+- basename: Haiti_a4842f
+  title: Haiti UFOs
+  permalink: /what-really-happened-in-haitis-ufo/
+  short_title: Haiti UFOs
+- basename: Kuwait_93295b
+  title: Kuwait UAP
+  permalink: /what-really-happened-in-kuwaits-ufo/
+  short_title: Kuwait UAP
+- basename: Mauritius_26160d
+  title: Mauritius UFOs
+  permalink: /what-really-happened-in-mauritius-sky/
+  short_title: Mauritius UFOs
+- basename: Mexico_41937b
+  title: Mexico UFOs
+  permalink: /what-really-happened-in-mexicos-ufo/
+  short_title: Mexico UFOs
+- basename: Nepal_0e1d58
+  title: Nepal UFOs
+  permalink: /what-really-happened-in-nepals-ufo/
+  short_title: Nepal UFOs
+- basename: Nicaragua_481264
+  title: Nicaragua UFOs
+  permalink: /what-really-happened-in-nicaraguas-ufo/
+  short_title: Nicaragua UFOs
+- basename: Paraguay_71a452
+  title: Paraguay UFOs
+  permalink: /what-really-happened-in-paraguays-ufo/
+  short_title: Paraguay UFOs
+- basename: Poland_5ff03b
+  title: Poland UFOs
+  permalink: /what-really-happened-in-polands-ufo/
+  short_title: Poland UFOs
+- basename: Solomon_Islands_6f943d
+  title: Solomon UFOs
+  permalink: /what-really-happened-in-solomon/
+  short_title: Solomon UFOs
+- basename: Togo_30949d
+  title: Togo UFOs
+  permalink: /what-really-happened-in-togos-ufo-files/
+  short_title: Togo UFOs
+- basename: Tunisia_edf404
+  title: Tunisia UFOs
+  permalink: /what-really-happened-in-tunisias-ufo/
+  short_title: Tunisia UFOs
+- basename: Uganda_e92904
+  title: Uganda UFOs
+  permalink: /what-really-happened-in-ugandas-ufo/
+  short_title: Uganda UFOs
+- basename: Zimbabwe_5922f5
+  title: Zimbabwe UFOs
+  permalink: /what-really-happened-in-zimbabwes-ufo/
+  short_title: Zimbabwe UFOs
+- basename: Estonia_f0a96d
+  title: Estonia UFOs
+  permalink: /what-really-shapes-estonias-ufo-record/
+  short_title: Estonia UFOs
+- basename: Slovenia_d1aa05
+  title: Slovenia UFOs
+  permalink: /what-really-stands-out-in-slovenias-ufo/
+  short_title: Slovenia UFOs
+- basename: South_Africa_3b27c8
+  title: South Africa UFOs
+  permalink: /what-really-stands-out-in-south/
+  short_title: South Africa UFOs
+- basename: Mozambique_a40a9b
+  title: Mozambique UFOs
+  permalink: /what-really-survives-in-mozambiques-ufo/
+  short_title: Mozambique UFOs
+- basename: Romania_d6b897
+  title: Romania UFOs
+  permalink: /what-romanias-ufo-record-really-shows/
+  short_title: Romania UFOs
+- basename: Singapore_20c0b7
+  title: Singapore UFOs
+  permalink: /what-singapore-ufo-sightings-really-show/
+  short_title: Singapore UFOs
+- basename: Suriname_b17fc6
+  title: Suriname UFOs
+  permalink: /what-surinames-ufo-stories-really-show/
+  short_title: Suriname UFOs
+- basename: Senegal_d8973b
+  title: Senegal UFOs
+  permalink: /what-survives-in-senegals-ufo-record/
+  short_title: Senegal UFOs
+- basename: Cabo_Verde_2a5bf1
+  title: Cabo Verde UFOs
+  permalink: /what-ufo-reports-survive-cabo-verde/
+  short_title: Cabo Verde UFOs
+- basename: Cyprus_852add
+  title: CyprusUFOs
+  permalink: /what-ufo-sightings-have-shaped-cyprus/
+  short_title: CyprusUFOs
+- basename: Eritrea_18740a
+  title: Eritrea UFOs
+  permalink: /what-ufos-have-been-reported-in/
+  short_title: Eritrea UFOs
+- basename: Uruguay_66b989
+  title: Uruguay UFOs
+  permalink: /what-uruguays-ufo-files-really-show/
+  short_title: Uruguay UFOs
+- basename: Denmark_89da12
+  title: Denmark UFOs
+  permalink: /what-we-know-about-ufo-phenomena-in/
+  short_title: Denmark UFOs
+- basename: Guyana_bc88a2
+  title: Guyana UFOs
+  permalink: /what-we-know-about-ufo-sightings-in/
+  short_title: Guyana UFOs
+- basename: Mauritania_85fa35
+  title: Mauritania UAP
+  permalink: /why-are-mauritanias-ufo-records-so/
+  short_title: Mauritania UAP
+- basename: Grenada_dbf2a2
+  title: Grenada UFOs
+  permalink: /why-grenada-became-a-ufo-footnote/
+  short_title: Grenada UFOs
+- basename: San_Marino_8ff2c5
+  title: San Marino UFOs
+  permalink: /why-san-marino-became-a-ufo-meeting/
+  short_title: San Marino UFOs
+child_links:
+- basename: Tajikistan_279c77_hissar_anomalous_zon_6e966d
+  title: Hissar Zone | What Do Tajikistan's UFO Reports Really...
+  permalink: /hissar-zone/
+  short_title: Hissar Zone
+  heading_title: What Is the Hissar Anomalous Zone?
+- basename: Tajikistan_279c77_khujand_sighting_pat_802a41
+  title: Khujand Reports | What Do Tajikistan's UFO Reports Really...
+  permalink: /khujand-reports/
+  short_title: Khujand Reports
+  heading_title: Is Khujand Really a UFO Hotspot?
+- basename: Tajikistan_279c77_meteors_camera_artif_bd070a
+  title: Mundane Causes | What Do Tajikistan's UFO Reports Really...
+  permalink: /mundane-causes/
+  short_title: Mundane Causes
+  heading_title: When Tajik UFOs Become Meteors or Glare
+- basename: Tajikistan_279c77_tajik_air_1994_cable_7080ba
+  title: Tajik Air Cable | What Do Tajikistan's UFO Reports Really...
+  permalink: /tajik-air-cable/
+  short_title: Tajik Air Cable
+  heading_title: Why the Tajik Air UFO Cable Still Matters
+prev_link:
+  basename: Somalia_4dfdf1
+  title: Somalia UFOs
+  permalink: /what-do-somalias-ufo-reports-really-show/
+  short_title: Somalia UFOs
+next_link:
+  basename: Timor-Leste_2d79f6
+  title: Timor Leste UFOs
+  permalink: /what-do-timor-leste-ufo-reports-really/
+  short_title: Timor Leste UFOs
+date: '2026-05-31 04:35:45 '
+header:
+  og_image: /assets/images/Tajikistan_279c77-overview-social.jpg
+  preview_image: /assets/images/Tajikistan_279c77-overview.webp
+image: /assets/images/Tajikistan_279c77-overview-social.jpg
+---
+
+## Introduction
+
+The best case to take seriously is the 1994 Tajik Air crew report, not because it proves an exotic explanation, but because it entered U.S. diplomatic records and involved aviation witnesses. Most local claims are lower-grade evidence: sincere recollections, press anecdotes, unattributed images, or later retellings. That split matters. Tajikistan is interesting less as a “UFO hotspot” than as a Central Asian example of how mountain geography, aviation corridors, meteor science, folklore, and fragmentary archives can turn unusual sky observations into durable mysteries.
+
+
+<img src="{{ "/assets/images/Tajikistan_279c77-overview.webp" | relative_url }}" alt="Overview image for What Do Tajikistan&#x27;s UFO Reports Really..." loading="eager" decoding="sync" fetchpriority="high">
+## The strongest documented case is tied to Tajik Air, but happened over Kazakhstan
+
+The most substantial Tajikistan-linked UFO document is a U.S. Embassy Dushanbe cable dated 31 January 1994, titled “Tajik Air Pilots Report Unidentified Flying Object”. It says a Tajik Air chief pilot, American citizen Ed Rhodes, and two American pilot colleagues reported an encounter on 27 January while flying a Boeing 747SP at 41,000 feet at latitude 45 north and longitude 55 east, over Kazakhstan. The crew described a bright light approaching from the east, apparently at higher altitude, then manoeuvring for about forty minutes in circles, corkscrews and 90-degree turns before disappearing over the horizon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/dos-uap-d2-cable-2-kazakhstan-january-1994.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War State Department UAP Cable 2, Dushanbe Tajikistan,</span><span class="citation-popover-snippet">U.S. Department of War State Department UAP Cable 2, Dushanbe Tajikistan,</span></span></span>(#endnote-1 "Endnote 1")
+
+The cable is unusually valuable because it is not just a later UFO-book retelling. It appears in a government cable from Dushanbe, was addressed to U.S. officials and neighbouring embassies, and was later released in full. The same text had also appeared in CUFON’s archive of State Department UFO documents after a Freedom of Information Act process that retrieved 22 responsive documents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cufon.org/cufon/staterepts.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[Computer UFO Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+The case still has limits. The crew could not discern the object’s shape because it was dark. The “contrails” were seen later, after sunrise, and the pilot’s estimate of their altitude was not an instrumented measurement. The cable itself ends with a restrained diplomatic comment: “We have no opinion and report the above for what it may be worth.” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/dos-uap-d2-cable-2-kazakhstan-january-1994.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War State Department UAP Cable 2, Dushanbe Tajikistan,</span><span class="citation-popover-snippet">U.S. Department of War State Department UAP Cable 2, Dushanbe Tajikistan,</span></span></span>(#endnote-1 "Endnote 1")
+
+For this Tajikistan page, the key classification is therefore: **officially recorded but unresolved, not confirmed**. It belongs naturally to both the Tajikistan branch and a Kazakhstan sibling branch, because the reporting channel and crew were Tajik Air-related, while the reported location was over Kazakhstan. Treating it as purely “Tajikistan UFO evidence” would be misleading; ignoring it would also miss the strongest Tajikistan-linked archival record.
+
+## Local sightings cluster around Khujand, Dushanbe memories, and mountain-edge views
+
+Local Tajik media contain a small number of UFO stories, especially around Khujand in Sughd Region. These accounts are useful as cultural and witness-history material, but they generally lack the evidence needed to move beyond “reported sighting”.
+
+One 2011 Asia-Plus report says residents of Khujand saw a strange object at about two in the morning on 4 July. A woman living near Spartak stadium described a large, bright, round object with smaller blinking lights around it, moving silently over a four-storey building towards the Panjshanbe market area. The same report says Khujand airport air-traffic staff did not see anything unusual on radar and had received no aircraft reports, while adding that such objects would not necessarily be registered by radar. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asiaplustj.info/news/life/person/20110704/zhiteli-khudzhanda-utverzhdayut-chto-videli-nlo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asiaplustj.info">[Asia-Plus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asiaplustj.info</span><span class="citation-popover-title">Asia-PlusЖители Худжанда утверждают, что видели НЛО</span><span class="citation-popover-snippet">Asia-PlusЖители Худжанда утверждают, что видели НЛО</span></span></span>
+
+A separate 2010 Asia-Plus story from Khujand reported a schoolboy’s mobile-phone video of a red object emitting white light, moving towards the mountains and then accelerating. The article also noted that Khujand airport air-traffic control had not detected an unidentified object, and it quoted a resident recalling an earlier cigar-shaped, silent light over the city in the late 1990s. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asiaplustj.info/news/life/person/20110704/zhiteli-khudzhanda-utverzhdayut-chto-videli-nlo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asiaplustj.info">[Asia-Plus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asiaplustj.info</span><span class="citation-popover-title">Asia-PlusЖители Худжанда утверждают, что видели НЛО</span><span class="citation-popover-snippet">Asia-PlusЖители Худжанда утверждают, что видели НЛО</span></span></span>
+
+A later UFO-themed Asia-Plus feature collected personal memories from Tajik witnesses rather than presenting a new investigation. It included Saida Rajabova’s account from Khujand: for years she noticed a vertical bright glow between two mountains near the Mogoltau range, and she later connected that long-running light source with an oval object she said she saw on 26 August 2009. The same feature also included Dushanbe-linked recollections, including Farangis Sharif-Zoda’s story of seeing a close object during a road journey towards Samarkand. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asiaplustj.info/news/life/person/20110704/zhiteli-khudzhanda-utverzhdayut-chto-videli-nlo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asiaplustj.info">[Asia-Plus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asiaplustj.info</span><span class="citation-popover-title">Asia-PlusЖители Худжанда утверждают, что видели НЛО</span><span class="citation-popover-snippet">Asia-PlusЖители Худжанда утверждают, что видели НЛО</span></span></span>
+
+These reports show a regional pattern: Khujand and northern Tajikistan appear more often in the accessible local press record than the Pamirs or southern lowlands. That may reflect actual sighting distribution, but it may also reflect media reach, urban observers, aircraft routes, mountain horizons, and the availability of Russian-language local reporting. The evidence does not support a claim that Khujand is a confirmed UFO hotspot; it supports the narrower claim that Khujand has a visible cluster of reported sightings in Tajik local media.
+
+
+<img src="{{ "/assets/images/Tajikistan_279c77-Illustration-1-light.svg" | relative_url }}" alt="What Do Tajikistan&#x27;s UFO Reports Really... illustration 1" data-theme-src-dark="{{ "/assets/images/Tajikistan_279c77-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tajikistan_279c77-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## The Hissar “anomalous zone” is folklore-rich, not evidence-rich
+
+Tajikistan’s most distinctive UFO-adjacent tradition is not an airliner case or a city sighting, but the Hissar mountain “anomalous zone” narrative. Travel and local-interest articles associate places such as Lake Timurdara, the Karatag gorge and the wider Hissar area with stories of UFOs, “wild man” searches, strange lights and other unexplained phenomena. Asia-Plus and MegaFon travel content describe Lake Timurdara as being in a so-called [Hissar anomalous]({{ 'hissar-zone/' | relative_url }}) zone where people searched for a snowman-like figure and observed UFOs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asiaplustj.info/news/life/person/20110704/zhiteli-khudzhanda-utverzhdayut-chto-videli-nlo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asiaplustj.info">[Asia-Plus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asiaplustj.info</span><span class="citation-popover-title">Asia-PlusЖители Худжанда утверждают, что видели НЛО</span><span class="citation-popover-snippet">Asia-PlusЖители Худжанда утверждают, что видели НЛО</span></span></span>
+
+The most detailed recent Asia-Plus treatment presents the Hissar material as a collection of mountain legends and expedition stories, including accounts of lights, fireballs, equipment failures, strange dreams and cryptid-like encounters in the Siyoma valley and nearby “Gorge of Fear”. It places these claims in the orbit of older searches for a relict hominoid rather than in a clean UFO-investigation framework. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asiaplustj.info/news/life/person/20110704/zhiteli-khudzhanda-utverzhdayut-chto-videli-nlo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asiaplustj.info">[Asia-Plus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asiaplustj.info</span><span class="citation-popover-title">Asia-PlusЖители Худжанда утверждают, что видели НЛО</span><span class="citation-popover-snippet">Asia-PlusЖители Худжанда утверждают, что видели НЛО</span></span></span>
+
+That matters for reliability. The Hissar stories are memorable and locally textured, but they mix multiple categories: aerial lights, folklore, expedition anxiety, cryptozoology, mountain hazards and supernatural interpretation. They are not supported by radar tracks, calibrated photographs, recovered material or official incident reports. A sceptical hiking account about Lake Timurdara says the 1980s–1990s fashion for such mysteries faded and that many alleged traces or proofs later turned out to have been invented by local herders. <span class="citation-chip-wrap"><a class="citation-chip" href="https://m.ok.ru/dushanbint/topic/67966172102758" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: m.ok.ru">[OK | OK.ru]</a><span class="citation-popover" role="note"><span class="citation-popover-source">m.ok.ru</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+The fairest classification is: **contested folklore and field-legend material**. It should be preserved as part of Tajikistan’s UFO culture, but not treated as strong evidence for anomalous craft.
+
+## One northern Tajikistan “UFO photo” has a clear mundane explanation
+
+The 2010 Khujand/Sughd mobile-phone case is especially useful because it shows how quickly a reported UFO can collapse into an optical or camera artefact. A UFO-com analysis discussed the same northern Tajikistan report and argued that the supposed object near the Sun was a familiar digital-camera effect: overexposure and sensor or white-balance behaviour when photographing the Sun. The article also noted that the object did not appear on Khujand airport radar, which it considered unsurprising if the “object” existed only as an imaging artefact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-com.net/ufolenta/detail.php?ELEMENT_ID=4055" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-com.net">[UfoCom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-com.net</span><span class="citation-popover-title">Ufo ComЧерные круги под глазами у Солнца</span><span class="citation-popover-snippet">Ufo ComЧерные круги под глазами у Солнца</span></span></span>
+
+This is the clearest debunked claim in the accessible Tajikistan material. It does not prove that every Tajik report is mistaken, but it does show why image-only cases, especially phone images taken near the Sun, deserve caution. It also explains a wider pattern common in UFO reporting: the object becomes impressive in a compressed or low-resolution image, but less persuasive once camera behaviour, glare, exposure and context are considered.
+
+The Khujand photo case should therefore be classified as: **debunked or strongly explained as a camera artefact**. It is more valuable as a lesson in evidence quality than as a mystery.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8ng1-I7uB_c" title="The Pentagon released 51 new UFO videos — this is what they actually show | DW News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8ng1-I7uB_c" target="_blank" rel="noopener noreferrer">The Pentagon released 51 new UFO videos — this is what they actually show | DW News</a></p><p class="youtube-embed-meta">Channel: DW News &middot; Views: 76.7K &middot; Uploaded: May 2026 &middot; Length: 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8ng1-I7uB_c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8ng1-I7uB_c">Open on YouTube</a></p></div></div></div>
+
+## Tajikistan’s meteor science is a useful control against UFO overreach
+
+A striking feature of Tajikistan’s sky-observation landscape is that the country has serious meteor research. The Tajikistan fireball network, operated through researchers connected with the Institute of Astrophysics of the Tajik Academy of Sciences, has been used to photograph and analyse meteor fireballs. A 2011 Astronomy & Astrophysics paper reports that the network had operated since 2009 and photographed 16 Leonid fireballs during observations from 13 to 21 November 2009, allowing researchers to calculate trajectories, velocities, orbits, light curves and photometric masses for multiple events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aanda.org/articles/aa/pdf/2011/09/aa17527-11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aanda.org">[A&amp;A]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aanda.org</span><span class="citation-popover-title">aa17527 11</span><span class="citation-popover-snippet">aa17527 11</span></span></span>
+
+This does not explain every UFO report in Tajikistan. The 1994 Tajik Air crew rejected a meteor explanation, saying they had seen many meteors and space-junk entries during their aviation careers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/dos-uap-d2-cable-2-kazakhstan-january-1994.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War State Department UAP Cable 2, Dushanbe Tajikistan,</span><span class="citation-popover-snippet">U.S. Department of War State Department UAP Cable 2, Dushanbe Tajikistan,</span></span></span>(#endnote-1 "Endnote 1") But the existence of a Tajik fireball network is important for interpretation. It shows that bright, dramatic sky phenomena over Tajikistan and the wider region are not automatically mysterious; some are exactly the kind of natural events that can be documented scientifically when the right instruments are in place.
+
+International meteor organisations define fireballs as especially bright meteors, and bright meteors can be seen across large areas, sometimes producing memorable witness reports that vary by viewing angle and local horizon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imo.net/observations/fireballs/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imo.net">[International Meteor Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imo.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In a mountainous country where observers often see lights over ridges, passes or valleys, this matters. Without time, direction, duration, angular speed, weather, camera metadata and multiple independent observation points, a dramatic “object” can remain unidentified simply because the data are weak.
+
+## What official material does and does not show
+
+There is no accessible evidence of a dedicated Tajik state UFO investigation programme comparable to U.S. AARO, France’s GEIPAN, or historical Soviet-era commissions. The public official record most relevant to Tajikistan is external: the U.S. Embassy Dushanbe cable on the 1994 Tajik Air report, later incorporated into U.S. UAP release coverage. The Associated Press described the wider U.S. release as a trove of UFO files that left interpretation to the public, and specifically cited the Tajikistan embassy cable as one example of a brightly lit UAP report involving a Tajik pilot and Americans over Kazakhstan. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/3e658d2cf3742465127c0049c872240a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+The broader official UAP literature also argues against overconfident alien conclusions. The U.S. ODNI’s 2022 annual report said UAP reporting had increased to 510 reports by 30 August 2022, partly because of reduced stigma and flight-safety concerns, but it also said many cases suffered from limited data and that more than half of the newly characterised reports had unremarkable features such as drones, balloons or clutter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Director of National Intelligence</span></span></span>
+
+AARO’s 2024 historical review found no evidence that U.S. government or industry had possessed off-world technology and concluded that the vast majority of UAP reports reviewed by official, foreign and academic efforts could be resolved as ordinary objects, natural phenomena, optical illusions or misidentifications, even though some cases remained unresolved because of poor data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/dos-uap-d2-cable-2-kazakhstan-january-1994.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War State Department UAP Cable 2, Dushanbe Tajikistan,</span><span class="citation-popover-snippet">U.S. Department of War State Department UAP Cable 2, Dushanbe Tajikistan,</span></span></span>(#endnote-1 "Endnote 1") NASA’s independent UAP study reached a similar practical lesson: progress depends on standardised reporting, calibrated sensors, well-curated data and multiple independent observations, because at any given time most of Earth is not covered by high-resolution satellite imagery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+Applied to Tajikistan, this means the right question is not “which Tajik UFO was alien?” but “which reports have enough data to test?” At present, only the 1994 [Tajik Air cable]({{ 'tajik-air-cable/' | relative_url }}) rises above anecdote, and even that lacks the photos, sensor data and independent technical analysis needed for a firm identification.
+
+
+<img src="{{ "/assets/images/Tajikistan_279c77-Illustration-2-light.svg" | relative_url }}" alt="What Do Tajikistan&#x27;s UFO Reports Really... illustration 2" data-theme-src-dark="{{ "/assets/images/Tajikistan_279c77-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tajikistan_279c77-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Evidence grades for Tajikistan’s main claim types
+
+A useful way to read the Tajikistan record is to separate the reports by evidence quality rather than by how strange they sound.
+
+**Officially recorded but unresolved:** the 1994 Tajik Air crew report. It has named aviation witnesses, a diplomatic cable, a date, altitude, location and a detailed description. It does not have publicly available photos, radar confirmation, recovered material or a resolved explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/dos-uap-d2-cable-2-kazakhstan-january-1994.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War State Department UAP Cable 2, Dushanbe Tajikistan,</span><span class="citation-popover-snippet">U.S. Department of War State Department UAP Cable 2, Dushanbe Tajikistan,</span></span></span>(#endnote-1 "Endnote 1")
+
+**Locally reported but unconfirmed:** the Khujand 2011 night sighting, the 2010 Sughd/Khujand mobile-phone report as originally published, and the 2024 Asia-Plus witness recollections. These accounts are useful for mapping local UFO culture and witness memory, but they rest mainly on testimony. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asiaplustj.info/news/life/person/20110704/zhiteli-khudzhanda-utverzhdayut-chto-videli-nlo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asiaplustj.info">[Asia-Plus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asiaplustj.info</span><span class="citation-popover-title">Asia-PlusЖители Худжанда утверждают, что видели НЛО</span><span class="citation-popover-snippet">Asia-PlusЖители Худжанда утверждают, что видели НЛО</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asiaplustj.info/news/life/person/20110704/zhiteli-khudzhanda-utverzhdayut-chto-videli-nlo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asiaplustj.info">[Asia-Plus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asiaplustj.info</span><span class="citation-popover-title">Asia-PlusЖители Худжанда утверждают, что видели НЛО</span><span class="citation-popover-snippet">Asia-PlusЖители Худжанда утверждают, что видели НЛО</span></span></span>
+
+**Folklore and anomalous-zone tradition:** the Hissar, Siyoma and Timurdara material. These stories are regionally distinctive, but they blend UFO motifs with cryptids, mountain fear, strange lights and supernatural framing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asiaplustj.info/news/life/person/20110704/zhiteli-khudzhanda-utverzhdayut-chto-videli-nlo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asiaplustj.info">[Asia-Plus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asiaplustj.info</span><span class="citation-popover-title">Asia-PlusЖители Худжанда утверждают, что видели НЛО</span><span class="citation-popover-snippet">Asia-PlusЖители Худжанда утверждают, что видели НЛО</span></span></span>
+
+**Debunked or strongly explained:** the “black circle” or object near the Sun in the northern Tajikistan phone-camera case, where a specialist UFO-com analysis identified a known camera/sensor effect rather than an aerial object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-com.net/ufolenta/detail.php?ELEMENT_ID=4055" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-com.net">[UfoCom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-com.net</span><span class="citation-popover-title">Ufo ComЧерные круги под глазами у Солнца</span><span class="citation-popover-snippet">Ufo ComЧерные круги под глазами у Солнца</span></span></span>
+
+This grading is not hostile to witnesses. It simply keeps categories clear. A witness can be sincere and still misperceive distance, altitude, speed or size; a photograph can look striking and still be a sensor artefact; an official document can be genuine while the event it describes remains unexplained.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BvO5BUTJ-SA" title="Pentagon reveals flying orb during UFO Senate hearing as 650 unknown objects tracked" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BvO5BUTJ-SA" target="_blank" rel="noopener noreferrer">Pentagon reveals flying orb during UFO Senate hearing as 650 unknown objects tracked</a></p><p class="youtube-embed-meta">Channel: The Independent &middot; Views: 44.8K &middot; Uploaded: April 2023 &middot; Length: 33 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BvO5BUTJ-SA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BvO5BUTJ-SA">Open on YouTube</a></p></div></div></div>
+
+## Why Tajikistan produces memorable but fragile UFO stories
+
+Tajikistan’s UFO narratives are shaped by the country’s terrain and observation conditions. Much of the country is mountainous, and many reported lights are described in relation to ridges, passes, valleys or the horizon. In such settings, distance cues are poor. A light seen “between two mountains” may be a local ground light, aircraft, astronomical object, atmospheric effect, meteor, searchlight or reflection, depending on position and timing.
+
+The social setting also matters. The country’s most accessible UFO stories are mostly carried by local media, travel writing, personal memory and Russian-language UFO/sceptical websites. That produces a record that is vivid but uneven: strong on narrative, weak on instrument data. The 2010 Avesta piece jokingly complained that UFOs seemed to avoid Tajikistan, which itself suggests that local UFO reporting has often been treated lightly, as curiosity or humour rather than as a sustained investigative field. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://avesta.tj/2010/08/12/pochemu-k-nam-ne-priletaet-nlo-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avesta.tj">[Новости Таджикистана - Avesta.tj]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avesta.tj</span><span class="citation-popover-title">Новости Таджикистана</span><span class="citation-popover-snippet">Новости Таджикистана</span></span></span>
+
+The most productive future standard for Tajikistan would be simple rather than sensational: exact time, location, direction, elevation above the horizon, duration, weather, camera original files, witness separation, aircraft-track checks, meteor/fireball checks, satellite checks and, where possible, multiple calibrated observations. That is the difference between a story that remains interesting and a case that can actually be investigated.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ADMcelTgWYo" title="Here are the released videos from Pentagon&#x27;s first batch of UFO files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ADMcelTgWYo" target="_blank" rel="noopener noreferrer">Here are the released videos from Pentagon&#x27;s first batch of UFO files</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 445.3K &middot; Uploaded: May 2026 &middot; Length: 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ADMcelTgWYo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ADMcelTgWYo">Open on YouTube</a></p></div></div></div>
+
+## The bottom line for Tajikistan
+
+Tajikistan has a real but sparse UFO record. The 1994 Tajik Air cable is the standout case because it is documented in official diplomatic records and has experienced aviation witnesses, but it remains unresolved rather than confirmed. The Khujand and Dushanbe-linked local stories preserve important witness culture but rarely provide testable evidence. The Hissar anomalous-zone tradition is locally rich yet heavily entangled with folklore and cryptozoology. At least one northern Tajikistan image case has been persuasively explained as a camera artefact.
+
+The most honest assessment is therefore modest: Tajikistan is not, on the public evidence, a confirmed UFO hotspot. It is a country where a few strong-looking reports sit inside a much larger field of anecdote, mountain legend, natural sky phenomena and media retelling. Its best cases deserve careful preservation and comparison with neighbouring Central Asian files, especially Kazakhstan; its weaker cases deserve sceptical sorting rather than dismissal or exaggeration.
+
+
+<img src="{{ "/assets/images/Tajikistan_279c77-Illustration-3-light.svg" | relative_url }}" alt="What Do Tajikistan&#x27;s UFO Reports Really... illustration 3" data-theme-src-dark="{{ "/assets/images/Tajikistan_279c77-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tajikistan_279c77-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to What Do Tajikistan&#x27;s UFO Reports Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+        </h4>
+        <p class="fr-book-author">By J. Allen Hynek</p>
+        
+        <p class="fr-book-desc">Useful for distinguishing strong and weak evidence.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+        </h4>
+        <p class="fr-book-author">By Luis Elizondo</p>
+        
+        <p class="fr-book-desc">Provides broader context for official UFO reporting.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+        </h4>
+        <p class="fr-book-author">By Leslie Kean</p>
+        
+        <p class="fr-book-desc">Fits the aviation and official-document angle present in Tajikistan cases.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+        </h4>
+        <p class="fr-book-author">By Ross Coulthart</p>
+        
+        <p class="fr-book-desc">Matches a page evaluating evidence rather than claiming proof.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: war.gov  
+   Title: U.S. Department of War State Department UAP Cable 2, Dushanbe Tajikistan,  
+   Link: [https://www.war.gov/medialink/ufo/release_1/dos-uap-d2-cable-2-kazakhstan-january-1994.pdf](https://www.war.gov/medialink/ufo/release_1/dos-uap-d2-cable-2-kazakhstan-january-1994.pdf)  
+
+2. <a id="endnote-2"></a>
+   Source: cufon.org  
+   Link: [https://www.cufon.org/cufon/staterepts.htm](https://www.cufon.org/cufon/staterepts.htm)  
+
+3. <a id="endnote-3"></a>
+   Source: megafon.tj  
+   Link: [https://megafon.tj/news/puteshestvie-na-sever-tadzhikistana-kreposti-zamki-sledy-snezhnogo-cheloveka-i-nlo-14796](https://megafon.tj/news/puteshestvie-na-sever-tadzhikistana-kreposti-zamki-sledy-snezhnogo-cheloveka-i-nlo-14796)  
+
+4. <a id="endnote-4"></a>
+   Source: ufo-com.net  
+   Title: Ufo ComЧерные круги под глазами у Солнца  
+   Link: [https://www.ufo-com.net/ufolenta/detail.php?ELEMENT_ID=4055](https://www.ufo-com.net/ufolenta/detail.php?ELEMENT_ID=4055)  
+
+5. <a id="endnote-5"></a>
+   Source: aanda.org  
+   Title: aa17527 11  
+   Link: [https://www.aanda.org/articles/aa/pdf/2011/09/aa17527-11.pdf](https://www.aanda.org/articles/aa/pdf/2011/09/aa17527-11.pdf)  
+
+6. <a id="endnote-6"></a>
+   Source: dni.gov  
+   Title: Director of National Intelligence  
+   Link: [https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf](https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf)  
+
+7. <a id="endnote-7"></a>
+   Source: science.nasa.gov  
+   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+
+8. <a id="endnote-8"></a>
+   Source: avesta.tj  
+   Title: Новости Таджикистана  
+   Link: [https://avesta.tj/2010/08/12/pochemu-k-nam-ne-priletaet-nlo-2/](https://avesta.tj/2010/08/12/pochemu-k-nam-ne-priletaet-nlo-2/)  
+
+9. <a id="endnote-9"></a>
+   Source: war.gov  
+   Title: department of defense releases the annual report on unidentified anomalous phen  
+   Link: [https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/](https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/)  
+
+10. <a id="endnote-10"></a>
+   Source: ufo-com.net  
+   Title: o fenomenakh gissarskogo khrebta v tadzhikistane  
+   Link: [https://www.ufo-com.net/kolonka/ekaterina-ageenkova/o-fenomenakh-gissarskogo-khrebta-v-tadzhikistane/](https://www.ufo-com.net/kolonka/ekaterina-ageenkova/o-fenomenakh-gissarskogo-khrebta-v-tadzhikistane/)  
+
+11. <a id="endnote-11"></a>
+   Source: science.nasa.gov  
+   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+
+12. <a id="endnote-12"></a>
+   Source: science.nasa.gov  
+   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+
+13. <a id="endnote-13"></a>
+   Source: nasa.gov  
+   Title: nasa to release discuss unidentified anomalous phenomena report  
+   Link: [https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/](https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/)  
+
+14. <a id="endnote-14"></a>
+   Source: ntrs.nasa.gov  
+   Link: [https://ntrs.nasa.gov/api/citations/20110016620/downloads/20110016620.pdf](https://ntrs.nasa.gov/api/citations/20110016620/downloads/20110016620.pdf)  
+
+15. <a id="endnote-15"></a>
+   Source: nasa.gov  
+   Link: [https://www.nasa.gov/wp-content/uploads/2017/04/580931main_nasa_cp_2011_216469.pdf?emrc=ca6c60](https://www.nasa.gov/wp-content/uploads/2017/04/580931main_nasa_cp_2011_216469.pdf?emrc=ca6c60)  
+
+16. <a id="endnote-16"></a>
+   Source: avesta.tj  
+   Link: [https://avesta.tj/2022/07/01/puteshestvie-na-sever-tadzhikistana-kreposti-zamki-sledy-snezhnogo-cheloveka-i-nlo/](https://avesta.tj/2022/07/01/puteshestvie-na-sever-tadzhikistana-kreposti-zamki-sledy-snezhnogo-cheloveka-i-nlo/)  
+
+17. <a id="endnote-17"></a>
+   Source: aaro.mil  
+   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+
+18. <a id="endnote-18"></a>
+   Source: news.sky.com  
+   Title: pentagon releases never before seen files on ufos 13541565  
+   Link: [https://news.sky.com/story/pentagon-releases-never-before-seen-files-on-ufos-13541565](https://news.sky.com/story/pentagon-releases-never-before-seen-files-on-ufos-13541565)  
+
+19. <a id="endnote-19"></a>
+   Source: space.com  
+   Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
+   Link: [https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology](https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology)  
+
+20. <a id="endnote-20"></a>
+   Source: asiaplustj.info  
+   Title: Asia-PlusЖители Худжанда утверждают, что видели НЛО  
+   Link: [https://www.asiaplustj.info/news/life/person/20110704/zhiteli-khudzhanda-utverzhdayut-chto-videli-nlo](https://www.asiaplustj.info/news/life/person/20110704/zhiteli-khudzhanda-utverzhdayut-chto-videli-nlo)  
+
+21. <a id="endnote-21"></a>
+   Source: asiaplustj.info  
+   Title: Asia-PlusНад Согдом пролетел неопознанный летающий объект  
+   Link: [https://www.asiaplustj.info/ru/news/tajikistan/incidents/20100323/nad-sogdom-proletel-neopoznannyi-letayushchii-obekt](https://www.asiaplustj.info/ru/news/tajikistan/incidents/20100323/nad-sogdom-proletel-neopoznannyi-letayushchii-obekt)  
+
+22. <a id="endnote-22"></a>
+   Source: asiaplustj.info  
+   Link: [https://www.asiaplustj.info/ru/news/tajikistan/society/20240702/eto-bilo-nastolko-blizko-chto-ya-sumela-razglyadet-obshivku-rasskazi-tadzhikistantsev-nablyudavshih-za-nlo](https://www.asiaplustj.info/ru/news/tajikistan/society/20240702/eto-bilo-nastolko-blizko-chto-ya-sumela-razglyadet-obshivku-rasskazi-tadzhikistantsev-nablyudavshih-za-nlo)  
+
+23. <a id="endnote-23"></a>
+   Source: asiaplustj.info  
+   Link: [https://asiaplustj.info/tj/node/323759](https://asiaplustj.info/tj/node/323759)  
+
+24. <a id="endnote-24"></a>
+   Source: asiaplustj.info  
+   Title: Asia-PlusПутешествие на север Таджикистана: крепости, замки,  
+   Link: [https://asiaplustj.info/tj/node/313673](https://asiaplustj.info/tj/node/313673)  
+
+25. <a id="endnote-25"></a>
+   Source: asiaplus.news  
+   Title: Asia-PlusДухи гор, управляемые сны и иная реальность. Загадочный Таджикистан  
+   Link: [https://asiaplus.news/2026/05/17/duhi-gor-upravlyaemye-sny-i-inaya-realnost-zagadochnyj-tadzhikistan/](https://asiaplus.news/2026/05/17/duhi-gor-upravlyaemye-sny-i-inaya-realnost-zagadochnyj-tadzhikistan/)  
+
+26. <a id="endnote-26"></a>
+   Source: m.ok.ru  
+   Link: [https://m.ok.ru/dushanbint/topic/67966172102758](https://m.ok.ru/dushanbint/topic/67966172102758)  
+
+27. <a id="endnote-27"></a>
+   Source: imo.net  
+   Link: [https://www.imo.net/observations/fireballs/fireballs/](https://www.imo.net/observations/fireballs/fireballs/)  
+
+28. <a id="endnote-28"></a>
+   Source: apnews.com  
+   Link: [https://apnews.com/article/3e658d2cf3742465127c0049c872240a](https://apnews.com/article/3e658d2cf3742465127c0049c872240a)  
+
+29. <a id="endnote-29"></a>
+   Source: media.defense.gov  
+   Title: U.S. Department of War AARO Historical Record Report Volume 1  
+   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+
+30. <a id="endnote-30"></a>
+   Source: asiaplustj.info  
+   Link: [https://www.asiaplustj.info/ru/news/tajikistan/society/20220701/puteshestvie-na-sever-tadzhikistana-kreposti-zamki-sledi-snezhnogo-cheloveka-i-nlo](https://www.asiaplustj.info/ru/news/tajikistan/society/20220701/puteshestvie-na-sever-tadzhikistana-kreposti-zamki-sledi-snezhnogo-cheloveka-i-nlo)  
+
+31. <a id="endnote-31"></a>
+   Source: asiaplustj.info  
+   Link: [https://asiaplustj.info/en/node/280085](https://asiaplustj.info/en/node/280085)  
+
+32. <a id="endnote-32"></a>
+   Source: old.asiaplustj.info  
+   Link: [https://old.asiaplustj.info/ru/news/tajikistan/20250702/salom-aleikum-tadzhikistan-anonsi-sobitii-den-v-istorii-prognoz-pogodi-na-2-iyulya-2025-goda](https://old.asiaplustj.info/ru/news/tajikistan/20250702/salom-aleikum-tadzhikistan-anonsi-sobitii-den-v-istorii-prognoz-pogodi-na-2-iyulya-2025-goda)  
+
+33. <a id="endnote-33"></a>
+   Source: asiaplustj.info  
+   Link: [https://asiaplustj.info/ru/node/284973](https://asiaplustj.info/ru/node/284973)  
+
+34. <a id="endnote-34"></a>
+   Source: asiaplustj.info  
+   Link: [https://asiaplustj.info/en/node/338176](https://asiaplustj.info/en/node/338176)  
+
+35. <a id="endnote-35"></a>
+   Source: old.asiaplustj.info  
+   Title: na yuge tadzhikistana devochka uvidela bozhe znamenie foto  
+   Link: [https://old.asiaplustj.info/ru/news/tajikistan/society/20110707/na-yuge-tadzhikistana-devochka-uvidela-bozhe-znamenie-foto](https://old.asiaplustj.info/ru/news/tajikistan/society/20110707/na-yuge-tadzhikistana-devochka-uvidela-bozhe-znamenie-foto)  
+
+36. <a id="endnote-36"></a>
+   Source: asiaplustj.info  
+   Link: [https://asiaplustj.info/%26quot%3B%26gt%3BAsia-Plus%26lt%3B/ru/news/tajikistan/society/20200714/ru/news/life/person/20200714/ru/news/life/person/20200714/ru/news/life/person/20200714/ru/news/tajikistan/society/20200719/ru/news/tajikistan/society/20200816/ru/news/tajikistan/society/20210311/ru/news/life/food/20211108/ru/news/tajikistan/security/20220816/ru/news/centralasia/20231006/ru/news/tajikistan/society/20231009/ru/news/sports/20240312/ru/news/tajikistan/society/20240702/ru/news/tajikistan/society/20240702/eto-bilo-nastolko-blizko-chto-ya-sumela-razglyadet-obshivku-rasskazi-tadzhikistantsev-nablyudavshih-za-nlo](https://asiaplustj.info/%26quot%3B%26gt%3BAsia-Plus%26lt%3B/ru/news/tajikistan/society/20200714/ru/news/life/person/20200714/ru/news/life/person/20200714/ru/news/life/person/20200714/ru/news/tajikistan/society/20200719/ru/news/tajikistan/society/20200816/ru/news/tajikistan/society/20210311/ru/news/life/food/20211108/ru/news/tajikistan/security/20220816/ru/news/centralasia/20231006/ru/news/tajikistan/society/20231009/ru/news/sports/20240312/ru/news/tajikistan/society/20240702/ru/news/tajikistan/society/20240702/eto-bilo-nastolko-blizko-chto-ya-sumela-razglyadet-obshivku-rasskazi-tadzhikistantsev-nablyudavshih-za-nlo)  
+
+37. <a id="endnote-37"></a>
+   Source: asiaplus.news  
+   Title: zhiteli hudzhanda utverzhdayut chto videli nlo  
+   Link: [https://asiaplus.news/2011/07/04/zhiteli-hudzhanda-utverzhdayut-chto-videli-nlo/](https://asiaplus.news/2011/07/04/zhiteli-hudzhanda-utverzhdayut-chto-videli-nlo/)  
+
+38. <a id="endnote-38"></a>
+   Source: asiaplus.news  
+   Link: [https://asiaplus.news/2024/07/02/eto-bylo-nastolko-blizko-chto-ya-sumela-razglyadet-obshivku-rasskazy-tadzhikistanczev-nablyudavshih-za-nlo/](https://asiaplus.news/2024/07/02/eto-bylo-nastolko-blizko-chto-ya-sumela-razglyadet-obshivku-rasskazy-tadzhikistanczev-nablyudavshih-za-nlo/)  
+
+39. <a id="endnote-39"></a>
+   Source: asiaplus.news  
+   Title: nad sogdom proletel neopoznannyj letayushhij obekt  
+   Link: [https://asiaplus.news/2010/03/23/nad-sogdom-proletel-neopoznannyj-letayushhij-obekt/](https://asiaplus.news/2010/03/23/nad-sogdom-proletel-neopoznannyj-letayushhij-obekt/)  
+
+40. <a id="endnote-40"></a>
+   Source: asiaplus.news  
+   Link: [https://asiaplus.news/2022/07/01/puteshestvie-na-sever-tadzhikistana-kreposti-zamki-sledy-snezhnogo-cheloveka-i-nlo/](https://asiaplus.news/2022/07/01/puteshestvie-na-sever-tadzhikistana-kreposti-zamki-sledy-snezhnogo-cheloveka-i-nlo/)  
+
+41. <a id="endnote-41"></a>
+   Source: asiaplus.news  
+   Link: [https://asiaplus.news/2025/07/02/salom-alejkum-tadzhikistan-anonsy-sobytij-den-v-istorii-prognoz-pogody-na-2-iyulya-2025-goda/](https://asiaplus.news/2025/07/02/salom-alejkum-tadzhikistan-anonsy-sobytij-den-v-istorii-prognoz-pogody-na-2-iyulya-2025-goda/)  
+
+42. <a id="endnote-42"></a>
+   Source: asiaplus.news  
+   Link: [https://asiaplus.news/2024/07/02/salom-alejkum-tadzhikistan-anonsy-sobytij-den-v-istorii-prognoz-pogody-na-2-iyulya-2024-goda/](https://asiaplus.news/2024/07/02/salom-alejkum-tadzhikistan-anonsy-sobytij-den-v-istorii-prognoz-pogody-na-2-iyulya-2024-goda/)  
+
+43. <a id="endnote-43"></a>
+   Source: asiaplus.news  
+   Link: [https://asiaplus.news/2023/07/02/salom-alejkum-tadzhikistan-anonsy-sobytij-den-v-istorii-prognoz-pogody-na-2-iyulya-2023-goda/](https://asiaplus.news/2023/07/02/salom-alejkum-tadzhikistan-anonsy-sobytij-den-v-istorii-prognoz-pogody-na-2-iyulya-2023-goda/)  
+
+44. <a id="endnote-44"></a>
+   Source: asiaplus.news  
+   Title: hlopkovaya strada v tadzhikistane v etom godu startuet ranshe obychnogo  
+   Link: [https://asiaplus.news/2011/07/04/hlopkovaya-strada-v-tadzhikistane-v-etom-godu-startuet-ranshe-obychnogo/](https://asiaplus.news/2011/07/04/hlopkovaya-strada-v-tadzhikistane-v-etom-godu-startuet-ranshe-obychnogo/)  
+
+45. <a id="endnote-45"></a>
+   Source: asiaplus.news  
+   Link: [https://asiaplus.news/2022/07/02/salom-alejkum-tadzhikistan-anonsy-sobytij-den-v-istorii-prognoz-pogody-na-2-iyulya-2022-goda/](https://asiaplus.news/2022/07/02/salom-alejkum-tadzhikistan-anonsy-sobytij-den-v-istorii-prognoz-pogody-na-2-iyulya-2022-goda/)  
+
+46. <a id="endnote-46"></a>
+   Source: scispace.com  
+   Title: Tajik Academy of Sciences | 805 Authors | 927 Publications  
+   Link: [https://scispace.com/institutions/tajik-academy-of-sciences-3me4txhr?paper_page=153](https://scispace.com/institutions/tajik-academy-of-sciences-3me4txhr?paper_page=153)  
+
+47. <a id="endnote-47"></a>
+   Source: beannames.com  
+   Title: Tajik Air Pilots Report Unidentified Flying Object  
+   Link: [https://beannames.com/documents/2533](https://beannames.com/documents/2533)  
+
+48. <a id="endnote-48"></a>
+   Source: marcianitosverdes.haaan.com  
+   Link: [https://marcianitosverdes.haaan.com/page/2/?dur=50603](https://marcianitosverdes.haaan.com/page/2/?dur=50603)  
+
+### Additional References
+
+49. <a id="endnote-49"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=8ng1-I7uB_c](https://www.youtube.com/watch?v=8ng1-I7uB_c)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here are the released videos from Pentagon&#x27;s first batch of UFO files...</p></details>
+
+50. <a id="endnote-50"></a>
+   Source: youtube.com  
+   Title: Here are the released videos from Pentagon's first batch of UFO files  
+   Link: [https://www.youtube.com/watch?v=ADMcelTgWYo](https://www.youtube.com/watch?v=ADMcelTgWYo)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon reveals flying orb during UFO Senate hearing as 650 unknown objects tracked...</p></details>
+
+51. <a id="endnote-51"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=BvO5BUTJ-SA](https://www.youtube.com/watch?v=BvO5BUTJ-SA)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>All the videos from Pentagon&#x27;s first batch of UFO files...</p></details>
+
+52. <a id="endnote-52"></a>
+   Source: researchgate.net  
+   Link: [https://www.researchgate.net/publication/282637899_Tajikistan_fireball_network_and_results_of_photographic_observations](https://www.researchgate.net/publication/282637899_Tajikistan_fireball_network_and_results_of_photographic_observations)  
+
+53. <a id="endnote-53"></a>
+   Source: researchgate.net  
+   Link: [https://www.researchgate.net/publication/401374502_Meteor_observations_in_Tajikistan_within_the_global_meteor_network_project_Preliminary_results](https://www.researchgate.net/publication/401374502_Meteor_observations_in_Tajikistan_within_the_global_meteor_network_project_Preliminary_results)  
+
+54. <a id="endnote-54"></a>
+   Source: news.rambler.ru  
+   Link: [https://news.rambler.ru/other/44277825-chetyre-zhivopisnyh-mesta-nedaleko-ot-dushanbe-gde-mozhno-otdohnut-ot-gorodskoy-suety/](https://news.rambler.ru/other/44277825-chetyre-zhivopisnyh-mesta-nedaleko-ot-dushanbe-gde-mozhno-otdohnut-ot-gorodskoy-suety/)  
+
+55. <a id="endnote-55"></a>
+   Source: britannica.com  
+   Link: [https://www.britannica.com/topic/Collective-Security-Treaty-Organization](https://www.britannica.com/topic/Collective-Security-Treaty-Organization)  
+
+56. <a id="endnote-56"></a>
+   Source: uforeleases.com  
+   Link: [https://uforeleases.com/topics/state-dept-nasa/dos-uap-d2-cable-2-kazakhstan-january-1994](https://uforeleases.com/topics/state-dept-nasa/dos-uap-d2-cable-2-kazakhstan-january-1994)  
+
+57. <a id="endnote-57"></a>
+   Source: psi.edu  
+   Link: [https://www.psi.edu/epo/resources/special-topics-in-planetary-science/explosions-in-the-sky-fireballs-that-produce-meteorites/](https://www.psi.edu/epo/resources/special-topics-in-planetary-science/explosions-in-the-sky-fireballs-that-produce-meteorites/)  
+
+58. <a id="endnote-58"></a>
+   Source: news4sanantonio.com  
+   Link: [https://news4sanantonio.com/news/nation-world/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars](https://news4sanantonio.com/news/nation-world/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars)  

@@ -1,0 +1,634 @@
+---
+level: 2
+basename: Eritrea_18740a_eritrea_ufo_explanat_8f4efa
+parent_basename: Eritrea_18740a
+child_basenames: []
+sibling_basenames:
+- Eritrea_18740a_asmara_1970_fireball_8c5bea
+- Eritrea_18740a_bisha_mine_2015_disc_080d88
+- Eritrea_18740a_eritrea_censorship_u_fe7a7a
+tags:
+- eritrea
+- ordinary-explanations
+keywords:
+- eritrea
+- ordinary-explanations
+affiliate_category: eritrea
+show_ads: true
+description: Many Eritrean sightings could be meteors, space debris, aircraft, or misperceived lights rather than anomalous craft.
+hero_summary: Many Eritrean sightings could be meteors, space debris, aircraft, or misperceived lights rather than anomalous craft.
+layout: default
+permalink: /ordinary-explanations/
+sidebar_expanded_urls:
+- /what-ufos-have-been-reported-in/
+nav_short_title: Ordinary Explanations
+title: Natural and Human Causes Behind Eritrean UFO Sightings
+title_full: Natural and Human Causes Behind Eritrean UFO Sightings | Eritrea UFOs
+display_title_short: Ordinary Explanations
+display_title: Ordinary Explanations
+heading_title: Natural and Human Causes Behind Eritrean UFO Sightings
+page_heading_title: Natural and Human Causes Behind Eritrean UFO Sightings
+source_count: 37
+infographic_count: 3
+planned_sections:
+- Meteors, fireballs, and atmospheric phenomena
+- Space debris, rocket re entries, and satellites
+- Aircraft, drones, and regional military activity
+focal_unit_type: mechanism
+topic_lens: mechanism
+topic_granularity: pillar
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+parent_title: Eritrea UFOs
+parent_permalink: /what-ufos-have-been-reported-in/
+parent_nav_short_title: Eritrea UFOs
+parent_heading_title: What UFOs Have Been Reported in Eritrea and Why Evidence Is Sparse
+ancestor_links:
+- basename: Eritrea_18740a
+  title: Eritrea UFOs
+  permalink: /what-ufos-have-been-reported-in/
+  short_title: Eritrea UFOs
+breadcrumb_links:
+- basename: Eritrea_18740a
+  title: Eritrea UFOs
+  permalink: /what-ufos-have-been-reported-in/
+  short_title: Eritrea UFOs
+sibling_links:
+- basename: Eritrea_18740a_asmara_1970_fireball_8c5bea
+  title: 1970 Asmara Fireball | What UFOs Have Been Reported in Eritrea and Why Evidence...
+  permalink: /1970-asmara-fireball/
+  short_title: 1970 Asmara Fireball
+  heading_title: What Really Happened During the 1970 Asmara Fireball?
+- basename: Eritrea_18740a_bisha_mine_2015_disc_080d88
+  title: Bisha Mine 2015 | What UFOs Have Been Reported in Eritrea and Why Evidence...
+  permalink: /bisha-mine-2015/
+  short_title: Bisha Mine 2015
+  heading_title: Unpacking the 2015 Bisha Mine Disc UFO Reports
+- basename: Eritrea_18740a_eritrea_censorship_u_fe7a7a
+  title: Information Environment | What UFOs Have Been Reported in Eritrea and Why Evidence...
+  permalink: /information-environment/
+  short_title: Information Environment
+  heading_title: How Eritrea's Media Control Shapes UFO Records
+up_link:
+  basename: Eritrea_18740a
+  title: Eritrea UFOs
+  permalink: /what-ufos-have-been-reported-in/
+  short_title: Eritrea UFOs
+prev_link:
+  basename: Eritrea_18740a_eritrea_censorship_u_fe7a7a
+  title: Information Environment | What UFOs Have Been Reported in Eritrea and Why Evidence...
+  permalink: /information-environment/
+  short_title: Information Environment
+  heading_title: How Eritrea's Media Control Shapes UFO Records
+date: '2026-05-31 04:17:10 '
+header:
+  og_image: /assets/images/Eritrea_18740a_eritrea_ufo_explanat_8f4efa-Illustration-1-social.jpg
+  preview_image: /assets/images/Eritrea_18740a_eritrea_ufo_explanat_8f4efa-Illustration-1.webp
+image: /assets/images/Eritrea_18740a_eritrea_ufo_explanat_8f4efa-Illustration-1-social.jpg
+---
+
+## Introduction
+
+Most UFO claims connected to [Eritrea]({{ 'what-ufos-have-been-reported-in/' | relative_url }}) are better explained by ordinary events than by evidence of unknown craft. The country’s sparse and weakly documented sighting record fits a pattern common in regions with limited public reporting infrastructure: brief lights in the sky become rumours, rumours become recycled online stories, and the original event is rarely preserved in enough detail to verify. In Eritrea’s case, the most plausible explanations usually involve meteors, atmospheric fireballs, satellite or rocket re-entries, aircraft activity around the Red Sea and Horn of Africa, or simple visual misperception.
+
+
+<img src="{{ "/assets/images/Eritrea_18740a_eritrea_ufo_explanat_8f4efa-Illustration-1-light.svg" | relative_url }}" alt="Ordinary Explanations illustration 1" data-theme-src-dark="{{ "/assets/images/Eritrea_18740a_eritrea_ufo_explanat_8f4efa-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eritrea_18740a_eritrea_ufo_explanat_8f4efa-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+This matters because Eritrea has almost no public civilian UFO investigation system, little open aviation reporting, and very limited independent media. That means ordinary events are less likely to receive quick clarification. A bright fireball seen over Asmara or western Eritrea may never be formally identified, leaving later retellings free to turn it into a “mystery object”. The absence of strong evidence is therefore not evidence of exotic technology. In many cases, it reflects gaps in documentation, geography, and information flow rather than unexplained phenomena.
+
+## Why Ordinary Explanations Dominate Eritrea’s UFO Record
+
+Eritrea’s reported UFO incidents are unusually thin in terms of verifiable evidence. Most accounts circulate through reposted stories, forum discussions, or social media rather than through newspapers, aviation databases, meteor networks, or scientific archives. That creates ideal conditions for misidentifications.
+
+Several structural factors reinforce mundane explanations:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* Large stretches of Eritrea have dark skies with little light pollution, making meteors and satellite flares appear especially dramatic.
+* The Horn of Africa sits beneath major international air corridors and military flight zones around the Red Sea.
+* Regional conflicts involving Ethiopia, Sudan, Yemen, Somalia, and Gulf states have increased military aviation and drone operations near Eritrean airspace.
+* There is little public access to radar records, air-traffic investigations, or military statements that might quickly identify unusual lights.
+
+</div>
+
+In countries with strong civilian astronomy networks, a dramatic fireball is often identified within hours. In Eritrea, the same event may persist as an unresolved story for decades.
+
+## Meteors, Fireballs, and Atmospheric Phenomena
+
+### Bright fireballs can appear unnatural
+
+The strongest candidate for several Eritrea-linked UFO stories is the meteor fireball. Large meteors can produce glowing spheres, coloured trails, fragmentation, sonic booms, and flashes bright enough to resemble explosions or descending craft. Scientific descriptions of earth-grazing fireballs show that they can move slowly across the sky, fragment dramatically, and even appear to change direction because of perspective effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Earth-grazing_fireball" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Earth-grazing fireball</span><span class="citation-popover-snippet">August 28, 2010 — An Earth-grazing fireball (or Earth grazer) is a fireball, a very bright meteor that enters Earth&#x27;s atmosphere and leav...</span><span class="citation-popover-meta">Published: August 28, 2010</span></span></span>
+
+This matters for Eritrea because the country’s most repeated UFO-related story — the alleged 1970 “fireball” incident near Asmara — already contains features commonly associated with meteor events: a glowing red object, burning effects, loud disturbance, and confusion among witnesses. None of the publicly available retellings include the kind of instrumental evidence needed to distinguish a meteor from something more exotic.
+
+Human perception also amplifies unusual atmospheric events. Witnesses often overestimate object size, speed, and proximity at night. A meteor high in the atmosphere can appear close enough to strike nearby terrain. Fireballs breaking apart may look like manoeuvring objects rather than fragments following the same trajectory.
+
+### Atmospheric conditions in the Horn of Africa
+
+Eritrea’s geography can intensify these effects. The country includes highland plateaus around Asmara, coastal desert regions near the Red Sea, and broad areas with extremely clear night skies. Dry air and minimal urban lighting can make ordinary celestial events appear unusually vivid.
+
+Temperature inversions and haze near the Red Sea may also distort lights close to the horizon. Aircraft landing lights, bright planets, or satellites can appear stationary, hovering, or pulsing because of atmospheric refraction. These conditions are not unique to Eritrea, but they become more important in places where sightings are rarely investigated publicly.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KD-3ga6vRiU" title="Fireball over Michigan likely dead Russian satellite reentry" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KD-3ga6vRiU" target="_blank" rel="noopener noreferrer">Fireball over Michigan likely dead Russian satellite reentry</a></p><p class="youtube-embed-meta">Channel: VideoFromSpace &middot; Views: 46.0K &middot; Uploaded: October 2021 &middot; Length: 1 minute 8 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KD-3ga6vRiU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KD-3ga6vRiU">Open on YouTube</a></p></div></div></div>
+
+### Regional precedent for meteor-related UFO waves
+
+Southern and eastern Africa have experienced previous UFO scares linked to confirmed astronomical events. During the well-known 1994 southern African UFO wave, many reports followed sightings of a bright fireball later associated with a Zenit-2 rocket re-entry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ariel_School_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ariel School UFO incident</span><span class="citation-popover-snippet">Ariel School UFO incident</span></span></span> The episode demonstrated how a dramatic atmospheric event can trigger secondary UFO interpretations across multiple countries.
+
+That pattern is highly relevant to Eritrea because sparse local reporting makes later correction even less likely.
+
+## Space Debris, Rocket Re-entries, and Satellite Misidentifications
+
+### Re-entering space hardware often resembles “alien craft”
+
+Satellite and rocket-body re-entries are one of the most common modern explanations for dramatic UFO sightings worldwide. Re-entering debris can produce:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* Long trains of glowing fragments
+* Silent movement across large distances
+* Repeated flashes
+* Green, orange, or white light
+* Apparent “formations” of objects
+
+</div>
+
+Tracking databases maintained by aerospace organisations document frequent uncontrolled re-entries around the world. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/reentries" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[aerospace.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">ReentriesThe Center for Orbital and Reentry Debris Studies (CORDS) Reentry Database documents objects and payloads that have reentered ea...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esa.int/ESA_Multimedia/Videos/2021/09/Fireball_camera_spots_rocket_reentry_burn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esa.int">[European Space Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esa.int</span><span class="citation-popover-title">European Space Agency ESA</span><span class="citation-popover-snippet">European Space AgencyESA - Fireball camera spots rocket reentry burnA camera in the Allsky7 fireball network spots the moment an Atlas-V...</span></span></span> Because these objects travel at hypersonic speeds and break apart unevenly, witnesses often interpret them as fleets of structured craft rather than burning debris.
+
+For Eritrea, this explanation is particularly plausible because the country lies beneath viewing zones for objects re-entering over Africa, the Middle East, or the Indian Ocean. Residents may see fragments crossing the sky without access to real-time astronomical identification services.
+
+### Satellite constellations and moving lights
+
+Modern satellite constellations have increased opportunities for misidentification. Starlink trains, tumbling satellites, and reflective spacecraft can appear highly unusual to observers unfamiliar with orbital motion. Viral online videos regularly show people mistaking such lights for UFOs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.instagram.com/reel/DFenU-OvIhW/?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Instagram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">This dazzling...</span></span></span>
+
+In Eritrea, where amateur astronomy infrastructure is limited and public scientific outreach is sparse, sightings of moving satellite formations may be interpreted through rumour rather than immediate technical explanation.
+
+
+<img src="{{ "/assets/images/Eritrea_18740a_eritrea_ufo_explanat_8f4efa-Illustration-2-light.svg" | relative_url }}" alt="Ordinary Explanations illustration 2" data-theme-src-dark="{{ "/assets/images/Eritrea_18740a_eritrea_ufo_explanat_8f4efa-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eritrea_18740a_eritrea_ufo_explanat_8f4efa-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+### Sonic booms and fragmentation effects
+
+Large re-entries may also generate delayed sounds, shock waves, or scattered debris. Research into spacecraft re-entry acoustics shows that sonic booms can travel long distances after fragmentation events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospaceamerica.aiaa.org/paper-sonic-booms-could-reveal-where-debris-has-fallen-after-uncontrolled-reentries/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospaceamerica.aiaa.org">[Aerospace America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospaceamerica.aiaa.org</span><span class="citation-popover-snippet">Aerospace AmericaPaper: Sonic booms could reveal where debris has fallen after...22 Jan 2026 — Sonic booms generated as a hypersonic spa...</span></span></span> Witnesses who first see a bright object and later hear explosive sounds may interpret the sequence as a crash or aerial encounter.
+
+That mechanism fits several recurring features in loosely sourced Eritrean UFO anecdotes: bright lights, delayed noise, and uncertain ground impact claims.
+
+## Aircraft, Drones, and Military Activity Around Eritrea
+
+### Eritrea sits beside a heavily militarised corridor
+
+Eritrea occupies one of the world’s most strategically sensitive regions. The Red Sea, Gulf of Aden, and Horn of Africa host military aircraft from regional states and foreign powers. Aircraft operating near Yemen, Sudan, Ethiopia, Djibouti, and Somalia routinely cross or approach nearby airspace.
+
+This matters because military flights often produce lighting patterns unfamiliar to civilians:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* Afterburners can resemble glowing orbs.
+* Formation flying can look coordinated and unnatural.
+* Drones may appear silent and stationary.
+* Infrared glare and distant navigation lights distort perceived motion.
+
+</div>
+
+The increase in regional drone warfare has added another layer of confusion. Sudan’s recent drone attacks near the Eritrean frontier illustrate how unmanned aircraft are now common in nearby conflict zones. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2025_East_Sudan_drone_attacks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2025 East Sudan drone attacks</span><span class="citation-popover-snippet">2025 East Sudan drone attacks</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iGssxryCjsU" title="Reality Check: Military-linked UAP claims &amp; new reports of unidentified drones | Backscroll" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iGssxryCjsU" target="_blank" rel="noopener noreferrer">Reality Check: Military-linked UAP claims &amp; new reports of unidentified drones | Backscroll</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 50.1K &middot; Uploaded: May 2026 &middot; Length: 1 hour 54 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iGssxryCjsU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iGssxryCjsU">Open on YouTube</a></p></div></div></div>
+
+### Eritrean and regional air operations
+
+Eritrea itself maintains military aviation capabilities, including fighter aircraft historically associated with tensions involving Ethiopia. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mikoyan_MiG-29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mikoyan Mi G-29</span><span class="citation-popover-snippet">Mikoyan Mi G-29</span></span></span> Military training flights, surveillance aircraft, or transport operations can appear unusual when viewed from long distances at night.
+
+Regional cooperation has also increased cross-border air activity. Reports connected to Somali military training in Eritrea and broader Red Sea security operations suggest ongoing aerial movement in and around the country. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Somali_Air_Force" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Somali Air Force</span><span class="citation-popover-snippet">Somali Air Force</span></span></span>
+
+To a civilian observer without flight-tracking tools, such aircraft can easily become “unidentified”.
+
+### Drones change how sightings are perceived
+
+Modern drones complicate UFO interpretation because they genuinely behave differently from conventional aircraft. They can hover, move slowly, change altitude abruptly, and operate with limited visible lighting. Military drones near the Red Sea have already become linked to speculative UFO discussions online. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/news-features/revelation-that-mq-9-reapers-are-now-engaging-aerial-targets-comes-from-uap-hearing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-snippet">flying objects (UFO), and protections for whistleblowers. The video “was taken [on] October 30 of 2024. This video is of an MQ-9 drone...</span></span></span>
+
+In Eritrea, where independent reporting is limited and rumours spread faster than technical explanations, a drone sighting may evolve into a story about unknown aerial craft even when the underlying object is conventional military equipment.
+
+
+<img src="{{ "/assets/images/Eritrea_18740a_eritrea_ufo_explanat_8f4efa-Illustration-3-light.svg" | relative_url }}" alt="Ordinary Explanations illustration 3" data-theme-src-dark="{{ "/assets/images/Eritrea_18740a_eritrea_ufo_explanat_8f4efa-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eritrea_18740a_eritrea_ufo_explanat_8f4efa-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Why Sparse Evidence Matters More Than Dramatic Claims
+
+The strongest pattern in Eritrea’s UFO record is not the presence of extraordinary evidence, but the absence of reliable documentation. Most claims lack:
+
+
+<div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
+
+* Exact dates and times
+* Independent witness interviews
+* Photographs with provenance
+* Radar confirmation
+* Aviation records
+* Meteorological analysis
+* Follow-up investigation
+
+</div>
+
+That absence strongly favours mundane explanations. Scientific and aviation investigators generally treat unidentified sightings as unresolved only after ordinary causes have been excluded. In Eritrea, the process rarely reaches that stage because evidence is too fragmentary from the start.
+
+The result is a record dominated by ambiguity rather than mystery. A meteor becomes a glowing craft. A rocket re-entry becomes a fleet of objects. A military aircraft becomes a hovering orb. Without strong verification systems, ordinary events remain permanently “unidentified” in public memory.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AzD3Z6USDsk" title="Video of &#x27;UFO&#x27; behind dog has mundane explanation: Luis Elizondo | CUOMO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AzD3Z6USDsk" target="_blank" rel="noopener noreferrer">Video of &#x27;UFO&#x27; behind dog has mundane explanation: Luis Elizondo | CUOMO</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 41.7K &middot; Uploaded: August 2025 &middot; Length: 2 minutes 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AzD3Z6USDsk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AzD3Z6USDsk">Open on YouTube</a></p></div></div></div>
+
+## The Most Plausible Overall Interpretation
+
+Taken together, the available evidence suggests that Eritrea’s sparse UFO claims are best understood as a mixture of ordinary atmospheric events, space-related phenomena, and regional military activity filtered through weak public documentation.
+
+The balance of probability favours explanations such as:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* Meteor fireballs and atmospheric bolides
+* Rocket-body or satellite re-entries
+* Aircraft lighting effects
+* Military drone operations
+* Astronomical misidentifications
+* Rumour amplification through social media and retellings
+
+</div>
+
+No well-documented Eritrean case currently provides publicly available evidence strong enough to overturn those explanations. The more unusual the claim becomes in retelling, the thinner the original evidence usually appears.
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Natural and Human Causes Behind Eritrean UFO Sightings. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+        </h4>
+        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        
+        <p class="fr-book-desc">Covers classification and investigation of sightings.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WAmejwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Bad UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad UFOs">Bad UFOs</a>
+        </h4>
+        <p class="fr-book-author">By Robert Sheaffer</p>
+        
+        <p class="fr-book-desc">Focused on mundane explanations and evidence assessment.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+        </h4>
+        <p class="fr-book-author">By Leslie Kean</p>
+        
+        <p class="fr-book-desc">Provides context for comparing stronger and weaker reports.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+        </h4>
+        <p class="fr-book-author">By Carl Sagan</p>
+        
+        <p class="fr-book-desc">Explains how ordinary phenomena are often mistaken for extraordinary events.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: Wikipedia  
+   Title: Earth-grazing fireball  
+   Link: [https://en.wikipedia.org/wiki/Earth-grazing_fireball](https://en.wikipedia.org/wiki/Earth-grazing_fireball)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>August 28, 2010 — An Earth-grazing fireball (or Earth grazer) is a fireball, a very bright meteor that enters Earth&#x27;s atmosphere and leav...</p></details>
+   Published: August 28, 2010  
+
+2. <a id="endnote-2"></a>
+   Source: Wikipedia  
+   Title: Ariel School UFO incident  
+   Link: [https://en.wikipedia.org/wiki/Ariel_School_UFO_incident](https://en.wikipedia.org/wiki/Ariel_School_UFO_incident)  
+
+3. <a id="endnote-3"></a>
+   Source: aerospace.org  
+   Link: [https://aerospace.org/reentries](https://aerospace.org/reentries)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ReentriesThe Center for Orbital and Reentry Debris Studies (CORDS) Reentry Database documents objects and payloads that have reentered ea...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: instagram.com  
+   Link: [https://www.instagram.com/reel/DFenU-OvIhW/?hl=en](https://www.instagram.com/reel/DFenU-OvIhW/?hl=en)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>This dazzling...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: Wikipedia  
+   Title: 2025 East Sudan drone attacks  
+   Link: [https://en.wikipedia.org/wiki/2025_East_Sudan_drone_attacks](https://en.wikipedia.org/wiki/2025_East_Sudan_drone_attacks)  
+
+6. <a id="endnote-6"></a>
+   Source: Wikipedia  
+   Title: Mikoyan Mi G-29  
+   Link: [https://en.wikipedia.org/wiki/Mikoyan_MiG-29](https://en.wikipedia.org/wiki/Mikoyan_MiG-29)  
+
+7. <a id="endnote-7"></a>
+   Source: Wikipedia  
+   Title: Somali Air Force  
+   Link: [https://en.wikipedia.org/wiki/Somali_Air_Force](https://en.wikipedia.org/wiki/Somali_Air_Force)  
+
+8. <a id="endnote-8"></a>
+   Source: instagram.com  
+   Title: Wait till you see this… right out of a Sci-Fi movie!  
+   Link: [https://www.instagram.com/reel/DOaRZeYjl_x/](https://www.instagram.com/reel/DOaRZeYjl_x/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Two Air...Two Air Force MQ-9 Reaper drones flying over the Red Sea near Yemen last October encountered an Unidentified Flying Object or...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: instagram.com  
+   Link: [https://www.instagram.com/reel/DVrchTblAGd/](https://www.instagram.com/reel/DVrchTblAGd/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>sion #mystery. more. May...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: instagram.com  
+   Link: [https://www.instagram.com/p/DUqhCScDD9w/](https://www.instagram.com/p/DUqhCScDD9w/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>FO, while thousands rushed outside after seeing the sky suddenly flash...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: military.ie  
+   Title: defence forces review 2017  
+   Link: [https://www.military.ie/media/zd2bzye3/defence-forces-review-2017.pdf](https://www.military.ie/media/zd2bzye3/defence-forces-review-2017.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>17 Nov 2017 — Red Sea, with quantities of long-range rockets26... foreigners/aliens, state border control, and the revision of the crimi...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: esa.int  
+   Title: European Space Agency ESA  
+   Link: [https://www.esa.int/ESA_Multimedia/Videos/2021/09/Fireball_camera_spots_rocket_reentry_burn](https://www.esa.int/ESA_Multimedia/Videos/2021/09/Fireball_camera_spots_rocket_reentry_burn)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>European Space AgencyESA - Fireball camera spots rocket reentry burnA camera in the Allsky7 fireball network spots the moment an Atlas-V...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: aerospaceamerica.aiaa.org  
+   Link: [https://aerospaceamerica.aiaa.org/paper-sonic-booms-could-reveal-where-debris-has-fallen-after-uncontrolled-reentries/](https://aerospaceamerica.aiaa.org/paper-sonic-booms-could-reveal-where-debris-has-fallen-after-uncontrolled-reentries/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aerospace AmericaPaper: Sonic booms could reveal where debris has fallen after...22 Jan 2026 — Sonic booms generated as a hypersonic spa...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: twz.com  
+   Link: [https://www.twz.com/news-features/revelation-that-mq-9-reapers-are-now-engaging-aerial-targets-comes-from-uap-hearing](https://www.twz.com/news-features/revelation-that-mq-9-reapers-are-now-engaging-aerial-targets-comes-from-uap-hearing)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>flying objects (UFO), and protections for whistleblowers. The video “was taken [on] October 30 of 2024. This video is of an MQ-9 drone...</p></details>
+
+### Additional References
+
+15. <a id="endnote-15"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/ScienceNaturePage/posts/a-chinese-satellite-burned-up-over-the-united-states-in-a-fireball-and-fell-back/1122162686031266/](https://www.facebook.com/ScienceNaturePage/posts/a-chinese-satellite-burned-up-over-the-united-states-in-a-fireball-and-fell-back/1122162686031266/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Chinese satellite burned up over the United States...Astrophysicist Jonathan McDowell confirmed that the reentry was uncontrolled, wit...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/FoxWeather/posts/fire-ball-%EF%B8%8F-a-meteor-streaked-across-the-sky-over-germany-on-sunday-illuminating/955543710319257/](https://www.facebook.com/FoxWeather/posts/fire-ball-%EF%B8%8F-a-meteor-streaked-across-the-sky-over-germany-on-sunday-illuminating/955543710319257/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>A meteor streaked across the sky over Germany on Sunday...But what exactly is this alien-looking fireball? Did SpaceX photograph a rogue...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/groups/107750912593576/posts/9746902728678298/](https://www.facebook.com/groups/107750912593576/posts/9746902728678298/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Research and Alleged ArtifactsI might postulate that Pulau Bompa (or erroneously referred to as &#x27;islands&#x27;--&#x27;Pulau-pulau&#x27;) in Flight 7...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: bibliobase.sermais.pt  
+   Link: [https://bibliobase.sermais.pt/BiblioNET/upload/PDF3/01768_wr2013.pdf](https://bibliobase.sermais.pt/BiblioNET/upload/PDF3/01768_wr2013.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rights Watch... Alien Legacy, for example, Human. Rights Watch highlighted the irony of foreign laws being exalted as “citadels of nation...</p></details>
+
+19. <a id="endnote-19"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/KnbhWX/videos/fireball-explained-satellite-re-entry-seen-across-the-region-saturday-night/1119494999161173/](https://www.facebook.com/KnbhWX/videos/fireball-explained-satellite-re-entry-seen-across-the-region-saturday-night/1119494999161173/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>☄️ WHAT WAS THAT: Reports from across the region confirm...A fireball streaked across the sky just after 10:00 PM CT last night...</p></details>
+
+20. <a id="endnote-20"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=KD-3ga6vRiU](https://www.youtube.com/watch?v=KD-3ga6vRiU)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball over Michigan likely dead Russian satellite reentryThe American Meteor Society (AMS) received several reports of a fireball seen...</p></details>
+
+21. <a id="endnote-21"></a>
+   Source: dcaf.ch  
+   Link: [https://www.dcaf.ch/sites/default/files/publications/documents/op06_privatising-security.pdf](https://www.dcaf.ch/sites/default/files/publications/documents/op06_privatising-security.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>nts, crossing the boundary or sailing from their territory for the purpose of starting or...Read more...</p></details>
+
+22. <a id="endnote-22"></a>
+   Source: avi-loeb.medium.com  
+   Title: fireballs in the desert brighter than oppenheimers trinity 3186ad8f29a9  
+   Link: [https://avi-loeb.medium.com/fireballs-in-the-desert-brighter-than-oppenheimers-trinity-3186ad8f29a9](https://avi-loeb.medium.com/fireballs-in-the-desert-brighter-than-oppenheimers-trinity-3186ad8f29a9)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>in the Desert, Brighter Than Oppenheimer&#x27;s Trinity4 Alien Species Pulled from Crashed UFOs? Secrets of the Universe. In...</p></details>
+
+23. <a id="endnote-23"></a>
+   Source: state.gov  
+   Title: country reports on terrorism 2016  
+   Link: [https://www.state.gov/reports/country-reports-on-terrorism-2016](https://www.state.gov/reports/country-reports-on-terrorism-2016)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>State DepartmentCountry Reports on Terrorism 2016In 2016, Eritrea continued to increase its military cooperation with the... alien” to A...</p></details>
+
+24. <a id="endnote-24"></a>
+   Source: satobs.org  
+   Title: Visually Observed Natural Re entries latest draft  
+   Link: [https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf](https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Observed re-entries #22.xlsx26 Aug 2014 — 950 South Africa: Western Cape: daylight sighting of fireball and smoke trails. Sonic booms hea...</p></details>

@@ -1,0 +1,584 @@
+---
+level: 2
+basename: Saint_Lucia_85ac35_castries_sunset_phot_244390
+parent_basename: Saint_Lucia_85ac35
+child_basenames: []
+sibling_basenames:
+- Saint_Lucia_85ac35_records_verification_981b80
+- Saint_Lucia_85ac35_soufriere_pitons_lig_7c9dd5
+- Saint_Lucia_85ac35_vieux_fort_airport_s_987f7c
+tags:
+- saint-lucia
+- photo-cases
+keywords:
+- saint-lucia
+- photo-cases
+affiliate_category: saint-lucia
+show_ads: true
+description: The Castries triangle case shows why later-discovered objects in sunset photos need special caution before being treated as UFO evidence.
+hero_summary: The Castries triangle case shows why later-discovered objects in sunset photos need special caution before being treated as UFO evidence.
+layout: default
+permalink: /photo-cases/
+sidebar_expanded_urls:
+- /what-has-saint-lucia-really-reported/
+nav_short_title: Photo Cases
+title: Can Sunset Photos Create UFOs?
+title_full: Can Sunset Photos Create UFOs? | Saint Lucia UFOs
+display_title_short: Photo Cases
+display_title: Photo Cases
+heading_title: Can Sunset Photos Create UFOs?
+page_heading_title: Can Sunset Photos Create UFOs?
+source_count: 29
+infographic_count: 3
+planned_sections:
+- What the 2012 Castries report says
+- Birds, insects, flare and sensor artefacts
+- How photo sequences and metadata help
+focal_unit_type: mechanism
+topic_lens: mechanism
+topic_granularity: theme_cluster
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+parent_title: Saint Lucia UFOs
+parent_permalink: /what-has-saint-lucia-really-reported/
+parent_nav_short_title: Saint Lucia UFOs
+parent_heading_title: What Has Saint Lucia Really Reported?
+ancestor_links:
+- basename: Saint_Lucia_85ac35
+  title: Saint Lucia UFOs
+  permalink: /what-has-saint-lucia-really-reported/
+  short_title: Saint Lucia UFOs
+breadcrumb_links:
+- basename: Saint_Lucia_85ac35
+  title: Saint Lucia UFOs
+  permalink: /what-has-saint-lucia-really-reported/
+  short_title: Saint Lucia UFOs
+sibling_links:
+- basename: Saint_Lucia_85ac35_soufriere_pitons_lig_7c9dd5
+  title: Pitons Lights | What Has Saint Lucia Really Reported?
+  permalink: /pitons-lights/
+  short_title: Pitons Lights
+  heading_title: What Were the Lights Near Petit Piton?
+- basename: Saint_Lucia_85ac35_records_verification_981b80
+  title: Records Gap | What Has Saint Lucia Really Reported?
+  permalink: /records-gap-40cda1/
+  short_title: Records Gap
+  heading_title: Why Are Saint Lucia UFO Records So Thin?
+- basename: Saint_Lucia_85ac35_vieux_fort_airport_s_987f7c
+  title: Vieux Fort | What Has Saint Lucia Really Reported?
+  permalink: /vieux-fort/
+  short_title: Vieux Fort
+  heading_title: Did Vieux Fort See a UFO?
+up_link:
+  basename: Saint_Lucia_85ac35
+  title: Saint Lucia UFOs
+  permalink: /what-has-saint-lucia-really-reported/
+  short_title: Saint Lucia UFOs
+next_link:
+  basename: Saint_Lucia_85ac35_soufriere_pitons_lig_7c9dd5
+  title: Pitons Lights | What Has Saint Lucia Really Reported?
+  permalink: /pitons-lights/
+  short_title: Pitons Lights
+  heading_title: What Were the Lights Near Petit Piton?
+date: '2026-05-31 04:29:31 '
+header:
+  og_image: /assets/images/Saint_Lucia_85ac35_castries_sunset_phot_244390-Illustration-1-social.jpg
+  preview_image: /assets/images/Saint_Lucia_85ac35_castries_sunset_phot_244390-Illustration-1.webp
+image: /assets/images/Saint_Lucia_85ac35_castries_sunset_phot_244390-Illustration-1-social.jpg
+---
+
+## Introduction
+
+The 2012 Castries report is one of the weakest but most instructive entries in [Saint Lucia]({{ 'what-has-saint-lucia-really-reported/' | relative_url }})’s small UFO record. According to the public account, the witness did not report seeing an unusual object in the sky at the time. Instead, a triangular shape was allegedly discovered later while reviewing sunset photographs taken in Castries. That distinction matters. A photograph that appears anomalous after the event is a very different kind of evidence from a live observation supported by multiple witnesses, video, radar data or a sequence of images. The Castries case highlights a recurring problem in UFO research: cameras often record artefacts, reflections, insects, birds and sensor effects that the human observer never noticed. The result can be an image that looks extraordinary while providing very little proof of an extraordinary object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lens_flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lens flare</span><span class="citation-popover-snippet">Lens flare</span></span></span>
+
+
+<img src="{{ "/assets/images/Saint_Lucia_85ac35_castries_sunset_phot_244390-Illustration-1-light.svg" | relative_url }}" alt="Photo Cases illustration 1" data-theme-src-dark="{{ "/assets/images/Saint_Lucia_85ac35_castries_sunset_phot_244390-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Saint_Lucia_85ac35_castries_sunset_phot_244390-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+Within the Saint Lucia context, Castries is an especially challenging environment for interpreting sunset imagery. Bright low-angle sunlight, reflections from the sea, coastal haze, urban lighting, aircraft activity around George F. L. Charles Airport and constantly changing atmospheric conditions all increase the chances of misleading photographic effects. The lesson of the 2012 report is not that every unusual image is automatically explained away, but that sunset photographs require a higher evidential threshold before they can be treated as UFO evidence.
+
+## What the 2012 Castries report actually says
+
+The publicly available description of the case is extremely limited. The report categorised the object as a triangle and stated that it was found only after the witness examined sunset photographs. No detailed image analysis accompanied the report, no independent witness testimony was attached, and the public entry did not provide the original image sequence for examination.
+
+That creates several evidential problems:
+
+
+<div class="content-enhancement content-enhancement--comparison" markdown="1">
+
+* There is no confirmed observation of an object moving through the sky.
+* There is no duration estimate because the object was not noticed at the time.
+* There is no way to compare multiple frames publicly to see whether the shape changed position.
+* There is no public metadata showing exposure settings, focal length or camera type.
+* There is no publicly available original image file for forensic inspection.
+
+</div>
+
+In UFO investigations, photographs discovered after the fact often occupy a lower evidential category than direct observations. The image may still capture something real, but without contextual information it becomes difficult to distinguish between an external object and a camera-generated effect.
+
+The Castries report therefore functions less as a compelling sighting and more as an example of why photographic anomalies require careful technical examination before being classified as unidentified aerial phenomena.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UD0zFHq9i_8" title="Unidentified Lunar Anomalies and UFO | NASA US Government Archives | Unexplained Objects on the Moon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UD0zFHq9i_8" target="_blank" rel="noopener noreferrer">Unidentified Lunar Anomalies and UFO | NASA US Government Archives | Unexplained Objects on the Moon</a></p><p class="youtube-embed-meta">Channel: iGadgetPro &middot; Views: 705 &middot; Uploaded: May 2026 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UD0zFHq9i_8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UD0zFHq9i_8">Open on YouTube</a></p></div></div></div>
+
+## Why sunset conditions are especially deceptive in Castries
+
+Castries sits on Saint Lucia’s western coast, where sunsets frequently occur over bright sea horizons. The combination of tropical humidity, haze and direct solar glare creates conditions that challenge both professional and consumer cameras. Historical weather records for September 2012 show warm, humid conditions and periods of cloud cover consistent with the atmospheric scattering commonly seen in Caribbean sunset photography. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timeanddate.com/weather/saint-lucia/castries/historic?month=9&amp;year=2012" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeanddate.com">[Time and Date]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeanddate.com</span><span class="citation-popover-snippet">Time and DateWeather in September 2012 in Castries, Saint LuciaWeather reports from September 2012 in Castries, Saint Lucia with highs an...</span><span class="citation-popover-meta">Published: September 2012</span></span></span>
+
+Several factors can produce unusual shapes near the setting sun:
+
+**Extreme brightness contrast.** Cameras struggle when a brilliant light source occupies part of the frame. Exposure systems attempt to balance dark foregrounds with bright skies, often generating flare, ghost images and contrast loss. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lens_flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lens flare</span><span class="citation-popover-snippet">Lens flare</span></span></span>
+
+**Sea reflections.** Light reflecting from water can strike lenses at unexpected angles, creating geometric artefacts that appear detached from the sun itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lens_flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lens flare</span><span class="citation-popover-snippet">Lens flare</span></span></span>
+
+**Atmospheric haze.** Coastal moisture and airborne particles scatter light, sometimes producing apparent shapes or bright regions that look more structured in photographs than they did to the eye. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aty.sdsu.edu/observing/artifacts.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aty.sdsu.edu">[aty.sdsu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aty.sdsu.edu</span><span class="citation-popover-snippet">Artifacts in sunset photographyAll the picture shows is some quirk of the imaging method used. These misleading appearances in pictures a...</span></span></span>
+
+**Urban surroundings.** Castries includes ships, harbour infrastructure, aircraft routes and dense human activity. Small distant objects can become ambiguous when silhouetted against a bright sky.
+
+A photograph taken under these conditions may contain features that appear triangular, metallic or structured even when no unusual craft was present.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JhEZ1upn190" title="5 Strange Artifacts you May See on your Images and How to Avoid them" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JhEZ1upn190" target="_blank" rel="noopener noreferrer">5 Strange Artifacts you May See on your Images and How to Avoid them</a></p><p class="youtube-embed-meta">Channel: Galactic Hunter &middot; Views: 8.5K &middot; Uploaded: February 2022 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JhEZ1upn190" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JhEZ1upn190">Open on YouTube</a></p></div></div></div>
+
+## Birds, insects, flare and sensor artefacts
+
+The most common explanation for a sunset UFO photograph is not a secret aircraft or unknown technology. It is usually a combination of lighting, motion and camera behaviour.
+
+### Birds and insects can become geometric shapes
+
+A bird passing through the frame at the moment of exposure may appear as a dark triangular silhouette, particularly when wings are partially folded. Insects flying close to the lens can be even more misleading. Because they are near the camera and often out of focus, they may appear as oddly shaped objects that seem much larger and farther away than they really are.
+
+A single still image often removes the contextual clues that would identify these objects immediately in motion. What appears to be a distant structured craft can sometimes be a nearby insect crossing the lens for a fraction of a second.
+
+This possibility becomes especially important when a witness reports discovering an object only after reviewing photographs. If the object was not noticed during the event, it may have been visible only for a tiny fraction of a second.
+
+### Lens flare can create convincing UFO-like forms
+
+Lens flare is one of the most important mechanisms in cases like the Castries report. It occurs when intense light enters a camera lens and reflects internally between optical elements. The resulting artefacts may appear as bright discs, triangles, streaks, polygons or glowing shapes floating in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lens_flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lens flare</span><span class="citation-popover-snippet">Lens flare</span></span></span>
+
+Several characteristics make flare particularly deceptive:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* It often appears geometrically shaped.
+* It may look detached from the sun.
+* It changes position as the camera angle changes.
+* It can appear only in some photographs of a sequence.
+* Different camera models produce different flare patterns.
+
+</div>
+
+Researchers working on flare-removal systems describe these artefacts as a persistent challenge because they can mimic meaningful visual structures while containing no information about actual objects in the scene. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2103.04384" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Automatic Flare Spot Artifact Detection and Removal in Photographs</span><span class="citation-popover-snippet">arXiv Automatic Flare Spot Artifact Detection and Removal in Photographs</span></span></span>
+
+Sunset photography is one of the situations most likely to generate these effects.
+
+
+<img src="{{ "/assets/images/Saint_Lucia_85ac35_castries_sunset_phot_244390-Illustration-2-light.svg" | relative_url }}" alt="Photo Cases illustration 2" data-theme-src-dark="{{ "/assets/images/Saint_Lucia_85ac35_castries_sunset_phot_244390-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Saint_Lucia_85ac35_castries_sunset_phot_244390-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+### Sensor contamination and digital artefacts
+
+Not every strange shape originates in the sky. Dust on a sensor, reflections from filters, diffraction effects and digital image processing can create marks that seem external to the camera but are actually internal artefacts. Photography specialists regularly document cases where unusual spots, patterns or bright structures near the sun were eventually traced to sensor contamination or optical effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://photo.stackexchange.com/questions/42326/what-is-the-cause-for-this-diffused-artifact-around-the-sun" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: photo.stackexchange.com">[Photography Stack Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">photo.stackexchange.com</span><span class="citation-popover-title">what is the cause for this diffused artifact around the sun</span><span class="citation-popover-snippet">Save it as an example. Remedy: Clean your sensor...</span></span></span>
+
+Digital cameras introduce additional complications. Sensor-level diffraction and internal reflections can generate coloured or geometric features that are invisible through the optical viewfinder yet appear in the final image. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lens_flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lens flare</span><span class="citation-popover-snippet">Lens flare</span></span></span>
+
+For investigators, this means that an apparently structured triangular shape in a sunset photograph is not automatically evidence of a triangular object in the sky.
+
+## How photo sequences reveal what a single image hides
+
+One reason the Castries case remains difficult to evaluate is the apparent absence of a publicly available image sequence.
+
+A single frame rarely provides enough information to distinguish between an external object and an optical artefact. Multiple photographs taken seconds apart are far more useful.
+
+Investigators typically look for several indicators:
+
+**Does the object move independently of the camera?**
+
+A real aircraft, bird or balloon should maintain a coherent path across successive images.
+
+**Does the shape remain identical?**
+
+Lens flare often changes dramatically as the camera angle shifts slightly. Real objects generally preserve their basic structure.
+
+**Does the object appear in every frame?**
+
+A dust particle or sensor artefact may remain fixed relative to the image sensor rather than the scene.
+
+**Is there motion blur?**
+
+Birds and insects frequently show blur patterns that become obvious when adjacent frames are compared.
+
+Without a sequence, these questions become difficult or impossible to answer.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yzKHzxtGXtI" title="Breaking Down 8 Viral Hoaxes | The Proof Is Out There" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yzKHzxtGXtI" target="_blank" rel="noopener noreferrer">Breaking Down 8 Viral Hoaxes | The Proof Is Out There</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 36.1K &middot; Uploaded: April 2026 &middot; Length: 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yzKHzxtGXtI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yzKHzxtGXtI">Open on YouTube</a></p></div></div></div>
+
+## Why metadata matters more than dramatic shapes
+
+The most useful evidence in photo-based UFO cases is often not the image itself but the data attached to it.
+
+Modern photographs usually contain EXIF metadata, which can record:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* Camera model
+* Lens type
+* Exposure time
+* Aperture
+* ISO setting
+* Date and time <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timeanddate.com/weather/saint-lucia/castries/historic?month=9&amp;year=2012" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeanddate.com">[timeanddate.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeanddate.com</span><span class="citation-popover-snippet">Time and DateWeather in September 2012 in Castries, Saint LuciaWeather reports from September 2012 in Castries, Saint Lucia with highs an...</span><span class="citation-popover-meta">Published: September 2012</span></span></span>
+* Sometimes GPS location
+
+</div>
+
+This information allows analysts to reconstruct shooting conditions and evaluate possible explanations.
+
+For example, a very slow shutter speed could increase the likelihood of motion blur from a bird. A wide-angle lens aimed close to the sun might increase the likelihood of flare. Knowledge of the exact time can be compared with aviation records, sunset position and weather conditions.
+
+Because the public Castries account lacks this supporting information, the image remains difficult to evaluate. The unusual appearance of an object alone is not enough to establish that the object itself was unusual.
+
+
+<img src="{{ "/assets/images/Saint_Lucia_85ac35_castries_sunset_phot_244390-Illustration-3-light.svg" | relative_url }}" alt="Photo Cases illustration 3" data-theme-src-dark="{{ "/assets/images/Saint_Lucia_85ac35_castries_sunset_phot_244390-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Saint_Lucia_85ac35_castries_sunset_phot_244390-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## What the Castries case contributes to the Saint Lucia record
+
+The value of the Castries report is not that it provides strong evidence of an unidentified craft. Its value is methodological.
+
+Among the small number of publicly accessible Saint Lucia UFO reports, the Castries entry illustrates a recurring issue in modern sightings: cameras can generate apparent anomalies that look more dramatic after the event than they did during it. The report also demonstrates why investigators place greater weight on cases involving multiple witnesses, continuous observation, original image files, metadata and image sequences.
+
+For Saint Lucia's broader UFO record, the case serves as a cautionary example. A sunset photograph containing a triangular shape may be genuinely unexplained, but without supporting evidence it is often impossible to separate an unknown aerial object from the many artefacts created by bright tropical light, coastal conditions and modern digital cameras. In practical terms, the Castries report argues for sceptical analysis first and extraordinary conclusions only after simpler photographic explanations have been tested and ruled out.
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Can Sunset Photos Create UFOs?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+        </h4>
+        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        
+        <p class="fr-book-desc">Provides context for assessing photographic UFO claims.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding Exposure on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=v4lw2lZKmioC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Understanding Exposure" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding Exposure">Understanding Exposure</a>
+        </h4>
+        <p class="fr-book-author">By Bryan F. Peterson</p>
+        <p class="fr-book-popularity">Rating: 4.5/5 from 19 Google Books ratings</p>
+        <p class="fr-book-desc">Explains how light, exposure and photographic artefacts can create misleading images.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Read+This+if+You+Want+to+Take+Great+Photographs+by+Henry+Carroll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Read This if You Want to Take Great Photographs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=p_UgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Read This if You Want to Take Great Photographs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Read+This+if+You+Want+to+Take+Great+Photographs+by+Henry+Carroll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Read This if You Want to Take Great Photographs">Read This if You Want to Take Great Photographs</a>
+        </h4>
+        <p class="fr-book-author">By Henry Carroll</p>
+        
+        <p class="fr-book-desc">Helps readers understand common visual and camera effects.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Read+This+if+You+Want+to+Take+Great+Photographs+by+Henry+Carroll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+        </h4>
+        <p class="fr-book-author">By Michael Shermer</p>
+        
+        <p class="fr-book-desc">Explains why people may interpret ambiguous photos as extraordinary.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Understanding+Exposure&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Understanding Exposure</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Read+This+if+You+Want+to+Take+Great+Photographs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Read This if You Want to Take Great Photographs</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: Wikipedia  
+   Title: Lens flare  
+   Link: [https://en.wikipedia.org/wiki/Lens_flare](https://en.wikipedia.org/wiki/Lens_flare)  
+
+2. <a id="endnote-2"></a>
+   Source: aty.sdsu.edu  
+   Link: [https://aty.sdsu.edu/observing/artifacts.html](https://aty.sdsu.edu/observing/artifacts.html)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Artifacts in sunset photographyAll the picture shows is some quirk of the imaging method used. These misleading appearances in pictures a...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: arxiv.org  
+   Title: arXiv Automatic Flare Spot Artifact Detection and Removal in Photographs  
+   Link: [https://arxiv.org/abs/2103.04384](https://arxiv.org/abs/2103.04384)  
+
+4. <a id="endnote-4"></a>
+   Source: arxiv.org  
+   Title: arXiv How to Train Neural Networks for Flare Removal  
+   Link: [https://arxiv.org/abs/2011.12485](https://arxiv.org/abs/2011.12485)  
+
+5. <a id="endnote-5"></a>
+   Source: arxiv.org  
+   Link: [https://arxiv.org/abs/2308.16460](https://arxiv.org/abs/2308.16460)  
+
+6. <a id="endnote-6"></a>
+   Source: timeanddate.com  
+   Link: [https://www.timeanddate.com/weather/saint-lucia/castries/historic?month=9&year=2012](https://www.timeanddate.com/weather/saint-lucia/castries/historic?month=9&year=2012)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Time and DateWeather in September 2012 in Castries, Saint LuciaWeather reports from September 2012 in Castries, Saint Lucia with highs an...</p></details>
+   Published: September 2012  
+
+7. <a id="endnote-7"></a>
+   Source: photo.stackexchange.com  
+   Title: what is the cause for this diffused artifact around the sun  
+   Link: [https://photo.stackexchange.com/questions/42326/what-is-the-cause-for-this-diffused-artifact-around-the-sun](https://photo.stackexchange.com/questions/42326/what-is-the-cause-for-this-diffused-artifact-around-the-sun)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Save it as an example. Remedy: Clean your sensor...</p></details>
+
+### Additional References
+
+8. <a id="endnote-8"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/groups/978517638956345/posts/3766273680180713/](https://www.facebook.com/groups/978517638956345/posts/3766273680180713/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Caught the sun before it logged out. Sunset@Saint LuciaBeautiful Caribbean sunset in Castries, St Lucia. Keon Lessey ▻ Sunrise and sunset...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/StLuciaByKirk/videos/st-lucia-sunset-secrets-you-didnt-know-that-you-didnt-know%EF%B8%8Fabout-10-15-minutes-a/1341404137336718/](https://www.facebook.com/StLuciaByKirk/videos/st-lucia-sunset-secrets-you-didnt-know-that-you-didnt-know%EF%B8%8Fabout-10-15-minutes-a/1341404137336718/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>15 minutes after the sun drops below the horizon the sky will...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: reddit.com  
+   Title: What is this artifact in my photo?  
+   Link: [https://www.reddit.com/r/AskPhotography/comments/1nscz9t/what_is_this_artifact_in_my_photo_never_seen_lens/](https://www.reddit.com/r/AskPhotography/comments/1nscz9t/what_is_this_artifact_in_my_photo_never_seen_lens/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Never seen lens flare like...This is lens flare. Modern multi-coated lenses tend to suffer from weird coloured refractive errors when pi...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: sentientorbs.com  
+   Link: [https://sentientorbs.com/explore/sightings/NUFORC-79732](https://sentientorbs.com/explore/sightings/NUFORC-79732)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ion from the sun on the left side of craft.Read more...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/groups/solaractivity/posts/4305502809461030/](https://www.facebook.com/groups/solaractivity/posts/4305502809461030/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>round the sun. Has anyone ever noticed this before...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/groups/6442905965807194/posts/7591848964246216/](https://www.facebook.com/groups/6442905965807194/posts/7591848964246216/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>4k camera. Live video and still. I see these...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: exposuretherapy.ca  
+   Title: common image artifacts in photography and how to fix them  
+   Link: [https://exposuretherapy.ca/common-image-artifacts-in-photography-and-how-to-fix-them/](https://exposuretherapy.ca/common-image-artifacts-in-photography-and-how-to-fix-them/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>This happens most often when you change lenses in a dusty environment. How to fix it: Many...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=JhEZ1upn190](https://www.youtube.com/watch?v=JhEZ1upn190)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>rophotos. These are issues we encountered in the past (along...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=UD0zFHq9i_8](https://www.youtube.com/watch?v=UD0zFHq9i_8)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Shag Harbour UFO Incident - Full Documentary...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: youtube.com  
+   Title: Breaking Down 8 Viral Hoaxes | The Proof Is Out There  
+   Link: [https://www.youtube.com/watch?v=yzKHzxtGXtI](https://www.youtube.com/watch?v=yzKHzxtGXtI)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Lunar Anomalies and UFO | NASA US Government Archives | Unexplained Objects on the Moon...</p></details>

@@ -1,0 +1,636 @@
+---
+level: 2
+basename: North_Macedonia_cece1d_official_airspace_re_44caa1
+parent_basename: North_Macedonia_cece1d
+child_basenames: []
+sibling_basenames:
+- North_Macedonia_cece1d_evidence_quality_ef04cc
+- North_Macedonia_cece1d_likely_sky_causes_b6869f
+- North_Macedonia_cece1d_skopje_sightings_88af74
+tags:
+- north-macedonia
+- official-files
+keywords:
+- north-macedonia
+- official-files
+affiliate_category: north-macedonia
+show_ads: true
+description: North Macedonia has airspace institutions, NATO air policing, and drone rules, but no public UFO archive comparable to larger countries.
+hero_summary: North Macedonia has airspace institutions, NATO air policing, and drone rules, but no public UFO archive comparable to larger countries.
+layout: default
+permalink: /official-files-8ffb40/
+sidebar_expanded_urls:
+- /what-is-really-in-north-macedonias-ufo/
+nav_short_title: Official Files
+title: Are There Official UFO Files to Check?
+title_full: Are There Official UFO Files to Check? | North Macedonia UFOs
+display_title_short: Official Files
+display_title: Official Files
+heading_title: Are There Official UFO Files to Check?
+page_heading_title: Are There Official UFO Files to Check?
+source_count: 69
+infographic_count: 3
+planned_sections:
+- What public defence records do and do not show
+- NATO air policing after 2020
+- Civil aviation and drone reporting context
+focal_unit_type: policy_intervention
+topic_lens: governance
+topic_granularity: pillar
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+parent_title: North Macedonia UFOs
+parent_permalink: /what-is-really-in-north-macedonias-ufo/
+parent_nav_short_title: North Macedonia UFOs
+parent_heading_title: What Is Really in North Macedonia's UFO Record?
+ancestor_links:
+- basename: North_Macedonia_cece1d
+  title: North Macedonia UFOs
+  permalink: /what-is-really-in-north-macedonias-ufo/
+  short_title: North Macedonia UFOs
+breadcrumb_links:
+- basename: North_Macedonia_cece1d
+  title: North Macedonia UFOs
+  permalink: /what-is-really-in-north-macedonias-ufo/
+  short_title: North Macedonia UFOs
+sibling_links:
+- basename: North_Macedonia_cece1d_evidence_quality_ef04cc
+  title: Evidence Test | What Is Really in North Macedonia's UFO Record?
+  permalink: /evidence-test-00758b/
+  short_title: Evidence Test
+  heading_title: Which UFO Reports Are Worth Taking Seriously?
+- basename: North_Macedonia_cece1d_likely_sky_causes_b6869f
+  title: Likely Causes | What Is Really in North Macedonia's UFO Record?
+  permalink: /likely-causes-30bbea/
+  short_title: Likely Causes
+  heading_title: What Ordinary Sky Events Look Like UFOs?
+- basename: North_Macedonia_cece1d_skopje_sightings_88af74
+  title: Skopje Cases | What Is Really in North Macedonia's UFO Record?
+  permalink: /skopje-cases/
+  short_title: Skopje Cases
+  heading_title: Why Do Skopje UFO Reports Stand Out?
+up_link:
+  basename: North_Macedonia_cece1d
+  title: North Macedonia UFOs
+  permalink: /what-is-really-in-north-macedonias-ufo/
+  short_title: North Macedonia UFOs
+prev_link:
+  basename: North_Macedonia_cece1d_likely_sky_causes_b6869f
+  title: Likely Causes | What Is Really in North Macedonia's UFO Record?
+  permalink: /likely-causes-30bbea/
+  short_title: Likely Causes
+  heading_title: What Ordinary Sky Events Look Like UFOs?
+next_link:
+  basename: North_Macedonia_cece1d_skopje_sightings_88af74
+  title: Skopje Cases | What Is Really in North Macedonia's UFO Record?
+  permalink: /skopje-cases/
+  short_title: Skopje Cases
+  heading_title: Why Do Skopje UFO Reports Stand Out?
+date: '2026-05-31 04:26:20 '
+header:
+  og_image: /assets/images/North_Macedonia_cece1d_official_airspace_re_44caa1-Illustration-1-social.jpg
+  preview_image: /assets/images/North_Macedonia_cece1d_official_airspace_re_44caa1-Illustration-1.webp
+image: /assets/images/North_Macedonia_cece1d_official_airspace_re_44caa1-Illustration-1-social.jpg
+---
+
+## Introduction
+
+For readers trying to verify UFO claims in [North Macedonia]({{ 'what-is-really-in-north-macedonias-ufo/' | relative_url }}), the central problem is not a lack of sightings but a lack of publicly accessible official files. Unlike countries such as the United Kingdom or the United States, which have released large collections of historical UFO records through national archives, North Macedonia has no known public UFO archive, no dedicated declassification programme for unidentified aerial reports, and no widely documented government repository that researchers can consult. As a result, most claims depend heavily on witness testimony, local media reports, or international UFO databases rather than official investigative records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">ufo reports</span><span class="citation-popover-snippet">The National ArchivesUFO reportsThe Ministry of Defence has kept records of them since the 1960s, which we now hold. Most of these record...</span></span></span>
+
+
+<img src="{{ "/assets/images/North_Macedonia_cece1d_official_airspace_re_44caa1-Illustration-1-light.svg" | relative_url }}" alt="Official Files illustration 1" data-theme-src-dark="{{ "/assets/images/North_Macedonia_cece1d_official_airspace_re_44caa1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Macedonia_cece1d_official_airspace_re_44caa1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+That absence does not necessarily imply secrecy or missing evidence. It more likely reflects the country's size, limited historical involvement in formal UFO investigations, and the structure of its aviation and defence institutions. The key question is therefore not whether hidden UFO files exist, but what official airspace records are available, who controls them, and what they can realistically tell us about unusual sightings.
+
+## What Public Defence Records Do and Do Not Show
+
+North Macedonia maintains military and aviation institutions responsible for monitoring and protecting national airspace. The Army's Air Brigade has surveillance and air-defence responsibilities, while civil aviation oversight is handled by the national Civil Aviation Agency. These bodies collect operational information about aircraft movements, airspace safety, and potential violations. Army of the Republic of North Macedonia <span class="citation-chip-wrap"><a class="citation-chip" href="https://mil.mk/operations-command/air-brigade/?lang=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mil.mk">[mil.mk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mil.mk</span><span class="citation-popover-snippet">Army of the Republic of North MacedoniaAir Brigade – ARMY OF THE REPUBLIC OF NORTH...Provides air support and transport for Army units...</span></span></span>
+
+However, there is no publicly documented equivalent of the British Ministry of Defence UFO files, no dedicated UFO reporting office, and no publicly searchable database of unidentified aerial incidents. Researchers examining North Macedonian UFO claims therefore encounter a significant evidential gap: there are institutions that monitor the sky, but very little public documentation showing how unusual aerial observations have been recorded, classified, or investigated over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.gov.mk/en/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.gov.mk">[www.caa.gov.mk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.gov.mk</span><span class="citation-popover-snippet">Aviation AgencyThe Civil Aviation Agency is the independent aviation authority and as such, it strives to achieve the highest aviation sa...</span></span></span>
+
+This distinction matters because an official airspace record is not the same thing as a UFO file. Air traffic logs, radar data, military surveillance records, flight plans, and incident reports may exist without ever being organised under a UFO category. Unless such records are released, outside investigators cannot determine whether a reported sighting corresponded to:
+
+
+<div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
+
+* A civilian aircraft.
+* A military flight.
+* A radar anomaly.
+* A drone operation.
+* An astronomical event.
+* An unidentified object that remained unexplained.
+
+</div>
+
+The result is that many North Macedonian UFO reports remain difficult to evaluate beyond eyewitness descriptions.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ji-sqo8Avuo" title="NATO air policing over 🇲🇪 Montenegro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ji-sqo8Avuo" target="_blank" rel="noopener noreferrer">NATO air policing over 🇲🇪 Montenegro</a></p><p class="youtube-embed-meta">Channel: NATO &middot; Views: 10.5K &middot; Uploaded: June 2018 &middot; Length: 56 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ji-sqo8Avuo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ji-sqo8Avuo">Open on YouTube</a></p></div></div></div>
+
+## Why Researchers Talk About “Missing” UFO Files
+
+The phrase "missing UFO files" can be misleading in the North Macedonian context. There is no well-documented archive known to have existed and then disappeared. Instead, the problem is closer to an archival absence.
+
+In countries with extensive declassification programmes, researchers can compare witness reports against government records decades later. The United Kingdom, for example, transferred thousands of Ministry of Defence UFO files to the National Archives, creating a public paper trail that allows claims to be checked against official investigations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">ufo reports</span><span class="citation-popover-snippet">The National ArchivesUFO reportsThe Ministry of Defence has kept records of them since the 1960s, which we now hold. Most of these record...</span></span></span>
+
+North Macedonia has produced no comparable public release. Consequently, when witnesses claim that unusual objects were seen over Skopje, Ohrid, or other regions, there is generally no accessible official file against which those reports can be tested. The "missing files" discussion therefore refers less to lost documents and more to the absence of publicly available records that would normally help verify or dismiss extraordinary claims.
+
+This distinction is important because a lack of released files is not evidence that extraordinary incidents occurred. It simply limits independent verification.
+
+
+<img src="{{ "/assets/images/North_Macedonia_cece1d_official_airspace_re_44caa1-Illustration-2-light.svg" | relative_url }}" alt="Official Files illustration 2" data-theme-src-dark="{{ "/assets/images/North_Macedonia_cece1d_official_airspace_re_44caa1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Macedonia_cece1d_official_airspace_re_44caa1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## NATO Air Policing After 2020
+
+North Macedonia joined NATO in March 2020, creating a major change in how national airspace is protected. Because the country does not maintain a fighter force capable of conducting full air-policing missions, NATO allies provide air-policing coverage under Alliance arrangements. Greece assumed a leading role in safeguarding North Macedonian airspace, and the country was formally integrated into NATO's Air Policing system in late 2021. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nato.int/en/news-and-events/articles/news/2021/12/10/nato-air-policing-protects-north-macedonias-airspace" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nato.int">[NATO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nato.int</span><span class="citation-popover-title">air policing protects north macedonias airspace</span><span class="citation-popover-snippet">NATONATO Air policing protects North Macedonia&#x27;s airspace10 Dec 2021 — A ceremony to mark the inclusion of the Republic of North Macedoni...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nato.int/en/news-and-events/articles/news/2021/12/10/nato-air-policing-protects-north-macedonias-airspace" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nato.int">[ac.nato.int]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nato.int</span><span class="citation-popover-title">air policing protects north macedonias airspace</span><span class="citation-popover-snippet">NATONATO Air policing protects North Macedonia&#x27;s airspace10 Dec 2021 — A ceremony to mark the inclusion of the Republic of North Macedoni...</span></span></span>
+
+From a UFO-research perspective, this development has two consequences.
+
+First, modern airspace surveillance is more integrated than before. NATO air-policing operations involve coordinated monitoring, identification procedures, and interception capabilities designed to detect and respond to unknown or potentially unsafe aircraft. NATO <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/825743/safe-skies-nato-air-policing-eastern-adriatic-and-western-balkans-master" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-title">safe skies nato air policing eastern adriatic and western balkans master</span><span class="citation-popover-snippet">NATO Air Policing – Eastern Adriatic and Western Balkans...Dec 15, 2021 — In November 2021, the Greek Air Force assumed responsibility f...</span><span class="citation-popover-meta">Published: November 2021</span></span></span>
+
+Second, any unusual aerial event today may generate records that are distributed across multiple military and alliance-level systems rather than being stored solely within North Macedonia. That does not mean those records are publicly available. NATO air-policing data are collected primarily for defence and operational purposes, not for public UFO research. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ac.nato.int/archive/2021/nato-officially-welcomes-the-republic-of-north-macedonia-into-collective-air-policing-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ac.nato.int">[NATO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ac.nato.int</span><span class="citation-popover-snippet">NATO officially welcomes the Republic of North Macedonia...10 Dec 2021 — A ceremony held in Skopje, North Macedonia on December 9, marke...</span></span></span>
+
+For investigators, this creates an interesting paradox. The technical ability to identify aerial objects has likely improved, yet the public visibility of the resulting records remains limited.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SKAs984CLIU" title="North Macedonia Enables NATO Air Policing Mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SKAs984CLIU" target="_blank" rel="noopener noreferrer">North Macedonia Enables NATO Air Policing Mission</a></p><p class="youtube-embed-meta">Channel: NATO MILITARY SHAPE &middot; Views: 3.3K &middot; Uploaded: December 2021 &middot; Length: 1 minute 19 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SKAs984CLIU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SKAs984CLIU">Open on YouTube</a></p></div></div></div>
+
+## Civil Aviation and Drone Reporting Context
+
+A significant share of contemporary UFO reports worldwide turn out to involve drones, and North Macedonia has increasingly formalised drone regulation. The Civil Aviation Agency maintains specific rules governing unmanned aircraft operations, including registration requirements, operating limits, and restrictions near sensitive locations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drone.gov.mk/?lang=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drone.gov.mk">[drone.gov.mk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drone.gov.mk</span><span class="citation-popover-snippet">UAS - Civil Aviation AgencyThe drone must be operated at a max distance of 250m horizontally and 120m vertically from the ground, always...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.gov.mk/wp-content/uploads/2024/08/2.9-Regulation-on-unmanned-aircraft-115.24-ENG.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.gov.mk">[www.caa.gov.mk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.gov.mk</span><span class="citation-popover-title">2.9 Regulation on unmanned aircraft 115.24 ENG</span><span class="citation-popover-snippet">Gazette of the Republic of North Macedonia&quot;, and...Read more...</span></span></span>
+
+Modern regulations require operators to follow defined airspace rules, while dedicated government resources explain where and how drones may be flown legally. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drone.gov.mk/upload/HOW%20TO%20OPERATE%20A%20DRONE%20IN%20MACEDONIA%20AS%20A%20FOREIGNER%20IN%20RECREATIONAL%20AND%20COMMERCIAL%20PURPOSES1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drone.gov.mk">[drone.gov.mk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drone.gov.mk</span><span class="citation-popover-snippet">For drones which maximum take-off weight is less than 250 gr. such a certificate is not required.Read more...</span></span></span>
+
+This matters because many characteristics commonly associated with UFO reports—hovering lights, sudden directional changes, unusual night-time illumination, and silent operation—can also be produced by consumer or commercial drones. When a sighting occurs near urban areas such as Skopje, investigators must consider regulated drone activity before assuming a more exotic explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drone.gov.mk/?lang=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drone.gov.mk">[drone.gov.mk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drone.gov.mk</span><span class="citation-popover-snippet">UAS - Civil Aviation AgencyThe drone must be operated at a max distance of 250m horizontally and 120m vertically from the ground, always...</span></span></span>
+
+The challenge is that public access to operational drone-reporting records is limited. While regulations are available, the underlying flight notifications, enforcement actions, or incident investigations are not generally compiled into a public UFO-style archive. As a result, many sightings cannot be conclusively matched to authorised drone operations by independent researchers.
+
+
+<img src="{{ "/assets/images/North_Macedonia_cece1d_official_airspace_re_44caa1-Illustration-3-light.svg" | relative_url }}" alt="Official Files illustration 3" data-theme-src-dark="{{ "/assets/images/North_Macedonia_cece1d_official_airspace_re_44caa1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Macedonia_cece1d_official_airspace_re_44caa1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## What Can Actually Be Verified?
+
+For North Macedonia, the strongest verification pathway is usually indirect rather than archival.
+
+A reported sighting can sometimes be checked against:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* Civil aviation activity and known flight corridors.
+* Meteor and astronomical events.
+* Satellite passes.
+* Drone regulations and likely operating zones.
+* NATO air-policing arrangements and airspace monitoring practices.
+* Contemporary media coverage and multiple witness accounts.
+
+</div>
+
+What generally cannot be checked is a dedicated government UFO case file, because no substantial public archive of that type is known to exist. This leaves North Macedonia in a different position from countries where declassified records have become part of the historical record.
+
+The practical consequence is that most North Macedonian UFO cases remain evidence-limited. Official institutions monitor the country's airspace, and NATO now contributes significantly to that mission, but the records available to the public rarely extend far enough to confirm or refute extraordinary claims conclusively. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.gov.mk/wp-content/uploads/2025/01/Content-of-the-Aviation-Regulation-Code-ARC-2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.gov.mk">[www.caa.gov.mk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.gov.mk</span><span class="citation-popover-snippet">AVIATION REGULATIONS CODE1.1 Aviation Act. (&quot;Official Gazette of RNM&quot;, No. 14/24. 1.1A Aviation Act. (&quot;Official Gazette of RM&quot;, No. 14/06...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://shape.nato.int/news-archive/2021/video-nato-air-policing-western-balkans" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shape.nato.int">[NATO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shape.nato.int</span><span class="citation-popover-title">int Video: NATO Air Policing</span><span class="citation-popover-snippet">nato.intVideo: NATO Air Policing - Slovenia and Western BalkansIn November 2021, the Greek Air Force assumed responsibility for safeguard...</span><span class="citation-popover-meta">Published: November 2021</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ac.nato.int/archive/2021/nato-officially-welcomes-the-republic-of-north-macedonia-into-collective-air-policing-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ac.nato.int">[ac.nato.int]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ac.nato.int</span><span class="citation-popover-snippet">NATO officially welcomes the Republic of North Macedonia...10 Dec 2021 — A ceremony held in Skopje, North Macedonia on December 9, marke...</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5EsRhi01wQw" title="NATO AWACS Exercise with Greek F 16s - North Macedonia Air Policing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5EsRhi01wQw" target="_blank" rel="noopener noreferrer">NATO AWACS Exercise with Greek F 16s - North Macedonia Air Policing</a></p><p class="youtube-embed-meta">Channel: airailimages &middot; Views: 1.9K &middot; Uploaded: December 2021 &middot; Length: 2 minutes 22 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5EsRhi01wQw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5EsRhi01wQw">Open on YouTube</a></p></div></div></div>
+
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Are There Official UFO Files to Check?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+        </h4>
+        <p class="fr-book-author">By Nick Pope</p>
+        
+        <p class="fr-book-desc">Examines government handling of UFO reports and official responses.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+        </h4>
+        <p class="fr-book-author">By Edward J. Ruppelt</p>
+        
+        <p class="fr-book-desc">Provides insight into official case review and military reporting.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+        </h4>
+        <p class="fr-book-author">By David Clarke</p>
+        
+        <p class="fr-book-desc">Directly addresses official records, investigations, and declassification.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+        </h4>
+        <p class="fr-book-author">By Leslie Kean</p>
+        
+        <p class="fr-book-desc">Focuses on official witnesses, aviation evidence, and government records.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: nationalarchives.gov.uk  
+   Title: ufo reports  
+   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reportsThe Ministry of Defence has kept records of them since the 1960s, which we now hold. Most of these record...</p></details>
+
+2. <a id="endnote-2"></a>
+   Source: archives.gov  
+   Link: [https://www.archives.gov/research/topics/uaps](https://www.archives.gov/research/topics/uaps)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — NARA has records related to unidentified flyi...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: caa.gov.mk  
+   Link: [https://www.caa.gov.mk/en/](https://www.caa.gov.mk/en/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation AgencyThe Civil Aviation Agency is the independent aviation authority and as such, it strives to achieve the highest aviation sa...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: nato.int  
+   Title: air policing protects [north macedonias](&#123;&#123; 'what-is-really-in-north-macedonias-ufo/' | relative_url &#125;&#125;) airspace  
+   Link: [https://www.nato.int/en/news-and-events/articles/news/2021/12/10/nato-air-policing-protects-north-macedonias-airspace](https://www.nato.int/en/news-and-events/articles/news/2021/12/10/nato-air-policing-protects-north-macedonias-airspace)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NATONATO Air policing protects North Macedonia&#x27;s airspace10 Dec 2021 — A ceremony to mark the inclusion of the Republic of North Macedoni...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: ac.nato.int  
+   Link: [https://ac.nato.int/archive/2021/nato-officially-welcomes-the-republic-of-north-macedonia-into-collective-air-policing-system](https://ac.nato.int/archive/2021/nato-officially-welcomes-the-republic-of-north-macedonia-into-collective-air-policing-system)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NATO officially welcomes the Republic of North Macedonia...10 Dec 2021 — A ceremony held in Skopje, North Macedonia on December 9, marke...</p></details>
+
+6. <a id="endnote-6"></a>
+   Source: arhiva.mod.gov.mk  
+   Link: [https://arhiva.mod.gov.mk/nato-protects-unites-and-strengthens-marking-the-inclusion-of-the-skies-of-north-macedonia-in-the-nato-air-policing-system/](https://arhiva.mod.gov.mk/nato-protects-unites-and-strengthens-marking-the-inclusion-of-the-skies-of-north-macedonia-in-the-nato-air-policing-system/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>protects, unites and strengthensDec 9, 2021 — NATO protects, unites and strengthens – marking the inclusion of the skies of North Macedon...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: drone.gov.mk  
+   Link: [https://drone.gov.mk/?lang=en](https://drone.gov.mk/?lang=en)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAS - Civil Aviation AgencyThe drone must be operated at a max distance of 250m horizontally and 120m vertically from the ground, always...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: caa.gov.mk  
+   Title: 2.9 Regulation on unmanned aircraft 115.24 ENG  
+   Link: [https://www.caa.gov.mk/wp-content/uploads/2024/08/2.9-Regulation-on-unmanned-aircraft-115.24-ENG.pdf](https://www.caa.gov.mk/wp-content/uploads/2024/08/2.9-Regulation-on-unmanned-aircraft-115.24-ENG.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gazette of the Republic of North Macedonia&quot;, and...Read more...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: shape.nato.int  
+   Title: int Video: NATO Air Policing  
+   Link: [https://shape.nato.int/news-archive/2021/video-nato-air-policing-western-balkans](https://shape.nato.int/news-archive/2021/video-nato-air-policing-western-balkans)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>nato.intVideo: NATO Air Policing - Slovenia and Western BalkansIn November 2021, the Greek Air Force assumed responsibility for safeguard...</p></details>
+   Published: November 2021  
+
+10. <a id="endnote-10"></a>
+   Source: ac.nato.int  
+   Title: HAF 60YAP  
+   Link: [https://ac.nato.int/archive/2021/HAF_60YAP](https://ac.nato.int/archive/2021/HAF_60YAP)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force – key player in the Western Balkans for...30 Jul 2021 — In the near future, the Hellenic Air Force will also contribute to the...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: nato.int  
+   Title: strengthening natos eastern flank  
+   Link: [https://www.nato.int/en/what-we-do/deterrence-and-defence/strengthening-natos-eastern-flank](https://www.nato.int/en/what-we-do/deterrence-and-defence/strengthening-natos-eastern-flank)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strengthening NATO&#x27;s eastern flank23 Oct 2025 — These measures include NATO&#x27;s 24/7 air policing, deployments of modern air defence system...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: caa.gov.mk  
+   Link: [https://www.caa.gov.mk/wp-content/uploads/2025/01/Content-of-the-Aviation-Regulation-Code-ARC-2.pdf](https://www.caa.gov.mk/wp-content/uploads/2025/01/Content-of-the-Aviation-Regulation-Code-ARC-2.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>AVIATION REGULATIONS CODE1.1 Aviation Act. (&quot;Official Gazette of RNM&quot;, No. 14/24. 1.1A Aviation Act. (&quot;Official Gazette of RM&quot;, No. 14/06...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: archives.gov  
+   Title: Project BLUE BOOK  
+   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: arhiva.mod.gov.mk  
+   Link: [https://arhiva.mod.gov.mk/%D0%BF%D0%BE%D1%82%D0%BF%D0%B8%D1%88%D0%B0%D0%BD-%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%BA%D0%B8%D0%BE%D1%82-%D0%B0%D1%80%D0%B0%D0%BD%D0%B6%D0%BC%D0%B0%D0%BD-%D0%B7%D0%B0-%D0%BD%D0%B0%D0%B4%D0%B7/](https://arhiva.mod.gov.mk/%D0%BF%D0%BE%D1%82%D0%BF%D0%B8%D1%88%D0%B0%D0%BD-%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%BA%D0%B8%D0%BE%D1%82-%D0%B0%D1%80%D0%B0%D0%BD%D0%B6%D0%BC%D0%B0%D0%BD-%D0%B7%D0%B0-%D0%BD%D0%B0%D0%B4%D0%B7/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Technical arrangement for Air PolicingSep 30, 2019 — The last NATO member state, Montenegro, during its NATO accession signed a Technical...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: drone.gov.mk  
+   Link: [https://drone.gov.mk/upload/HOW%20TO%20OPERATE%20A%20DRONE%20IN%20MACEDONIA%20AS%20A%20FOREIGNER%20IN%20RECREATIONAL%20AND%20COMMERCIAL%20PURPOSES1.pdf](https://drone.gov.mk/upload/HOW%20TO%20OPERATE%20A%20DRONE%20IN%20MACEDONIA%20AS%20A%20FOREIGNER%20IN%20RECREATIONAL%20AND%20COMMERCIAL%20PURPOSES1.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>For drones which maximum take-off weight is less than 250 gr. such a certificate is not required.Read more...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: caa.gov.tt  
+   Title: unmanned aircraft systems uas drones  
+   Link: [https://caa.gov.tt/licensing-certification/unmanned-aircraft-systems-uas-drones/](https://caa.gov.tt/licensing-certification/unmanned-aircraft-systems-uas-drones/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unmanned Aircraft Systems (UAS)/ DronesIn 2016, the Civil Aviation [(No. 19) Unmanned Aircraft Systems] Regulations were passed by Parlia...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: caa.si  
+   Link: [https://www.caa.si/en/geographical-restrictions-for-uas.html](https://www.caa.si/en/geographical-restrictions-for-uas.html)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>above-ground construction engineering facilities.Read more...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: nationalarchives.gov.uk  
+   Link: [https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Until 1967 Ministry of Defence policy was to destroy UFO files at five yearly intervals, so many records have been lost. Since 1970 most...</p></details>
+
+19. <a id="endnote-19"></a>
+   Source: mil.mk  
+   Link: [https://mil.mk/operations-command/air-brigade/?lang=en](https://mil.mk/operations-command/air-brigade/?lang=en)  
+
+20. <a id="endnote-20"></a>
+   Source: dvidshub.net  
+   Title: safe skies nato air policing eastern adriatic and western balkans master  
+   Link: [https://www.dvidshub.net/video/825743/safe-skies-nato-air-policing-eastern-adriatic-and-western-balkans-master](https://www.dvidshub.net/video/825743/safe-skies-nato-air-policing-eastern-adriatic-and-western-balkans-master)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NATO Air Policing – Eastern Adriatic and Western Balkans...Dec 15, 2021 — In November 2021, the Greek Air Force assumed responsibility f...</p></details>
+   Published: November 2021  
+
+21. <a id="endnote-21"></a>
+   Source: dvidshub.net  
+   Link: [https://www.dvidshub.net/video/824910/safe-skies-nato-air-policing-western-balkans](https://www.dvidshub.net/video/824910/safe-skies-nato-air-policing-western-balkans)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Safe skies: NATO Air Policing – Western BalkansIn Slovenia, the Italian and Hungarian Air Forces share responsibility, while in Montenegr...</p></details>
+
+22. <a id="endnote-22"></a>
+   Source: dvidshub.net  
+   Title: greece secures skies over north macedonia  
+   Link: [https://www.dvidshub.net/video/824926/greece-secures-skies-over-north-macedonia](https://www.dvidshub.net/video/824926/greece-secures-skies-over-north-macedonia)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Greece secures the skies over North MacedoniaIn November 2021, the Greek Air Force assumed responsibility for safeguarding North Macedoni...</p></details>
+   Published: November 2021  
+
+23. <a id="endnote-23"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/NATO.AIRCOM/photos/most-of-the-intercepts-in-2021-occurred-in-the-baltic-region-where-nato-operates/4914691758589612/](https://www.facebook.com/NATO.AIRCOM/photos/most-of-the-intercepts-in-2021-occurred-in-the-baltic-region-where-nato-operates/4914691758589612/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NATO - Most of the intercepts in 2021 occurred in the Baltic...5 Jan 2022 — Most of the intercepts in 2021 occurred in the Baltic region...</p></details>
+
+24. <a id="endnote-24"></a>
+   Source: eaglepubs.erau.edu  
+   Title: north macedonia  
+   Link: [https://eaglepubs.erau.edu/dronesacrosstheworld/chapter/north-macedonia/](https://eaglepubs.erau.edu/dronesacrosstheworld/chapter/north-macedonia/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Macedonia – Drones and AAM Across the WorldNorth Macedonia AIP. Drone Regulations. Drone Laws – Regulation on unmanned aircraft – No. 115...</p></details>
+
+25. <a id="endnote-25"></a>
+   Source: onyxstar.net  
+   Title: Drone regulation  
+   Link: [https://www.onyxstar.net/drone-uav-regulation/](https://www.onyxstar.net/drone-uav-regulation/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation Authorities listOperated a drone is an activity that is regulated by many of the Civil Aviation Authorities in each countr...</p></details>
+
+26. <a id="endnote-26"></a>
+   Source: easa.europa.eu  
+   Title: eu Republic of North Macedonia | EASA  
+   Link: [https://www.easa.europa.eu/en/domains/international-cooperation/easa-by-country/countries/republic-north-macedonia](https://www.easa.europa.eu/en/domains/international-cooperation/easa-by-country/countries/republic-north-macedonia)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>of North Macedonia | EASA - European UnionThis is a community of non-EASA European countries with which EASA cooperates on the implementa...</p></details>
+
+### Additional References
+
+27. <a id="endnote-27"></a>
+   Source: onedrone.com  
+   Link: [https://onedrone.com/academy/all-about-drones/](https://onedrone.com/academy/all-about-drones/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>All about dronesIf the drone has a built-in camera (regardless of its weight), you must register as an operator on the website of the Civ...</p></details>
+
+28. <a id="endnote-28"></a>
+   Source: uavcoach.com  
+   Link: [https://uavcoach.com/drone-laws-in-macedonia/](https://uavcoach.com/drone-laws-in-macedonia/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Laws in MacedoniaDrone operators must be at least 18 years old, and must obtain a certificate of proficiency. · Planned drone opera...</p></details>
+
+29. <a id="endnote-29"></a>
+   Source: caabahamas.com  
+   Link: [https://caabahamas.com/drone-registration/](https://caabahamas.com/drone-registration/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone RegistrationGeofencing must be enabled to operate a drone in The Bahamas. Click here ONLY if your drone has geofencing capabilities...</p></details>
+
+30. <a id="endnote-30"></a>
+   Source: uforadar.site  
+   Link: [https://www.uforadar.site/](https://www.uforadar.site/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO RADAR | Declassified Intelligence ArchiveExplore declassified UFO/UAP documents, photos, and video footage from FBI, NASA, DOD, and m...</p></details>
+
+31. <a id="endnote-31"></a>
+   Source: caa.co.za  
+   Link: [https://www.caa.co.za/industry-information/uas/](https://www.caa.co.za/industry-information/uas/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unmanned Aircraft SystemsRemotely Piloted Aircraft or toy aircraft should remain within the visual line of sight at all times. Fly/operat...</p></details>
+
+32. <a id="endnote-32"></a>
+   Source: fb.uklo.edu.mk  
+   Link: [https://fb.uklo.edu.mk/wp-content/uploads/sites/10/2023/08/2021-2-11.pdf](https://fb.uklo.edu.mk/wp-content/uploads/sites/10/2023/08/2021-2-11.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>AIRCRAFT: CIVIL USE AND THREATS IN...In this Regulation provisions for Registration of UNR are provided, as well as Licensing Requiremen...</p></details>
+
+33. <a id="endnote-33"></a>
+   Source: iflscience.com  
+   Link: [https://www.iflscience.com/final-three-ufo-files-released-by-uk-government-reveal-a-very-british-conspiracy-48579](https://www.iflscience.com/final-three-ufo-files-released-by-uk-government-reveal-a-very-british-conspiracy-48579)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Final Three UFO Files Released By UK Government...2 Jul 2018 — And, while you won&#x27;t find stories of little green men or narrowly-avoided...</p></details>
+
+34. <a id="endnote-34"></a>
+   Source: theguardian.com  
+   Link: [https://www.theguardian.com/us-news/2026/may/08/pentagon-ufo-files](https://www.theguardian.com/us-news/2026/may/08/pentagon-ufo-files)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>defense department creates taskforce to investigate UFOs. 15 Aug 2020. Pentagon releases three UFO videos taken by US navy pilots. 28 Apr...</p></details>
+
+35. <a id="endnote-35"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=SKAs984CLIU](https://www.youtube.com/watch?v=SKAs984CLIU)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>North Macedonia Enables NATO Air Policing MissionNATO&#x27;s newest Allied nation North Macedonia reached an historical milestone enabling NAT...</p></details>
+
+36. <a id="endnote-36"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=Ji-sqo8Avuo](https://www.youtube.com/watch?v=Ji-sqo8Avuo)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NATO air policing over 🇲🇪 MontenegroNATO Allies Italy and Greece began air policing over Montenegro. Montenegro joined NATO in June last...</p></details>

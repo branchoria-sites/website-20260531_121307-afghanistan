@@ -1,0 +1,557 @@
+---
+level: 2
+basename: Uzbekistan_db800e_official_explanation_9a4b61
+parent_basename: Uzbekistan_db800e
+child_basenames: []
+sibling_basenames:
+- Uzbekistan_db800e_regional_ufo_cluster_a4a5c4
+- Uzbekistan_db800e_tashkent_cia_lights_45dd94
+- Uzbekistan_db800e_tashkent_claims_reli_3f4eb4
+tags:
+- uzbekistan
+- official-answers
+keywords:
+- uzbekistan
+- official-answers
+affiliate_category: uzbekistan
+show_ads: true
+description: Recent official comments point to space debris, smoke rings, and insufficient video data more often than extraordinary conclusions.
+hero_summary: Recent official comments point to space debris, smoke rings, and insufficient video data more often than extraordinary conclusions.
+layout: default
+permalink: /official-answers/
+sidebar_expanded_urls:
+- /what-is-really-in-uzbekistans-ufo-record/
+nav_short_title: Official Answers
+title: How Do Uzbek Scientists Explain UFO Videos?
+title_full: How Do Uzbek Scientists Explain UFO Videos? | Uzbekistan UFOs
+display_title_short: Official Answers
+display_title: Official Answers
+heading_title: How Do Uzbek Scientists Explain UFO Videos?
+page_heading_title: How Do Uzbek Scientists Explain UFO Videos?
+source_count: 24
+infographic_count: 3
+planned_sections:
+- Space debris and falling objects
+- Smoke rings and industrial effects
+- Why some videos remain unidentified
+focal_unit_type: policy_intervention
+topic_lens: governance
+topic_granularity: decision_cluster
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+parent_title: Uzbekistan UFOs
+parent_permalink: /what-is-really-in-uzbekistans-ufo-record/
+parent_nav_short_title: Uzbekistan UFOs
+parent_heading_title: What Is Really In Uzbekistan's UFO Record?
+ancestor_links:
+- basename: Uzbekistan_db800e
+  title: Uzbekistan UFOs
+  permalink: /what-is-really-in-uzbekistans-ufo-record/
+  short_title: Uzbekistan UFOs
+breadcrumb_links:
+- basename: Uzbekistan_db800e
+  title: Uzbekistan UFOs
+  permalink: /what-is-really-in-uzbekistans-ufo-record/
+  short_title: Uzbekistan UFOs
+sibling_links:
+- basename: Uzbekistan_db800e_regional_ufo_cluster_a4a5c4
+  title: Regional Clusters | What Is Really In Uzbekistan's UFO Record?
+  permalink: /regional-clusters/
+  short_title: Regional Clusters
+  heading_title: Where Do Uzbekistan UFO Reports Cluster?
+- basename: Uzbekistan_db800e_tashkent_claims_reli_3f4eb4
+  title: Tashkent Claims | What Is Really In Uzbekistan's UFO Record?
+  permalink: /tashkent-claims/
+  short_title: Tashkent Claims
+  heading_title: Why Tashkent Became Uzbekistan's UFO Story Hub
+- basename: Uzbekistan_db800e_tashkent_cia_lights_45dd94
+  title: Tashkent File | What Is Really In Uzbekistan's UFO Record?
+  permalink: /tashkent-file/
+  short_title: Tashkent File
+  heading_title: What Did the 1947 Tashkent Lights Show?
+up_link:
+  basename: Uzbekistan_db800e
+  title: Uzbekistan UFOs
+  permalink: /what-is-really-in-uzbekistans-ufo-record/
+  short_title: Uzbekistan UFOs
+next_link:
+  basename: Uzbekistan_db800e_regional_ufo_cluster_a4a5c4
+  title: Regional Clusters | What Is Really In Uzbekistan's UFO Record?
+  permalink: /regional-clusters/
+  short_title: Regional Clusters
+  heading_title: Where Do Uzbekistan UFO Reports Cluster?
+date: '2026-05-31 04:36:50 '
+header:
+  og_image: /assets/images/Uzbekistan_db800e_official_explanation_9a4b61-Illustration-1-social.jpg
+  preview_image: /assets/images/Uzbekistan_db800e_official_explanation_9a4b61-Illustration-1.webp
+image: /assets/images/Uzbekistan_db800e_official_explanation_9a4b61-Illustration-1-social.jpg
+---
+
+## Introduction
+
+Most modern [Uzbekistan]({{ 'what-is-really-in-uzbekistans-ufo-record/' | relative_url }}) UFO videos do not end with dramatic official declarations. When scientists from Uzbekistan’s Academy of Sciences or its Astronomy Institute comment publicly, their explanations usually fall into three categories: likely space-related objects entering the atmosphere, industrial or atmospheric visual effects, or cases where the available footage is simply too poor to identify with confidence. That approach is important because it differs from both outright dismissal and sensational acceptance. Instead of claiming that every unusual light has a known cause, Uzbek scientific institutions generally emphasise the limits of the evidence and the need for physical data, trajectory measurements, or recovered material before reaching conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uzdaily.uz/en/uzbekistans-academy-of-sciences-astronomy-institute-comments-on-video-of-mysterious-object-in-tashkent-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uzdaily.uz">[UzDaily.uz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uzdaily.uz</span><span class="citation-popover-title">Uz Daily.uz Uzbekistan&#x27;s Academy of Sciences&#x27; Astronomy Institute</span><span class="citation-popover-snippet">Uzbekistan&#x27;s Academy of Sciences&#x27; Astronomy Institute...February 20, 2026 — 20 Feb 2026 — A video captured near the Kosmonavtlar metro s...</span><span class="citation-popover-meta">Published: February 20, 2026</span></span></span>
+
+
+<img src="{{ "/assets/images/Uzbekistan_db800e_official_explanation_9a4b61-Illustration-1-light.svg" | relative_url }}" alt="Official Answers illustration 1" data-theme-src-dark="{{ "/assets/images/Uzbekistan_db800e_official_explanation_9a4b61-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Uzbekistan_db800e_official_explanation_9a4b61-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+This cautious pattern has become especially visible as social-media videos from Tashkent, Namangan, Qashqadaryo and other regions spread rapidly through Telegram, Instagram and local news sites. Official responses tend to focus on what can be verified rather than on speculation about extraterrestrial craft.
+
+## Space Debris Is the Most Common Official Explanation
+
+The explanation that appears most often in modern Uzbek commentary is atmospheric re-entry by natural or artificial objects. Videos showing bright streaks, glowing trails, fragmentation, or sudden flashes are frequently assessed through the lens of meteors, meteoroids, or space debris.
+
+A notable example emerged in February 2026, when videos recorded in Tashkent and eastern Uzbekistan showed a bright object moving across the sky. Social-media users quickly described it as a UFO, while some reports claimed an impact in the Namangan region. The Astronomy Institute of the Academy of Sciences responded by stressing that there was no confirmed evidence of a meteorite strike and no verified fragments. Scientists explained that countless small bodies enter Earth's atmosphere and burn during descent, creating luminous trails that can appear dramatic on video. Without recovered debris or precise observational data, they argued, the object's exact nature could not be determined. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uzdaily.uz/en/uzbekistans-academy-of-sciences-astronomy-institute-comments-on-video-of-mysterious-object-in-tashkent-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uzdaily.uz">[UzDaily.uz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uzdaily.uz</span><span class="citation-popover-title">Uz Daily.uz Uzbekistan&#x27;s Academy of Sciences&#x27; Astronomy Institute</span><span class="citation-popover-snippet">Uzbekistan&#x27;s Academy of Sciences&#x27; Astronomy Institute...February 20, 2026 — 20 Feb 2026 — A video captured near the Kosmonavtlar metro s...</span><span class="citation-popover-meta">Published: February 20, 2026</span></span></span>
+
+This response illustrates a recurring feature of official Uzbek explanations. Researchers often begin with known astronomical mechanisms:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* Meteoroids entering the atmosphere can create bright fireball effects.
+* Space debris may fragment visibly while descending.
+* Perspective and camera exposure can exaggerate brightness and apparent size.
+* Viral clips rarely include enough information about altitude, speed, direction, or duration.
+
+</div>
+
+Rather than treating an unidentified object as evidence of something extraordinary, scientists generally place it in the category of unresolved but probably conventional aerial phenomena until stronger evidence appears. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uzdaily.uz/en/uzbekistans-academy-of-sciences-astronomy-institute-comments-on-video-of-mysterious-object-in-tashkent-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uzdaily.uz">[UzDaily.uz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uzdaily.uz</span><span class="citation-popover-title">Uz Daily.uz Uzbekistan&#x27;s Academy of Sciences&#x27; Astronomy Institute</span><span class="citation-popover-snippet">Uzbekistan&#x27;s Academy of Sciences&#x27; Astronomy Institute...February 20, 2026 — 20 Feb 2026 — A video captured near the Kosmonavtlar metro s...</span><span class="citation-popover-meta">Published: February 20, 2026</span></span></span>
+
+### Why Re-Entry Events Often Look Unusual on Video
+
+Many viewers expect meteors to appear as brief streaks lasting only a second or two. However, larger atmospheric entries can remain visible for longer periods, fragment into multiple glowing pieces, or produce smoke-like trails. These characteristics often make footage appear more mysterious than the underlying event actually is.
+
+Astronomical researchers worldwide have repeatedly noted that space debris and re-entering objects can generate visual effects that resemble classic UFO reports, especially when recorded from mobile phones with limited optical quality. Fragmentation, changing colours, and irregular motion can all emerge naturally during atmospheric descent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencealert.com/ufo-nasa-iss-sighting-debunked-fireballs-video-james-oberg-not-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencealert.com">[ScienceAlert]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencealert.com</span><span class="citation-popover-title">Science Alert This Former NASA Engineer Has Debunked Pretty Much</span><span class="citation-popover-snippet">ScienceAlertThis Former NASA Engineer Has Debunked Pretty Much...November 21, 2017 — 21 Nov 2017 — Some of the most common sighting he h...</span><span class="citation-popover-meta">Published: November 21, 2017</span></span></span>
+
+For Uzbek scientists, this means that a dramatic video alone is not considered strong evidence. Physical recovery of fragments, radar tracking, or coordinated observations from multiple locations are viewed as far more valuable than a single viral clip.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nAlCB3fB6W4" title="Oumuamua - A mysterious object from another star | DW Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nAlCB3fB6W4" target="_blank" rel="noopener noreferrer">Oumuamua - A mysterious object from another star | DW Documentary</a></p><p class="youtube-embed-meta">Channel: DW Documentary &middot; Views: 376.3K &middot; Uploaded: May 2026 &middot; Length: 43 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nAlCB3fB6W4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nAlCB3fB6W4">Open on YouTube</a></p></div></div></div>
+
+## Smoke Rings and Industrial Effects
+
+Not every modern Uzbekistan UFO video involves a bright object crossing the sky. Some reports focus on circular formations, dark rings, or hovering shapes that appear stationary and unfamiliar.
+
+In these cases, official and scientific explanations have often pointed toward industrial activity rather than aerospace anomalies. Large smoke rings can form when bursts of gas or combustion products are released through industrial stacks, furnaces, or other pressure-driven systems. Under calm atmospheric conditions, these rings can remain intact long enough to attract attention and be mistaken for unusual aerial objects.
+
+This explanation is particularly relevant in parts of Uzbekistan that contain industrial facilities, mining operations, energy infrastructure, and manufacturing complexes. When viewed from a distance, a smoke ring can appear as a solid circular object suspended in the sky. Smartphone zoom functions frequently amplify this illusion by reducing context and making the structure appear more sharply defined than it is.
+
+The attraction of the smoke-ring explanation is that it accounts for several recurring features found in viral videos:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* Apparently circular or toroidal shapes.
+* Slow movement or near-stationary behaviour.
+* Gradual deformation over time.
+* Lack of detectable acceleration.
+* Absence of associated radar or aviation reports.
+
+</div>
+
+Although not every reported ring has been conclusively traced to a specific source, industrial emissions remain one of the most frequently cited conventional explanations when circular aerial anomalies are discussed by regional experts.
+
+
+<img src="{{ "/assets/images/Uzbekistan_db800e_official_explanation_9a4b61-Illustration-2-light.svg" | relative_url }}" alt="Official Answers illustration 2" data-theme-src-dark="{{ "/assets/images/Uzbekistan_db800e_official_explanation_9a4b61-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Uzbekistan_db800e_official_explanation_9a4b61-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+### Why Camera Compression Creates Confusion
+
+A major challenge in analysing Uzbekistan UFO videos is that many clips are heavily compressed before reaching the public. They are often reposted through messaging platforms, edited, cropped, or digitally zoomed.
+
+This can create several misleading impressions:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* Lights appear larger than they actually are.
+* Motion blur resembles structured craft.
+* Compression artefacts create artificial edges.
+* Changes in brightness look like controlled manoeuvres.
+* Distance becomes almost impossible to estimate.
+
+</div>
+
+Scientists therefore tend to avoid definitive statements when only low-quality footage exists. Their public comments usually focus on what cannot be established rather than what must have occurred.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IPH9OUNUalA" title="The fireball on film" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IPH9OUNUalA" target="_blank" rel="noopener noreferrer">The fireball on film</a></p><p class="youtube-embed-meta">Channel: nature video &middot; Views: 151.7K &middot; Uploaded: November 2013 &middot; Length: 3 minutes 11 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IPH9OUNUalA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IPH9OUNUalA">Open on YouTube</a></p></div></div></div>
+
+## Why Some Videos Remain Officially Unidentified
+
+One of the more interesting aspects of Uzbekistan's scientific responses is that officials do not always offer a complete explanation. In several modern cases, the Astronomy Institute has stated that available information is insufficient to determine what was observed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uzdaily.uz/en/uzbekistans-academy-of-sciences-astronomy-institute-comments-on-video-of-mysterious-object-in-tashkent-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uzdaily.uz">[UzDaily.uz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uzdaily.uz</span><span class="citation-popover-title">Uz Daily.uz Uzbekistan&#x27;s Academy of Sciences&#x27; Astronomy Institute</span><span class="citation-popover-snippet">Uzbekistan&#x27;s Academy of Sciences&#x27; Astronomy Institute...February 20, 2026 — 20 Feb 2026 — A video captured near the Kosmonavtlar metro s...</span><span class="citation-popover-meta">Published: February 20, 2026</span></span></span>
+
+This distinction matters because "unidentified" in the scientific sense does not mean alien or extraordinary. It usually means that the evidence fails basic verification requirements.
+
+Common reasons include:
+
+
+<div class="content-enhancement content-enhancement--metric" markdown="1">
+
+* No precise time stamps.
+* No known viewing location.
+* Lack of multiple witnesses.
+* Absence of radar data.
+* No recovered fragments.
+* Footage that begins after the key event has already started.
+* Edited or shortened recordings.
+
+</div>
+
+The February 2026 incident provides a clear example. Despite widespread discussion and reports of flashes, smoke, and possible debris, the Astronomy Institute stressed that no definitive conclusion could be reached without additional physical evidence. Rather than endorsing either a meteorite explanation or a UFO interpretation, researchers highlighted the limits of what the available information could support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uzdaily.uz/en/uzbekistans-academy-of-sciences-astronomy-institute-comments-on-video-of-mysterious-object-in-tashkent-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uzdaily.uz">[UzDaily.uz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uzdaily.uz</span><span class="citation-popover-title">Uz Daily.uz Uzbekistan&#x27;s Academy of Sciences&#x27; Astronomy Institute</span><span class="citation-popover-snippet">Uzbekistan&#x27;s Academy of Sciences&#x27; Astronomy Institute...February 20, 2026 — 20 Feb 2026 — A video captured near the Kosmonavtlar metro s...</span><span class="citation-popover-meta">Published: February 20, 2026</span></span></span>
+
+
+<img src="{{ "/assets/images/Uzbekistan_db800e_official_explanation_9a4b61-Illustration-3-light.svg" | relative_url }}" alt="Official Answers illustration 3" data-theme-src-dark="{{ "/assets/images/Uzbekistan_db800e_official_explanation_9a4b61-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Uzbekistan_db800e_official_explanation_9a4b61-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+### The Difference Between "Unknown" and "Extraordinary"
+
+Public discussion often collapses two very different categories into one. A video can remain unidentified because evidence is incomplete, while still having a mundane cause.
+
+Scientific institutions generally treat these possibilities separately:
+
+CategoryMeaningIdentifiedSufficient evidence supports a known explanation.Probably identifiedAvailable evidence strongly favours a conventional cause.UnidentifiedEvidence is insufficient for a reliable conclusion.Extraordinary claimA claim requiring evidence beyond ordinary explanations.
+
+Most official Uzbek statements stay within the first three categories. Public institutions have not produced evidence supporting extraterrestrial craft as an explanation for modern viral videos. Instead, they consistently emphasise observation limits, atmospheric phenomena, and the need for verifiable data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uzdaily.uz/en/uzbekistans-academy-of-sciences-astronomy-institute-comments-on-video-of-mysterious-object-in-tashkent-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uzdaily.uz">[UzDaily.uz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uzdaily.uz</span><span class="citation-popover-title">Uz Daily.uz Uzbekistan&#x27;s Academy of Sciences&#x27; Astronomy Institute</span><span class="citation-popover-snippet">Uzbekistan&#x27;s Academy of Sciences&#x27; Astronomy Institute...February 20, 2026 — 20 Feb 2026 — A video captured near the Kosmonavtlar metro s...</span><span class="citation-popover-meta">Published: February 20, 2026</span></span></span>
+
+## What the Official Responses Reveal About Uzbekistan's Approach
+
+The most notable feature of Uzbekistan's modern UFO discussions is not a particular sighting but the style of institutional response. The Academy of Sciences and the Astronomy Institute generally avoid both sensationalism and absolute certainty.
+
+Their public position can be summarised in three points:
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PwiWqsGOgZ4" title="Ohio meteor boom: Viewer video plus expert analysis from Case Western" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PwiWqsGOgZ4" target="_blank" rel="noopener noreferrer">Ohio meteor boom: Viewer video plus expert analysis from Case Western</a></p><p class="youtube-embed-meta">Channel: WKYC Channel 3 &middot; Views: 41.8K &middot; Uploaded: March 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PwiWqsGOgZ4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PwiWqsGOgZ4">Open on YouTube</a></p></div></div></div>
+
+
+<div class="content-enhancement content-enhancement--step-flow" markdown="1">
+
+1. Many unusual sky videos are consistent with meteors, atmospheric entry events, or space debris.
+2. Some circular or unusual formations may arise from industrial or atmospheric processes.
+3. A significant number of viral videos lack enough information to support any firm conclusion.
+
+</div>
+
+As a result, modern Uzbekistan presents a relatively cautious model of UFO interpretation. Rather than claiming that every mystery has been solved, official scientific voices tend to argue that most cases have plausible conventional explanations and that the remaining unidentified videos stay unidentified largely because the evidence itself is incomplete. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uzdaily.uz/en/uzbekistans-academy-of-sciences-astronomy-institute-comments-on-video-of-mysterious-object-in-tashkent-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uzdaily.uz">[UzDaily.uz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uzdaily.uz</span><span class="citation-popover-title">Uz Daily.uz Uzbekistan&#x27;s Academy of Sciences&#x27; Astronomy Institute</span><span class="citation-popover-snippet">Uzbekistan&#x27;s Academy of Sciences&#x27; Astronomy Institute...February 20, 2026 — 20 Feb 2026 — A video captured near the Kosmonavtlar metro s...</span><span class="citation-popover-meta">Published: February 20, 2026</span></span></span>
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How Do Uzbek Scientists Explain UFO Videos?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Michael P. Masters</p>
+        
+        <p class="fr-book-desc">Represents alternative interpretation frameworks for unusual sightings.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+        </h4>
+        <p class="fr-book-author">By J. Allen Hynek</p>
+        
+        <p class="fr-book-desc">Examines explained and unexplained reports using structured methods.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+        </h4>
+        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        
+        <p class="fr-book-desc">Fits a page centered on explanations, identification, and investigative limits.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+        </h4>
+        <p class="fr-book-author">By Leslie Kean</p>
+        
+        <p class="fr-book-desc">Highlights how officials separate unexplained cases from ordinary causes.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Identified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Identified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: uzdaily.uz  
+   Title: Uz Daily.uz Uzbekistan's Academy of Sciences' Astronomy Institute  
+   Link: [https://www.uzdaily.uz/en/uzbekistans-academy-of-sciences-astronomy-institute-comments-on-video-of-mysterious-object-in-tashkent-sky/](https://www.uzdaily.uz/en/uzbekistans-academy-of-sciences-astronomy-institute-comments-on-video-of-mysterious-object-in-tashkent-sky/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Uzbekistan&#x27;s Academy of Sciences&#x27; Astronomy Institute...February 20, 2026 — 20 Feb 2026 — A video captured near the Kosmonavtlar metro s...</p></details>
+   Published: February 20, 2026  
+
+2. <a id="endnote-2"></a>
+   Source: sciencealert.com  
+   Title: Science Alert This Former NASA Engineer Has Debunked Pretty Much  
+   Link: [https://www.sciencealert.com/ufo-nasa-iss-sighting-debunked-fireballs-video-james-oberg-not-aliens](https://www.sciencealert.com/ufo-nasa-iss-sighting-debunked-fireballs-video-james-oberg-not-aliens)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceAlertThis Former NASA Engineer Has Debunked Pretty Much...November 21, 2017 — 21 Nov 2017 — Some of the most common sighting he h...</p></details>
+   Published: November 21, 2017  
+
+3. <a id="endnote-3"></a>
+   Source: instagram.com  
+   Link: [https://www.instagram.com/reel/DYj5_TvMgyg/](https://www.instagram.com/reel/DYj5_TvMgyg/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>· doppili_umar&#x27;s profile picture.Read more...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: science.org  
+   Title: astronomers solve mystery odd radio circle deep space  
+   Link: [https://www.science.org/content/article/astronomers-solve-mystery-odd-radio-circle-deep-space](https://www.science.org/content/article/astronomers-solve-mystery-odd-radio-circle-deep-space)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomers solve mystery of &#x27;odd radio circle&#x27; in deep space8 Jan 2024 — The mysterious rings could be the result of gas blasted out of...</p></details>
+
+### Additional References
+
+5. <a id="endnote-5"></a>
+   Source: labmanager.com  
+   Link: [https://www.labmanager.com/-oumuamua-is-not-an-alien-spacecraft-1540](https://www.labmanager.com/-oumuamua-is-not-an-alien-spacecraft-1540)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Oumuamua Is Not an Alien SpacecraftA new analysis strongly suggests that &#x27;Oumuamua has a natural origin and is not an alien spacecraft.R...</p></details>
+
+6. <a id="endnote-6"></a>
+   Source: caspianpost.com  
+   Link: [https://caspianpost.com/uzbekistan/unidentified-object-falls-in-uzbekistan-shakes-ground](https://caspianpost.com/uzbekistan/unidentified-object-falls-in-uzbekistan-shakes-ground)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Object Falls in Uzbekistan, Shakes GroundResidents of eastern Uzbekistan were left startled after a mysterious object report...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: facebook.com  
+   Title: Uzbekistan launches major reforms to eliminate excess  
+   Link: [https://www.facebook.com/euronews/posts/uzbekistan-launches-major-reforms-to-eliminate-excess-bureaucracy-and-train-5-mi/1223096833198978/](https://www.facebook.com/euronews/posts/uzbekistan-launches-major-reforms-to-eliminate-excess-bureaucracy-and-train-5-mi/1223096833198978/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>aliens, UFO or UAP entities, without making scientific claims about their identity; rather, the point is that the Creator&#x27;s law encompass...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/empoweringfactspage/posts/a-strange-glowing-shape-in-the-sky-over-kazakhstan-quickly-caught-attention-with/122291956010067485/](https://www.facebook.com/empoweringfactspage/posts/a-strange-glowing-shape-in-the-sky-over-kazakhstan-quickly-caught-attention-with/122291956010067485/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>gen Wednesday, 06 December 2017 - 11:30AM &#x27;Best Evidence&#x27; of...Read more...</p></details>
+   Published: December 2017  
+
+9. <a id="endnote-9"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/HiddenFactsss/posts/recently-shared-video-from-uzbekistan-has-caught-widespread-attention-after-view/1499907702135864/](https://www.facebook.com/HiddenFactsss/posts/recently-shared-video-from-uzbekistan-has-caught-widespread-attention-after-view/1499907702135864/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>eft a lasting impression as one of the most compelling...Read more...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: iflscience.com  
+   Link: [https://www.iflscience.com/defiant-stars-and-unusual-objects-survive-against-the-milky-ways-supermassive-black-hole-81766](https://www.iflscience.com/defiant-stars-and-unusual-objects-survive-against-the-milky-ways-supermassive-black-hole-81766)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hanging out at the center of our galaxy is not as...Read more...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/uniladmag/videos/weird-things-spotted-in-the-sky-ii/1147304152551099/](https://www.facebook.com/uniladmag/videos/weird-things-spotted-in-the-sky-ii/1147304152551099/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>al things that 100% exist. If we don&#x27;t know what or who...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: greenprophet.com  
+   Link: [https://www.greenprophet.com/2026/05/what-the-small-birds-teach/](https://www.greenprophet.com/2026/05/what-the-small-birds-teach/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ploration; space genes; space junk; space...Read more...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: discovery.ucl.ac.uk  
+   Title: ucl.ac.uk Palaeontology in Public  
+   Link: [https://discovery.ucl.ac.uk/id/eprint/10203478/1/Palaeontology-in-Public.pdf](https://discovery.ucl.ac.uk/id/eprint/10203478/1/Palaeontology-in-Public.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>alien but innovative animals, and a vision of scientific activity which worked in a complex and fitful manner, linking scholarly communit...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: brin.go.id  
+   Title: brin explains bright object phenomenon identified as space debris  
+   Link: [https://brin.go.id/en/news/127296/brin-explains-bright-object-phenomenon-identified-as-space-debris](https://brin.go.id/en/news/127296/brin-explains-bright-object-phenomenon-identified-as-space-debris)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Upon entering the increasingly dense atmosphere, the object burns and breaks...Read more...</p></details>

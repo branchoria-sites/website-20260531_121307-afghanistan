@@ -1,0 +1,1673 @@
+---
+level: 1
+basename: Czechia_045e2f
+child_basenames:
+- Czechia_045e2f_czech_science_debunk_9f206d
+- Czechia_045e2f_index
+- Czechia_045e2f_milicin_1991_folklor_92a5d4
+- Czechia_045e2f_projekt_zare_analysi_1ad2ea
+- Czechia_045e2f_vranov_1987_case_daf4d1
+sibling_basenames:
+- Afghanistan_c69153
+- Albania_79b9d2
+- Algeria_bd6acc
+- Andorra_9d3bd1
+- Angola_a42522
+- Antigua_and_Barbuda_0f8518
+- Argentina_354bf9
+- Armenia_5f4599
+- Australia_ceafb5
+- Austria_593905
+- Azerbaijan_213598
+- Bahrain_3ae11c
+- Bangladesh_fa6c37
+- Barbados_93409a
+- Belarus_027a12
+- Belgium_5cb4c9
+- Belize_42ab0c
+- Benin_373616
+- Bhutan_bb2254
+- Bolivia_Plurinationa_9e2db7
+- Bosnia_and_Herzegovi_552c9f
+- Botswana_180c89
+- Brazil_37497a
+- Brunei_Darussalam_eab94a
+- Bulgaria_5c7772
+- Burkina_Faso_f61e5f
+- Burundi_461758
+- Cabo_Verde_2a5bf1
+- Cambodia_314ccd
+- Cameroon_73a7dd
+- Canada_cd6a7b
+- Central_African_Repu_358788
+- Chad_6c6b1b
+- Chile_349507
+- China_d2eaf2
+- Colombia_2f7373
+- Comoros_e5bb59
+- Congo_77f256
+- Costa_Rica_fe586b
+- Cote_d_Ivoire_f8cb1a
+- Croatia_d7e045
+- Cuba_c484b1
+- Cyprus_852add
+- Democratic_People_s_808714
+- Democratic_Republic_679868
+- Denmark_89da12
+- Djibouti_60a8b0
+- Dominica_bc1cd4
+- Dominican_Republic_dba665
+- Ecuador_09f199
+- Egypt_1c39ab
+- El_Salvador_9b83b7
+- Equatorial_Guinea_ae2c01
+- Eritrea_18740a
+- Estonia_f0a96d
+- Eswatini_16cc7f
+- Ethiopia_3d91f7
+- Fiji_bbb7ef
+- Finland_c909b1
+- France_e3772a
+- Gabon_a06dcd
+- Gambia_7c3997
+- Georgia_9113c6
+- Germany_17d53e
+- Ghana_317dba
+- Greece_4902a4
+- Grenada_dbf2a2
+- Guatemala_11760e
+- Guinea-Bissau_b07cb9
+- Guinea_b47b54
+- Guyana_bc88a2
+- Haiti_a4842f
+- Honduras_5aa588
+- Hungary_f14e46
+- Iceland_b3c92e
+- India_967ce3
+- Indonesia_35536a
+- Iran_Islamic_Republi_94f9ee
+- Iraq_1aed9e
+- Ireland_eb2131
+- Israel_4c197d
+- Italy_ad79ef
+- Jamaica_5eedd6
+- Japan_fcf29f
+- Jordan_674027
+- Kazakhstan_2f36b6
+- Kenya_a84f56
+- Kiribati_3f57ad
+- Kuwait_93295b
+- Kyrgyzstan_c78791
+- Lao_People_s_Democra_44f2bd
+- Latvia_c5f5bb
+- Lebanon_5caa7f
+- Lesotho_93b12b
+- Liberia_1ed5dd
+- Libya_55949d
+- Liechtenstein_b0ddce
+- Lithuania_74a788
+- Luxembourg_507672
+- Madagascar_f92bcb
+- Malawi_0ce65b
+- Malaysia_ff3ea3
+- Maldives_213cb2
+- Mali_daa6a4
+- Malta_1a591a
+- Marshall_Islands_ccbdc0
+- Mauritania_85fa35
+- Mauritius_26160d
+- Mexico_41937b
+- Micronesia_Federated_30e9e8
+- Monaco_35ab1c
+- Mongolia_f54da3
+- Montenegro_479fb3
+- Morocco_32e087
+- Mozambique_a40a9b
+- Myanmar_928b7c
+- Namibia_bfe79d
+- Nauru_f648c7
+- Nepal_0e1d58
+- Netherlands_Kingdom_d6d70a
+- New_Zealand_3d3336
+- Nicaragua_481264
+- Niger_6687e1
+- Nigeria_9742d0
+- North_Macedonia_cece1d
+- Norway_988455
+- Oman_c14c36
+- Pakistan_82d220
+- Palau_e5e0b6
+- Panama_1e36b3
+- Papua_New_Guinea_90e80c
+- Paraguay_71a452
+- Peru_36c572
+- Philippines_806736
+- Poland_5ff03b
+- Portugal_a49519
+- Qatar_83ef3e
+- Republic_of_Korea_8d9deb
+- Republic_of_Moldova_a6ad94
+- Romania_d6b897
+- Russian_Federation_87c89a
+- Rwanda_7266a1
+- Saint_Kitts_and_Nevi_a66de5
+- Saint_Lucia_85ac35
+- Saint_Vincent_and_th_3bce2a
+- Samoa_f56806
+- San_Marino_8ff2c5
+- Sao_Tome_and_Princip_3437b2
+- Saudi_Arabia_8bf7f8
+- Senegal_d8973b
+- Serbia_6d31bf
+- Seychelles_3d2d7b
+- Sierra_Leone_817b0d
+- Singapore_20c0b7
+- Slovakia_b6c149
+- Slovenia_d1aa05
+- Solomon_Islands_6f943d
+- Somalia_4dfdf1
+- South_Africa_3b27c8
+- South_Sudan_80ac9c
+- Spain_20a8df
+- Sri_Lanka_db33ad
+- Sudan_1193ba
+- Suriname_b17fc6
+- Sweden_72ddd2
+- Switzerland_77dcd8
+- Syrian_Arab_Republic_099887
+- Tajikistan_279c77
+- Thailand_a2b7c1
+- The_Bahamas_f765dc
+- Timor-Leste_2d79f6
+- Togo_30949d
+- Tonga_e8a123
+- Trinidad_and_Tobago_a73120
+- Tunisia_edf404
+- Turkiye_c8c5d5
+- Turkmenistan_1f8dc1
+- Tuvalu_9a2248
+- Uganda_e92904
+- Ukraine_c951ec
+- United_Arab_Emirates_c92b89
+- United_Kingdom_d25561
+- United_Republic_of_T_f850a5
+- United_States_f5f19f
+- Uruguay_66b989
+- Uzbekistan_db800e
+- Vanuatu_d16ad2
+- Venezuela_Bolivarian_3dc4c3
+- Viet_Nam_82ecdd
+- Yemen_ac33d6
+- Zambia_dcf25e
+- Zimbabwe_5922f5
+tags:
+- czechia
+keywords:
+- czechia
+affiliate_category: czechia
+show_ads: true
+description: Czechia’s UFO record is best understood as a mixed archive of striking witness stories, Cold War military anomalies, local folklore, and many cases that...
+hero_summary: Czechia’s UFO record is best understood as a mixed archive of striking witness stories, Cold War military anomalies, local folklore, and many cases that become less mysterious once astronomy, aircraft, lanterns, satellites or weather are checked.
+layout: default
+permalink: /czechia/
+nav_short_title: What Makes Czech UFO Sightings So Intriguing?
+title: What Makes Czech UFO Sightings So Intriguing?
+title_full: What Makes Czech UFO Sightings So Intriguing?
+display_title_short: What Makes Czech UFO Sightings So Intriguing?
+display_title: What Makes Czech UFO Sightings So Intriguing?
+heading_title: What Makes Czech UFO Sightings So Intriguing?
+page_heading_title: What Makes Czech UFO Sightings So Intriguing?
+source_count: 112
+infographic_count: 3
+page_website_name: CzechUFOs
+page_banner_line: Exploring notable UFO cases, culture, and investigations in Czechia
+site_website_name: CzechUFOs
+site_banner_line: Exploring notable UFO cases, culture, and investigations in Czechia
+site_image_description: A night sky over southern Moravia with a bright, glowing spherical object hovering above fields and forest near a small village.
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+sibling_links:
+- basename: Afghanistan_c69153
+  title: Afghanistan UAP
+  permalink: /afghanistan/
+  short_title: Afghanistan UAP
+- basename: Albania_79b9d2
+  title: AlbanianUFOs
+  permalink: /albania/
+  short_title: AlbanianUFOs
+- basename: Algeria_bd6acc
+  title: Algeria UFOs
+  permalink: /algeria/
+  short_title: Algeria UFOs
+- basename: Antigua_and_Barbuda_0f8518
+  title: Antigua UFOs
+  permalink: /antigua-and-barbuda/
+  short_title: Antigua UFOs
+- basename: Monaco_35ab1c
+  title: Monaco UFOs
+  permalink: /are-monaco-ufo-sightings-really/
+  short_title: Monaco UFOs
+- basename: Mali_daa6a4
+  title: Mali UFOs
+  permalink: /are-there-any-real-mali-ufo-cases/
+  short_title: Mali UFOs
+- basename: Montenegro_479fb3
+  title: MontenegroUFOs
+  permalink: /are-ufos-really-seen-over-montenegro/
+  short_title: MontenegroUFOs
+- basename: Argentina_354bf9
+  title: Argentina OVNI
+  permalink: /argentinas-ufo-stories-records-and/
+  short_title: Argentina OVNI
+- basename: Bangladesh_fa6c37
+  title: Bangladesh UFOs
+  permalink: /bangladesh/
+  short_title: Bangladesh UFOs
+- basename: Bolivia_Plurinationa_9e2db7
+  title: Bolivia UFOs
+  permalink: /bolivia-plurinational-state-of/
+  short_title: Bolivia UFOs
+- basename: Bosnia_and_Herzegovi_552c9f
+  title: BosniaUFOs
+  permalink: /bosnia-and-herzegovina/
+  short_title: BosniaUFOs
+- basename: Brunei_Darussalam_eab94a
+  title: Brunei UAP
+  permalink: /brunei-darussalam/
+  short_title: Brunei UAP
+- basename: Burkina_Faso_f61e5f
+  title: BurkinaUFO
+  permalink: /burkina-faso/
+  short_title: BurkinaUFO
+- basename: Central_African_Repu_358788
+  title: CAR UFOs
+  permalink: /central-african-republic/
+  short_title: CAR UFOs
+- basename: Cote_d_Ivoire_f8cb1a
+  title: Ivoire UFOs
+  permalink: /cote-d-ivoire/
+  short_title: Ivoire UFOs
+- basename: Democratic_People_s_808714
+  title: DPRKUFOs
+  permalink: /democratic-people-s-republic-of-korea/
+  short_title: DPRKUFOs
+- basename: Democratic_Republic_679868
+  title: DRC UFOs
+  permalink: /democratic-republic-of-the-congo/
+  short_title: DRC UFOs
+- basename: Djibouti_60a8b0
+  title: DjiboutiUAP
+  permalink: /djibouti/
+  short_title: DjiboutiUAP
+- basename: Dominica_bc1cd4
+  title: Dominica UAP
+  permalink: /does-dominica-have-real-ufo-cases/
+  short_title: Dominica UAP
+- basename: Iceland_b3c92e
+  title: Iceland UFOs
+  permalink: /does-iceland-have-a-real-ufo-record/
+  short_title: Iceland UFOs
+- basename: Dominican_Republic_dba665
+  title: Dominican UAP
+  permalink: /dominican-republic/
+  short_title: Dominican UAP
+- basename: Equatorial_Guinea_ae2c01
+  title: EquatorialGuineaUFOs
+  permalink: /equatorial-guinea/
+  short_title: EquatorialGuineaUFOs
+- basename: Fiji_bbb7ef
+  title: Fiji UFOs
+  permalink: /fiji/
+  short_title: Fiji UFOs
+- basename: Finland_c909b1
+  title: Finland UFOs
+  permalink: /finland/
+  short_title: Finland UFOs
+- basename: Ghana_317dba
+  title: GhanaUFOs
+  permalink: /ghana/
+  short_title: GhanaUFOs
+- basename: Comoros_e5bb59
+  title: ComorosUFOs
+  permalink: /have-ufos-really-been-seen-over-comoros/
+  short_title: ComorosUFOs
+- basename: Chile_349507
+  title: ChileUFOs
+  permalink: /how-chile-investigates-ufos-and-aerial/
+  short_title: ChileUFOs
+- basename: France_e3772a
+  title: FranceUFOs
+  permalink: /how-france-investigates-and-archives-ufo/
+  short_title: FranceUFOs
+- basename: Iran_Islamic_Republi_94f9ee
+  title: Iran UFOs
+  permalink: /iran-islamic-republic-of/
+  short_title: Iran UFOs
+- basename: Iraq_1aed9e
+  title: Iraq UAP
+  permalink: /iraq/
+  short_title: Iraq UAP
+- basename: Lao_People_s_Democra_44f2bd
+  title: Laos UFOs
+  permalink: /lao-people-s-democratic-republic/
+  short_title: Laos UFOs
+- basename: Madagascar_f92bcb
+  title: Madagascar UFOs
+  permalink: /madagascars-ufo-record-famous-case-thin/
+  short_title: Madagascar UFOs
+- basename: Maldives_213cb2
+  title: MaldivesUFOs
+  permalink: /maldives/
+  short_title: MaldivesUFOs
+- basename: Micronesia_Federated_30e9e8
+  title: Micronesia UFOs
+  permalink: /micronesia-federated-states-of/
+  short_title: Micronesia UFOs
+- basename: Morocco_32e087
+  title: Morocco UFOs
+  permalink: /moroccos-ufo-mystery-and-its-best/
+  short_title: Morocco UFOs
+- basename: Netherlands_Kingdom_d6d70a
+  title: Dutch UFOs
+  permalink: /netherlands-kingdom-of-the/
+  short_title: Dutch UFOs
+- basename: Papua_New_Guinea_90e80c
+  title: PNG UFOs
+  permalink: /papua-new-guinea/
+  short_title: PNG UFOs
+- basename: Philippines_806736
+  title: Philippines UFOs
+  permalink: /philippines/
+  short_title: Philippines UFOs
+- basename: Portugal_a49519
+  title: Portugal UFOs
+  permalink: /portugals-ufo-files-mystery-memory-and/
+  short_title: Portugal UFOs
+- basename: Republic_of_Korea_8d9deb
+  title: Korea UFOs
+  permalink: /republic-of-korea/
+  short_title: Korea UFOs
+- basename: Republic_of_Moldova_a6ad94
+  title: Moldova UAP
+  permalink: /republic-of-moldova/
+  short_title: Moldova UAP
+- basename: Russian_Federation_87c89a
+  title: Russian UFOs
+  permalink: /russian-federation/
+  short_title: Russian UFOs
+- basename: Saint_Kitts_and_Nevi_a66de5
+  title: Kitts UFOs
+  permalink: /saint-kitts-and-nevis/
+  short_title: Kitts UFOs
+- basename: Saint_Vincent_and_th_3bce2a
+  title: SVG UFOs
+  permalink: /saint-vincent-and-the-grenadines/
+  short_title: SVG UFOs
+- basename: Sao_Tome_and_Princip_3437b2
+  title: Sao Tome UFOs
+  permalink: /sao-tome-and-principe/
+  short_title: Sao Tome UFOs
+- basename: Spain_20a8df
+  title: Spain UFOs
+  permalink: /spains-ufo-files-mystery-evidence-and/
+  short_title: Spain UFOs
+- basename: Syrian_Arab_Republic_099887
+  title: Syrian UAP
+  permalink: /syrian-arab-republic/
+  short_title: Syrian UAP
+- basename: Thailand_a2b7c1
+  title: Thailand UFOs
+  permalink: /thailand/
+  short_title: Thailand UFOs
+- basename: The_Bahamas_f765dc
+  title: Bahamas UFOs
+  permalink: /the-bahamas/
+  short_title: Bahamas UFOs
+- basename: Trinidad_and_Tobago_a73120
+  title: Trinidad UFOs
+  permalink: /trinidad-and-tobago/
+  short_title: Trinidad UFOs
+- basename: Turkiye_c8c5d5
+  title: Türkiye UFOs
+  permalink: /turkiye/
+  short_title: Türkiye UFOs
+- basename: Luxembourg_507672
+  title: LuxUFO
+  permalink: /uncovering-ufo-activity-across/
+  short_title: LuxUFO
+- basename: Israel_4c197d
+  title: Israel UFOs
+  permalink: /uncovering-ufo-phenomena-across-israel/
+  short_title: Israel UFOs
+- basename: United_Arab_Emirates_c92b89
+  title: UAE UFOs
+  permalink: /united-arab-emirates/
+  short_title: UAE UFOs
+- basename: United_Kingdom_d25561
+  title: UK UFOs
+  permalink: /united-kingdom/
+  short_title: UK UFOs
+- basename: United_Republic_of_T_f850a5
+  title: Tanzania UFOs
+  permalink: /united-republic-of-tanzania/
+  short_title: Tanzania UFOs
+- basename: United_States_f5f19f
+  title: US UFOs
+  permalink: /united-states/
+  short_title: US UFOs
+- basename: Venezuela_Bolivarian_3dc4c3
+  title: Venezuela UFOs
+  permalink: /venezuela-bolivarian-republic-of/
+  short_title: Venezuela UFOs
+- basename: Malawi_0ce65b
+  title: MalawiUFOs
+  permalink: /what-are-malawis-documented-ufos-and-sky/
+  short_title: MalawiUFOs
+- basename: Belarus_027a12
+  title: Belarus UFOs
+  permalink: /what-belarus-ufo-reports-really-show/
+  short_title: Belarus UFOs
+- basename: Brazil_37497a
+  title: BrazilUFOs
+  permalink: /what-brazils-ufo-records-reveal-about/
+  short_title: BrazilUFOs
+- basename: Angola_a42522
+  title: Angola UFOs
+  permalink: /what-can-angolas-ufo-record-really-prove/
+  short_title: Angola UFOs
+- basename: Benin_373616
+  title: Benin UFOs
+  permalink: /what-can-really-be-said-about-benin-ufos/
+  short_title: Benin UFOs
+- basename: Serbia_6d31bf
+  title: Serbia UFOs
+  permalink: /what-can-serbias-ufo-record-really-show/
+  short_title: Serbia UFOs
+- basename: Tuvalu_9a2248
+  title: Tuvalu UFOs
+  permalink: /what-can-tuvalus-ufo-record-really-show/
+  short_title: Tuvalu UFOs
+- basename: Canada_cd6a7b
+  title: Canada UAP
+  permalink: /what-canada-ufo-reports-really-show/
+  short_title: Canada UAP
+- basename: China_d2eaf2
+  title: China UFOs
+  permalink: /what-chinas-ufo-cases-really-show/
+  short_title: China UFOs
+- basename: South_Sudan_80ac9c
+  title: South Sudan UFOs
+  permalink: /what-counts-as-a-south-sudan-ufo-case/
+  short_title: South Sudan UFOs
+- basename: Jordan_674027
+  title: Jordan UFOs
+  permalink: /what-counts-as-a-ufo-in-jordan/
+  short_title: Jordan UFOs
+- basename: Croatia_d7e045
+  title: Croatia UFOs
+  permalink: /what-croatias-ufo-records-reveal-about/
+  short_title: Croatia UFOs
+- basename: Bahrain_3ae11c
+  title: Bahrain UFOs
+  permalink: /what-did-bahrains-ufo-sightings-really/
+  short_title: Bahrain UFOs
+- basename: Viet_Nam_82ecdd
+  title: Viet Nam UFOs
+  permalink: /what-did-viet-nams-ufo-reports-really/
+  short_title: Viet Nam UFOs
+- basename: Austria_593905
+  title: Austria UFOs
+  permalink: /what-do-austrias-ufo-reports-really-show/
+  short_title: Austria UFOs
+- basename: Belize_42ab0c
+  title: Belize UAP
+  permalink: /what-do-belize-ufo-reports-really-show/
+  short_title: Belize UAP
+- basename: Cameroon_73a7dd
+  title: Cameroon UFOs
+  permalink: /what-do-cameroons-ufo-stories-really/
+  short_title: Cameroon UFOs
+- basename: Cuba_c484b1
+  title: Cuba UFOs
+  permalink: /what-do-cubas-ufo-sightings-reveal-about/
+  short_title: Cuba UFOs
+- basename: Gabon_a06dcd
+  title: Gabon UFOs
+  permalink: /what-do-gabons-ufo-stories-really-show/
+  short_title: Gabon UFOs
+- basename: Guinea-Bissau_b07cb9
+  title: Guinea Bissau UFOs
+  permalink: /what-do-guinea-bissaus-ufo-reports/
+  short_title: Guinea Bissau UFOs
+- basename: Honduras_5aa588
+  title: Honduras UFOs
+  permalink: /what-do-honduras-ufo-reports-really-show/
+  short_title: Honduras UFOs
+- basename: Hungary_f14e46
+  title: Hungary UFOs
+  permalink: /what-do-hungarys-ufo-stories-really-show/
+  short_title: Hungary UFOs
+- basename: India_967ce3
+  title: India UAP
+  permalink: /what-do-indias-ufo-reports-really-show/
+  short_title: India UAP
+- basename: Lebanon_5caa7f
+  title: Lebanon UFOs
+  permalink: /what-do-lebanons-ufo-reports-really-show/
+  short_title: Lebanon UFOs
+- basename: Libya_55949d
+  title: Libya UFOs
+  permalink: /what-do-libyas-ufo-reports-really-show/
+  short_title: Libya UFOs
+- basename: Malaysia_ff3ea3
+  title: Malaysia UFOs
+  permalink: /what-do-malaysias-ufo-stories-really/
+  short_title: Malaysia UFOs
+- basename: Mongolia_f54da3
+  title: Mongolia UFOs
+  permalink: /what-do-mongolias-ufo-reports-really/
+  short_title: Mongolia UFOs
+- basename: Nauru_f648c7
+  title: Nauru UFOs
+  permalink: /what-do-nauru-ufo-reports-really-show/
+  short_title: Nauru UFOs
+- basename: Nigeria_9742d0
+  title: Nigeria UFOs
+  permalink: /what-do-nigerias-ufo-reports-really-show/
+  short_title: Nigeria UFOs
+- basename: Pakistan_82d220
+  title: Pakistan UFOs
+  permalink: /what-do-pakistans-ufo-cases-really-show/
+  short_title: Pakistan UFOs
+- basename: Panama_1e36b3
+  title: Panama UFOs
+  permalink: /what-do-panama-ufo-reports-really-show/
+  short_title: Panama UFOs
+- basename: Qatar_83ef3e
+  title: Qatar UFOs
+  permalink: /what-do-qatars-ufo-reports-really-show/
+  short_title: Qatar UFOs
+- basename: Seychelles_3d2d7b
+  title: Seychelles UFOs
+  permalink: /what-do-seychelles-ufo-reports-really/
+  short_title: Seychelles UFOs
+- basename: Sierra_Leone_817b0d
+  title: Sierra Leone UAP
+  permalink: /what-do-sierra-leones-ufo-reports-really/
+  short_title: Sierra Leone UAP
+- basename: Somalia_4dfdf1
+  title: Somalia UFOs
+  permalink: /what-do-somalias-ufo-reports-really-show/
+  short_title: Somalia UFOs
+- basename: Tajikistan_279c77
+  title: Tajikistan UFOs
+  permalink: /what-do-tajikistans-ufo-reports-really/
+  short_title: Tajikistan UFOs
+- basename: Timor-Leste_2d79f6
+  title: Timor Leste UFOs
+  permalink: /what-do-timor-leste-ufo-reports-really/
+  short_title: Timor Leste UFOs
+- basename: Guinea_b47b54
+  title: Guinea UFOs
+  permalink: /what-do-ufo-reports-in-guinea-really/
+  short_title: Guinea UFOs
+- basename: Bhutan_bb2254
+  title: BhutanUFOs
+  permalink: /what-do-ufo-sightings-in-bhutan-really/
+  short_title: BhutanUFOs
+- basename: Botswana_180c89
+  title: Botswana UFOs
+  permalink: /what-does-botswanas-ufo-record-really/
+  short_title: Botswana UFOs
+- basename: Ecuador_09f199
+  title: EcuadorUFOs
+  permalink: /what-evidence-exists-for-ufos-in-ecuador/
+  short_title: EcuadorUFOs
+- basename: Georgia_9113c6
+  title: Georgia UFOs
+  permalink: /what-georgias-ufo-reports-reveal-about/
+  short_title: Georgia UFOs
+- basename: Germany_17d53e
+  title: Germany UFOs
+  permalink: /what-germanys-ufo-record-really-shows/
+  short_title: Germany UFOs
+- basename: Greece_4902a4
+  title: Greece UFOs
+  permalink: /what-greeces-ufo-records-reveal-about/
+  short_title: Greece UFOs
+- basename: Guatemala_11760e
+  title: GuatemalaUFOs
+  permalink: /what-guatemalas-ufo-reports-really/
+  short_title: GuatemalaUFOs
+- basename: Latvia_c5f5bb
+  title: Latvia UFOs
+  permalink: /what-has-latvia-really-seen-in-the-sky/
+  short_title: Latvia UFOs
+- basename: Malta_1a591a
+  title: Malta UFOs
+  permalink: /what-has-malta-really-seen-in-the-sky/
+  short_title: Malta UFOs
+- basename: Saint_Lucia_85ac35
+  title: Saint Lucia UFOs
+  permalink: /what-has-saint-lucia-really-reported/
+  short_title: Saint Lucia UFOs
+- basename: Samoa_f56806
+  title: Samoa UFOs
+  permalink: /what-has-samoa-really-seen-in-the-sky/
+  short_title: Samoa UFOs
+- basename: Zambia_dcf25e
+  title: Zambia UFOs
+  permalink: /what-has-zambia-really-seen-in-the-sky/
+  short_title: Zambia UFOs
+- basename: Indonesia_35536a
+  title: Indonesia UFOs
+  permalink: /what-indonesias-ufo-record-really-shows/
+  short_title: Indonesia UFOs
+- basename: Andorra_9d3bd1
+  title: Andorra UFOs
+  permalink: /what-is-actually-known-about-andorra/
+  short_title: Andorra UFOs
+- basename: Azerbaijan_213598
+  title: Azerbaijan UAP
+  permalink: /what-is-behind-azerbaijans-ufo-reports/
+  short_title: Azerbaijan UAP
+- basename: Liberia_1ed5dd
+  title: Liberia UFOs
+  permalink: /what-is-known-about-ufos-in-liberia/
+  short_title: Liberia UFOs
+- basename: Chad_6c6b1b
+  title: Chad UFOs
+  permalink: /what-is-really-behind-chads-ufo-reports/
+  short_title: Chad UFOs
+- basename: Gambia_7c3997
+  title: Gambia UFOs
+  permalink: /what-is-really-behind-gambias-ufo/
+  short_title: Gambia UFOs
+- basename: Myanmar_928b7c
+  title: Myanmar UFOs
+  permalink: /what-is-really-behind-myanmar-ufo/
+  short_title: Myanmar UFOs
+- basename: Namibia_bfe79d
+  title: Namibia UFOs
+  permalink: /what-is-really-behind-namibias-ufo/
+  short_title: Namibia UFOs
+- basename: Slovakia_b6c149
+  title: Slovak UFOs
+  permalink: /what-is-really-behind-slovakias-ufo/
+  short_title: Slovak UFOs
+- basename: Eswatini_16cc7f
+  title: Eswatini UFOs
+  permalink: /what-is-really-in-eswatinis-ufo-record/
+  short_title: Eswatini UFOs
+- basename: Jamaica_5eedd6
+  title: Jamaica UFOs
+  permalink: /what-is-really-in-jamaicas-ufo-record/
+  short_title: Jamaica UFOs
+- basename: North_Macedonia_cece1d
+  title: North Macedonia UFOs
+  permalink: /what-is-really-in-north-macedonias-ufo/
+  short_title: North Macedonia UFOs
+- basename: Uzbekistan_db800e
+  title: Uzbekistan UFOs
+  permalink: /what-is-really-in-uzbekistans-ufo-record/
+  short_title: Uzbekistan UFOs
+- basename: Yemen_ac33d6
+  title: Yemen UFOs
+  permalink: /what-is-really-in-yemens-ufo-record/
+  short_title: Yemen UFOs
+- basename: Burundi_461758
+  title: Burundi UFOs
+  permalink: /what-is-really-known-about-burundi-ufos/
+  short_title: Burundi UFOs
+- basename: Colombia_2f7373
+  title: Colombia UAP
+  permalink: /what-is-really-known-about-colombias-ufo/
+  short_title: Colombia UAP
+- basename: Kiribati_3f57ad
+  title: Kiribati UFOs
+  permalink: /what-is-really-known-about-kiribati-ufos/
+  short_title: Kiribati UFOs
+- basename: Lesotho_93b12b
+  title: Lesotho UAP
+  permalink: /what-is-really-known-about-lesotho-ufos/
+  short_title: Lesotho UAP
+- basename: Niger_6687e1
+  title: Niger UFOs
+  permalink: /what-is-really-known-about-niger-ufos/
+  short_title: Niger UFOs
+- basename: Palau_e5e0b6
+  title: Palau UAP
+  permalink: /what-is-really-known-about-palau-ufos/
+  short_title: Palau UAP
+- basename: Turkmenistan_1f8dc1
+  title: Turkmenistan UFOs
+  permalink: /what-is-really-known-about-turkmenistan/
+  short_title: Turkmenistan UFOs
+- basename: Ireland_eb2131
+  title: Irish UAP
+  permalink: /what-is-really-seen-over-ireland/
+  short_title: Irish UAP
+- basename: Kazakhstan_2f36b6
+  title: Kazakhstan UFOs
+  permalink: /what-is-really-seen-over-kazakhstan/
+  short_title: Kazakhstan UFOs
+- basename: Ukraine_c951ec
+  title: Ukraine UFOs
+  permalink: /what-is-really-seen-over-ukraine/
+  short_title: Ukraine UFOs
+- basename: Rwanda_7266a1
+  title: Rwanda UFOs
+  permalink: /what-is-rwandas-real-ufo-record/
+  short_title: Rwanda UFOs
+- basename: Sri_Lanka_db33ad
+  title: Sri Lanka UFOs
+  permalink: /what-is-sri-lankas-ufo-record-really/
+  short_title: Sri Lanka UFOs
+- basename: Switzerland_77dcd8
+  title: Swiss UFOs
+  permalink: /what-is-switzerlands-ufo-record-really/
+  short_title: Swiss UFOs
+- basename: Lithuania_74a788
+  title: Lithuania UFOs
+  permalink: /what-lithuanias-ufo-reports-really-show/
+  short_title: Lithuania UFOs
+- basename: Egypt_1c39ab
+  title: EgyptUFOs
+  permalink: /what-makes-egypt-a-hotspot-for-ufo/
+  short_title: EgyptUFOs
+- basename: Italy_ad79ef
+  title: Italy UFOs
+  permalink: /what-makes-italys-ufo-record-unique-and/
+  short_title: Italy UFOs
+- basename: Japan_fcf29f
+  title: Japan UFOs
+  permalink: /what-makes-japans-ufo-record-so-unusual/
+  short_title: Japan UFOs
+- basename: Liechtenstein_b0ddce
+  title: Liechtenstein UFOs
+  permalink: /what-makes-liechtensteins-ufo-story/
+  short_title: Liechtenstein UFOs
+- basename: Norway_988455
+  title: Norway UFOs
+  permalink: /what-makes-norways-ufo-record-different/
+  short_title: Norway UFOs
+- basename: Peru_36c572
+  title: Peru UFOs
+  permalink: /what-makes-perus-ufo-story-so/
+  short_title: Peru UFOs
+- basename: Sweden_72ddd2
+  title: Swedish UFOs
+  permalink: /what-makes-swedens-ufo-record-different/
+  short_title: Swedish UFOs
+- basename: New_Zealand_3d3336
+  title: NZ UFOs
+  permalink: /what-new-zealands-ufo-files-really-show/
+  short_title: NZ UFOs
+- basename: Sudan_1193ba
+  title: Sudan UFOs
+  permalink: /what-really-appeared-over-sudan/
+  short_title: Sudan UFOs
+- basename: Congo_77f256
+  title: Congo UFOs
+  permalink: /what-really-counts-as-a-congo-ufo/
+  short_title: Congo UFOs
+- basename: Oman_c14c36
+  title: Oman UFOs
+  permalink: /what-really-counts-as-an-oman-ufo/
+  short_title: Oman UFOs
+- basename: Ethiopia_3d91f7
+  title: Ethiopia UFOs
+  permalink: /what-really-counts-as-ethiopias-ufo/
+  short_title: Ethiopia UFOs
+- basename: Tonga_e8a123
+  title: Tonga UFOs
+  permalink: /what-really-exists-in-tongas-ufo-record/
+  short_title: Tonga UFOs
+- basename: Armenia_5f4599
+  title: Armenia UFOs
+  permalink: /what-really-explains-armenias-ufo/
+  short_title: Armenia UFOs
+- basename: Bulgaria_5c7772
+  title: Bulgaria UFOs
+  permalink: /what-really-explains-bulgarias-ufo/
+  short_title: Bulgaria UFOs
+- basename: Kyrgyzstan_c78791
+  title: Kyrgyzstan UFOs
+  permalink: /what-really-explains-kyrgyzstans-ufo/
+  short_title: Kyrgyzstan UFOs
+- basename: Marshall_Islands_ccbdc0
+  title: Marshall UFOs
+  permalink: /what-really-explains-marshall-islands/
+  short_title: Marshall UFOs
+- basename: Saudi_Arabia_8bf7f8
+  title: Saudi UFOs
+  permalink: /what-really-explains-saudi-arabias-ufo/
+  short_title: Saudi UFOs
+- basename: Vanuatu_d16ad2
+  title: Vanuatu UAP
+  permalink: /what-really-explains-vanuatus-strange/
+  short_title: Vanuatu UAP
+- basename: Kenya_a84f56
+  title: Kenya UFOs
+  permalink: /what-really-fell-from-kenyas-skies/
+  short_title: Kenya UFOs
+- basename: El_Salvador_9b83b7
+  title: El Salvador UFOs
+  permalink: /what-really-flies-over-el-salvador/
+  short_title: El Salvador UFOs
+- basename: Belgium_5cb4c9
+  title: Belgium
+  permalink: /what-really-happened-during-belgiums/
+  short_title: Belgium
+- basename: Australia_ceafb5
+  title: Australia UFOs
+  permalink: /what-really-happened-in-australias-ufo/
+  short_title: Australia UFOs
+- basename: Barbados_93409a
+  title: Barbados UFOs
+  permalink: /what-really-happened-in-barbados-skies/
+  short_title: Barbados UFOs
+- basename: Cambodia_314ccd
+  title: Cambodia UFOs
+  permalink: /what-really-happened-in-cambodias-ufo/
+  short_title: Cambodia UFOs
+- basename: Costa_Rica_fe586b
+  title: Costa Rica UFOs
+  permalink: /what-really-happened-in-costa-ricas-ufo/
+  short_title: Costa Rica UFOs
+- basename: Haiti_a4842f
+  title: Haiti UFOs
+  permalink: /what-really-happened-in-haitis-ufo/
+  short_title: Haiti UFOs
+- basename: Kuwait_93295b
+  title: Kuwait UAP
+  permalink: /what-really-happened-in-kuwaits-ufo/
+  short_title: Kuwait UAP
+- basename: Mauritius_26160d
+  title: Mauritius UFOs
+  permalink: /what-really-happened-in-mauritius-sky/
+  short_title: Mauritius UFOs
+- basename: Mexico_41937b
+  title: Mexico UFOs
+  permalink: /what-really-happened-in-mexicos-ufo/
+  short_title: Mexico UFOs
+- basename: Nepal_0e1d58
+  title: Nepal UFOs
+  permalink: /what-really-happened-in-nepals-ufo/
+  short_title: Nepal UFOs
+- basename: Nicaragua_481264
+  title: Nicaragua UFOs
+  permalink: /what-really-happened-in-nicaraguas-ufo/
+  short_title: Nicaragua UFOs
+- basename: Paraguay_71a452
+  title: Paraguay UFOs
+  permalink: /what-really-happened-in-paraguays-ufo/
+  short_title: Paraguay UFOs
+- basename: Poland_5ff03b
+  title: Poland UFOs
+  permalink: /what-really-happened-in-polands-ufo/
+  short_title: Poland UFOs
+- basename: Solomon_Islands_6f943d
+  title: Solomon UFOs
+  permalink: /what-really-happened-in-solomon/
+  short_title: Solomon UFOs
+- basename: Togo_30949d
+  title: Togo UFOs
+  permalink: /what-really-happened-in-togos-ufo-files/
+  short_title: Togo UFOs
+- basename: Tunisia_edf404
+  title: Tunisia UFOs
+  permalink: /what-really-happened-in-tunisias-ufo/
+  short_title: Tunisia UFOs
+- basename: Uganda_e92904
+  title: Uganda UFOs
+  permalink: /what-really-happened-in-ugandas-ufo/
+  short_title: Uganda UFOs
+- basename: Zimbabwe_5922f5
+  title: Zimbabwe UFOs
+  permalink: /what-really-happened-in-zimbabwes-ufo/
+  short_title: Zimbabwe UFOs
+- basename: Estonia_f0a96d
+  title: Estonia UFOs
+  permalink: /what-really-shapes-estonias-ufo-record/
+  short_title: Estonia UFOs
+- basename: Slovenia_d1aa05
+  title: Slovenia UFOs
+  permalink: /what-really-stands-out-in-slovenias-ufo/
+  short_title: Slovenia UFOs
+- basename: South_Africa_3b27c8
+  title: South Africa UFOs
+  permalink: /what-really-stands-out-in-south/
+  short_title: South Africa UFOs
+- basename: Mozambique_a40a9b
+  title: Mozambique UFOs
+  permalink: /what-really-survives-in-mozambiques-ufo/
+  short_title: Mozambique UFOs
+- basename: Romania_d6b897
+  title: Romania UFOs
+  permalink: /what-romanias-ufo-record-really-shows/
+  short_title: Romania UFOs
+- basename: Singapore_20c0b7
+  title: Singapore UFOs
+  permalink: /what-singapore-ufo-sightings-really-show/
+  short_title: Singapore UFOs
+- basename: Suriname_b17fc6
+  title: Suriname UFOs
+  permalink: /what-surinames-ufo-stories-really-show/
+  short_title: Suriname UFOs
+- basename: Senegal_d8973b
+  title: Senegal UFOs
+  permalink: /what-survives-in-senegals-ufo-record/
+  short_title: Senegal UFOs
+- basename: Cabo_Verde_2a5bf1
+  title: Cabo Verde UFOs
+  permalink: /what-ufo-reports-survive-cabo-verde/
+  short_title: Cabo Verde UFOs
+- basename: Cyprus_852add
+  title: CyprusUFOs
+  permalink: /what-ufo-sightings-have-shaped-cyprus/
+  short_title: CyprusUFOs
+- basename: Eritrea_18740a
+  title: Eritrea UFOs
+  permalink: /what-ufos-have-been-reported-in/
+  short_title: Eritrea UFOs
+- basename: Uruguay_66b989
+  title: Uruguay UFOs
+  permalink: /what-uruguays-ufo-files-really-show/
+  short_title: Uruguay UFOs
+- basename: Denmark_89da12
+  title: Denmark UFOs
+  permalink: /what-we-know-about-ufo-phenomena-in/
+  short_title: Denmark UFOs
+- basename: Guyana_bc88a2
+  title: Guyana UFOs
+  permalink: /what-we-know-about-ufo-sightings-in/
+  short_title: Guyana UFOs
+- basename: Mauritania_85fa35
+  title: Mauritania UAP
+  permalink: /why-are-mauritanias-ufo-records-so/
+  short_title: Mauritania UAP
+- basename: Grenada_dbf2a2
+  title: Grenada UFOs
+  permalink: /why-grenada-became-a-ufo-footnote/
+  short_title: Grenada UFOs
+- basename: San_Marino_8ff2c5
+  title: San Marino UFOs
+  permalink: /why-san-marino-became-a-ufo-meeting/
+  short_title: San Marino UFOs
+child_links:
+- basename: Czechia_045e2f_czech_science_debunk_9f206d
+  title: Czech Science | Czechia
+  permalink: /czech-science/
+  short_title: Czech Science
+  heading_title: What Scientific Methods Help Explain Czech UFO Reports?
+- basename: Czechia_045e2f_milicin_1991_folklor_92a5d4
+  title: Miličín 1991 | Czechia
+  permalink: /miličín-1991/
+  short_title: Miličín 1991
+  heading_title: How Did the 1991 Miličín UFO Sightings Shape Local Folklore?
+- basename: Czechia_045e2f_projekt_zare_analysi_1ad2ea
+  title: Projekt Záře | Czechia
+  permalink: /projekt-záře/
+  short_title: Projekt Záře
+  heading_title: How Have Civilian Groups Documented UFOs in Czechia?
+- basename: Czechia_045e2f_vranov_1987_case_daf4d1
+  title: Vranov 1987 | Czechia
+  permalink: /vranov-1987/
+  short_title: Vranov 1987
+  heading_title: What Happened During the 1987 Vranov nad Dyjí UFO Interception?
+prev_link:
+  basename: Cote_d_Ivoire_f8cb1a
+  title: Ivoire UFOs
+  permalink: /cote-d-ivoire/
+  short_title: Ivoire UFOs
+next_link:
+  basename: Democratic_People_s_808714
+  title: DPRKUFOs
+  permalink: /democratic-people-s-republic-of-korea/
+  short_title: DPRKUFOs
+date: '2026-05-31 04:11:48 '
+header:
+  og_image: /assets/images/Czechia_045e2f-overview-social.jpg
+  preview_image: /assets/images/Czechia_045e2f-overview.webp
+image: /assets/images/Czechia_045e2f-overview-social.jpg
+---
+
+## Why Czechia’s UFO record is thinner than the stories suggest
+
+Unlike countries that have released large centralised military UFO files, Czechia does not appear to have a public, state-run UFO archive equivalent to the former British Ministry of Defence UFO records or the United States Project Blue Book collection. Radio Prague reported in 2009 that there was no Czech ministry tallying UFO sightings, leaving much of the public record to civilian groups, journalists, local witnesses and later retellings. Radio Prague International <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
+
+
+<img src="{{ "/assets/images/Czechia_045e2f-overview.webp" | relative_url }}" alt="Overview image for Czechia" loading="eager" decoding="sync" fetchpriority="high">
+That matters because many Czech cases sit in a difficult middle ground. They are not necessarily invented, but they are also not documented to the standard needed for a firm technical conclusion. A witness may describe a light, a fast object or a silent sphere; an investigator may collect testimony years later; a local article may preserve details; but without original radar logs, flight tapes, photographs, instrument data or chain-of-custody records, the case remains a reported anomaly rather than a solved physical event.
+
+The main civilian continuity has come from [Projekt Záře]({{ 'projekt-záře/' | relative_url }}), later transformed into Tým Záře. Its own 2025 English-language notice says the new team continues systematic collection and analysis of UFO sighting data within the Czech Republic, following the earlier project’s work. A podcast description with Martin Chlebovský, one of the group’s leading figures, places Czech UFO research in a post-1989 context, when researchers could organise and publish more openly than under the communist regime. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.projektzare.cz/ceska-sibir-1991-stale-jeden-z-nejzahadnejsich-pripadu-ceske-ufologie/aktualne/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: projektzare.cz">[Projektzare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">projektzare.cz</span><span class="citation-popover-snippet">Open source on projektzare.cz.</span></span></span>
+
+## The Vranov nad Dyjí case is the centrepiece, but not a clean proof
+
+The Vranov nad Dyjí incident took place on 12 July 1987 over southern Moravia, near the Vranov reservoir and the Austrian border. The common account says a Czechoslovak Mi-24 helicopter crew was scrambled after an unknown target was tracked approaching or crossing the border. An English translation of a passage from Jaroslav Špaček’s history of the 51st helicopter regiment describes ground-controlled radar vectors, intermittent visual contact, a dark cigar-shaped object, an order to fire, and an inability to engage because of the object’s manoeuvres and the populated area below. <span class="citation-chip-wrap"><a class="citation-chip" href="https://praguepig.com/2018/08/vranov-nad-dyji-ufo-case/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: praguepig.com">[PraguePig.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">praguepig.com</span><span class="citation-popover-title">Prague Pig.com The Vranov nad Dyjí UFO Case</span><span class="citation-popover-snippet">The Vranov nad Dyjí UFO Case - PraguePig.com...</span></span></span>
+
+The case is stronger than a normal “light in the sky” report because it combines several elements: a military setting, radar direction, trained aircrew, a specific date, a known location, and a later printed regimental account. The translated account says the crew initially suspected the radar might be tracking a cloud, but then one crew member saw a wingless, cigar-shaped object pass overhead; it also says the object later disappeared from radar after moving over Brno, Jaslovské Bohunice and towards Bratislava. <span class="citation-chip-wrap"><a class="citation-chip" href="https://praguepig.com/2018/08/vranov-nad-dyji-ufo-case/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: praguepig.com">[PraguePig.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">praguepig.com</span><span class="citation-popover-title">Prague Pig.com The Vranov nad Dyjí UFO Case</span><span class="citation-popover-snippet">The Vranov nad Dyjí UFO Case - PraguePig.com...</span></span></span>
+
+The weaknesses are just as important. The public case relies heavily on later retellings and a translated extract, not on a complete released file containing original radar data, audio tapes, aircraft logs and independent technical analysis. The same account says the crew were ordered after landing to destroy radio and flight-parameter records, which, if accurate, helps explain why the incident is famous but also why it cannot be audited properly today. <span class="citation-chip-wrap"><a class="citation-chip" href="https://praguepig.com/2018/08/vranov-nad-dyji-ufo-case/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: praguepig.com">[PraguePig.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">praguepig.com</span><span class="citation-popover-title">Prague Pig.com The Vranov nad Dyjí UFO Case</span><span class="citation-popover-snippet">The Vranov nad Dyjí UFO Case - PraguePig.com...</span></span></span>
+
+The fairest classification is therefore **contested but significant**. It is significant because a military interception story is more evidentially interesting than a casual sighting. It is contested because the surviving public evidence does not let a reader distinguish confidently between an unusual aircraft, radar/visual confusion, a classified or misidentified object, atmospheric effects, or a genuinely unexplained aerial event.
+
+
+<img src="{{ "/assets/images/Czechia_045e2f-Illustration-1-light.svg" | relative_url }}" alt="Czechia illustration 1" data-theme-src-dark="{{ "/assets/images/Czechia_045e2f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Czechia_045e2f-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Miličín shows how sightings become local folklore
+
+The Miličín cluster in 1991 is the other case that often appears in Czech UFO summaries. Reports describe a glowing or orange spherical object seen around Miličín and nearby settlements, with some accounts claiming many witnesses and strange associated details. Projekt Záře continued to seek witnesses years later, and its articles describe the case as one of the most puzzling in Czech ufology rather than a closed, solved incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.projektzare.cz/projekt-zare-has-been-transformed-into-tym-zare/english-release/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: projektzare.cz">[Projektzare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">projektzare.cz</span><span class="citation-popover-title">english release</span><span class="citation-popover-snippet">english release</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.projektzare.cz/hledaji-se-svedkove-ukazu-v-okoli-milicina-v-roce-1991/aktualne/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: projektzare.cz">[Projektzare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">projektzare.cz</span><span class="citation-popover-snippet">Open source on projektzare.cz.</span></span></span>
+
+Its power lies less in instrumentation and more in social persistence. A Czech cultural article describes Miličín as sometimes nicknamed the “Czech Roswell”, noting that alien imagery became part of local identity and that the story reappeared in later local memory, including claims of another orange ball in 2015. That makes the case important for understanding Czech UFO culture even if the evidence remains much weaker than Vranov’s military-interception narrative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.czechology.com/ufo-in-czech-republic/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: czechology.com">[Czechology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">czechology.com</span><span class="citation-popover-title">UFO in Czech Republic</span><span class="citation-popover-snippet">UFO in Czech Republic</span></span></span>
+
+Miličín should be treated as **unresolved folklore with witness-testimony value**, not as a confirmed event. The phrase “Czech Roswell” is useful as a cultural signal, but it can also mislead: Roswell implies crash mythology, military secrecy and physical-recovery claims, while Miličín is mainly a cluster of reported sightings and local memory. The reader should separate the social fact — people in and around the town remember and retell it — from the physical claim, which remains unproven.
+
+## Other Czech cases form a pattern, not a settled chronology
+
+Several reported Czech cases fill out the national chronology. Summaries commonly mention a 1976 triangular or boomerang-like sighting at Radkov, later similar reports in western Bohemia, the 1992 Tři Sekery radar-related case near the German border, and a 1993 wave of unusual reports around 21–22 August. Projekt Záře’s own case-list pages and “most interesting cases” pages present Vranov, Miličín and the 1993 events as notable entries in the Czech archive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.projektzare.cz/pripad-ceska-sibir-nova-fakta/aktualne/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: projektzare.cz">[Projektzare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">projektzare.cz</span><span class="citation-popover-snippet">Open source on projektzare.cz.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_UFO_sightings_in_the_Czech_Republic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of UFO sightings in the Czech Republic</span><span class="citation-popover-snippet">List of UFO sightings in the Czech Republic</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.projektzare.cz/seznamy-pozorovani-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: projektzare.cz">[Projektzare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">projektzare.cz</span><span class="citation-popover-title">seznamy pozorovani ufo</span><span class="citation-popover-snippet">seznamy pozorovani ufo</span></span></span>
+
+The geography is suggestive but not decisive. Border regions such as southern Moravia and western Bohemia feature prominently in some older accounts, which makes sense in a Cold War and early post-Cold War aviation environment: air-defence systems, military bases, controlled borders, cross-border radar tracks and unusual aircraft activity could all produce reports that later enter UFO catalogues. Prague and central Bohemia, meanwhile, generate more modern reports because population density, cameras and media attention increase the chance that ordinary sky phenomena are noticed and shared.
+
+This does not mean all border cases are misidentified military traffic. It means the burden of proof is higher. A radar target near a border may be more interesting than a party lantern, but it also sits in a busier technical environment: aircraft, radar artefacts, weather returns, training activity and air-defence procedures all become possible explanations unless original records survive.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ku9CYCKw4Aw" title="UFOs and The Military: A Combat Pilot&#x27;s Experience with The Unknown | Alex Dietrich" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ku9CYCKw4Aw" target="_blank" rel="noopener noreferrer">UFOs and The Military: A Combat Pilot&#x27;s Experience with The Unknown | Alex Dietrich</a></p><p class="youtube-embed-meta">Channel: American Veterans Center &middot; Views: 1.0M &middot; Uploaded: March 2025 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ku9CYCKw4Aw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ku9CYCKw4Aw">Open on YouTube</a></p></div></div></div>
+
+## What is confirmed, contested or debunked?
+
+A useful Czechia page should not treat every case as equally mysterious. The evidence divides into three broad groups.
+
+**Confirmed in a narrow sense:** Some reports confirm that witnesses saw something, or that a story was preserved by a named group, article or local tradition. Vranov is confirmed as a published military-regiment story and a major Czech UFO case; Miličín is confirmed as a persistent local and investigative topic. That is not the same as confirming an extraordinary object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://praguepig.com/2018/08/vranov-nad-dyji-ufo-case/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: praguepig.com">[PraguePig.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">praguepig.com</span><span class="citation-popover-title">Prague Pig.com The Vranov nad Dyjí UFO Case</span><span class="citation-popover-snippet">The Vranov nad Dyjí UFO Case - PraguePig.com...</span></span></span>
+
+**Contested or unresolved:** Vranov sits here because of its military context but incomplete public documentation. Miličín also sits here, though for different reasons: multiple testimony claims and strong cultural memory, but little hard technical evidence. The 1992 and 1993 cases are best handled cautiously unless a specific report includes original radar, photographic or official records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cs.wikipedia.org/wiki/UFO_nad_Vranovem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO nad Vranovem</span><span class="citation-popover-snippet">UFO nad Vranovem</span></span></span>
+
+**Debunked or likely mundane:** Many modern sightings are better explained by known sky phenomena. Projekt Záře has published an identification article on flying lanterns, noting how often they generate UFO reports, and modern Czech observers also encounter satellite trains, aircraft lights and bright meteors. The Czech-led European Fireball Network, coordinated from Ondřejov, records bolides with high precision and shows how dramatic luminous events can be natural, measurable and sometimes spectacular enough to be mistaken for something stranger. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.projektzare.cz/nej-pripady-ufo/co-se-delo-21-a-22-srpna-1993/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: projektzare.cz">[Projektzare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">projektzare.cz</span><span class="citation-popover-title">co se delo 21 a 22 srpna 1993</span><span class="citation-popover-snippet">co se delo 21 a 22 srpna 1993</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Prague/comments/1ggjccq/what_did_just_fly_above_the_old_town_of_prague/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Open source on reddit.com.</span></span></span>
+
+
+<img src="{{ "/assets/images/Czechia_045e2f-Illustration-2-light.svg" | relative_url }}" alt="Czechia illustration 2" data-theme-src-dark="{{ "/assets/images/Czechia_045e2f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Czechia_045e2f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Czech science gives unusually good tools for ruling out meteors
+
+One reason Czech UFO claims deserve careful checking is that Czechia has unusually strong meteor-observation infrastructure. The Astronomical Institute of the Czech Academy of Sciences describes the European Fireball Network as a large observing system centred in Czechia, coordinated and processed from Ondřejov, with stations across central and western Europe. Its purpose is to record bright meteors, reconstruct trajectories, estimate origins and, in rare cases, help recover meteorites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://meteor.asu.cas.cz/en/en/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: meteor.asu.cas.cz">[meteor.asu.cas.cz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">meteor.asu.cas.cz</span><span class="citation-popover-title">European fireball network | Meteor physics group Ondřejov</span><span class="citation-popover-snippet">European fireball network | Meteor physics group Ondřejov</span></span></span>
+
+This is not a UFO project, but it is directly relevant to UFO evaluation. Bright bolides can look silent, fast, colourful, fragmenting or even “intelligent” to startled observers, especially when seen through cloud gaps or from moving vehicles. Czech fireball records can sometimes turn a frightening or mysterious report into a documented meteor trajectory. The network’s current central section includes many Czech stations and recorded more than 13,000 multi-station bolide events from 2015 to 2024, giving investigators a strong baseline for checking whether a reported light was astronomical. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://meteor.asu.cas.cz/Stubenberg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: meteor.asu.cas.cz">[meteor.asu.cas.cz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">meteor.asu.cas.cz</span><span class="citation-popover-snippet">Open source on cas.cz.</span></span></span>
+
+The 1959 Příbram meteorite fall is a useful reminder of the difference between mystery and evidence. Czech astronomers photographed the fall from two stations, reconstructed the path, and recovered meteorites, making it a world-first case of an extraterrestrial rock with a known Solar System orbit. That is extraordinary — but it is extraordinary because the data were good, not because the event remained unexplained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://meteor.asu.cas.cz/en/en/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: meteor.asu.cas.cz">[meteor.asu.cas.cz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">meteor.asu.cas.cz</span><span class="citation-popover-title">European fireball network | Meteor physics group Ondřejov</span><span class="citation-popover-snippet">European fireball network | Meteor physics group Ondřejov</span></span></span>
+
+## The sceptical tradition is part of the Czech UFO story
+
+Czechia also has an organised sceptical culture. The Czech Skeptics Club Sisyfos says it was founded in the mid-1990s and includes scientific analysis of paranormal and pseudoscientific claims among its activities; its English “About us” page explicitly lists ufology and visits of extraterrestrials among the themes it criticises. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sisyfos.cz/en/article/1151-about-us" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sisyfos.cz">[Homepage]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sisyfos.cz</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> - Český klub skeptiků - Sisyfos
+
+Astronomer Jiří Grygar is a key figure in this landscape. Radio Prague described him as the best-known astronomer in the Czech Republic and a founding member of Sisyfos, and its 2009 article framed Czech UFO discussion as a struggle between UFO enthusiasts and sceptics. That sceptical presence is important because it prevents the Czech archive from becoming only a collection of unchallenged anecdotes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://english.radio.cz/ufos-over-czech-skies-do-battle-sceptics-8581791" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.radio.cz">[Radio Prague International]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.radio.cz</span><span class="citation-popover-title">ufos over czech skies do battle sceptics 8581791</span><span class="citation-popover-snippet">ufos over czech skies do battle sceptics 8581791</span></span></span>
+
+The sceptical argument is not that witnesses are lying. It is that human perception is fragile, night-sky events are unfamiliar to many people, and the most dramatic explanation is rarely the first one to test. In Czechia, a responsible case review should check aircraft routes, military activity, astronomical events, meteor data, lanterns, drones, satellites, weather balloons and local publicity before treating a sighting as genuinely unexplained.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DC4eL29VrAc" title="XOVER - UFOs in Czecho w/Sam Beckwith" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DC4eL29VrAc" target="_blank" rel="noopener noreferrer">XOVER - UFOs in Czecho w/Sam Beckwith</a></p><p class="youtube-embed-meta">Channel: Prague Times &middot; Views: 40 &middot; Uploaded: April 2021 &middot; Length: 44 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DC4eL29VrAc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DC4eL29VrAc">Open on YouTube</a></p></div></div></div>
+
+## How to read Czech UFO sources without being misled
+
+Czech UFO material rewards source discipline. A strong case has a precise date, location, witness names or roles, original reports, independent corroboration, instrument data, and a clear separation between what was observed and what was later inferred. A weak case depends on anonymous retellings, escalating details, missing dates, vague locations, or later claims that cannot be traced back to contemporary records.
+
+For Czechia specifically, the best reading strategy is to separate four layers:
+
+1. **Primary or near-primary records:** military memoir extracts, official logs if available, observatory data, local contemporary reports.
+2. **Civilian investigation files:** Projekt Záře or Tým Záře case pages, witness calls, catalogues and updates.
+3. **Journalistic retellings:** useful for accessibility, but often simplified.
+4. **Folklore and internet repetition:** valuable for cultural history, weak for physical proof.
+
+The Vranov case is valuable because it reaches into the first two layers, even if the original technical records are missing from public view. Miličín is valuable because it shows how the second, third and fourth layers can shape a town’s identity. Many minor internet-only cases never get beyond the fourth layer.
+
+
+<img src="{{ "/assets/images/Czechia_045e2f-Illustration-3-light.svg" | relative_url }}" alt="Czechia illustration 3" data-theme-src-dark="{{ "/assets/images/Czechia_045e2f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Czechia_045e2f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Where Czechia fits beside neighbouring UFO branches
+
+Czechia’s UFO profile differs from some neighbouring European branches because it is less dominated by a single official release programme and more by civilian cataloguing, Cold War air-defence memory and local folklore. Comparisons with Slovakia are natural for pre-1993 Czechoslovak cases, especially when reports involve radar tracks moving towards Bratislava or military structures that belonged to the shared state. Comparisons with Austria and Germany also matter for border cases, because some reported tracks approach from or move towards those airspaces. <span class="citation-chip-wrap"><a class="citation-chip" href="https://praguepig.com/2018/08/vranov-nad-dyji-ufo-case/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: praguepig.com">[PraguePig.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">praguepig.com</span><span class="citation-popover-title">Prague Pig.com The Vranov nad Dyjí UFO Case</span><span class="citation-popover-snippet">The Vranov nad Dyjí UFO Case - PraguePig.com...</span></span></span>
+
+Those comparisons should support, not dilute, the Czechia page. The Czech core remains clear: Vranov as the flagship military anomaly, Miličín as the folklore-heavy cluster, Projekt Záře/Tým Záře as the main civilian archive tradition, Sisyfos as the sceptical counterweight, and Ondřejov-linked meteor science as a major tool for explaining many luminous sky events.
+
+## Bottom line
+
+Czechia has no publicly established UFO case that proves alien visitation, but it does have a serious and distinctive UFO record. The best cases are interesting because of who reported them, where they occurred and how they survived in Czech memory, not because they remove the need for ordinary explanations. Vranov deserves attention as a contested military-interception case; Miličín deserves attention as a long-lived local sighting cluster; and many modern reports deserve quick checks against lanterns, satellites, aircraft and meteors before being treated as anomalies.
+
+The most credible position is neither blanket belief nor blanket dismissal. Czechia’s UFO archive is a layered record of perception, Cold War airspace, civilian investigation, scientific scepticism and local storytelling — with a small number of cases still difficult to explain cleanly, and a much larger number that probably become ordinary once the sky is checked carefully.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WjqdlfORBhg" title="Největší záhady UFO: Když naše armáda střílela na ufony" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WjqdlfORBhg" target="_blank" rel="noopener noreferrer">Největší záhady UFO: Když naše armáda střílela na ufony</a></p><p class="youtube-embed-meta">Channel: Badatelé &middot; Views: 423.7K &middot; Uploaded: May 2018 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WjqdlfORBhg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WjqdlfORBhg">Open on YouTube</a></p></div></div></div>
+
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to What Makes Czech UFO Sightings So Intriguing?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+        </h4>
+        <p class="fr-book-author">By J. Allen Hynek</p>
+        
+        <p class="fr-book-desc">Provides historical investigative context applicable to Czech cases.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+        </h4>
+        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        
+        <p class="fr-book-desc">Useful for evaluating the strengths and weaknesses of reported sightings.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+        </h4>
+        <p class="fr-book-author">By Leslie Kean</p>
+        
+        <p class="fr-book-desc">Fits a national overview of military-linked and witness-based UFO cases.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+        </h4>
+        <p class="fr-book-author">By Jacques Vallee</p>
+        
+        <p class="fr-book-desc">Connects UFO reports to folklore traditions relevant to Central European cases.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: praguepig.com  
+   Title: Prague Pig.com The Vranov nad Dyjí UFO Case  
+   Link: [https://praguepig.com/2018/08/vranov-nad-dyji-ufo-case/](https://praguepig.com/2018/08/vranov-nad-dyji-ufo-case/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Vranov nad Dyjí UFO Case - PraguePig.com...</p></details>
+
+2. <a id="endnote-2"></a>
+   Source: projektzare.cz  
+   Link: [https://www.projektzare.cz/ceska-sibir-1991-stale-jeden-z-nejzahadnejsich-pripadu-ceske-ufologie/aktualne/](https://www.projektzare.cz/ceska-sibir-1991-stale-jeden-z-nejzahadnejsich-pripadu-ceske-ufologie/aktualne/)  
+
+3. <a id="endnote-3"></a>
+   Source: english.radio.cz  
+   Title: ufos over czech skies do battle sceptics 8581791  
+   Link: [https://english.radio.cz/ufos-over-czech-skies-do-battle-sceptics-8581791](https://english.radio.cz/ufos-over-czech-skies-do-battle-sceptics-8581791)  
+
+4. <a id="endnote-4"></a>
+   Source: archives.gov  
+   Title: National Archives Project BLUE BOOK  
+   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+
+5. <a id="endnote-5"></a>
+   Source: projektzare.cz  
+   Title: english release  
+   Link: [https://www.projektzare.cz/projekt-zare-has-been-transformed-into-tym-zare/english-release/](https://www.projektzare.cz/projekt-zare-has-been-transformed-into-tym-zare/english-release/)  
+
+6. <a id="endnote-6"></a>
+   Source: projektzare.cz  
+   Link: [https://www.projektzare.cz/hledaji-se-svedkove-ukazu-v-okoli-milicina-v-roce-1991/aktualne/](https://www.projektzare.cz/hledaji-se-svedkove-ukazu-v-okoli-milicina-v-roce-1991/aktualne/)  
+
+7. <a id="endnote-7"></a>
+   Source: projektzare.cz  
+   Link: [https://www.projektzare.cz/pripad-ceska-sibir-nova-fakta/aktualne/](https://www.projektzare.cz/pripad-ceska-sibir-nova-fakta/aktualne/)  
+
+8. <a id="endnote-8"></a>
+   Source: czechology.com  
+   Title: UFO in Czech Republic  
+   Link: [https://www.czechology.com/ufo-in-czech-republic/](https://www.czechology.com/ufo-in-czech-republic/)  
+
+9. <a id="endnote-9"></a>
+   Source: Wikipedia  
+   Title: List of UFO sightings in the Czech Republic  
+   Link: [https://en.wikipedia.org/wiki/List_of_UFO_sightings_in_the_Czech_Republic](https://en.wikipedia.org/wiki/List_of_UFO_sightings_in_the_Czech_Republic)  
+
+10. <a id="endnote-10"></a>
+   Source: projektzare.cz  
+   Title: seznamy pozorovani ufo  
+   Link: [https://www.projektzare.cz/seznamy-pozorovani-ufo/](https://www.projektzare.cz/seznamy-pozorovani-ufo/)  
+
+11. <a id="endnote-11"></a>
+   Source: projektzare.cz  
+   Title: co se delo 21 a 22 srpna 1993  
+   Link: [https://www.projektzare.cz/nej-pripady-ufo/co-se-delo-21-a-22-srpna-1993/](https://www.projektzare.cz/nej-pripady-ufo/co-se-delo-21-a-22-srpna-1993/)  
+
+12. <a id="endnote-12"></a>
+   Source: projektzare.cz  
+   Title: nej pripady ufo  
+   Link: [https://www.projektzare.cz/nej-pripady-ufo/](https://www.projektzare.cz/nej-pripady-ufo/)  
+
+13. <a id="endnote-13"></a>
+   Source: projektzare.cz  
+   Link: [https://www.projektzare.cz/identifikace-ufo-letajici-lampiony/aktualne/](https://www.projektzare.cz/identifikace-ufo-letajici-lampiony/aktualne/)  
+
+14. <a id="endnote-14"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/Prague/comments/1ggjccq/what_did_just_fly_above_the_old_town_of_prague/](https://www.reddit.com/r/Prague/comments/1ggjccq/what_did_just_fly_above_the_old_town_of_prague/)  
+
+15. <a id="endnote-15"></a>
+   Source: meteor.asu.cas.cz  
+   Title: European fireball network | Meteor physics group Ondřejov  
+   Link: [https://meteor.asu.cas.cz/en/en/](https://meteor.asu.cas.cz/en/en/)  
+
+16. <a id="endnote-16"></a>
+   Source: sisyfos.cz  
+   Link: [https://www.sisyfos.cz/en/article/1151-about-us](https://www.sisyfos.cz/en/article/1151-about-us)  
+
+17. <a id="endnote-17"></a>
+   Source: english.radio.cz  
+   Title: astronomer jiri grygar a life promoting stargazing and scepticism 8557562  
+   Link: [https://english.radio.cz/astronomer-jiri-grygar-a-life-promoting-stargazing-and-scepticism-8557562](https://english.radio.cz/astronomer-jiri-grygar-a-life-promoting-stargazing-and-scepticism-8557562)  
+
+18. <a id="endnote-18"></a>
+   Source: projektzare.cz  
+   Link: [https://www.projektzare.cz/nej-pripady-ufo/incident-nad-vranovem/](https://www.projektzare.cz/nej-pripady-ufo/incident-nad-vranovem/)  
+
+19. <a id="endnote-19"></a>
+   Source: projektzare.cz  
+   Link: [https://www.projektzare.cz/doutnikove-ufo-uap-serial-1-4/aktualne/](https://www.projektzare.cz/doutnikove-ufo-uap-serial-1-4/aktualne/)  
+
+20. <a id="endnote-20"></a>
+   Source: projektzare.cz  
+   Link: [https://www.projektzare.cz/author/chlebovsky/](https://www.projektzare.cz/author/chlebovsky/)  
+
+21. <a id="endnote-21"></a>
+   Source: projektzare.cz  
+   Link: [https://www.projektzare.cz/pripad-vranov-nad-dyji-nove-poznatky-1/aktualne/](https://www.projektzare.cz/pripad-vranov-nad-dyji-nove-poznatky-1/aktualne/)  
+
+22. <a id="endnote-22"></a>
+   Source: projektzare.cz  
+   Link: [https://www.projektzare.cz/zajimave-pozorovani-ufo-2/aktualne/](https://www.projektzare.cz/zajimave-pozorovani-ufo-2/aktualne/)  
+
+23. <a id="endnote-23"></a>
+   Source: projektzare.cz  
+   Link: [https://www.projektzare.cz/](https://www.projektzare.cz/)  
+
+24. <a id="endnote-24"></a>
+   Source: projektzare.cz  
+   Link: [https://www.projektzare.cz/tajemny-ukaz-nad-stredni-evropou/aktualne/](https://www.projektzare.cz/tajemny-ukaz-nad-stredni-evropou/aktualne/)  
+
+25. <a id="endnote-25"></a>
+   Source: projektzare.cz  
+   Link: [https://www.projektzare.cz/vyresene-pripady-ufo/tajemny-objekt-nad-lipnem/](https://www.projektzare.cz/vyresene-pripady-ufo/tajemny-objekt-nad-lipnem/)  
+
+26. <a id="endnote-26"></a>
+   Source: projektzare.cz  
+   Link: [https://www.projektzare.cz/vyzkum-zvikovskeho-podzemi-2/aktualne/](https://www.projektzare.cz/vyzkum-zvikovskeho-podzemi-2/aktualne/)  
+
+27. <a id="endnote-27"></a>
+   Source: projektzare.cz  
+   Link: [https://www.projektzare.cz/ufo-nad-zeleznou-oponou-4/pripady/](https://www.projektzare.cz/ufo-nad-zeleznou-oponou-4/pripady/)  
+
+28. <a id="endnote-28"></a>
+   Source: projektzare.cz  
+   Link: [https://www.projektzare.cz/dalsi-zahady-zkoumane-projektem-zare/ostatni-zahady/hrad-zvikov/tajemne-znaky-na-hlizove-vezi/](https://www.projektzare.cz/dalsi-zahady-zkoumane-projektem-zare/ostatni-zahady/hrad-zvikov/tajemne-znaky-na-hlizove-vezi/)  
+
+29. <a id="endnote-29"></a>
+   Source: projektzare.cz  
+   Link: [https://www.projektzare.cz/aktuality-rijen-2019/aktualne/](https://www.projektzare.cz/aktuality-rijen-2019/aktualne/)  
+
+30. <a id="endnote-30"></a>
+   Source: projektzare.cz  
+   Link: [https://www.projektzare.cz/hrad-zvikov-tajemne-znaky-na-hlizove-vezi-porovnani-znaku/aktualne/](https://www.projektzare.cz/hrad-zvikov-tajemne-znaky-na-hlizove-vezi-porovnani-znaku/aktualne/)  
+
+31. <a id="endnote-31"></a>
+   Source: projektzare.cz  
+   Link: [https://www.projektzare.cz/category/pripady/](https://www.projektzare.cz/category/pripady/)  
+
+32. <a id="endnote-32"></a>
+   Source: projektzare.cz  
+   Link: [https://www.projektzare.cz/aktuality-srpen-2019/aktualne/](https://www.projektzare.cz/aktuality-srpen-2019/aktualne/)  
+
+33. <a id="endnote-33"></a>
+   Source: war.gov  
+   Link: [https://www.war.gov/ufo/](https://www.war.gov/ufo/)  
+
+34. <a id="endnote-34"></a>
+   Source: meteor.asu.cas.cz  
+   Link: [https://meteor.asu.cas.cz/Stubenberg/](https://meteor.asu.cas.cz/Stubenberg/)  
+
+35. <a id="endnote-35"></a>
+   Source: reddit.com  
+   Title: the cigar shaped ufo sightings in 1987 and 1992  
+   Link: [https://www.reddit.com/r/UFOs/comments/e0z1rf/the_cigar_shaped_ufo_sightings_in_1987_and_1992/](https://www.reddit.com/r/UFOs/comments/e0z1rf/the_cigar_shaped_ufo_sightings_in_1987_and_1992/)  
+
+36. <a id="endnote-36"></a>
+   Source: reddit.com  
+   Title: tic tac ufo incident also witnessed by army  
+   Link: [https://www.reddit.com/r/ufo/comments/la0y9z/tic_tac_ufo_incident_also_witnessed_by_army/](https://www.reddit.com/r/ufo/comments/la0y9z/tic_tac_ufo_incident_also_witnessed_by_army/)  
+
+37. <a id="endnote-37"></a>
+   Source: reddit.com  
+   Title: 1987 vranov czech republic vranov incident  
+   Link: [https://www.reddit.com/r/UFOs/comments/1kvvix5/1987_vranov_czech_republic_vranov_incident/](https://www.reddit.com/r/UFOs/comments/1kvvix5/1987_vranov_czech_republic_vranov_incident/)  
+
+38. <a id="endnote-38"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/aliens/comments/1sc5kjc/one_of_the_best_ufo_sightings_in_which_the/](https://www.reddit.com/r/aliens/comments/1sc5kjc/one_of_the_best_ufo_sightings_in_which_the/)  
+
+39. <a id="endnote-39"></a>
+   Source: reddit.com  
+   Title: army helicopter chases ufo in 1987 czechoslovakia  
+   Link: [https://www.reddit.com/r/UFOs/comments/rxogtb/army_helicopter_chases_ufo_in_1987_czechoslovakia/](https://www.reddit.com/r/UFOs/comments/rxogtb/army_helicopter_chases_ufo_in_1987_czechoslovakia/)  
+
+40. <a id="endnote-40"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/UFOs/comments/fkxem9/the_czechoslovakian_border_guard_and_ufos_in_the/](https://www.reddit.com/r/UFOs/comments/fkxem9/the_czechoslovakian_border_guard_and_ufos_in_the/)  
+
+41. <a id="endnote-41"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/UFOs/comments/1t96569/i_turned_declassified_ufouap_records_into_a/](https://www.reddit.com/r/UFOs/comments/1t96569/i_turned_declassified_ufouap_records_into_a/)  
+
+42. <a id="endnote-42"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/UFOs/comments/1sgey0p/what_was_spotted_in_the_skies_over_europe/](https://www.reddit.com/r/UFOs/comments/1sgey0p/what_was_spotted_in_the_skies_over_europe/)  
+
+43. <a id="endnote-43"></a>
+   Source: sisyfos.cz  
+   Title: 10th European Skeptics Congress  
+   Link: [https://www.sisyfos.cz/clanek/147-10th-european-skeptics-congress-miscellanea](https://www.sisyfos.cz/clanek/147-10th-european-skeptics-congress-miscellanea)  
+
+44. <a id="endnote-44"></a>
+   Source: sisyfos.cz  
+   Link: [https://www.sisyfos.cz/clanek/199-some-activities-of-our-skeptical-club-sisyfos](https://www.sisyfos.cz/clanek/199-some-activities-of-our-skeptical-club-sisyfos)  
+
+45. <a id="endnote-45"></a>
+   Source: sisyfos.cz  
+   Title: Czech Skeptical Club SISYFOS  
+   Link: [https://www.sisyfos.cz/clanek/156-czech-skeptical-club-sisyfos-about-us](https://www.sisyfos.cz/clanek/156-czech-skeptical-club-sisyfos-about-us)  
+
+46. <a id="endnote-46"></a>
+   Source: sisyfos.cz  
+   Link: [https://www.sisyfos.cz/clanek/263-jiri-grygar-sisyfos-assaulting-pseudoscience-a-czech-way](https://www.sisyfos.cz/clanek/263-jiri-grygar-sisyfos-assaulting-pseudoscience-a-czech-way)  
+
+47. <a id="endnote-47"></a>
+   Source: Wikipedia  
+   Title: UFO nad Vranovem  
+   Link: [https://cs.wikipedia.org/wiki/UFO_nad_Vranovem](https://cs.wikipedia.org/wiki/UFO_nad_Vranovem)  
+
+48. <a id="endnote-48"></a>
+   Source: Wikipedia  
+   Link: [https://en.wikipedia.org/wiki/%C4%8Cesk%C3%BD_klub_skeptik%C5%AF_Sisyfos](https://en.wikipedia.org/wiki/%C4%8Cesk%C3%BD_klub_skeptik%C5%AF_Sisyfos)  
+
+49. <a id="endnote-49"></a>
+   Source: Wikipedia  
+   Title: List of reported UFO sightings  
+   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+
+50. <a id="endnote-50"></a>
+   Source: Wikipedia  
+   Title: European Fireball Network  
+   Link: [https://en.wikipedia.org/wiki/European_Fireball_Network](https://en.wikipedia.org/wiki/European_Fireball_Network)  
+
+51. <a id="endnote-51"></a>
+   Source: english.radio.cz  
+   Title: ufos over czech skies do battle sceptics 8555496  
+   Link: [https://english.radio.cz/ufos-over-czech-skies-do-battle-sceptics-8555496](https://english.radio.cz/ufos-over-czech-skies-do-battle-sceptics-8555496)  
+
+52. <a id="endnote-52"></a>
+   Source: english.radio.cz  
+   Link: [https://english.radio.cz/astronomical-institute-asks-public-help-locating-piece-crashed-meteor-8274698](https://english.radio.cz/astronomical-institute-asks-public-help-locating-piece-crashed-meteor-8274698)  
+
+53. <a id="endnote-53"></a>
+   Source: archives.gov  
+   Link: [https://www.archives.gov/research/topics/uaps](https://www.archives.gov/research/topics/uaps)  
+
+54. <a id="endnote-54"></a>
+   Source: nationalarchives.gov.uk  
+   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+
+55. <a id="endnote-55"></a>
+   Source: euroufo.net  
+   Title: czech republic  
+   Link: [https://www.euroufo.net/tag/czech-republic/](https://www.euroufo.net/tag/czech-republic/)  
+
+### Additional References
+
+56. <a id="endnote-56"></a>
+   Source: youtube.com  
+   Title: UFO classified cases: Fire balls and figures over Miličín  
+   Link: [https://www.youtube.com/watch?v=rVHKWpZnoGY](https://www.youtube.com/watch?v=rVHKWpZnoGY)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>New testimony: UFO abductions in Millicin, three-meter characters and attacks...</p></details>
+
+57. <a id="endnote-57"></a>
+   Source: youtube.com  
+   Title: Mysterious UFO cases: Czechoslovak army incident  
+   Link: [https://www.youtube.com/watch?v=WjqdlfORBhg](https://www.youtube.com/watch?v=WjqdlfORBhg)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO classified cases: Fire balls and figures over Miličín...</p></details>
+
+58. <a id="endnote-58"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/sciencekonek/posts/scinews-%F0%9D%97%A6%F0%9D%97%A8%F0%9D%97%A5%F0%9D%97%9A%F0%9D%97%98-%F0%9D%97%A2%F0%9D%97%99-%F0%9D%97%9F%F0%9D%97%94%F0%9D%97%A5%F0%9D%97%9A%F0%9D%97%98-%F0%9D%97%99%F0%9D%97%9C%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%95%F0%9D%97%94%F0%9D%97%9F%F0%9D%97%9F%F0%9D%97%A6-%F0%9D%97%A7%F0%9D%97%9B%F0%9D%97%9C%F0%9D%97%A6-%F0%9D%9F%AE%F0%9D%9F%AC%F0%9D%9F%AE%F0%9D%9F%B2-%F0%9D%97%A1%F0%9D%97%98%F0%9D%97%98%F0%9D%97%97%F0%9D%97%A6-%F0%9D%97%9C%F0%9D%97%A1%F0%9D%97%A9%F0%9D%97%98%F0%9D%97%A6%F0%9D%97%A7%F0%9D%97%9C%F0%9D%97%9A%F0%9D%97%94%F0%9D%97%A7%F0%9D%97%9C%F0%9D%97%A2%F0%9D%97%A1its-not-just-the-h/980294271191396/](https://www.facebook.com/sciencekonek/posts/scinews-%F0%9D%97%A6%F0%9D%97%A8%F0%9D%97%A5%F0%9D%97%9A%F0%9D%97%98-%F0%9D%97%A2%F0%9D%97%99-%F0%9D%97%9F%F0%9D%97%94%F0%9D%97%A5%F0%9D%97%9A%F0%9D%97%98-%F0%9D%97%99%F0%9D%97%9C%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%95%F0%9D%97%94%F0%9D%97%9F%F0%9D%97%9F%F0%9D%97%A6-%F0%9D%97%A7%F0%9D%97%9B%F0%9D%97%9C%F0%9D%97%A6-%F0%9D%9F%AE%F0%9D%9F%AC%F0%9D%9F%AE%F0%9D%9F%B2-%F0%9D%97%A1%F0%9D%97%98%F0%9D%97%98%F0%9D%97%97%F0%9D%97%A6-%F0%9D%97%9C%F0%9D%97%A1%F0%9D%97%A9%F0%9D%97%98%F0%9D%97%A6%F0%9D%97%A7%F0%9D%97%9C%F0%9D%97%9A%F0%9D%97%94%F0%9D%97%A7%F0%9D%97%9C%F0%9D%97%A2%F0%9D%97%A1its-not-just-the-h/980294271191396/)  
+
+59. <a id="endnote-59"></a>
+   Source: zencastr.com  
+   Link: [https://zencastr.com/z/KB4D_DSv](https://zencastr.com/z/KB4D_DSv)  
+
+60. <a id="endnote-60"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/FoxWeather/posts/fire-ball-%EF%B8%8F-a-meteor-streaked-across-the-sky-over-germany-on-sunday-illuminating/955543710319257/](https://www.facebook.com/FoxWeather/posts/fire-ball-%EF%B8%8F-a-meteor-streaked-across-the-sky-over-germany-on-sunday-illuminating/955543710319257/)  
+
+61. <a id="endnote-61"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/firstpostin/posts/fpreels-a-mysterious-bright-fireball-was-spotted-across-european-skies-on-sunday/1438049785022671/](https://www.facebook.com/firstpostin/posts/fpreels-a-mysterious-bright-fireball-was-spotted-across-european-skies-on-sunday/1438049785022671/)  
+
+62. <a id="endnote-62"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/expatscz/posts/a-new-survey-found-that-the-same-number-of-czechs-believes-in-ufos-and-aliens-as/10159542818464004/](https://www.facebook.com/expatscz/posts/a-new-survey-found-that-the-same-number-of-czechs-believes-in-ufos-and-aliens-as/10159542818464004/)  
+
+63. <a id="endnote-63"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/wtol11/posts/an-apparent-fireball-visible-over-maumee-on-the-morning-of-march-26-2026-credit-/1407273154775871/](https://www.facebook.com/wtol11/posts/an-apparent-fireball-visible-over-maumee-on-the-morning-of-march-26-2026-credit-/1407273154775871/)  
+
+64. <a id="endnote-64"></a>
+   Source: abscr.cz  
+   Link: [https://www.abscr.cz/](https://www.abscr.cz/)  
+
+65. <a id="endnote-65"></a>
+   Source: denarchivu.cz  
+   Link: [https://www.denarchivu.cz/archiv-bezpecnostnich-slozek/](https://www.denarchivu.cz/archiv-bezpecnostnich-slozek/)  

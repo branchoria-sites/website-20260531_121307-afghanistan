@@ -1,0 +1,1521 @@
+---
+level: 1
+basename: Kyrgyzstan_c78791
+child_basenames:
+- Kyrgyzstan_c78791_baikonur_bishkek_sig_5f8f9f
+- Kyrgyzstan_c78791_index
+- Kyrgyzstan_c78791_issyk_kul_ufo_folklo_59970e
+- Kyrgyzstan_c78791_kyrgyzstan_ufo_verif_4a3325
+- Kyrgyzstan_c78791_shaitan_mazar_crash_8ed17a
+sibling_basenames:
+- Afghanistan_c69153
+- Albania_79b9d2
+- Algeria_bd6acc
+- Andorra_9d3bd1
+- Angola_a42522
+- Antigua_and_Barbuda_0f8518
+- Argentina_354bf9
+- Armenia_5f4599
+- Australia_ceafb5
+- Austria_593905
+- Azerbaijan_213598
+- Bahrain_3ae11c
+- Bangladesh_fa6c37
+- Barbados_93409a
+- Belarus_027a12
+- Belgium_5cb4c9
+- Belize_42ab0c
+- Benin_373616
+- Bhutan_bb2254
+- Bolivia_Plurinationa_9e2db7
+- Bosnia_and_Herzegovi_552c9f
+- Botswana_180c89
+- Brazil_37497a
+- Brunei_Darussalam_eab94a
+- Bulgaria_5c7772
+- Burkina_Faso_f61e5f
+- Burundi_461758
+- Cabo_Verde_2a5bf1
+- Cambodia_314ccd
+- Cameroon_73a7dd
+- Canada_cd6a7b
+- Central_African_Repu_358788
+- Chad_6c6b1b
+- Chile_349507
+- China_d2eaf2
+- Colombia_2f7373
+- Comoros_e5bb59
+- Congo_77f256
+- Costa_Rica_fe586b
+- Cote_d_Ivoire_f8cb1a
+- Croatia_d7e045
+- Cuba_c484b1
+- Cyprus_852add
+- Czechia_045e2f
+- Democratic_People_s_808714
+- Democratic_Republic_679868
+- Denmark_89da12
+- Djibouti_60a8b0
+- Dominica_bc1cd4
+- Dominican_Republic_dba665
+- Ecuador_09f199
+- Egypt_1c39ab
+- El_Salvador_9b83b7
+- Equatorial_Guinea_ae2c01
+- Eritrea_18740a
+- Estonia_f0a96d
+- Eswatini_16cc7f
+- Ethiopia_3d91f7
+- Fiji_bbb7ef
+- Finland_c909b1
+- France_e3772a
+- Gabon_a06dcd
+- Gambia_7c3997
+- Georgia_9113c6
+- Germany_17d53e
+- Ghana_317dba
+- Greece_4902a4
+- Grenada_dbf2a2
+- Guatemala_11760e
+- Guinea-Bissau_b07cb9
+- Guinea_b47b54
+- Guyana_bc88a2
+- Haiti_a4842f
+- Honduras_5aa588
+- Hungary_f14e46
+- Iceland_b3c92e
+- India_967ce3
+- Indonesia_35536a
+- Iran_Islamic_Republi_94f9ee
+- Iraq_1aed9e
+- Ireland_eb2131
+- Israel_4c197d
+- Italy_ad79ef
+- Jamaica_5eedd6
+- Japan_fcf29f
+- Jordan_674027
+- Kazakhstan_2f36b6
+- Kenya_a84f56
+- Kiribati_3f57ad
+- Kuwait_93295b
+- Lao_People_s_Democra_44f2bd
+- Latvia_c5f5bb
+- Lebanon_5caa7f
+- Lesotho_93b12b
+- Liberia_1ed5dd
+- Libya_55949d
+- Liechtenstein_b0ddce
+- Lithuania_74a788
+- Luxembourg_507672
+- Madagascar_f92bcb
+- Malawi_0ce65b
+- Malaysia_ff3ea3
+- Maldives_213cb2
+- Mali_daa6a4
+- Malta_1a591a
+- Marshall_Islands_ccbdc0
+- Mauritania_85fa35
+- Mauritius_26160d
+- Mexico_41937b
+- Micronesia_Federated_30e9e8
+- Monaco_35ab1c
+- Mongolia_f54da3
+- Montenegro_479fb3
+- Morocco_32e087
+- Mozambique_a40a9b
+- Myanmar_928b7c
+- Namibia_bfe79d
+- Nauru_f648c7
+- Nepal_0e1d58
+- Netherlands_Kingdom_d6d70a
+- New_Zealand_3d3336
+- Nicaragua_481264
+- Niger_6687e1
+- Nigeria_9742d0
+- North_Macedonia_cece1d
+- Norway_988455
+- Oman_c14c36
+- Pakistan_82d220
+- Palau_e5e0b6
+- Panama_1e36b3
+- Papua_New_Guinea_90e80c
+- Paraguay_71a452
+- Peru_36c572
+- Philippines_806736
+- Poland_5ff03b
+- Portugal_a49519
+- Qatar_83ef3e
+- Republic_of_Korea_8d9deb
+- Republic_of_Moldova_a6ad94
+- Romania_d6b897
+- Russian_Federation_87c89a
+- Rwanda_7266a1
+- Saint_Kitts_and_Nevi_a66de5
+- Saint_Lucia_85ac35
+- Saint_Vincent_and_th_3bce2a
+- Samoa_f56806
+- San_Marino_8ff2c5
+- Sao_Tome_and_Princip_3437b2
+- Saudi_Arabia_8bf7f8
+- Senegal_d8973b
+- Serbia_6d31bf
+- Seychelles_3d2d7b
+- Sierra_Leone_817b0d
+- Singapore_20c0b7
+- Slovakia_b6c149
+- Slovenia_d1aa05
+- Solomon_Islands_6f943d
+- Somalia_4dfdf1
+- South_Africa_3b27c8
+- South_Sudan_80ac9c
+- Spain_20a8df
+- Sri_Lanka_db33ad
+- Sudan_1193ba
+- Suriname_b17fc6
+- Sweden_72ddd2
+- Switzerland_77dcd8
+- Syrian_Arab_Republic_099887
+- Tajikistan_279c77
+- Thailand_a2b7c1
+- The_Bahamas_f765dc
+- Timor-Leste_2d79f6
+- Togo_30949d
+- Tonga_e8a123
+- Trinidad_and_Tobago_a73120
+- Tunisia_edf404
+- Turkiye_c8c5d5
+- Turkmenistan_1f8dc1
+- Tuvalu_9a2248
+- Uganda_e92904
+- Ukraine_c951ec
+- United_Arab_Emirates_c92b89
+- United_Kingdom_d25561
+- United_Republic_of_T_f850a5
+- United_States_f5f19f
+- Uruguay_66b989
+- Uzbekistan_db800e
+- Vanuatu_d16ad2
+- Venezuela_Bolivarian_3dc4c3
+- Viet_Nam_82ecdd
+- Yemen_ac33d6
+- Zambia_dcf25e
+- Zimbabwe_5922f5
+tags:
+- kyrgyzstan
+keywords:
+- kyrgyzstan
+affiliate_category: kyrgyzstan
+show_ads: true
+description: Kyrgyzstan’s UFO record is interesting less because it proves exotic technology than because it shows how mountain geography, Soviet-era military folklore,...
+hero_summary: Kyrgyzstan’s UFO record is interesting less because it proves exotic technology than because it shows how mountain geography, Soviet-era military folklore, regional media, and modern social video combine to keep aerial mysteries alive.
+layout: default
+permalink: /what-really-explains-kyrgyzstans-ufo/
+nav_short_title: What Really Explains Kyrgyzstan's UFO Stories?
+title: What Really Explains Kyrgyzstan's UFO Stories?
+title_full: What Really Explains Kyrgyzstan's UFO Stories?
+display_title_short: What Really Explains Kyrgyzstan's UFO Stories?
+display_title: What Really Explains Kyrgyzstan's UFO Stories?
+heading_title: What Really Explains Kyrgyzstan's UFO Stories?
+page_heading_title: What Really Explains Kyrgyzstan's UFO Stories?
+source_count: 107
+infographic_count: 3
+page_website_name: Kyrgyzstan UFOs
+page_banner_line: Mountain legends, rocket sightings, and the evidence behind Kyrgyzstan's UFO stories.
+site_website_name: Kyrgyzstan UFOs
+site_banner_line: Mountain legends, rocket sightings, and the evidence behind Kyrgyzstan's UFO stories.
+site_image_description: A night sky over Kyrgyzstan's high mountains with a bright streak above a dark valley and distant village lights.
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+sibling_links:
+- basename: Afghanistan_c69153
+  title: Afghanistan UAP
+  permalink: /afghanistan/
+  short_title: Afghanistan UAP
+- basename: Albania_79b9d2
+  title: AlbanianUFOs
+  permalink: /albania/
+  short_title: AlbanianUFOs
+- basename: Algeria_bd6acc
+  title: Algeria UFOs
+  permalink: /algeria/
+  short_title: Algeria UFOs
+- basename: Antigua_and_Barbuda_0f8518
+  title: Antigua UFOs
+  permalink: /antigua-and-barbuda/
+  short_title: Antigua UFOs
+- basename: Monaco_35ab1c
+  title: Monaco UFOs
+  permalink: /are-monaco-ufo-sightings-really/
+  short_title: Monaco UFOs
+- basename: Mali_daa6a4
+  title: Mali UFOs
+  permalink: /are-there-any-real-mali-ufo-cases/
+  short_title: Mali UFOs
+- basename: Montenegro_479fb3
+  title: MontenegroUFOs
+  permalink: /are-ufos-really-seen-over-montenegro/
+  short_title: MontenegroUFOs
+- basename: Argentina_354bf9
+  title: Argentina OVNI
+  permalink: /argentinas-ufo-stories-records-and/
+  short_title: Argentina OVNI
+- basename: Bangladesh_fa6c37
+  title: Bangladesh UFOs
+  permalink: /bangladesh/
+  short_title: Bangladesh UFOs
+- basename: Bolivia_Plurinationa_9e2db7
+  title: Bolivia UFOs
+  permalink: /bolivia-plurinational-state-of/
+  short_title: Bolivia UFOs
+- basename: Bosnia_and_Herzegovi_552c9f
+  title: BosniaUFOs
+  permalink: /bosnia-and-herzegovina/
+  short_title: BosniaUFOs
+- basename: Brunei_Darussalam_eab94a
+  title: Brunei UAP
+  permalink: /brunei-darussalam/
+  short_title: Brunei UAP
+- basename: Burkina_Faso_f61e5f
+  title: BurkinaUFO
+  permalink: /burkina-faso/
+  short_title: BurkinaUFO
+- basename: Central_African_Repu_358788
+  title: CAR UFOs
+  permalink: /central-african-republic/
+  short_title: CAR UFOs
+- basename: Cote_d_Ivoire_f8cb1a
+  title: Ivoire UFOs
+  permalink: /cote-d-ivoire/
+  short_title: Ivoire UFOs
+- basename: Czechia_045e2f
+  title: CzechUFOs
+  permalink: /czechia/
+  short_title: CzechUFOs
+- basename: Democratic_People_s_808714
+  title: DPRKUFOs
+  permalink: /democratic-people-s-republic-of-korea/
+  short_title: DPRKUFOs
+- basename: Democratic_Republic_679868
+  title: DRC UFOs
+  permalink: /democratic-republic-of-the-congo/
+  short_title: DRC UFOs
+- basename: Djibouti_60a8b0
+  title: DjiboutiUAP
+  permalink: /djibouti/
+  short_title: DjiboutiUAP
+- basename: Dominica_bc1cd4
+  title: Dominica UAP
+  permalink: /does-dominica-have-real-ufo-cases/
+  short_title: Dominica UAP
+- basename: Iceland_b3c92e
+  title: Iceland UFOs
+  permalink: /does-iceland-have-a-real-ufo-record/
+  short_title: Iceland UFOs
+- basename: Dominican_Republic_dba665
+  title: Dominican UAP
+  permalink: /dominican-republic/
+  short_title: Dominican UAP
+- basename: Equatorial_Guinea_ae2c01
+  title: EquatorialGuineaUFOs
+  permalink: /equatorial-guinea/
+  short_title: EquatorialGuineaUFOs
+- basename: Fiji_bbb7ef
+  title: Fiji UFOs
+  permalink: /fiji/
+  short_title: Fiji UFOs
+- basename: Finland_c909b1
+  title: Finland UFOs
+  permalink: /finland/
+  short_title: Finland UFOs
+- basename: Ghana_317dba
+  title: GhanaUFOs
+  permalink: /ghana/
+  short_title: GhanaUFOs
+- basename: Comoros_e5bb59
+  title: ComorosUFOs
+  permalink: /have-ufos-really-been-seen-over-comoros/
+  short_title: ComorosUFOs
+- basename: Chile_349507
+  title: ChileUFOs
+  permalink: /how-chile-investigates-ufos-and-aerial/
+  short_title: ChileUFOs
+- basename: France_e3772a
+  title: FranceUFOs
+  permalink: /how-france-investigates-and-archives-ufo/
+  short_title: FranceUFOs
+- basename: Iran_Islamic_Republi_94f9ee
+  title: Iran UFOs
+  permalink: /iran-islamic-republic-of/
+  short_title: Iran UFOs
+- basename: Iraq_1aed9e
+  title: Iraq UAP
+  permalink: /iraq/
+  short_title: Iraq UAP
+- basename: Lao_People_s_Democra_44f2bd
+  title: Laos UFOs
+  permalink: /lao-people-s-democratic-republic/
+  short_title: Laos UFOs
+- basename: Madagascar_f92bcb
+  title: Madagascar UFOs
+  permalink: /madagascars-ufo-record-famous-case-thin/
+  short_title: Madagascar UFOs
+- basename: Maldives_213cb2
+  title: MaldivesUFOs
+  permalink: /maldives/
+  short_title: MaldivesUFOs
+- basename: Micronesia_Federated_30e9e8
+  title: Micronesia UFOs
+  permalink: /micronesia-federated-states-of/
+  short_title: Micronesia UFOs
+- basename: Morocco_32e087
+  title: Morocco UFOs
+  permalink: /moroccos-ufo-mystery-and-its-best/
+  short_title: Morocco UFOs
+- basename: Netherlands_Kingdom_d6d70a
+  title: Dutch UFOs
+  permalink: /netherlands-kingdom-of-the/
+  short_title: Dutch UFOs
+- basename: Papua_New_Guinea_90e80c
+  title: PNG UFOs
+  permalink: /papua-new-guinea/
+  short_title: PNG UFOs
+- basename: Philippines_806736
+  title: Philippines UFOs
+  permalink: /philippines/
+  short_title: Philippines UFOs
+- basename: Portugal_a49519
+  title: Portugal UFOs
+  permalink: /portugals-ufo-files-mystery-memory-and/
+  short_title: Portugal UFOs
+- basename: Republic_of_Korea_8d9deb
+  title: Korea UFOs
+  permalink: /republic-of-korea/
+  short_title: Korea UFOs
+- basename: Republic_of_Moldova_a6ad94
+  title: Moldova UAP
+  permalink: /republic-of-moldova/
+  short_title: Moldova UAP
+- basename: Russian_Federation_87c89a
+  title: Russian UFOs
+  permalink: /russian-federation/
+  short_title: Russian UFOs
+- basename: Saint_Kitts_and_Nevi_a66de5
+  title: Kitts UFOs
+  permalink: /saint-kitts-and-nevis/
+  short_title: Kitts UFOs
+- basename: Saint_Vincent_and_th_3bce2a
+  title: SVG UFOs
+  permalink: /saint-vincent-and-the-grenadines/
+  short_title: SVG UFOs
+- basename: Sao_Tome_and_Princip_3437b2
+  title: Sao Tome UFOs
+  permalink: /sao-tome-and-principe/
+  short_title: Sao Tome UFOs
+- basename: Spain_20a8df
+  title: Spain UFOs
+  permalink: /spains-ufo-files-mystery-evidence-and/
+  short_title: Spain UFOs
+- basename: Syrian_Arab_Republic_099887
+  title: Syrian UAP
+  permalink: /syrian-arab-republic/
+  short_title: Syrian UAP
+- basename: Thailand_a2b7c1
+  title: Thailand UFOs
+  permalink: /thailand/
+  short_title: Thailand UFOs
+- basename: The_Bahamas_f765dc
+  title: Bahamas UFOs
+  permalink: /the-bahamas/
+  short_title: Bahamas UFOs
+- basename: Trinidad_and_Tobago_a73120
+  title: Trinidad UFOs
+  permalink: /trinidad-and-tobago/
+  short_title: Trinidad UFOs
+- basename: Turkiye_c8c5d5
+  title: Türkiye UFOs
+  permalink: /turkiye/
+  short_title: Türkiye UFOs
+- basename: Luxembourg_507672
+  title: LuxUFO
+  permalink: /uncovering-ufo-activity-across/
+  short_title: LuxUFO
+- basename: Israel_4c197d
+  title: Israel UFOs
+  permalink: /uncovering-ufo-phenomena-across-israel/
+  short_title: Israel UFOs
+- basename: United_Arab_Emirates_c92b89
+  title: UAE UFOs
+  permalink: /united-arab-emirates/
+  short_title: UAE UFOs
+- basename: United_Kingdom_d25561
+  title: UK UFOs
+  permalink: /united-kingdom/
+  short_title: UK UFOs
+- basename: United_Republic_of_T_f850a5
+  title: Tanzania UFOs
+  permalink: /united-republic-of-tanzania/
+  short_title: Tanzania UFOs
+- basename: United_States_f5f19f
+  title: US UFOs
+  permalink: /united-states/
+  short_title: US UFOs
+- basename: Venezuela_Bolivarian_3dc4c3
+  title: Venezuela UFOs
+  permalink: /venezuela-bolivarian-republic-of/
+  short_title: Venezuela UFOs
+- basename: Malawi_0ce65b
+  title: MalawiUFOs
+  permalink: /what-are-malawis-documented-ufos-and-sky/
+  short_title: MalawiUFOs
+- basename: Belarus_027a12
+  title: Belarus UFOs
+  permalink: /what-belarus-ufo-reports-really-show/
+  short_title: Belarus UFOs
+- basename: Brazil_37497a
+  title: BrazilUFOs
+  permalink: /what-brazils-ufo-records-reveal-about/
+  short_title: BrazilUFOs
+- basename: Angola_a42522
+  title: Angola UFOs
+  permalink: /what-can-angolas-ufo-record-really-prove/
+  short_title: Angola UFOs
+- basename: Benin_373616
+  title: Benin UFOs
+  permalink: /what-can-really-be-said-about-benin-ufos/
+  short_title: Benin UFOs
+- basename: Serbia_6d31bf
+  title: Serbia UFOs
+  permalink: /what-can-serbias-ufo-record-really-show/
+  short_title: Serbia UFOs
+- basename: Tuvalu_9a2248
+  title: Tuvalu UFOs
+  permalink: /what-can-tuvalus-ufo-record-really-show/
+  short_title: Tuvalu UFOs
+- basename: Canada_cd6a7b
+  title: Canada UAP
+  permalink: /what-canada-ufo-reports-really-show/
+  short_title: Canada UAP
+- basename: China_d2eaf2
+  title: China UFOs
+  permalink: /what-chinas-ufo-cases-really-show/
+  short_title: China UFOs
+- basename: South_Sudan_80ac9c
+  title: South Sudan UFOs
+  permalink: /what-counts-as-a-south-sudan-ufo-case/
+  short_title: South Sudan UFOs
+- basename: Jordan_674027
+  title: Jordan UFOs
+  permalink: /what-counts-as-a-ufo-in-jordan/
+  short_title: Jordan UFOs
+- basename: Croatia_d7e045
+  title: Croatia UFOs
+  permalink: /what-croatias-ufo-records-reveal-about/
+  short_title: Croatia UFOs
+- basename: Bahrain_3ae11c
+  title: Bahrain UFOs
+  permalink: /what-did-bahrains-ufo-sightings-really/
+  short_title: Bahrain UFOs
+- basename: Viet_Nam_82ecdd
+  title: Viet Nam UFOs
+  permalink: /what-did-viet-nams-ufo-reports-really/
+  short_title: Viet Nam UFOs
+- basename: Austria_593905
+  title: Austria UFOs
+  permalink: /what-do-austrias-ufo-reports-really-show/
+  short_title: Austria UFOs
+- basename: Belize_42ab0c
+  title: Belize UAP
+  permalink: /what-do-belize-ufo-reports-really-show/
+  short_title: Belize UAP
+- basename: Cameroon_73a7dd
+  title: Cameroon UFOs
+  permalink: /what-do-cameroons-ufo-stories-really/
+  short_title: Cameroon UFOs
+- basename: Cuba_c484b1
+  title: Cuba UFOs
+  permalink: /what-do-cubas-ufo-sightings-reveal-about/
+  short_title: Cuba UFOs
+- basename: Gabon_a06dcd
+  title: Gabon UFOs
+  permalink: /what-do-gabons-ufo-stories-really-show/
+  short_title: Gabon UFOs
+- basename: Guinea-Bissau_b07cb9
+  title: Guinea Bissau UFOs
+  permalink: /what-do-guinea-bissaus-ufo-reports/
+  short_title: Guinea Bissau UFOs
+- basename: Honduras_5aa588
+  title: Honduras UFOs
+  permalink: /what-do-honduras-ufo-reports-really-show/
+  short_title: Honduras UFOs
+- basename: Hungary_f14e46
+  title: Hungary UFOs
+  permalink: /what-do-hungarys-ufo-stories-really-show/
+  short_title: Hungary UFOs
+- basename: India_967ce3
+  title: India UAP
+  permalink: /what-do-indias-ufo-reports-really-show/
+  short_title: India UAP
+- basename: Lebanon_5caa7f
+  title: Lebanon UFOs
+  permalink: /what-do-lebanons-ufo-reports-really-show/
+  short_title: Lebanon UFOs
+- basename: Libya_55949d
+  title: Libya UFOs
+  permalink: /what-do-libyas-ufo-reports-really-show/
+  short_title: Libya UFOs
+- basename: Malaysia_ff3ea3
+  title: Malaysia UFOs
+  permalink: /what-do-malaysias-ufo-stories-really/
+  short_title: Malaysia UFOs
+- basename: Mongolia_f54da3
+  title: Mongolia UFOs
+  permalink: /what-do-mongolias-ufo-reports-really/
+  short_title: Mongolia UFOs
+- basename: Nauru_f648c7
+  title: Nauru UFOs
+  permalink: /what-do-nauru-ufo-reports-really-show/
+  short_title: Nauru UFOs
+- basename: Nigeria_9742d0
+  title: Nigeria UFOs
+  permalink: /what-do-nigerias-ufo-reports-really-show/
+  short_title: Nigeria UFOs
+- basename: Pakistan_82d220
+  title: Pakistan UFOs
+  permalink: /what-do-pakistans-ufo-cases-really-show/
+  short_title: Pakistan UFOs
+- basename: Panama_1e36b3
+  title: Panama UFOs
+  permalink: /what-do-panama-ufo-reports-really-show/
+  short_title: Panama UFOs
+- basename: Qatar_83ef3e
+  title: Qatar UFOs
+  permalink: /what-do-qatars-ufo-reports-really-show/
+  short_title: Qatar UFOs
+- basename: Seychelles_3d2d7b
+  title: Seychelles UFOs
+  permalink: /what-do-seychelles-ufo-reports-really/
+  short_title: Seychelles UFOs
+- basename: Sierra_Leone_817b0d
+  title: Sierra Leone UAP
+  permalink: /what-do-sierra-leones-ufo-reports-really/
+  short_title: Sierra Leone UAP
+- basename: Somalia_4dfdf1
+  title: Somalia UFOs
+  permalink: /what-do-somalias-ufo-reports-really-show/
+  short_title: Somalia UFOs
+- basename: Tajikistan_279c77
+  title: Tajikistan UFOs
+  permalink: /what-do-tajikistans-ufo-reports-really/
+  short_title: Tajikistan UFOs
+- basename: Timor-Leste_2d79f6
+  title: Timor Leste UFOs
+  permalink: /what-do-timor-leste-ufo-reports-really/
+  short_title: Timor Leste UFOs
+- basename: Guinea_b47b54
+  title: Guinea UFOs
+  permalink: /what-do-ufo-reports-in-guinea-really/
+  short_title: Guinea UFOs
+- basename: Bhutan_bb2254
+  title: BhutanUFOs
+  permalink: /what-do-ufo-sightings-in-bhutan-really/
+  short_title: BhutanUFOs
+- basename: Botswana_180c89
+  title: Botswana UFOs
+  permalink: /what-does-botswanas-ufo-record-really/
+  short_title: Botswana UFOs
+- basename: Ecuador_09f199
+  title: EcuadorUFOs
+  permalink: /what-evidence-exists-for-ufos-in-ecuador/
+  short_title: EcuadorUFOs
+- basename: Georgia_9113c6
+  title: Georgia UFOs
+  permalink: /what-georgias-ufo-reports-reveal-about/
+  short_title: Georgia UFOs
+- basename: Germany_17d53e
+  title: Germany UFOs
+  permalink: /what-germanys-ufo-record-really-shows/
+  short_title: Germany UFOs
+- basename: Greece_4902a4
+  title: Greece UFOs
+  permalink: /what-greeces-ufo-records-reveal-about/
+  short_title: Greece UFOs
+- basename: Guatemala_11760e
+  title: GuatemalaUFOs
+  permalink: /what-guatemalas-ufo-reports-really/
+  short_title: GuatemalaUFOs
+- basename: Latvia_c5f5bb
+  title: Latvia UFOs
+  permalink: /what-has-latvia-really-seen-in-the-sky/
+  short_title: Latvia UFOs
+- basename: Malta_1a591a
+  title: Malta UFOs
+  permalink: /what-has-malta-really-seen-in-the-sky/
+  short_title: Malta UFOs
+- basename: Saint_Lucia_85ac35
+  title: Saint Lucia UFOs
+  permalink: /what-has-saint-lucia-really-reported/
+  short_title: Saint Lucia UFOs
+- basename: Samoa_f56806
+  title: Samoa UFOs
+  permalink: /what-has-samoa-really-seen-in-the-sky/
+  short_title: Samoa UFOs
+- basename: Zambia_dcf25e
+  title: Zambia UFOs
+  permalink: /what-has-zambia-really-seen-in-the-sky/
+  short_title: Zambia UFOs
+- basename: Indonesia_35536a
+  title: Indonesia UFOs
+  permalink: /what-indonesias-ufo-record-really-shows/
+  short_title: Indonesia UFOs
+- basename: Andorra_9d3bd1
+  title: Andorra UFOs
+  permalink: /what-is-actually-known-about-andorra/
+  short_title: Andorra UFOs
+- basename: Azerbaijan_213598
+  title: Azerbaijan UAP
+  permalink: /what-is-behind-azerbaijans-ufo-reports/
+  short_title: Azerbaijan UAP
+- basename: Liberia_1ed5dd
+  title: Liberia UFOs
+  permalink: /what-is-known-about-ufos-in-liberia/
+  short_title: Liberia UFOs
+- basename: Chad_6c6b1b
+  title: Chad UFOs
+  permalink: /what-is-really-behind-chads-ufo-reports/
+  short_title: Chad UFOs
+- basename: Gambia_7c3997
+  title: Gambia UFOs
+  permalink: /what-is-really-behind-gambias-ufo/
+  short_title: Gambia UFOs
+- basename: Myanmar_928b7c
+  title: Myanmar UFOs
+  permalink: /what-is-really-behind-myanmar-ufo/
+  short_title: Myanmar UFOs
+- basename: Namibia_bfe79d
+  title: Namibia UFOs
+  permalink: /what-is-really-behind-namibias-ufo/
+  short_title: Namibia UFOs
+- basename: Slovakia_b6c149
+  title: Slovak UFOs
+  permalink: /what-is-really-behind-slovakias-ufo/
+  short_title: Slovak UFOs
+- basename: Eswatini_16cc7f
+  title: Eswatini UFOs
+  permalink: /what-is-really-in-eswatinis-ufo-record/
+  short_title: Eswatini UFOs
+- basename: Jamaica_5eedd6
+  title: Jamaica UFOs
+  permalink: /what-is-really-in-jamaicas-ufo-record/
+  short_title: Jamaica UFOs
+- basename: North_Macedonia_cece1d
+  title: North Macedonia UFOs
+  permalink: /what-is-really-in-north-macedonias-ufo/
+  short_title: North Macedonia UFOs
+- basename: Uzbekistan_db800e
+  title: Uzbekistan UFOs
+  permalink: /what-is-really-in-uzbekistans-ufo-record/
+  short_title: Uzbekistan UFOs
+- basename: Yemen_ac33d6
+  title: Yemen UFOs
+  permalink: /what-is-really-in-yemens-ufo-record/
+  short_title: Yemen UFOs
+- basename: Burundi_461758
+  title: Burundi UFOs
+  permalink: /what-is-really-known-about-burundi-ufos/
+  short_title: Burundi UFOs
+- basename: Colombia_2f7373
+  title: Colombia UAP
+  permalink: /what-is-really-known-about-colombias-ufo/
+  short_title: Colombia UAP
+- basename: Kiribati_3f57ad
+  title: Kiribati UFOs
+  permalink: /what-is-really-known-about-kiribati-ufos/
+  short_title: Kiribati UFOs
+- basename: Lesotho_93b12b
+  title: Lesotho UAP
+  permalink: /what-is-really-known-about-lesotho-ufos/
+  short_title: Lesotho UAP
+- basename: Niger_6687e1
+  title: Niger UFOs
+  permalink: /what-is-really-known-about-niger-ufos/
+  short_title: Niger UFOs
+- basename: Palau_e5e0b6
+  title: Palau UAP
+  permalink: /what-is-really-known-about-palau-ufos/
+  short_title: Palau UAP
+- basename: Turkmenistan_1f8dc1
+  title: Turkmenistan UFOs
+  permalink: /what-is-really-known-about-turkmenistan/
+  short_title: Turkmenistan UFOs
+- basename: Ireland_eb2131
+  title: Irish UAP
+  permalink: /what-is-really-seen-over-ireland/
+  short_title: Irish UAP
+- basename: Kazakhstan_2f36b6
+  title: Kazakhstan UFOs
+  permalink: /what-is-really-seen-over-kazakhstan/
+  short_title: Kazakhstan UFOs
+- basename: Ukraine_c951ec
+  title: Ukraine UFOs
+  permalink: /what-is-really-seen-over-ukraine/
+  short_title: Ukraine UFOs
+- basename: Rwanda_7266a1
+  title: Rwanda UFOs
+  permalink: /what-is-rwandas-real-ufo-record/
+  short_title: Rwanda UFOs
+- basename: Sri_Lanka_db33ad
+  title: Sri Lanka UFOs
+  permalink: /what-is-sri-lankas-ufo-record-really/
+  short_title: Sri Lanka UFOs
+- basename: Switzerland_77dcd8
+  title: Swiss UFOs
+  permalink: /what-is-switzerlands-ufo-record-really/
+  short_title: Swiss UFOs
+- basename: Lithuania_74a788
+  title: Lithuania UFOs
+  permalink: /what-lithuanias-ufo-reports-really-show/
+  short_title: Lithuania UFOs
+- basename: Egypt_1c39ab
+  title: EgyptUFOs
+  permalink: /what-makes-egypt-a-hotspot-for-ufo/
+  short_title: EgyptUFOs
+- basename: Italy_ad79ef
+  title: Italy UFOs
+  permalink: /what-makes-italys-ufo-record-unique-and/
+  short_title: Italy UFOs
+- basename: Japan_fcf29f
+  title: Japan UFOs
+  permalink: /what-makes-japans-ufo-record-so-unusual/
+  short_title: Japan UFOs
+- basename: Liechtenstein_b0ddce
+  title: Liechtenstein UFOs
+  permalink: /what-makes-liechtensteins-ufo-story/
+  short_title: Liechtenstein UFOs
+- basename: Norway_988455
+  title: Norway UFOs
+  permalink: /what-makes-norways-ufo-record-different/
+  short_title: Norway UFOs
+- basename: Peru_36c572
+  title: Peru UFOs
+  permalink: /what-makes-perus-ufo-story-so/
+  short_title: Peru UFOs
+- basename: Sweden_72ddd2
+  title: Swedish UFOs
+  permalink: /what-makes-swedens-ufo-record-different/
+  short_title: Swedish UFOs
+- basename: New_Zealand_3d3336
+  title: NZ UFOs
+  permalink: /what-new-zealands-ufo-files-really-show/
+  short_title: NZ UFOs
+- basename: Sudan_1193ba
+  title: Sudan UFOs
+  permalink: /what-really-appeared-over-sudan/
+  short_title: Sudan UFOs
+- basename: Congo_77f256
+  title: Congo UFOs
+  permalink: /what-really-counts-as-a-congo-ufo/
+  short_title: Congo UFOs
+- basename: Oman_c14c36
+  title: Oman UFOs
+  permalink: /what-really-counts-as-an-oman-ufo/
+  short_title: Oman UFOs
+- basename: Ethiopia_3d91f7
+  title: Ethiopia UFOs
+  permalink: /what-really-counts-as-ethiopias-ufo/
+  short_title: Ethiopia UFOs
+- basename: Tonga_e8a123
+  title: Tonga UFOs
+  permalink: /what-really-exists-in-tongas-ufo-record/
+  short_title: Tonga UFOs
+- basename: Armenia_5f4599
+  title: Armenia UFOs
+  permalink: /what-really-explains-armenias-ufo/
+  short_title: Armenia UFOs
+- basename: Bulgaria_5c7772
+  title: Bulgaria UFOs
+  permalink: /what-really-explains-bulgarias-ufo/
+  short_title: Bulgaria UFOs
+- basename: Marshall_Islands_ccbdc0
+  title: Marshall UFOs
+  permalink: /what-really-explains-marshall-islands/
+  short_title: Marshall UFOs
+- basename: Saudi_Arabia_8bf7f8
+  title: Saudi UFOs
+  permalink: /what-really-explains-saudi-arabias-ufo/
+  short_title: Saudi UFOs
+- basename: Vanuatu_d16ad2
+  title: Vanuatu UAP
+  permalink: /what-really-explains-vanuatus-strange/
+  short_title: Vanuatu UAP
+- basename: Kenya_a84f56
+  title: Kenya UFOs
+  permalink: /what-really-fell-from-kenyas-skies/
+  short_title: Kenya UFOs
+- basename: El_Salvador_9b83b7
+  title: El Salvador UFOs
+  permalink: /what-really-flies-over-el-salvador/
+  short_title: El Salvador UFOs
+- basename: Belgium_5cb4c9
+  title: Belgium
+  permalink: /what-really-happened-during-belgiums/
+  short_title: Belgium
+- basename: Australia_ceafb5
+  title: Australia UFOs
+  permalink: /what-really-happened-in-australias-ufo/
+  short_title: Australia UFOs
+- basename: Barbados_93409a
+  title: Barbados UFOs
+  permalink: /what-really-happened-in-barbados-skies/
+  short_title: Barbados UFOs
+- basename: Cambodia_314ccd
+  title: Cambodia UFOs
+  permalink: /what-really-happened-in-cambodias-ufo/
+  short_title: Cambodia UFOs
+- basename: Costa_Rica_fe586b
+  title: Costa Rica UFOs
+  permalink: /what-really-happened-in-costa-ricas-ufo/
+  short_title: Costa Rica UFOs
+- basename: Haiti_a4842f
+  title: Haiti UFOs
+  permalink: /what-really-happened-in-haitis-ufo/
+  short_title: Haiti UFOs
+- basename: Kuwait_93295b
+  title: Kuwait UAP
+  permalink: /what-really-happened-in-kuwaits-ufo/
+  short_title: Kuwait UAP
+- basename: Mauritius_26160d
+  title: Mauritius UFOs
+  permalink: /what-really-happened-in-mauritius-sky/
+  short_title: Mauritius UFOs
+- basename: Mexico_41937b
+  title: Mexico UFOs
+  permalink: /what-really-happened-in-mexicos-ufo/
+  short_title: Mexico UFOs
+- basename: Nepal_0e1d58
+  title: Nepal UFOs
+  permalink: /what-really-happened-in-nepals-ufo/
+  short_title: Nepal UFOs
+- basename: Nicaragua_481264
+  title: Nicaragua UFOs
+  permalink: /what-really-happened-in-nicaraguas-ufo/
+  short_title: Nicaragua UFOs
+- basename: Paraguay_71a452
+  title: Paraguay UFOs
+  permalink: /what-really-happened-in-paraguays-ufo/
+  short_title: Paraguay UFOs
+- basename: Poland_5ff03b
+  title: Poland UFOs
+  permalink: /what-really-happened-in-polands-ufo/
+  short_title: Poland UFOs
+- basename: Solomon_Islands_6f943d
+  title: Solomon UFOs
+  permalink: /what-really-happened-in-solomon/
+  short_title: Solomon UFOs
+- basename: Togo_30949d
+  title: Togo UFOs
+  permalink: /what-really-happened-in-togos-ufo-files/
+  short_title: Togo UFOs
+- basename: Tunisia_edf404
+  title: Tunisia UFOs
+  permalink: /what-really-happened-in-tunisias-ufo/
+  short_title: Tunisia UFOs
+- basename: Uganda_e92904
+  title: Uganda UFOs
+  permalink: /what-really-happened-in-ugandas-ufo/
+  short_title: Uganda UFOs
+- basename: Zimbabwe_5922f5
+  title: Zimbabwe UFOs
+  permalink: /what-really-happened-in-zimbabwes-ufo/
+  short_title: Zimbabwe UFOs
+- basename: Estonia_f0a96d
+  title: Estonia UFOs
+  permalink: /what-really-shapes-estonias-ufo-record/
+  short_title: Estonia UFOs
+- basename: Slovenia_d1aa05
+  title: Slovenia UFOs
+  permalink: /what-really-stands-out-in-slovenias-ufo/
+  short_title: Slovenia UFOs
+- basename: South_Africa_3b27c8
+  title: South Africa UFOs
+  permalink: /what-really-stands-out-in-south/
+  short_title: South Africa UFOs
+- basename: Mozambique_a40a9b
+  title: Mozambique UFOs
+  permalink: /what-really-survives-in-mozambiques-ufo/
+  short_title: Mozambique UFOs
+- basename: Romania_d6b897
+  title: Romania UFOs
+  permalink: /what-romanias-ufo-record-really-shows/
+  short_title: Romania UFOs
+- basename: Singapore_20c0b7
+  title: Singapore UFOs
+  permalink: /what-singapore-ufo-sightings-really-show/
+  short_title: Singapore UFOs
+- basename: Suriname_b17fc6
+  title: Suriname UFOs
+  permalink: /what-surinames-ufo-stories-really-show/
+  short_title: Suriname UFOs
+- basename: Senegal_d8973b
+  title: Senegal UFOs
+  permalink: /what-survives-in-senegals-ufo-record/
+  short_title: Senegal UFOs
+- basename: Cabo_Verde_2a5bf1
+  title: Cabo Verde UFOs
+  permalink: /what-ufo-reports-survive-cabo-verde/
+  short_title: Cabo Verde UFOs
+- basename: Cyprus_852add
+  title: CyprusUFOs
+  permalink: /what-ufo-sightings-have-shaped-cyprus/
+  short_title: CyprusUFOs
+- basename: Eritrea_18740a
+  title: Eritrea UFOs
+  permalink: /what-ufos-have-been-reported-in/
+  short_title: Eritrea UFOs
+- basename: Uruguay_66b989
+  title: Uruguay UFOs
+  permalink: /what-uruguays-ufo-files-really-show/
+  short_title: Uruguay UFOs
+- basename: Denmark_89da12
+  title: Denmark UFOs
+  permalink: /what-we-know-about-ufo-phenomena-in/
+  short_title: Denmark UFOs
+- basename: Guyana_bc88a2
+  title: Guyana UFOs
+  permalink: /what-we-know-about-ufo-sightings-in/
+  short_title: Guyana UFOs
+- basename: Mauritania_85fa35
+  title: Mauritania UAP
+  permalink: /why-are-mauritanias-ufo-records-so/
+  short_title: Mauritania UAP
+- basename: Grenada_dbf2a2
+  title: Grenada UFOs
+  permalink: /why-grenada-became-a-ufo-footnote/
+  short_title: Grenada UFOs
+- basename: San_Marino_8ff2c5
+  title: San Marino UFOs
+  permalink: /why-san-marino-became-a-ufo-meeting/
+  short_title: San Marino UFOs
+child_links:
+- basename: Kyrgyzstan_c78791_issyk_kul_ufo_folklo_59970e
+  title: Issyk Kul | What Really Explains Kyrgyzstan's UFO...
+  permalink: /issyk-kul/
+  short_title: Issyk Kul
+  heading_title: Why Issyk Kul Became Kyrgyzstan's UFO Hotspot
+- basename: Kyrgyzstan_c78791_baikonur_bishkek_sig_5f8f9f
+  title: Rocket Trails | What Really Explains Kyrgyzstan's UFO...
+  permalink: /rocket-trails/
+  short_title: Rocket Trails
+  heading_title: Were Bishkek UFOs Really Rocket Trails?
+- basename: Kyrgyzstan_c78791_shaitan_mazar_crash_8ed17a
+  title: Shaitan Mazar | What Really Explains Kyrgyzstan's UFO...
+  permalink: /shaitan-mazar/
+  short_title: Shaitan Mazar
+  heading_title: Did Anything Crash at Shaitan Mazar?
+- basename: Kyrgyzstan_c78791_kyrgyzstan_ufo_verif_4a3325
+  title: Verification | What Really Explains Kyrgyzstan's UFO...
+  permalink: /verification-9ab478/
+  short_title: Verification
+  heading_title: How Reliable Are Kyrgyzstan's UFO Reports?
+prev_link:
+  basename: Bulgaria_5c7772
+  title: Bulgaria UFOs
+  permalink: /what-really-explains-bulgarias-ufo/
+  short_title: Bulgaria UFOs
+next_link:
+  basename: Marshall_Islands_ccbdc0
+  title: Marshall UFOs
+  permalink: /what-really-explains-marshall-islands/
+  short_title: Marshall UFOs
+date: '2026-05-31 04:19:51 '
+header:
+  og_image: /assets/images/Kyrgyzstan_c78791-overview-social.jpg
+  preview_image: /assets/images/Kyrgyzstan_c78791-overview.webp
+image: /assets/images/Kyrgyzstan_c78791-overview-social.jpg
+---
+
+## Why Kyrgyzstan’s UFO record clusters around mountains and space corridors
+
+Kyrgyzstan’s UFO stories are shaped by two practical facts. First, the country is mountainous, with remote high-altitude valleys where rumours of crashes or strange lights are hard to check quickly. Secondly, it sits in a wider Central Asian aerospace environment: launches from Baikonur in Kazakhstan and objects re-entering over the region can be visible across borders, producing striking light trails that non-specialists may initially describe as UFOs.
+
+
+<img src="{{ "/assets/images/Kyrgyzstan_c78791-overview.webp" | relative_url }}" alt="Overview image for What Really Explains Kyrgyzstan&#x27;s UFO..." loading="eager" decoding="sync" fetchpriority="high">
+That pattern is clear in local reporting. In July 2017, residents of Bishkek saw a strange object leaving a large white patch in the sky; 24.kg reported that the explanation was a Soyuz launch from Baikonur carrying the Soyuz MS-05 crewed spacecraft, rather than a mysterious craft over Kyrgyzstan. <span class="citation-chip-wrap"><a class="citation-chip" href="https://24.kg/obschestvo/58786_bishkekchane_uvideli_nlo_okazalos_skosmodroma_baykonur_startovala_raketa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 24.kg">[24.kg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">24.kg</span><span class="citation-popover-title">Бишкекчане увидели НЛО. Оказалось, с космодрома Байконур стартовала ракета</span><span class="citation-popover-snippet">Бишкекчане увидели НЛО. Оказалось, с космодрома Байконур стартовала ракета</span></span></span> A similar interpretive problem appeared in June 2025, when videos of burning objects were reported from Bishkek, Batken, Kara-Balta and Osh, while Kazakhstan’s defence ministry said no airspace violation had been recorded and that the phenomenon resembled spacecraft debris or a meteor stream burning up in the atmosphere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kaktus.media/doc/525209_nochu_nad_kazahstanom_i_kyrgyzstanom_zametili_goriashiy_obekt._video.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kaktus.media">[Kaktus Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kaktus.media</span><span class="citation-popover-title">MediaНочью над Казахстаном и Кыргызстаном заметили горящий объект. Видео</span><span class="citation-popover-snippet">MediaНочью над Казахстаном и Кыргызстаном заметили горящий объект. Видео</span></span></span>
+
+This makes Kyrgyzstan comparable to neighbouring Central Asian branches in a UFO project: many dramatic sightings are not isolated national mysteries, but regional sky events seen across borders. A Kyrgyzstan page should therefore be read alongside Kazakhstan and wider Baikonur-linked sightings, because the explanation for a light seen in Bishkek may lie in a launch or re-entry path beyond Kyrgyz territory.
+
+## The Shaitan Mazar case: Kyrgyzstan’s central UFO legend
+
+The most widely repeated Kyrgyzstan UFO case is the alleged 1991 [Shaitan Mazar crash]({{ 'shaitan-mazar/' | relative_url }}) in the Central Tien Shan mountains. In its common version, a very large object was detected by Soviet radar over the Caspian region on 28 August 1991, intercepted by fighter aircraft, then later rumoured to have crashed in the [Shaitan Mazar]({{ 'shaitan-mazar/' | relative_url }}) area near the Sary-Jaz River in eastern Kyrgyzstan. Bradt’s account describes the alleged object as enormous, radar-tracked, and visually observed by pilots as a zeppelin-like craft; it also records later rumours of a crash site, radiation injuries and a failed mountain expedition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bradtguides.com/the-strange-tale-of-the-shaitan-mazar-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bradtguides.com">[Bradt Guides]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bradtguides.com</span><span class="citation-popover-title">Bradt Guides The strange tale of the Shaitan Mazar UFO</span><span class="citation-popover-snippet">Bradt Guides The strange tale of the Shaitan Mazar UFO</span></span></span>
+
+The case is vivid because it contains the ingredients that make a UFO story travel: military radar, fighter interception, inaccessible mountains, alleged wreckage, rumours of radiation and a later search. But those same elements also make the evidence difficult to separate from retelling. Kaktus Media’s 2017 summary notes that the ufologist Emil Bachurin claimed to have seen a long object broken into two parts in the Shaitan Mazar gorge and marked with green writing, but also states that he could not provide proof because the photographs were spoiled during film development. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kaktus.media/doc/525209_nochu_nad_kazahstanom_i_kyrgyzstanom_zametili_goriashiy_obekt._video.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kaktus.media">[Kaktus Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kaktus.media</span><span class="citation-popover-title">MediaНочью над Казахстаном и Кыргызстаном заметили горящий объект. Видео</span><span class="citation-popover-snippet">MediaНочью над Казахстаном и Кыргызстаном заметили горящий объект. Видео</span></span></span>
+
+That missing physical chain is decisive. A crashed object case needs recoverable debris, verifiable photographs, site coordinates, official recovery records, or independent technical examination. The public record around Shaitan Mazar instead rests on secondary retellings, expedition stories and claims whose key supporting evidence is absent. The fairest classification is therefore **contested**, not confirmed: it is a major Kyrgyz UFO legend, but not a documented crash.
+
+
+<img src="{{ "/assets/images/Kyrgyzstan_c78791-Illustration-1-light.svg" | relative_url }}" alt="What Really Explains Kyrgyzstan&#x27;s UFO... illustration 1" data-theme-src-dark="{{ "/assets/images/Kyrgyzstan_c78791-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kyrgyzstan_c78791-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## A short chronology of higher-value Kyrgyzstan reports
+
+Kyrgyzstan does not have a dense, well-standardised public UFO archive. What exists is a patchwork of local media round-ups, social-media-driven sightings, travel writing, and international self-reporting databases. The following chronology captures the cases most useful for understanding the national pattern.
+
+Period or dateLocationWhat was reportedBest current classification28 August 1991 and later retellingsEastern Kyrgyzstan, especially the Shaitan Mazar areaAlleged radar detection, fighter interception and crash rumours in the Tien Shan**Contested**: famous but unsupported by recovered public evidence <span class="citation-chip-wrap"><a class="citation-chip" href="https://kaktus.media/doc/525209_nochu_nad_kazahstanom_i_kyrgyzstanom_zametili_goriashiy_obekt._video.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kaktus.media">[Kaktus Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kaktus.media</span><span class="citation-popover-title">MediaНочью над Казахстаном и Кыргызстаном заметили горящий объект. Видео</span><span class="citation-popover-snippet">MediaНочью над Казахстаном и Кыргызстаном заметили горящий объект. Видео</span></span></span> 1997Ak-Suu district, Issyk-Kul regionTwo small bright orange objects reportedly rose silently and disappeared**Unresolved anecdote**: interesting witness story, but no independent technical record in the cited summary <span class="citation-chip-wrap"><a class="citation-chip" href="https://kaktus.media/doc/525209_nochu_nad_kazahstanom_i_kyrgyzstanom_zametili_goriashiy_obekt._video.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kaktus.media">[Kaktus Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kaktus.media</span><span class="citation-popover-title">MediaНочью над Казахстаном и Кыргызстаном заметили горящий объект. Видео</span><span class="citation-popover-snippet">MediaНочью над Казахстаном и Кыргызстаном заметили горящий объект. Видео</span></span></span> 13 January 2003Kara-BaltaA video reportedly showed a round disc moving quickly across the sky; the source notes the quality was insufficient for identification**Unresolved but weak**: video quality limits assessment <span class="citation-chip-wrap"><a class="citation-chip" href="https://kaktus.media/doc/525209_nochu_nad_kazahstanom_i_kyrgyzstanom_zametili_goriashiy_obekt._video.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kaktus.media">[Kaktus Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kaktus.media</span><span class="citation-popover-title">MediaНочью над Казахстаном и Кыргызстаном заметили горящий объект. Видео</span><span class="citation-popover-snippet">MediaНочью над Казахстаном и Кыргызстаном заметили горящий объект. Видео</span></span></span> 2004–2005BishkekNUFORC lists two older entries under the misspelt country label “Kyrgyzistan”, including a bright object with multicoloured beams and a fast circle of light**Unverified database reports**: useful as leads, not confirmations <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cKyrgyzistan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Kyrgyzistan</span><span class="citation-popover-snippet">Reports for Country Kyrgyzistan</span></span></span> 1 July 2010BishkekA glowing object and trail were associated by sceptics with a Soyuz-U launch from Baikonur; RussianSpaceWeb records a Soyuz-U Progress M-06M launch from Baikonur on 30 June 2010**Plausibly aerospace-related**, though local retellings preserved disagreement over trajectory <span class="citation-chip-wrap"><a class="citation-chip" href="https://kaktus.media/doc/525209_nochu_nad_kazahstanom_i_kyrgyzstanom_zametili_goriashiy_obekt._video.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kaktus.media">[Kaktus Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kaktus.media</span><span class="citation-popover-title">MediaНочью над Казахстаном и Кыргызстаном заметили горящий объект. Видео</span><span class="citation-popover-snippet">MediaНочью над Казахстаном и Кыргызстаном заметили горящий объект. Видео</span></span></span> 28–29 July 2017BishkekA strange sky object with a large white cloud-like trail**Explained** in local reporting as the Soyuz MS-05 launch from Baikonur <span class="citation-chip-wrap"><a class="citation-chip" href="https://24.kg/obschestvo/58786_bishkekchane_uvideli_nlo_okazalos_skosmodroma_baykonur_startovala_raketa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 24.kg">[24.kg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">24.kg</span><span class="citation-popover-title">Бишкекчане увидели НЛО. Оказалось, с космодрома Байконур стартовала ракета</span><span class="citation-popover-snippet">Бишкекчане увидели НЛО. Оказалось, с космодрома Байконур стартовала ракета</span></span></span> 5 October 2021Bishkek and wider recollectionsSputnik Kyrgyzstan used a fresh Bishkek sighting as a hook for 11 stories, stressing that UFO means unidentified object or anomalous atmospheric phenomenon, not necessarily aliens**Mixed anthology**: culturally useful, evidentially uneven <span class="citation-chip-wrap"><a class="citation-chip" href="https://ru.sputnik.kg/20211005/nlo-kyrgyzstan-issyk-kul-istorii-1054126658.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ru.sputnik.kg">[Sputnik Кыргызстан]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ru.sputnik.kg</span><span class="citation-popover-title">КыргызстанКыргызстанцы, увидевшие НЛО, — 11 историй</span><span class="citation-popover-snippet">КыргызстанКыргызстанцы, увидевшие НЛО, — 11 историй</span></span></span> 5 June 2025Bishkek, Batken, Kara-Balta, Osh and KazakhstanBurning objects seen over multiple cities**Likely natural or space-debris explanation** according to Kazakhstan’s defence ministry comment reported by Kyrgyz outlets <span class="citation-chip-wrap"><a class="citation-chip" href="https://kaktus.media/doc/525209_nochu_nad_kazahstanom_i_kyrgyzstanom_zametili_goriashiy_obekt._video.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kaktus.media">[Kaktus Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kaktus.media</span><span class="citation-popover-title">MediaНочью над Казахстаном и Кыргызстаном заметили горящий объект. Видео</span><span class="citation-popover-snippet">MediaНочью над Казахстаном и Кыргызстаном заметили горящий объект. Видео</span></span></span> 2023–2026 database entriesIn flight over Kyrgyzstan; Manas; Sary TologoyNUFORC lists three Kyrgyzstan entries, including an aircraft observation, a fireball-like group of objects, and black dots filmed near a storm**Unverified reports with potential media in some cases** <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cKyrgyzstan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Kyrgyzstan</span><span class="citation-popover-snippet">Reports for Country Kyrgyzstan</span></span></span>
+
+## Issyk-Kul is the strongest regional motif, but not the strongest evidence
+
+If one region dominates Kyrgyzstan’s UFO imagination, it is Issyk-Kul and the eastern highlands. Local round-ups repeatedly place Shaitan Mazar near the Sary-Jaz area and describe Issyk-Kul as a zone of unusual activity, while Sputnik’s 2021 collection says most of its listed stories occurred in the Issyk-Kul region. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kaktus.media/doc/525209_nochu_nad_kazahstanom_i_kyrgyzstanom_zametili_goriashiy_obekt._video.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kaktus.media">[Kaktus Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kaktus.media</span><span class="citation-popover-title">MediaНочью над Казахстаном и Кыргызстаном заметили горящий объект. Видео</span><span class="citation-popover-snippet">MediaНочью над Казахстаном и Кыргызстаном заметили горящий объект. Видео</span></span></span>
+
+The region’s prominence does not automatically mean a higher rate of anomalous craft. It may reflect three overlapping factors: dramatic mountain landscapes that make stories memorable, remoteness that makes alleged crash sites hard to verify, and tourism or local-media interest in unusual legends. In evidence terms, Issyk-Kul is better understood as the centre of Kyrgyzstan’s UFO folklore than as a confirmed hotspot.
+
+By contrast, Bishkek produces a different kind of case: urban mass sightings where many people can film or describe the same sky event, but where the explanation may be easier to check against rocket launches, re-entries or atmospheric effects. The 2017 Soyuz-linked sighting is the clearest example. <span class="citation-chip-wrap"><a class="citation-chip" href="https://24.kg/obschestvo/58786_bishkekchane_uvideli_nlo_okazalos_skosmodroma_baykonur_startovala_raketa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 24.kg">[24.kg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">24.kg</span><span class="citation-popover-title">Бишкекчане увидели НЛО. Оказалось, с космодрома Байконур стартовала ракета</span><span class="citation-popover-snippet">Бишкекчане увидели НЛО. Оказалось, с космодрома Байконур стартовала ракета</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fr_hXLDLc38" title="Horizons mission - Soyuz: launch to orbit" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fr_hXLDLc38" target="_blank" rel="noopener noreferrer">Horizons mission - Soyuz: launch to orbit</a></p><p class="youtube-embed-meta">Channel: European Space Agency, ESA &middot; Views: 12.2M &middot; Uploaded: June 2018 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fr_hXLDLc38" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fr_hXLDLc38">Open on YouTube</a></p></div></div></div>
+
+## What official records do, and do not, add
+
+There is no strong public evidence of a Kyrgyz government UFO investigation archive comparable to the best-known American, British or French official UFO collections. Internationally, official UAP work has moved towards standardised reporting and data quality rather than treating every sighting as evidence of exotic technology. The US ODNI’s 2021 preliminary assessment defined UAP as airborne objects not immediately identifiable and stressed that limited high-quality reporting made firm conclusions difficult. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Director of National Intelligence</span></span></span>
+
+The US National Archives now maintains a UAP records collection under Record Group 615, and AARO describes itself as the US government office applying a scientific, data-driven framework to anomalous phenomena. Those resources are useful for method, but they do not by themselves validate Kyrgyz cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> AARO’s historical review also found that official and foreign investigatory efforts reviewed since 1945 had not established extraterrestrial origin for UAP reports, and that poor data quality remains a persistent obstacle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-21 "Endnote 21")
+
+For Kyrgyzstan, the practical lesson is simple: the absence of a robust official archive makes witness accounts more vulnerable to duplication, embellishment and translation drift. A case with a date, location, multiple independent witnesses, original media, launch-data comparison and official airspace or meteorological comment is far stronger than a dramatic retelling with no primary records.
+
+
+<img src="{{ "/assets/images/Kyrgyzstan_c78791-Illustration-2-light.svg" | relative_url }}" alt="What Really Explains Kyrgyzstan&#x27;s UFO... illustration 2" data-theme-src-dark="{{ "/assets/images/Kyrgyzstan_c78791-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kyrgyzstan_c78791-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Confirmed, contested and debunked: how to read Kyrgyzstan claims
+
+The most useful way to sort Kyrgyzstan UFO material is not “believe or dismiss”, but to ask what kind of evidence each claim actually has.
+
+**Confirmed as a sighting, not as an exotic craft:** Some events are confirmed in the modest sense that people really did see something and local media reported it. The 2017 Bishkek event and the 2025 multi-city fireball reports fall into this category. But confirmation of a sighting is not confirmation of an extraordinary object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://24.kg/obschestvo/58786_bishkekchane_uvideli_nlo_okazalos_skosmodroma_baykonur_startovala_raketa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 24.kg">[24.kg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">24.kg</span><span class="citation-popover-title">Бишкекчане увидели НЛО. Оказалось, с космодрома Байконур стартовала ракета</span><span class="citation-popover-snippet">Бишкекчане увидели НЛО. Оказалось, с космодрома Байконур стартовала ракета</span></span></span>
+
+**Explained or probably explained:** The 2017 Bishkek sighting is the cleanest explained case, because the report directly links the visible phenomenon to a Soyuz launch from Baikonur. The 2025 burning-object event is not as fully documented in public reporting, but Kazakhstan’s defence ministry gave a conventional explanation range: spacecraft debris or a meteor stream, with no recorded airspace violation or public threat. <span class="citation-chip-wrap"><a class="citation-chip" href="https://24.kg/obschestvo/58786_bishkekchane_uvideli_nlo_okazalos_skosmodroma_baykonur_startovala_raketa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 24.kg">[24.kg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">24.kg</span><span class="citation-popover-title">Бишкекчане увидели НЛО. Оказалось, с космодрома Байконур стартовала ракета</span><span class="citation-popover-snippet">Бишкекчане увидели НЛО. Оказалось, с космодрома Байконур стартовала ракета</span></span></span>
+
+**Contested but culturally important:** Shaitan Mazar remains the core case for UFO enthusiasts because it is dramatic and geographically specific. Yet the public evidence does not meet the standard required for a crash claim. The strongest available summaries preserve the story while also noting that searchers failed to recover evidence or that claimed photographs were unusable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bradtguides.com/the-strange-tale-of-the-shaitan-mazar-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bradtguides.com">[Bradt Guides]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bradtguides.com</span><span class="citation-popover-title">Bradt Guides The strange tale of the Shaitan Mazar UFO</span><span class="citation-popover-snippet">Bradt Guides The strange tale of the Shaitan Mazar UFO</span></span></span>
+
+**Unresolved but low-data:** NUFORC entries and older local anecdotes may be sincere, but most lack the data needed for identification: exact viewing geometry, duration, camera metadata, radar track, weather conditions, launch correlation and independent witness separation. NUFORC’s Kyrgyzstan listings are valuable as a public index of claims, but they are self-reported leads rather than adjudicated findings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FFXvtcVIQTE" title="South Koreans spooked as secret rocket launch mistaken for UFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FFXvtcVIQTE" target="_blank" rel="noopener noreferrer">South Koreans spooked as secret rocket launch mistaken for UFO</a></p><p class="youtube-embed-meta">Channel: South China Morning Post &middot; Views: 82.8K &middot; Uploaded: January 2023 &middot; Length: 1 minute 57 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FFXvtcVIQTE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FFXvtcVIQTE">Open on YouTube</a></p></div></div></div>
+
+## Why many Kyrgyzstan UFO stories are hard to verify
+
+Kyrgyzstan’s UFO material faces several recurring [verification]({{ 'verification-9ab478/' | relative_url }}) problems. Some are local; others are common to UAP research worldwide.
+
+The first problem is **secondary sourcing**. The Shaitan Mazar story is often repeated through articles that summarise earlier ufologist claims, but the public chain back to original radar logs, military records, photographs or debris analysis is weak. That makes the story durable but not evidentially secure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bradtguides.com/the-strange-tale-of-the-shaitan-mazar-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bradtguides.com">[Bradt Guides]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bradtguides.com</span><span class="citation-popover-title">Bradt Guides The strange tale of the Shaitan Mazar UFO</span><span class="citation-popover-snippet">Bradt Guides The strange tale of the Shaitan Mazar UFO</span></span></span>
+
+The second is **aerospace confusion**. Rocket launches, booster separations, vented fuel, high-altitude exhaust clouds and re-entering debris can look slow, luminous, silent and unnatural from the ground. Kyrgyz media coverage of the 2017 and 2025 events shows how quickly “UFO” language can appear before a conventional explanation is checked. <span class="citation-chip-wrap"><a class="citation-chip" href="https://24.kg/obschestvo/58786_bishkekchane_uvideli_nlo_okazalos_skosmodroma_baykonur_startovala_raketa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 24.kg">[24.kg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">24.kg</span><span class="citation-popover-title">Бишкекчане увидели НЛО. Оказалось, с космодрома Байконур стартовала ракета</span><span class="citation-popover-snippet">Бишкекчане увидели НЛО. Оказалось, с космодрома Байконур стартовала ракета</span></span></span>
+
+The third is **thin technical metadata**. Modern UAP analysis depends on more than a striking video. The ODNI assessment noted that limited data and inconsistent reporting hinder evaluation, and that sensor vantage point, concurrent observations and collection quality matter when deciding whether an object is truly anomalous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Director of National Intelligence</span></span></span> Most Kyrgyzstan public cases do not yet provide that level of detail.
+
+
+<img src="{{ "/assets/images/Kyrgyzstan_c78791-Illustration-3-light.svg" | relative_url }}" alt="What Really Explains Kyrgyzstan&#x27;s UFO... illustration 3" data-theme-src-dark="{{ "/assets/images/Kyrgyzstan_c78791-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kyrgyzstan_c78791-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## What would change the assessment
+
+A Kyrgyzstan case would become much stronger if it had several independent data streams: original, unedited video with metadata; precise time and location; multiple separated witnesses; weather and astronomical checks; comparison with Baikonur and other launch schedules; civil aviation or military airspace statements; and, for any crash claim, recoverable material with a documented chain of custody and independent laboratory analysis.
+
+Until then, the most defensible conclusion is that Kyrgyzstan has a distinctive UFO reporting culture centred on Issyk-Kul, Shaitan Mazar and highly visible regional sky events, but the public evidence falls short of confirming extraordinary craft. The country’s strongest lesson for the wider UFO project is methodological: in Central Asia, dramatic lights and remote mountain legends can be compelling, but the decisive question is whether the claim survives ordinary checks against rockets, re-entry debris, meteors, atmospheric effects and the basic quality of the record.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fqrFYWkn9TI" title="Video appears to show Chinese rocket debris burning up in atmosphere" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fqrFYWkn9TI" target="_blank" rel="noopener noreferrer">Video appears to show Chinese rocket debris burning up in atmosphere</a></p><p class="youtube-embed-meta">Channel: CNN &middot; Views: 139.9K &middot; Uploaded: July 2022 &middot; Length: 3 minutes 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fqrFYWkn9TI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fqrFYWkn9TI">Open on YouTube</a></p></div></div></div>
+
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to What Really Explains Kyrgyzstan&#x27;s UFO Stories?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+        </h4>
+        <p class="fr-book-author">By J. Allen Hynek</p>
+        
+        <p class="fr-book-desc">Relevant to assessing case quality and reporting patterns.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+        </h4>
+        <p class="fr-book-author">By Jacques Vallee</p>
+        
+        <p class="fr-book-desc">Fits Kyrgyzstan&#x27;s mix of legends, mountains, and sightings.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+        </h4>
+        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        
+        <p class="fr-book-desc">Helps frame reported sightings against evidential standards.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+        </h4>
+        <p class="fr-book-author">By Leslie Kean</p>
+        
+        <p class="fr-book-desc">Broad overview suitable for a national UFO-history page.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: 24.kg  
+   Title: Бишкекчане увидели НЛО. Оказалось, с космодрома Байконур стартовала ракета  
+   Link: [https://24.kg/obschestvo/58786_bishkekchane_uvideli_nlo_okazalos_skosmodroma_baykonur_startovala_raketa/](https://24.kg/obschestvo/58786_bishkekchane_uvideli_nlo_okazalos_skosmodroma_baykonur_startovala_raketa/)  
+
+2. <a id="endnote-2"></a>
+   Source: kaktus.media  
+   Title: MediaНочью над Казахстаном и Кыргызстаном заметили горящий объект. Видео  
+   Link: [https://kaktus.media/doc/525209_nochu_nad_kazahstanom_i_kyrgyzstanom_zametili_goriashiy_obekt._video.html](https://kaktus.media/doc/525209_nochu_nad_kazahstanom_i_kyrgyzstanom_zametili_goriashiy_obekt._video.html)  
+
+3. <a id="endnote-3"></a>
+   Source: kaktus.media  
+   Title: Media9 свидетельств появления НЛО в Кыргызстане  
+   Link: [https://kaktus.media/doc/364278_9_svidetelstv_poiavleniia_nlo_v_kyrgyzstane.html](https://kaktus.media/doc/364278_9_svidetelstv_poiavleniia_nlo_v_kyrgyzstane.html)  
+
+4. <a id="endnote-4"></a>
+   Source: nuforc.org  
+   Title: Reports for Country Kyrgyzistan  
+   Link: [https://nuforc.org/subndx/?id=cKyrgyzistan](https://nuforc.org/subndx/?id=cKyrgyzistan)  
+
+5. <a id="endnote-5"></a>
+   Source: russianspaceweb.com  
+   Title: soyuz lv 2010  
+   Link: [https://www.russianspaceweb.com/soyuz_lv_2010.html](https://www.russianspaceweb.com/soyuz_lv_2010.html)  
+
+6. <a id="endnote-6"></a>
+   Source: ru.sputnik.kg  
+   Title: КыргызстанКыргызстанцы, увидевшие НЛО, — 11 историй  
+   Link: [https://ru.sputnik.kg/20211005/nlo-kyrgyzstan-issyk-kul-istorii-1054126658.html](https://ru.sputnik.kg/20211005/nlo-kyrgyzstan-issyk-kul-istorii-1054126658.html)  
+
+7. <a id="endnote-7"></a>
+   Source: nuforc.org  
+   Title: Reports for Country Kyrgyzstan  
+   Link: [https://nuforc.org/subndx/?id=cKyrgyzstan](https://nuforc.org/subndx/?id=cKyrgyzstan)  
+
+8. <a id="endnote-8"></a>
+   Source: dni.gov  
+   Title: Director of National Intelligence  
+   Link: [https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf](https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf)  
+
+9. <a id="endnote-9"></a>
+   Source: archives.gov  
+   Link: [https://www.archives.gov/research/topics/uaps](https://www.archives.gov/research/topics/uaps)  
+
+10. <a id="endnote-10"></a>
+   Source: aaro.mil  
+   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Home...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: nuforc.org  
+   Title: Reports by Location  
+   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+
+12. <a id="endnote-12"></a>
+   Source: russianspaceweb.com  
+   Title: soyuz lv 2013  
+   Link: [https://www.russianspaceweb.com/soyuz_lv_2013.html](https://www.russianspaceweb.com/soyuz_lv_2013.html)  
+
+13. <a id="endnote-13"></a>
+   Source: aaro.mil  
+   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+
+14. <a id="endnote-14"></a>
+   Source: aaro.mil  
+   Title: UAP Records  
+   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+
+15. <a id="endnote-15"></a>
+   Source: aaro.mil  
+   Title: AARO Historical Record Report Vol 1 2024  
+   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
+
+16. <a id="endnote-16"></a>
+   Source: nuforc.org  
+   Link: [https://nuforc.org/subndx/?id=all](https://nuforc.org/subndx/?id=all)  
+
+17. <a id="endnote-17"></a>
+   Source: nuforc.org  
+   Link: [https://nuforc.org/sighting/?id=190195](https://nuforc.org/sighting/?id=190195)  
+
+18. <a id="endnote-18"></a>
+   Source: nuforc.org  
+   Link: [https://nuforc.org/gallery/](https://nuforc.org/gallery/)  
+
+19. <a id="endnote-19"></a>
+   Source: intelligence.gov  
+   Link: [https://www.intelligence.gov/publics-daily-brief/publics-daily-brief-articles/unidentified-aerial-phenomena-preliminary-intelligence-assessment](https://www.intelligence.gov/publics-daily-brief/publics-daily-brief-articles/unidentified-aerial-phenomena-preliminary-intelligence-assessment)  
+
+20. <a id="endnote-20"></a>
+   Source: bradtguides.com  
+   Title: Bradt Guides The strange tale of the Shaitan Mazar UFO  
+   Link: [https://www.bradtguides.com/the-strange-tale-of-the-shaitan-mazar-ufo/](https://www.bradtguides.com/the-strange-tale-of-the-shaitan-mazar-ufo/)  
+
+21. <a id="endnote-21"></a>
+   Source: media.defense.gov  
+   Title: U.S. Department of War AARO Historical Record Report Volume 1  
+   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+
+22. <a id="endnote-22"></a>
+   Source: nationalarchives.gov.uk  
+   Link: [https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/)  
+
+23. <a id="endnote-23"></a>
+   Source: baikonurtour.com  
+   Link: [https://baikonurtour.com/launches.html](https://baikonurtour.com/launches.html)  
+
+### Additional References
+
+24. <a id="endnote-24"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=00XZHpe2r9I](https://www.youtube.com/watch?v=00XZHpe2r9I)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: UFO Incident SHOCKS Chinese Officials (Special) | History...</p></details>
+
+25. <a id="endnote-25"></a>
+   Source: youtube.com  
+   Title: Video appears to show Chinese rocket debris burning up in atmosphere  
+   Link: [https://www.youtube.com/watch?v=fqrFYWkn9TI](https://www.youtube.com/watch?v=fqrFYWkn9TI)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chinese space debris seen burning up in night sky over Malaysia as rocket parts land in sea...</p></details>
+
+26. <a id="endnote-26"></a>
+   Source: youtube.com  
+   Title: Russian rocket is seen streaking accross night sky in Russia  
+   Link: [https://www.youtube.com/watch?v=b60SM627Qrg](https://www.youtube.com/watch?v=b60SM627Qrg)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Video appears to show Chinese rocket debris burning up in atmosphere...</p></details>
+
+27. <a id="endnote-27"></a>
+   Source: youtube.com  
+   Title: South Koreans spooked as secret rocket launch mistaken for UFO  
+   Link: [https://www.youtube.com/watch?v=FFXvtcVIQTE](https://www.youtube.com/watch?v=FFXvtcVIQTE)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Russian rocket is seen streaking accross night sky in Russia...</p></details>
+
+28. <a id="endnote-28"></a>
+   Source: energy.gov  
+   Link: [https://www.energy.gov/nnsa/uapufo-resources-and-documents](https://www.energy.gov/nnsa/uapufo-resources-and-documents)  
+
+29. <a id="endnote-29"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/nytimes/posts/a-spiral-of-light-illuminating-the-night-sky-experts-said-was-caused-by-frozen-f/1044427670873029/](https://www.facebook.com/nytimes/posts/a-spiral-of-light-illuminating-the-night-sky-experts-said-was-caused-by-frozen-f/1044427670873029/)  
+
+30. <a id="endnote-30"></a>
+   Source: spyscape.com  
+   Link: [https://spyscape.com/article/alien-hoaxes-that-went-viral](https://spyscape.com/article/alien-hoaxes-that-went-viral)  
+
+31. <a id="endnote-31"></a>
+   Source: instagram.com  
+   Link: [https://www.instagram.com/reel/Cp6ymCnjAlq/](https://www.instagram.com/reel/Cp6ymCnjAlq/)  
+
+32. <a id="endnote-32"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/AskCentralAsia/comments/10ym4xr/can_you_tell_me_about_some_ufo_sightings_unsolved/](https://www.reddit.com/r/AskCentralAsia/comments/10ym4xr/can_you_tell_me_about_some_ufo_sightings_unsolved/)  
+
+33. <a id="endnote-33"></a>
+   Source: instagram.com  
+   Link: [https://www.instagram.com/reel/DQb8L2cgIjE/](https://www.instagram.com/reel/DQb8L2cgIjE/)  

@@ -1,0 +1,564 @@
+---
+level: 2
+basename: Barbados_93409a_astronomical_sightin_0e0aa1
+parent_basename: Barbados_93409a
+child_basenames: []
+sibling_basenames:
+- Barbados_93409a_1987_barbados_wave_422c96
+- Barbados_93409a_civilian_ufo_reports_550e3e
+- Barbados_93409a_geography_aviation_f60b88
+tags:
+- barbados
+- astronomical-events
+keywords:
+- barbados
+- astronomical-events
+affiliate_category: barbados
+show_ads: true
+description: Instances where meteors, planets, or satellites explained observed sky phenomena mistaken for UFOs.
+hero_summary: Instances where meteors, planets, or satellites explained observed sky phenomena mistaken for UFOs.
+layout: default
+permalink: /astronomical-events/
+sidebar_expanded_urls:
+- /what-really-happened-in-barbados-skies/
+nav_short_title: Astronomical Events
+title: Meteor and Astronomical Sightings in Barbados
+title_full: Meteor and Astronomical Sightings in Barbados | Barbados UFOs
+display_title_short: Astronomical Events
+display_title: Astronomical Events
+heading_title: Meteor and Astronomical Sightings in Barbados
+page_heading_title: Meteor and Astronomical Sightings in Barbados
+source_count: 39
+infographic_count: 3
+planned_sections:
+- September 2023 meteor case
+- Planetary misidentifications
+- Space debris and fireballs
+focal_unit_type: mechanism
+topic_lens: mechanism
+topic_granularity: pillar
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+parent_title: Barbados UFOs
+parent_permalink: /what-really-happened-in-barbados-skies/
+parent_nav_short_title: Barbados UFOs
+parent_heading_title: What Really Happened in Barbados Skies?
+ancestor_links:
+- basename: Barbados_93409a
+  title: Barbados UFOs
+  permalink: /what-really-happened-in-barbados-skies/
+  short_title: Barbados UFOs
+breadcrumb_links:
+- basename: Barbados_93409a
+  title: Barbados UFOs
+  permalink: /what-really-happened-in-barbados-skies/
+  short_title: Barbados UFOs
+sibling_links:
+- basename: Barbados_93409a_1987_barbados_wave_422c96
+  title: 1987 Wave | What Really Happened in Barbados Skies?
+  permalink: /1987-wave/
+  short_title: 1987 Wave
+  heading_title: Inside the September 1987 Barbados UFO Wave
+- basename: Barbados_93409a_civilian_ufo_reports_550e3e
+  title: Civilian Reports | What Really Happened in Barbados Skies?
+  permalink: /civilian-reports/
+  short_title: Civilian Reports
+  heading_title: Post 1987 Civilian UFO Sightings in Barbados
+- basename: Barbados_93409a_geography_aviation_f60b88
+  title: Geography & Aviation | What Really Happened in Barbados Skies?
+  permalink: /geography-aviation/
+  short_title: Geography & Aviation
+  heading_title: How Barbados Geography Shapes UFO Sightings
+up_link:
+  basename: Barbados_93409a
+  title: Barbados UFOs
+  permalink: /what-really-happened-in-barbados-skies/
+  short_title: Barbados UFOs
+prev_link:
+  basename: Barbados_93409a_1987_barbados_wave_422c96
+  title: 1987 Wave | What Really Happened in Barbados Skies?
+  permalink: /1987-wave/
+  short_title: 1987 Wave
+  heading_title: Inside the September 1987 Barbados UFO Wave
+next_link:
+  basename: Barbados_93409a_civilian_ufo_reports_550e3e
+  title: Civilian Reports | What Really Happened in Barbados Skies?
+  permalink: /civilian-reports/
+  short_title: Civilian Reports
+  heading_title: Post 1987 Civilian UFO Sightings in Barbados
+date: '2026-05-31 04:02:24 '
+header:
+  og_image: /assets/images/Barbados_93409a_astronomical_sightin_0e0aa1-Illustration-1-social.jpg
+  preview_image: /assets/images/Barbados_93409a_astronomical_sightin_0e0aa1-Illustration-1.webp
+image: /assets/images/Barbados_93409a_astronomical_sightin_0e0aa1-Illustration-1-social.jpg
+---
+
+## Introduction
+
+This page surveys *confirmed astronomical and meteor events in [Barbados]({{ 'what-really-happened-in-barbados-skies/' | relative_url }}) skies* — verified natural sky phenomena that have been witnessed from Barbados and identified by observers and experts. This includes bright meteors streaking through the atmosphere, recognised halo effects around the Sun, and other celestial displays that might be mistaken for unidentified aerial activity but are grounded in conventional astronomy or atmospheric science.
+
+
+<img src="{{ "/assets/images/Barbados_93409a_astronomical_sightin_0e0aa1-Illustration-1-light.svg" | relative_url }}" alt="Astronomical Events illustration 1" data-theme-src-dark="{{ "/assets/images/Barbados_93409a_astronomical_sightin_0e0aa1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Barbados_93409a_astronomical_sightin_0e0aa1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+## Dramatic Meteor Sightings Seen From Barbados
+
+### The September 2023 Meteor Over Barbados
+
+On the evening of **13 September 2023**, a bright streaking object lit up the skies over Barbados and across parts of the eastern Caribbean. Reports from local news described Barbadians outside *around 19:20* witnessing a fiery trail across the sky. Observers contacted the Barbados Astronomical Society, whose president confirmed the phenomenon as a **meteor** — a meteoroid entering Earth’s atmosphere and burning up due to friction with the air. Experts explicitly ruled out it being satellite material or space junk, noting that it was visible to the naked eye over wide vantage points, and part of a regional meteor event, as far north as Dominica.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbc.bb/news/local-news/meteor-lights-up-skies-across-barbados/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbc.bb">[Caribbean Broadcasting Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbc.bb</span><span class="citation-popover-title">Caribbean Broadcasting Corporation Meteor lights up skies across Barbados</span><span class="citation-popover-snippet">Caribbean Broadcasting CorporationMeteor lights up skies across Barbados - Caribbean Broadcasting CorporationSeptember 13, 2023...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+
+This meteor was widely discussed in social media and news within Barbados and stands as one of the clearest locally confirmed astronomical events that might otherwise be mistaken for an unusual aerial object.
+
+### Video Documentation and Public Recognition
+
+Local media backed the September 2023 sighting with visual material, including video posted to platforms like YouTube by the Caribbean Broadcasting Corporation. The video shows a bright shaft of light moving fast across the sky, consistent with typical meteor behaviour as small cosmic debris heats up upon atmospheric entry.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=4wdjU6gsaLw" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">You Tube Meteor lights up skies across Barbados</span><span class="citation-popover-snippet">Meteor lights up skies across BarbadosSeptember 14, 2023 — What happened last night just was a larger than normal fragment of a me...</span><span class="citation-popover-meta">Published: September 14, 2023</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UUmxtdUrjXU" title="Sun Halo!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UUmxtdUrjXU" target="_blank" rel="noopener noreferrer">Sun Halo!</a></p><p class="youtube-embed-meta">Channel: Mr. Weatherman &middot; Views: 62.6K &middot; Uploaded: April 2024 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UUmxtdUrjXU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UUmxtdUrjXU">Open on YouTube</a></p></div></div></div>
+
+## Other Natural Sky Phenomena Misidentified by Observers
+
+### Sun Halos and Atmospheric Optics
+
+On **26 April 2026**, a distinct ring around the Sun was observed and widely shared on social media by residents in Barbados. This feature was accurately identified by scientists and meteorologists as a **22‑degree halo**, an optical phenomenon caused by sunlight refracting through ice crystals in high‑level cirrus clouds. It is common worldwide and occasionally surprises observers unfamiliar with atmospheric optics, leading to initial speculation about something “unusual” in the sky. Experts emphasised that this was a natural, non‑anomalous event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbc.bb/news/local-news/meteor-lights-up-skies-across-barbados/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbc.bb">[Caribbean Broadcasting Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbc.bb</span><span class="citation-popover-title">Caribbean Broadcasting Corporation Meteor lights up skies across Barbados</span><span class="citation-popover-snippet">Caribbean Broadcasting CorporationMeteor lights up skies across Barbados - Caribbean Broadcasting CorporationSeptember 13, 2023...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+
+Similar halo phenomena have been reported in Barbados in earlier years as well, sometimes described in local news coverage that explained their origin and assured the public they are benign atmospheric effects rather than objects or craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbc.bb/news/local-news/meteor-lights-up-skies-across-barbados/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbc.bb">[Caribbean Broadcasting Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbc.bb</span><span class="citation-popover-title">Caribbean Broadcasting Corporation Meteor lights up skies across Barbados</span><span class="citation-popover-snippet">Caribbean Broadcasting CorporationMeteor lights up skies across Barbados - Caribbean Broadcasting CorporationSeptember 13, 2023...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+
+### Ongoing Experience With Regular Meteor Showers
+
+While not always individually reported from Barbados, regular **meteor showers** — such as the *Eta Aquariids*, *Perseids*, and *Geminids* — are predictable astronomical events that can be visible from tropical latitudes. According to meteor shower calendars compiled by international organisations like the American Meteor Society, these annual showers bring increased rates of visible meteors when Earth passes through debris streams left by comets. Observers in Barbados, benefiting from relatively dark rural skies and local astronomy outreach, are well placed to see these events when conditions are favourable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amsmeteors.org/meteor-showers/meteor-shower-calendar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-title">meteor shower calendar</span><span class="citation-popover-snippet">American Meteor SocietyMeteor Shower Calendar 2026-2027A meteor shower is a celestial event in which a number of meteors are observed to...</span></span></span>
+
+
+<img src="{{ "/assets/images/Barbados_93409a_astronomical_sightin_0e0aa1-Illustration-2-light.svg" | relative_url }}" alt="Astronomical Events illustration 2" data-theme-src-dark="{{ "/assets/images/Barbados_93409a_astronomical_sightin_0e0aa1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Barbados_93409a_astronomical_sightin_0e0aa1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Contribution of Local Astronomy Resources
+
+The **Barbados Astronomical Society** and institutions such as the Harry Bayley Observatory play a role in educating observers about expected astronomical events and confirming natural explanations for unusual sky sightings. Through public stargazing nights, outreach programmes, and expert commentary, the Society helps distinguish between confirmed natural phenomena and misinterpretations — for example, distinguishing meteors from satellites, aircraft contrails, or atmospheric optics.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hbo.bb/hbo/index.php/activities/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbo.bb">[hbo.bb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbo.bb</span><span class="citation-popover-title">Activities – Barbados Astronomical Society Inc</span><span class="citation-popover-snippet">Activities – Barbados Astronomical Society Inc</span></span></span>
+
+Regular events organised by the Society also make it easier for residents and visitors to understand the night sky’s dynamics, including when particular planets, stars, or periodic meteor displays are most visible from Barbados.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zPf1kT6pSlU" title="2023 September 16 - Fireball over Iceland" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zPf1kT6pSlU" target="_blank" rel="noopener noreferrer">2023 September 16 - Fireball over Iceland</a></p><p class="youtube-embed-meta">Channel: APOD Podcast &middot; Views: 400 &middot; Uploaded: September 2023 &middot; Length: 4 minutes 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zPf1kT6pSlU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zPf1kT6pSlU">Open on YouTube</a></p></div></div></div>
+
+## How These Events Are Distinguished from Anomalous Sightings
+
+Confirmed astronomical events like the 2023 meteor or observed halo effects demonstrate how natural sky phenomena can sometimes prompt reports that resemble “unidentified” aerial objects. In these cases:
+
+* **Meteors** are identified through their *speed, trajectory, and characteristic luminous trail* created by atmospheric friction. Such events are seen across vast regions and can be corroborated by expert commentary or regional visibility patterns.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbc.bb/news/local-news/meteor-lights-up-skies-across-barbados/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbc.bb">[Caribbean Broadcasting Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbc.bb</span><span class="citation-popover-title">Caribbean Broadcasting Corporation Meteor lights up skies across Barbados</span><span class="citation-popover-snippet">Caribbean Broadcasting CorporationMeteor lights up skies across Barbados - Caribbean Broadcasting CorporationSeptember 13, 2023...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+* **Halo effects** around bright celestial bodies like the Sun occur due to *optical refraction through ice crystals*, explainable by atmospheric science rather than anomalous craft or object sources.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbc.bb/news/local-news/meteor-lights-up-skies-across-barbados/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbc.bb">[Caribbean Broadcasting Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbc.bb</span><span class="citation-popover-title">Caribbean Broadcasting Corporation Meteor lights up skies across Barbados</span><span class="citation-popover-snippet">Caribbean Broadcasting CorporationMeteor lights up skies across Barbados - Caribbean Broadcasting CorporationSeptember 13, 2023...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+* **Astronomical planning resources** (e.g., meteor shower calendars) provide advance expectations of natural sky activity observable from Barbados, reducing the likelihood that routine celestial events are misclassified as unexplained.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amsmeteors.org/meteor-showers/meteor-shower-calendar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-title">meteor shower calendar</span><span class="citation-popover-snippet">American Meteor SocietyMeteor Shower Calendar 2026-2027A meteor shower is a celestial event in which a number of meteors are observed to...</span></span></span>
+
+Understanding these mechanisms helps contextualise public sightings that could otherwise be misinterpreted, and places confirmed events in a reliable scientific frame.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4wdjU6gsaLw" title="Meteor lights up skies across Barbados" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4wdjU6gsaLw" target="_blank" rel="noopener noreferrer">Meteor lights up skies across Barbados</a></p><p class="youtube-embed-meta">Channel: Caribbean Broadcasting Corporation &middot; Views: 27.1K &middot; Uploaded: September 2023 &middot; Length: 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4wdjU6gsaLw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4wdjU6gsaLw">Open on YouTube</a></p></div></div></div>
+
+## Summary
+
+Barbados’s skies have been home to several *confirmed astronomical events* that have captured public attention:
+
+* A **bright meteor** was widely observed and scientifically affirmed in *September 2023*, seen across the eastern Caribbean from Barbados.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbc.bb/news/local-news/meteor-lights-up-skies-across-barbados/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbc.bb">[Caribbean Broadcasting Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbc.bb</span><span class="citation-popover-title">Caribbean Broadcasting Corporation Meteor lights up skies across Barbados</span><span class="citation-popover-snippet">Caribbean Broadcasting CorporationMeteor lights up skies across Barbados - Caribbean Broadcasting CorporationSeptember 13, 2023...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+* **Sun halo phenomena**, caused by ice crystal refraction, have periodically entranced local observers while being clearly explained by atmospheric science.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbc.bb/news/local-news/meteor-lights-up-skies-across-barbados/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbc.bb">[Caribbean Broadcasting Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbc.bb</span><span class="citation-popover-title">Caribbean Broadcasting Corporation Meteor lights up skies across Barbados</span><span class="citation-popover-snippet">Caribbean Broadcasting CorporationMeteor lights up skies across Barbados - Caribbean Broadcasting CorporationSeptember 13, 2023...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+* Barbados’s favourable geographical position and active astronomy community make it a suitable locale for observing both routine and occasional natural sky phenomena that might otherwise attract speculative interpretation.
+
+These confirmed phenomena sit alongside the broader context of annual meteor showers and other predictable celestial events that engage both casual skywatchers and the scientific community in Barbados. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amsmeteors.org/meteor-showers/meteor-shower-calendar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-title">meteor shower calendar</span><span class="citation-popover-snippet">American Meteor SocietyMeteor Shower Calendar 2026-2027A meteor shower is a celestial event in which a number of meteors are observed to...</span></span></span>
+
+
+<img src="{{ "/assets/images/Barbados_93409a_astronomical_sightin_0e0aa1-Illustration-3-light.svg" | relative_url }}" alt="Astronomical Events illustration 3" data-theme-src-dark="{{ "/assets/images/Barbados_93409a_astronomical_sightin_0e0aa1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Barbados_93409a_astronomical_sightin_0e0aa1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Meteor and Astronomical Sightings in Barbados. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+        </h4>
+        <p class="fr-book-author">By Terence Dickinson</p>
+        
+        <p class="fr-book-desc">Helps readers identify meteors, planets and other sky objects often mistaken for UFOs.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+        </h4>
+        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+        
+        <p class="fr-book-desc">Teaches identification of common celestial objects frequently misreported as anomalies.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Showers and their Parent Comets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=14zKCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteor Showers and their Parent Comets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
+        </h4>
+        <p class="fr-book-author">By Peter Jenniskens</p>
+        
+        <p class="fr-book-desc">Directly addresses meteor phenomena like the Barbados 2023 event.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cosmos on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VKjWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cosmos" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cosmos">Cosmos</a>
+        </h4>
+        <p class="fr-book-author">By Carl Sagan</p>
+        
+        <p class="fr-book-desc">Broadens understanding of astronomical events and observation.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteor Showers and their Parent Comets</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: youtube.com  
+   Title: You Tube Meteor lights up skies across Barbados  
+   Link: [https://www.youtube.com/watch?v=4wdjU6gsaLw](https://www.youtube.com/watch?v=4wdjU6gsaLw)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteor lights up skies across BarbadosSeptember 14, 2023 — What happened last night just was a larger than normal fragment of a me...</p></details>
+   Published: September 14, 2023  
+
+2. <a id="endnote-2"></a>
+   Source: hbo.bb  
+   Title: Activities – Barbados Astronomical Society Inc  
+   Link: [https://hbo.bb/hbo/index.php/activities/](https://hbo.bb/hbo/index.php/activities/)  
+
+3. <a id="endnote-3"></a>
+   Source: events.barbados.org  
+   Title: 🤔 > Green, bald aliens with big eyes 👽 in flying saucers 🛸 might come to mind  
+   Link: [https://events.barbados.org/event/astrobiology-life-as-we-dont-know-it/](https://events.barbados.org/event/astrobiology-life-as-we-dont-know-it/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>barbados.orgAstrobiology: Life As We Don’t Know It | Barbados Events CalendarNovember 7, 2025 — ASTROBIOLOGY: LIFE AS WE DON’T KNOW IT No...</p></details>
+   Published: November 7, 2025  
+
+4. <a id="endnote-4"></a>
+   Source: news.sky.com  
+   Title: The UK Fireball Alliance and UK Meteor O  
+   Link: [https://news.sky.com/story/meteor-spotted-over-uk-last-night-as-hundreds-report-seeing-fireball-in-the-sky-12615065](https://news.sky.com/story/meteor-spotted-over-uk-last-night-as-hundreds-report-seeing-fireball-in-the-sky-12615065)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>sky.com&#x27;Meteor&#x27; spotted over UK last night as hundreds report seeing fireball in the sky | UK News | Sky NewsMay 17, 2022 — &#x27;METEOR&#x27; SPOT...</p></details>
+   Published: May 17, 2022  
+
+5. <a id="endnote-5"></a>
+   Source: events.barbados.org  
+   Title: astronomy great balls of ice  
+   Link: [https://events.barbados.org/event/astronomy-great-balls-of-ice/](https://events.barbados.org/event/astronomy-great-balls-of-ice/)  
+
+6. <a id="endnote-6"></a>
+   Source: barbados.org  
+   Title: Stargazing With Leo  
+   Link: [https://barbados.org/blog/stargazing-with-leo-barbados-cosmic-pioneer/](https://barbados.org/blog/stargazing-with-leo-barbados-cosmic-pioneer/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>“A falling star,” I replied, remembering Perry Comos’ song: ‘Catch a falling star and put in your pocket, save it f...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=4Ue_gvNIeXc](https://www.youtube.com/watch?v=4Ue_gvNIeXc)  
+
+8. <a id="endnote-8"></a>
+   Source: youtube.com  
+   Title: Sun halo spotted  
+   Link: [https://www.youtube.com/watch?v=8RaW6usAigg](https://www.youtube.com/watch?v=8RaW6usAigg)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sun Halo...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: youtube.com  
+   Title: Sun Halo!  
+   Link: [https://www.youtube.com/watch?v=UUmxtdUrjXU](https://www.youtube.com/watch?v=UUmxtdUrjXU)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball over Iceland...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: youtube.com  
+   Title: Fireball over Iceland  
+   Link: [https://www.youtube.com/watch?v=zPf1kT6pSlU](https://www.youtube.com/watch?v=zPf1kT6pSlU)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The video at the first link provides direct documentation of the September 2023 meteor sighting in Barbados, while the subsequent links o...</p></details>
+   Published: September 2023  
+
+11. <a id="endnote-11"></a>
+   Source: cbc.bb  
+   Title: Caribbean Broadcasting Corporation Meteor lights up skies across Barbados  
+   Link: [https://www.cbc.bb/news/local-news/meteor-lights-up-skies-across-barbados/](https://www.cbc.bb/news/local-news/meteor-lights-up-skies-across-barbados/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Caribbean Broadcasting CorporationMeteor lights up skies across Barbados - Caribbean Broadcasting CorporationSeptember 13, 2023...</p></details>
+   Published: September 13, 2023  
+
+12. <a id="endnote-12"></a>
+   Source: cbc.bb  
+   Title: Caribbean Broadcasting Corporation Sun halo sparks fascination across Barbados  
+   Link: [https://www.cbc.bb/news/local-news/sun-halo-sparks-fascination-across-barbados/](https://www.cbc.bb/news/local-news/sun-halo-sparks-fascination-across-barbados/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Caribbean Broadcasting CorporationSun halo sparks fascination across Barbados - Caribbean Broadcasting CorporationApril 26, 2026...</p></details>
+   Published: April 26, 2026  
+
+13. <a id="endnote-13"></a>
+   Source: cbc.bb  
+   Link: [https://www.cbc.bb/news/weather-news/halo-brightens-barbados/](https://www.cbc.bb/news/weather-news/halo-brightens-barbados/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Caribbean Broadcasting CorporationHalo brightens BarbadosThe Barbados Meteorological Services explained that the “halo is a ring or light...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: amsmeteors.org  
+   Title: meteor shower calendar  
+   Link: [https://www.amsmeteors.org/meteor-showers/meteor-shower-calendar/](https://www.amsmeteors.org/meteor-showers/meteor-shower-calendar/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyMeteor Shower Calendar 2026-2027A meteor shower is a celestial event in which a number of meteors are observed to...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: cbc.bb  
+   Title: Funnel cloud activity spotted  
+   Link: [https://www.cbc.bb/news/local-news/funnel-cloud-activity-spotted/](https://www.cbc.bb/news/local-news/funnel-cloud-activity-spotted/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Caribbean Broadcasting CorporationMarch 30, 2024 — Caribbean Broadcasting Corporation The most credible news source in Barbados FUNNEL CL...</p></details>
+   Published: March 30, 2024  
+
+### Additional References
+
+16. <a id="endnote-16"></a>
+   Source: instagram.com  
+   Link: [https://www.instagram.com/reel/DXoWK44jb7q/](https://www.instagram.com/reel/DXoWK44jb7q/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>CBC News Barbados on Instagram: &quot;Barbadians were...Barbadians were dazzled by a halo which appeared around the sun on Sunday morning, be...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: insandoutsbarbados.com  
+   Link: [https://www.insandoutsbarbados.com/events/meteor-magic-at-walkers-reserve](https://www.insandoutsbarbados.com/events/meteor-magic-at-walkers-reserve)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteor Magic at Walkers ReserveMETEOR MAGIC AT WALKERS RESERVE Experience the wonder of the Geminid Meteor Shower at Meteor Magic, an unf...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: gbnews.com  
+   Link: [https://www.gbnews.com/science/meteor-green-fireball-spotted-north-east-england](https://www.gbnews.com/science/meteor-green-fireball-spotted-north-east-england)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 14, 2026 — HUGE GREEN FIREBALL CONFIRMED AS METEOR AFTER FLYING THROUGH NIGHT SKY OVER BRITAIN Image: Fintan Starkey By Fintan Star...</p></details>
+   Published: April 14, 2026  
+
+19. <a id="endnote-19"></a>
+   Source: theskylive.com  
+   Link: [https://theskylive.com/guide?geoid=3373652](https://theskylive.com/guide?geoid=3373652)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Sky Tonight from Oistins, BarbadosThis timeline details when Solar System objects will be visible tonight from Oistins, Barbados. For...</p></details>
+
+20. <a id="endnote-20"></a>
+   Source: instagram.com  
+   Link: [https://www.instagram.com/p/DNGCaj_Mopj/](https://www.instagram.com/p/DNGCaj_Mopj/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>🌠 Perseids Incoming! …With a Conjunction and Moon...PERSEID METEOR SHOWER AUG 12-13• 12 PEAK NIGHT: AUG 12-EARLY AUG 13 BEST VIEWING TIM...</p></details>
+
+21. <a id="endnote-21"></a>
+   Source: itv.com  
+   Link: [https://www.itv.com/news/tyne-tees/2026-04-14/scientists-confirm-fireball-seen-in-night-skies-was-meteor](https://www.itv.com/news/tyne-tees/2026-04-14/scientists-confirm-fireball-seen-in-night-skies-was-meteor)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 14, 2026 — SCIENTISTS CONFIRM FIREBALL SEEN ABOVE NORTH EAST WAS METEOR * Tyne Tees * space * meteors * Northumberland * Tuesday 14...</p></details>
+   Published: April 14, 2026  
+
+22. <a id="endnote-22"></a>
+   Source: islandhopperguides.com  
+   Title: Stargazing in Barbados: Witness the Southern Hemisphere's Celestial Wonders  
+   Link: [https://islandhopperguides.com/barbados/barbados-activities/stargazing-in-barbados-witness-the-southern-hemispheres-celestial-wonders/](https://islandhopperguides.com/barbados/barbados-activities/stargazing-in-barbados-witness-the-southern-hemispheres-celestial-wonders/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Island Hopper GuidesMay 13, 2025 — STARGAZING IN BARBADOS: WITNESS THE SOUTHERN HEMISPHERE’S CELESTIAL WONDERS Barbados, with its clear s...</p></details>
+   Published: May 13, 2025  
+
+23. <a id="endnote-23"></a>
+   Source: caymancompass.com  
+   Title: Fireball in sky over Cayman likely old space station falling to Earth  
+   Link: [https://www.caymancompass.com/2025/09/03/fireball-in-sky-over-cayman-likely-old-space-station-falling-to-earth/](https://www.caymancompass.com/2025/09/03/fireball-in-sky-over-cayman-likely-old-space-station-falling-to-earth/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cayman CompassSeptember 3, 2025 — FIREBALL IN SKY OVER CAYMAN LIKELY OLD SPACE STATION FALLING TO EARTH By Norma Connolly - 3 September 2...</p></details>
+   Published: September 3, 2025  
+
+24. <a id="endnote-24"></a>
+   Source: instagram.com  
+   Title: &middot; Barbadians were dazzled by a halo which  
+   Link: [https://www.instagram.com/reel/DXPeP0pEkiH/](https://www.instagram.com/reel/DXPeP0pEkiH/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Nation Barbados | Barbadians can spot a Sun Halo in the...Barbadians can spot a Sun Halo in the sky today, which appears to be a rai...</p></details>
+
+25. <a id="endnote-25"></a>
+   Source: ttweathercenter.com  
+   Title: Second Meteor Spotted In T&T's Skies In A Week  
+   Link: [https://ttweathercenter.com/2026/03/25/second-meteor-spotted-in-tts-skies-in-a-week/32364/](https://ttweathercenter.com/2026/03/25/second-meteor-spotted-in-tts-skies-in-a-week/32364/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Trinidad and Tobago Weather CenterMarch 25, 2026 — SECOND METEOR SPOTTED IN T&amp;T’S SKIES IN A WEEK March 25, 2026 5 minute read On Wednesd...</p></details>
+   Published: March 25, 2026  

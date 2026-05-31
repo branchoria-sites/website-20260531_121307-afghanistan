@@ -1,0 +1,551 @@
+---
+level: 2
+basename: Netherlands_Kingdom_d6d70a_gorredijk_ufo_wave_9e8fa0
+parent_basename: Netherlands_Kingdom_d6d70a
+child_basenames: []
+sibling_basenames:
+- Netherlands_Kingdom_d6d70a_meldpunt_report_data_daad9e
+- Netherlands_Kingdom_d6d70a_soesterberg_air_base_ca18c3
+- Netherlands_Kingdom_d6d70a_uap_policy_gap_0da2a4
+tags:
+- netherlands-kingdom-of-the
+- gorredijk
+keywords:
+- netherlands-kingdom-of-the
+- gorredijk
+affiliate_category: netherlands-kingdom-of-the
+show_ads: true
+description: The 1974 Frisian wave shows how schoolchildren, adults, investigators, and the press turned a village into a lasting UFO case.
+hero_summary: The 1974 Frisian wave shows how schoolchildren, adults, investigators, and the press turned a village into a lasting UFO case.
+layout: default
+permalink: /gorredijk/
+sidebar_expanded_urls:
+- /netherlands-kingdom-of-the/
+nav_short_title: Gorredijk
+title: Why Gorredijk Became the Dutch UFO Village
+title_full: Why Gorredijk Became the Dutch UFO Village | Dutch UFOs
+display_title_short: Gorredijk
+display_title: Gorredijk
+heading_title: Why Gorredijk Became the Dutch UFO Village
+page_heading_title: Why Gorredijk Became the Dutch UFO Village
+source_count: 31
+infographic_count: 3
+planned_sections:
+- What witnesses reported in February 1974
+- How media and investigators shaped the case
+- What the episode reveals about community UFO waves
+focal_unit_type: event_time_window
+topic_lens: historical_comparative
+topic_granularity: case_family
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+parent_title: Dutch UFOs
+parent_permalink: /netherlands-kingdom-of-the/
+parent_nav_short_title: Dutch UFOs
+parent_heading_title: What Really Happened in Dutch UFO Cases?
+ancestor_links:
+- basename: Netherlands_Kingdom_d6d70a
+  title: Dutch UFOs
+  permalink: /netherlands-kingdom-of-the/
+  short_title: Dutch UFOs
+breadcrumb_links:
+- basename: Netherlands_Kingdom_d6d70a
+  title: Dutch UFOs
+  permalink: /netherlands-kingdom-of-the/
+  short_title: Dutch UFOs
+sibling_links:
+- basename: Netherlands_Kingdom_d6d70a_uap_policy_gap_0da2a4
+  title: Policy Gap | What Really Happened in Dutch UFO Cases?
+  permalink: /policy-gap/
+  short_title: Policy Gap
+  heading_title: Should the Netherlands Have a UAP Reporting Office?
+- basename: Netherlands_Kingdom_d6d70a_meldpunt_report_data_daad9e
+  title: Report Data | What Really Happened in Dutch UFO Cases?
+  permalink: /report-data/
+  short_title: Report Data
+  heading_title: Why Most Dutch UFO Reports Become Familiar Objects
+- basename: Netherlands_Kingdom_d6d70a_soesterberg_air_base_ca18c3
+  title: Soesterberg | What Really Happened in Dutch UFO Cases?
+  permalink: /soesterberg/
+  short_title: Soesterberg
+  heading_title: The Dutch Air Base Case That Would Not Fade
+up_link:
+  basename: Netherlands_Kingdom_d6d70a
+  title: Dutch UFOs
+  permalink: /netherlands-kingdom-of-the/
+  short_title: Dutch UFOs
+next_link:
+  basename: Netherlands_Kingdom_d6d70a_uap_policy_gap_0da2a4
+  title: Policy Gap | What Really Happened in Dutch UFO Cases?
+  permalink: /policy-gap/
+  short_title: Policy Gap
+  heading_title: Should the Netherlands Have a UAP Reporting Office?
+date: '2026-05-31 04:25:14 '
+header:
+  og_image: /assets/images/Netherlands_Kingdom_d6d70a_gorredijk_ufo_wave_9e8fa0-Illustration-1-social.jpg
+  preview_image: /assets/images/Netherlands_Kingdom_d6d70a_gorredijk_ufo_wave_9e8fa0-Illustration-1.webp
+image: /assets/images/Netherlands_Kingdom_d6d70a_gorredijk_ufo_wave_9e8fa0-Illustration-1-social.jpg
+---
+
+## Introduction
+
+In Dutch UFO history, no place has become more closely associated with a single wave of sightings than the Frisian town of Gorredijk. During the first months of 1974, reports of strange lights, triangular objects, hovering shapes and fast-moving aerial phenomena spread through the village and surrounding area. Adults reported sightings, but so did large numbers of schoolchildren. Local newspapers amplified the stories, investigators travelled to the area, observation groups formed, and the episode became national news. Fifty years later, Gorredijk remains the Netherlands' most famous local UFO wave and one of the country's most discussed case studies in how communities construct, interpret and remember unexplained events. Richard de Boer <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bruna.nl/boeken/de-ufo-s-van-gorredijk-9789464711721" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bruna.nl">[bruna]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bruna.nl</span><span class="citation-popover-snippet">BrunaDe ufo&#x27;s van Gorredijk, Taede A. Smedes | Boek... &amp; politiek. De ufo&#x27;s van Gorredijk. Een historische constructie van een opmerkelij...</span></span></span> What makes Gorredijk important is not simply the question of whether unusual objects were present in the sky. The lasting significance lies in the interaction between witnesses, media coverage, investigators and village life. The case became a social event as much as an observational one, turning an ordinary Frisian town into what many Dutch UFO researchers still regard as the country's defining UFO village. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historischnieuwsblad.nl/4-vragen-aan-taede-a-smedes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historischnieuwsblad.nl">[Historisch Nieuwsblad]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historischnieuwsblad.nl</span><span class="citation-popover-title">4 vragen aan taede a smedes</span><span class="citation-popover-snippet">Smedes onderzoekt in De ufo&#x27;s van Gorredijk wat deze opmerkelijke periode in de dorpsgeschiedenis met de inwoners...</span></span></span>
+
+
+<img src="{{ "/assets/images/Netherlands_Kingdom_d6d70a_gorredijk_ufo_wave_9e8fa0-Illustration-1-light.svg" | relative_url }}" alt="Gorredijk illustration 1" data-theme-src-dark="{{ "/assets/images/Netherlands_Kingdom_d6d70a_gorredijk_ufo_wave_9e8fa0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Netherlands_Kingdom_d6d70a_gorredijk_ufo_wave_9e8fa0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+## What witnesses reported in February 1974
+
+The wave did not begin with a dramatic mass sighting. Later reconstructions point to a sequence of reports that gradually gained attention before exploding into a wider phenomenon. One early witness, Bjinse Slof, reported an unusual light in January 1974. At first he was ridiculed by neighbours who assumed he had misidentified an ordinary object. But when further sightings followed and additional residents claimed to see unusual lights and triangular forms, attitudes changed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.voxweb.nl/en/how-a-frisian-village-became-obsessed-with-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: voxweb.nl">[Vox magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">voxweb.nl</span><span class="citation-popover-title">Vox magazine How a Frisian village became obsessed with UFOs</span><span class="citation-popover-snippet">Frisian village Gorredijk, where the local community has reported many UFOs... Ever since Taede Smedes saw a UFO when he was a teenager...</span></span></span>
+
+By February, reports were arriving from different parts of Gorredijk and nearby communities. Witnesses described:
+
+* Bright lights that appeared to hover.
+* Triangular shapes carrying red lights.
+* Objects that seemed to accelerate unusually quickly.
+* Lights changing direction abruptly.
+* Glowing forms that appeared larger or closer than aircraft normally seen in the area. Richard de Boer <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.voxweb.nl/en/how-a-frisian-village-became-obsessed-with-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: voxweb.nl">[Vox magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">voxweb.nl</span><span class="citation-popover-title">Vox magazine How a Frisian village became obsessed with UFOs</span><span class="citation-popover-snippet">Frisian village Gorredijk, where the local community has reported many UFOs... Ever since Taede Smedes saw a UFO when he was a teenager...</span></span></span>
+
+The most striking feature was not the exact description of any single object but the sheer number of observers. Witnesses frequently disagreed about shape, size and movement. Some reported triangles, others luminous points, while still others described more traditional flying-saucer-like forms. This variation has remained one of the central difficulties in evaluating the wave. It suggests either multiple unrelated stimuli being interpreted through the same cultural lens or a rapidly evolving collective narrative rather than a single clearly identifiable object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historischnieuwsblad.nl/4-vragen-aan-taede-a-smedes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historischnieuwsblad.nl">[Historisch Nieuwsblad]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historischnieuwsblad.nl</span><span class="citation-popover-title">4 vragen aan taede a smedes</span><span class="citation-popover-snippet">Smedes onderzoekt in De ufo&#x27;s van Gorredijk wat deze opmerkelijke periode in de dorpsgeschiedenis met de inwoners...</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/abNfjAEx8sI" title="1974 🇳🇱 #UFOB [CASE] Kids see triangles and saucers in Gorredijk, Netherlands" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=abNfjAEx8sI" target="_blank" rel="noopener noreferrer">1974 🇳🇱 #UFOB [CASE] Kids see triangles and saucers in Gorredijk, Netherlands</a></p><p class="youtube-embed-meta">Channel: UFOB | Your UAP Library &middot; Views: 2.0K &middot; Uploaded: January 2023 &middot; Length: 2 minutes 34 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=abNfjAEx8sI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=abNfjAEx8sI">Open on YouTube</a></p></div></div></div>
+
+### Why the schoolchildren mattered
+
+Many UFO cases rely on one or two witnesses. Gorredijk became memorable because children participated so visibly in the reporting.
+
+Schoolchildren discussed sightings with one another, drew pictures and compared descriptions. Their involvement gave the story a sense of scale. Instead of a handful of enthusiasts claiming contact with mysterious craft, an entire community appeared to be watching the sky. Accounts from later researchers note that children often reported seeing triangular objects and unusual lights during the most active weeks of the wave. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bruna.nl/boeken/de-ufo-s-van-gorredijk-9789464711721" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bruna.nl">[Bruna]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bruna.nl</span><span class="citation-popover-snippet">BrunaDe ufo&#x27;s van Gorredijk, Taede A. Smedes | Boek... &amp; politiek. De ufo&#x27;s van Gorredijk. Een historische constructie van een opmerkelij...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://noordboek.nl/boek/de-ufos-van-gorredijk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noordboek.nl">[2noordboek.nl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noordboek.nl</span><span class="citation-popover-title">De ufo&#x27;s van Gorredijk</span><span class="citation-popover-snippet">Niet alleen volwassenen maar ook veel...Read more...</span></span></span>
+
+This created a feedback effect. Adults heard stories from children, children heard stories from adults, and both groups encountered increasingly dramatic newspaper coverage. Whether one interprets the reports as evidence of genuinely unusual aerial phenomena or as a socially reinforced observational wave, the participation of young witnesses became central to the case's identity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historischnieuwsblad.nl/4-vragen-aan-taede-a-smedes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historischnieuwsblad.nl">[Historisch Nieuwsblad]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historischnieuwsblad.nl</span><span class="citation-popover-title">4 vragen aan taede a smedes</span><span class="citation-popover-snippet">Smedes onderzoekt in De ufo&#x27;s van Gorredijk wat deze opmerkelijke periode in de dorpsgeschiedenis met de inwoners...</span></span></span>
+
+## How media and investigators shaped the case
+
+Gorredijk's transformation from a local curiosity into a national UFO story depended heavily on publicity.
+
+As reports multiplied, newspapers began covering the events in detail. Journalists treated the village as a developing mystery. The attention attracted visitors from elsewhere in the Netherlands, including amateur UFO researchers and self-described ufologists who hoped to document the phenomenon. Observation posts were established, with residents gathering at night equipped with binoculars and cameras. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bruna.nl/boeken/de-ufo-s-van-gorredijk-9789464711721" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bruna.nl">[Bruna]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bruna.nl</span><span class="citation-popover-snippet">BrunaDe ufo&#x27;s van Gorredijk, Taede A. Smedes | Boek... &amp; politiek. De ufo&#x27;s van Gorredijk. Een historische constructie van een opmerkelij...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://noordboek.nl/boek/de-ufos-van-gorredijk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noordboek.nl">[2noordboek.nl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noordboek.nl</span><span class="citation-popover-title">De ufo&#x27;s van Gorredijk</span><span class="citation-popover-snippet">Niet alleen volwassenen maar ook veel...Read more...</span></span></span>
+
+This changed the nature of the sightings themselves. Once large numbers of people were actively searching the sky, the chances of noticing unusual lights increased. At the same time, every new report reinforced the expectation that something extraordinary might appear.
+
+Researchers who later reconstructed the episode have noted that Gorredijk resembles what American UFO literature calls a "UFO flap" or wave: a concentrated period in which reports rapidly increase within a limited geographical area. According to historian and religion scholar Taede Smedes, this type of concentrated wave was highly unusual in the Dutch context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historischnieuwsblad.nl/4-vragen-aan-taede-a-smedes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historischnieuwsblad.nl">[Historisch Nieuwsblad]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historischnieuwsblad.nl</span><span class="citation-popover-title">4 vragen aan taede a smedes</span><span class="citation-popover-snippet">Smedes onderzoekt in De ufo&#x27;s van Gorredijk wat deze opmerkelijke periode in de dorpsgeschiedenis met de inwoners...</span></span></span>
+
+
+<img src="{{ "/assets/images/Netherlands_Kingdom_d6d70a_gorredijk_ufo_wave_9e8fa0-Illustration-2-light.svg" | relative_url }}" alt="Gorredijk illustration 2" data-theme-src-dark="{{ "/assets/images/Netherlands_Kingdom_d6d70a_gorredijk_ufo_wave_9e8fa0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Netherlands_Kingdom_d6d70a_gorredijk_ufo_wave_9e8fa0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+### Competing interpretations inside the village
+
+The wave did not unite Gorredijk. It divided it.
+
+Some residents became convinced that something genuinely unexplained was taking place. Others viewed the entire affair as a mixture of misunderstanding, exaggeration and excitement. According to later interviews and historical reconstructions, tensions developed between believers and sceptics. The debate was no longer only about lights in the sky; it became a debate about trust, credibility and local identity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bruna.nl/boeken/de-ufo-s-van-gorredijk-9789464711721" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bruna.nl">[Bruna]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bruna.nl</span><span class="citation-popover-snippet">BrunaDe ufo&#x27;s van Gorredijk, Taede A. Smedes | Boek... &amp; politiek. De ufo&#x27;s van Gorredijk. Een historische constructie van een opmerkelij...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historischnieuwsblad.nl/4-vragen-aan-taede-a-smedes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historischnieuwsblad.nl">[Historisch Nieuwsblad]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historischnieuwsblad.nl</span><span class="citation-popover-title">4 vragen aan taede a smedes</span><span class="citation-popover-snippet">Smedes onderzoekt in De ufo&#x27;s van Gorredijk wat deze opmerkelijke periode in de dorpsgeschiedenis met de inwoners...</span></span></span>
+
+This social split helps explain why the event survived in local memory long after the sightings faded. People remembered not only what they thought they saw but also how neighbours reacted, how newspapers portrayed them and how the village became known nationally for something unusual. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.voxweb.nl/en/how-a-frisian-village-became-obsessed-with-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: voxweb.nl">[Vox magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">voxweb.nl</span><span class="citation-popover-title">Vox magazine How a Frisian village became obsessed with UFOs</span><span class="citation-popover-snippet">Frisian village Gorredijk, where the local community has reported many UFOs... Ever since Taede Smedes saw a UFO when he was a teenager...</span></span></span>
+
+## Why the evidence remains difficult to judge
+
+The Gorredijk wave occupies an unusual middle ground in Dutch UFO history.
+
+On one hand, the number of witnesses is impressive by Dutch standards. Later commentators repeatedly describe the episode as the country's largest concentrated UFO wave. Reports arrived from multiple observers over several weeks, and the events generated extensive discussion while they were occurring rather than decades later. Richard de Boer <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historischnieuwsblad.nl/4-vragen-aan-taede-a-smedes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historischnieuwsblad.nl">[Historisch Nieuwsblad]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historischnieuwsblad.nl</span><span class="citation-popover-title">4 vragen aan taede a smedes</span><span class="citation-popover-snippet">Smedes onderzoekt in De ufo&#x27;s van Gorredijk wat deze opmerkelijke periode in de dorpsgeschiedenis met de inwoners...</span></span></span>
+
+On the other hand, the case lacks the kinds of evidence that would allow firm conclusions. There are no widely accepted radar records, no authenticated photographs that settled the debate, and no official Dutch investigation that produced a definitive finding. Most surviving evidence consists of witness testimony, newspaper accounts and later reconstructions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.astroblogs.nl/2024/01/25/boekrecensie-de-ufos-van-gorredijk-van-taede-a-smedes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astroblogs.nl">[astroblogs.nl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astroblogs.nl</span><span class="citation-popover-snippet">Smedes25 Jan 2024 — Smedes blikt in dit nieuwe boek terug op de golf aan Ufo&#x27;s die waar te nemen was in 1974 aan de hemel boven het Fries...</span></span></span>
+
+Several explanations have been proposed over the years:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* Misidentified aircraft viewed under unusual atmospheric conditions.
+* Bright astronomical objects interpreted through growing public excitement.
+* A mixture of unrelated observations grouped into one narrative.
+* Social contagion, where expectation influences perception.
+* A genuinely unexplained aerial phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historischnieuwsblad.nl/4-vragen-aan-taede-a-smedes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historischnieuwsblad.nl">[Historisch Nieuwsblad]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historischnieuwsblad.nl</span><span class="citation-popover-title">4 vragen aan taede a smedes</span><span class="citation-popover-snippet">Smedes onderzoekt in De ufo&#x27;s van Gorredijk wat deze opmerkelijke periode in de dorpsgeschiedenis met de inwoners...</span></span></span>
+
+</div>
+
+No single explanation has achieved broad consensus. Even investigators sympathetic to the witnesses generally acknowledge that the available evidence cannot conclusively identify what was seen. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historischnieuwsblad.nl/4-vragen-aan-taede-a-smedes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historischnieuwsblad.nl">[Historisch Nieuwsblad]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historischnieuwsblad.nl</span><span class="citation-popover-title">4 vragen aan taede a smedes</span><span class="citation-popover-snippet">Smedes onderzoekt in De ufo&#x27;s van Gorredijk wat deze opmerkelijke periode in de dorpsgeschiedenis met de inwoners...</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Vuh2OsPF4vE" title="1974 Gorredijk UFO Wave: Schoolchildren Describe Triangular Craft Over Friesland, The Netherlands" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Vuh2OsPF4vE" target="_blank" rel="noopener noreferrer">1974 Gorredijk UFO Wave: Schoolchildren Describe Triangular Craft Over Friesland, The Netherlands</a></p><p class="youtube-embed-meta">Channel: FindingUFO &middot; Views: 1.7K &middot; Uploaded: November 2025 &middot; Length: 2 minutes 55 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Vuh2OsPF4vE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Vuh2OsPF4vE">Open on YouTube</a></p></div></div></div>
+
+## What Gorredijk reveals about community UFO waves
+
+The most enduring lesson of Gorredijk is that UFO waves are community events as much as observational events.
+
+The village demonstrates how an unusual report can evolve into a collective experience. Witnesses compare stories, newspapers search for updates, investigators arrive, sceptics respond, and the phenomenon becomes woven into local life. The resulting narrative acquires a momentum that cannot be reduced simply to whether an object in the sky was identified or unidentified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.voxweb.nl/en/how-a-frisian-village-became-obsessed-with-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: voxweb.nl">[Vox magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">voxweb.nl</span><span class="citation-popover-title">Vox magazine How a Frisian village became obsessed with UFOs</span><span class="citation-popover-snippet">Frisian village Gorredijk, where the local community has reported many UFOs... Ever since Taede Smedes saw a UFO when he was a teenager...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bruna.nl/boeken/de-ufo-s-van-gorredijk-9789464711721" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bruna.nl">[bruna]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bruna.nl</span><span class="citation-popover-snippet">BrunaDe ufo&#x27;s van Gorredijk, Taede A. Smedes | Boek... &amp; politiek. De ufo&#x27;s van Gorredijk. Een historische constructie van een opmerkelij...</span></span></span> For historians of Dutch UFO culture, Gorredijk serves as a rare example of a sustained local wave rather than an isolated sighting. The case is therefore often discussed alongside other notable Dutch incidents, particularly the 1979 [Soesterberg]({{ 'soesterberg/' | relative_url }}) air-base reports, as one of the country's defining UFO episodes. Yet Gorredijk stands apart because ordinary villagers became the central actors. The story belongs not to military personnel, pilots or government agencies but to a small community that spent weeks watching the sky and arguing about what it meant. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1aw7wy0/the_1974_ufo_flap_in_gorredijk_netherlands_for/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditThe 1974 UFO flap in Gorredijk, Netherlands... UFO expert Taede Smedes from Nijmegen. His recently published book &quot;The UFOs of Gorr...</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kzzcW0za6zI" title="Vijftig jaar geleden was Gorredijk in de ban van vreemde verschijningen in de lucht | Op1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kzzcW0za6zI" target="_blank" rel="noopener noreferrer">Vijftig jaar geleden was Gorredijk in de ban van vreemde verschijningen in de lucht | Op1</a></p><p class="youtube-embed-meta">Channel: Op1 &middot; Views: 3.8K &middot; Uploaded: July 2023 &middot; Length: 1 minute 19 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kzzcW0za6zI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kzzcW0za6zI">Open on YouTube</a></p></div></div></div>
+
+### Why the story still matters
+
+Interest in Gorredijk has grown again around the fiftieth anniversary of the wave. Books, radio programmes, museum projects and retrospective interviews have returned to the witnesses and reconstructed the chronology day by day. The renewed attention reflects a broader change in UFO discussion: researchers increasingly examine not only whether unexplained objects existed but also how societies react to uncertainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bruna.nl/boeken/de-ufo-s-van-gorredijk-9789464711721" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bruna.nl">[Bruna]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bruna.nl</span><span class="citation-popover-snippet">BrunaDe ufo&#x27;s van Gorredijk, Taede A. Smedes | Boek... &amp; politiek. De ufo&#x27;s van Gorredijk. Een historische constructie van een opmerkelij...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nporadio1.nl/fragmenten/villa-vdb/dbdd52b2-f112-41f9-a2fe-c7bd63ebfb97/2024-02-01-podcast-ufo-bern-over-verdachte-vliegende-objecten-in-gorredijk-in-1974" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nporadio1.nl">[2NPO Radio 1]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nporadio1.nl</span><span class="citation-popover-snippet">Podcast UFO BERN over verdachte vliegende objecten in...1 Feb 2024 — In 1974 zijn volwassenen en jongeren in het Friese dorp Gorredijk g...</span></span></span>
+
+Seen from that perspective, Gorredijk remains valuable even if the lights are never conclusively identified. The village provides a detailed Dutch example of how extraordinary claims spread through a community, how belief and scepticism coexist, and how a short period of unusual reports can become part of local history for decades. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.voxweb.nl/en/how-a-frisian-village-became-obsessed-with-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: voxweb.nl">[Vox magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">voxweb.nl</span><span class="citation-popover-title">Vox magazine How a Frisian village became obsessed with UFOs</span><span class="citation-popover-snippet">Frisian village Gorredijk, where the local community has reported many UFOs... Ever since Taede Smedes saw a UFO when he was a teenager...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historischnieuwsblad.nl/4-vragen-aan-taede-a-smedes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historischnieuwsblad.nl">[Historisch Nieuwsblad]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historischnieuwsblad.nl</span><span class="citation-popover-title">4 vragen aan taede a smedes</span><span class="citation-popover-snippet">Smedes onderzoekt in De ufo&#x27;s van Gorredijk wat deze opmerkelijke periode in de dorpsgeschiedenis met de inwoners...</span></span></span>
+
+
+<img src="{{ "/assets/images/Netherlands_Kingdom_d6d70a_gorredijk_ufo_wave_9e8fa0-Illustration-3-light.svg" | relative_url }}" alt="Gorredijk illustration 3" data-theme-src-dark="{{ "/assets/images/Netherlands_Kingdom_d6d70a_gorredijk_ufo_wave_9e8fa0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Netherlands_Kingdom_d6d70a_gorredijk_ufo_wave_9e8fa0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Gorredijk Became the Dutch UFO Village. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+        </h4>
+        <p class="fr-book-author">By Jacques Vallee</p>
+        
+        <p class="fr-book-desc">Ideal for understanding how local communities build UFO narratives.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+        </h4>
+        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        
+        <p class="fr-book-desc">Addresses mass sighting reports and investigative methodology.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XINLC2ubHqwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
+        </h4>
+        <p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
+        
+        <p class="fr-book-desc">Examines historical aerial anomalies and recurring sighting patterns.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+        </h4>
+        <p class="fr-book-author">By Leslie Kean</p>
+        
+        <p class="fr-book-desc">Provides broader context for evaluating notable UFO waves.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonders+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonders in the Sky</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: bruna.nl  
+   Link: [https://www.bruna.nl/boeken/de-ufo-s-van-gorredijk-9789464711721](https://www.bruna.nl/boeken/de-ufo-s-van-gorredijk-9789464711721)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>BrunaDe ufo&#x27;s van Gorredijk, Taede A. Smedes | Boek... &amp; politiek. De ufo&#x27;s van Gorredijk. Een historische constructie van een opmerkelij...</p></details>
+
+2. <a id="endnote-2"></a>
+   Source: noordboek.nl  
+   Title: De ufo's van Gorredijk  
+   Link: [https://noordboek.nl/boek/de-ufos-van-gorredijk/](https://noordboek.nl/boek/de-ufos-van-gorredijk/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Niet alleen volwassenen maar ook veel...Read more...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: astroblogs.nl  
+   Link: [https://www.astroblogs.nl/2024/01/25/boekrecensie-de-ufos-van-gorredijk-van-taede-a-smedes/](https://www.astroblogs.nl/2024/01/25/boekrecensie-de-ufos-van-gorredijk-van-taede-a-smedes/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Smedes25 Jan 2024 — Smedes blikt in dit nieuwe boek terug op de golf aan Ufo&#x27;s die waar te nemen was in 1974 aan de hemel boven het Fries...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/UFOs/comments/1aw7wy0/the_1974_ufo_flap_in_gorredijk_netherlands_for/](https://www.reddit.com/r/UFOs/comments/1aw7wy0/the_1974_ufo_flap_in_gorredijk_netherlands_for/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditThe 1974 UFO flap in Gorredijk, Netherlands... UFO expert Taede Smedes from Nijmegen. His recently published book &quot;The UFOs of Gorr...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: nporadio1.nl  
+   Link: [https://www.nporadio1.nl/fragmenten/villa-vdb/dbdd52b2-f112-41f9-a2fe-c7bd63ebfb97/2024-02-01-podcast-ufo-bern-over-verdachte-vliegende-objecten-in-gorredijk-in-1974](https://www.nporadio1.nl/fragmenten/villa-vdb/dbdd52b2-f112-41f9-a2fe-c7bd63ebfb97/2024-02-01-podcast-ufo-bern-over-verdachte-vliegende-objecten-in-gorredijk-in-1974)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Podcast UFO BERN over verdachte vliegende objecten in...1 Feb 2024 — In 1974 zijn volwassenen en jongeren in het Friese dorp Gorredijk g...</p></details>
+
+6. <a id="endnote-6"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/UFOB/comments/14hadws/the_1974_gorredijk_ufo_wave_in_frisia_the/](https://www.reddit.com/r/UFOB/comments/14hadws/the_1974_gorredijk_ufo_wave_in_frisia_the/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1974 Gorredijk UFO wave in Frisia, The Netherlands.The 1974 Gorredijk UFO wave in Frisia, The Netherlands. Testimony... r/UFOs - It...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: historischnieuwsblad.nl  
+   Title: 4 vragen aan taede a smedes  
+   Link: [https://www.historischnieuwsblad.nl/4-vragen-aan-taede-a-smedes/](https://www.historischnieuwsblad.nl/4-vragen-aan-taede-a-smedes/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Smedes onderzoekt in De ufo&#x27;s van Gorredijk wat deze opmerkelijke periode in de dorpsgeschiedenis met de inwoners...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: voxweb.nl  
+   Title: Vox magazine How a Frisian village became obsessed with UFOs  
+   Link: [https://www.voxweb.nl/en/how-a-frisian-village-became-obsessed-with-ufos](https://www.voxweb.nl/en/how-a-frisian-village-became-obsessed-with-ufos)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Frisian village Gorredijk, where the local community has reported many UFOs... Ever since Taede Smedes saw a UFO when he was a teenager...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: voxweb.nl  
+   Title: Vox magazine Hoe een Fries dorp in de ban raakte van ufo's  
+   Link: [https://www.voxweb.nl/nieuws/hoe-een-fries-dorp-in-de-ban-raakte-van-ufos](https://www.voxweb.nl/nieuws/hoe-een-fries-dorp-in-de-ban-raakte-van-ufos)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Op 11 januari 1974 ziet Bjinse Slof een vreemd lichtverschijnsel aan de hemel. Wanneer hij dat rond bazuint, wordt hij...Read more...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/groups/43941612171/posts/10158224973937172/](https://www.facebook.com/groups/43941612171/posts/10158224973937172/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Children Seen Triangular UFO In Netherlands2 Apr 2022 — Over the course of this month, school children in and around Gorredijk, a town in...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: Wikipedia  
+   Link: [https://en.wikipedia.org/wiki/Gorredijk](https://en.wikipedia.org/wiki/Gorredijk)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>GorredijkGorredijk is the largest town in the municipality of Opsterland, in the Dutch province of Friesland. Gorredijk had a populati...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/groups/471231869641743/posts/6312585405506331/](https://www.facebook.com/groups/471231869641743/posts/6312585405506331/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting at Burwood Primary School in 1970s?&quot; Broad Haven UFO sightings.&quot; There were no alien invasions or tales of abduction, yet a...</p></details>
+
+### Additional References
+
+13. <a id="endnote-13"></a>
+   Source: x.com  
+   Link: [https://x.com/FindingUFO](https://x.com/FindingUFO)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>FindingUFOUncovering The #UFO &amp; #Alien Phenomenon Subscribe ▶️ YouTube | 100K+ Subscribers. Posts. Pinned Post. FindingUFO profile. Findi...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: rdeboer.com  
+   Link: [https://rdeboer.com/2024/02/21/ooggetuige-weet-zeker-dat-ufo-golf-in-friese-gorredijk-geen-hysterie-was-wat-we-zagen-is-onverklaarbaar/](https://rdeboer.com/2024/02/21/ooggetuige-weet-zeker-dat-ufo-golf-in-friese-gorredijk-geen-hysterie-was-wat-we-zagen-is-onverklaarbaar/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Richard de BoerOoggetuige weet zeker dat ufo-golf in Friese Gorredijk geen...21 Feb 2024 — Nergens in Nederland zijn door mensen zoveel...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: fred-andersson.medium.com  
+   Link: [https://fred-andersson.medium.com/march-24-1974-night-of-the-ufos-the-close-encounters-that-shook-sweden-e1ebc32eba97](https://fred-andersson.medium.com/march-24-1974-night-of-the-ufos-the-close-encounters-that-shook-sweden-e1ebc32eba97)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>24, 1974: Night of the UFOs-The Close Encounters...On March 24th, 1974 the biggest UFO incident ever happened in Sweden, in the same com...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: researchgate.net  
+   Link: [https://www.researchgate.net/publication/377871814_Exploring_Unidentified_Aerospace_Phenomena_through_Instrumented_Field_Studies_Historical_Insights_Current_Challenges_and_Future_Directions](https://www.researchgate.net/publication/377871814_Exploring_Unidentified_Aerospace_Phenomena_through_Instrumented_Field_Studies_Historical_Insights_Current_Challenges_and_Future_Directions)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s worth noting that this experiment coincided with the. existence of a state program for UFO research called &#x27;Setka&#x27;.Read more...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: noorderland.nl  
+   Title: de ufos van gorredijk een maand lang lag de hemel onder een vergrootglas  
+   Link: [https://noorderland.nl/artikel/668394/de-ufos-van-gorredijk-een-maand-lang-lag-de-hemel-onder-een-vergrootglas](https://noorderland.nl/artikel/668394/de-ufos-van-gorredijk-een-maand-lang-lag-de-hemel-onder-een-vergrootglas)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>De UFO&#x27;s van Gorredijk: een maand lang lag de hemel...9 Nov 2025 — Begin 1974 veranderde het rustige Gorredijk even in een dorp vol opwi...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: tasmedes.nl  
+   Title: david halperin intimate alien ufos aliens and religion book review  
+   Link: [https://tasmedes.nl/david-halperin-intimate-alien-ufos-aliens-and-religion-book-review/](https://tasmedes.nl/david-halperin-intimate-alien-ufos-aliens-and-religion-book-review/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>David Halperin, &quot;Intimate Alien&quot;: UFOs, aliens, and religion...1 Apr 2020 — Halperin shows how in various UFO stories, such as those of...</p></details>
+
+19. <a id="endnote-19"></a>
+   Source: nporadio5.nl  
+   Title: 2023 07 03 museum opsterlan zoekt de ufo getuigen van gorredijk  
+   Link: [https://www.nporadio5.nl/fragmenten/goeiedag-haandrikman/ae656c5a-e6e7-4e41-ad77-4c1ccfe8f017/2023-07-03-museum-opsterlan-zoekt-de-ufo-getuigen-van-gorredijk](https://www.nporadio5.nl/fragmenten/goeiedag-haandrikman/ae656c5a-e6e7-4e41-ad77-4c1ccfe8f017/2023-07-03-museum-opsterlan-zoekt-de-ufo-getuigen-van-gorredijk)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Museum Opsterlân zoekt de UFO-getuigen van Gorredijk3 Jul 2023 — Gorredijk, een klein plaatsje in Friesland werd in 1974 opgeschrikt door...</p></details>
+
+20. <a id="endnote-20"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/groups/3495911844066090/posts/3584269401897000/](https://www.facebook.com/groups/3495911844066090/posts/3584269401897000/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings been made simultaneously by people as in and around the Frisian town of Gorredijk between January and March 1974. The entir...</p></details>
+   Published: March 1974  
+
+21. <a id="endnote-21"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/groups/253550249143357/posts/1076788946819479/](https://www.facebook.com/groups/253550249143357/posts/1076788946819479/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>t Taede Smedes from Nijmegen. His book The UFOs of Gorredijk was...</p></details>
+
+22. <a id="endnote-22"></a>
+   Source: facebook.com  
+   Title: Sky Lab Zaamslag, the Netherlands  
+   Link: [https://www.facebook.com/groups/mini4pro/posts/3991022121196173/](https://www.facebook.com/groups/mini4pro/posts/3991022121196173/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>(Ufo Research and Sky...... UFO sightings been made simultaneously by people as in and around the Frisian town of Gorredijk between Janu...</p></details>

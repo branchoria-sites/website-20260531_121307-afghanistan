@@ -1,0 +1,612 @@
+---
+level: 2
+basename: Equatorial_Guinea_ae2c01_ufo_stamp_analysis_c9eb72
+parent_basename: Equatorial_Guinea_ae2c01
+child_basenames: []
+sibling_basenames:
+- Equatorial_Guinea_ae2c01_aviation_sightings_c_628d39
+- Equatorial_Guinea_ae2c01_media_reporting_limi_0b923c
+- Equatorial_Guinea_ae2c01_ufo_claims_review_b22215
+tags:
+- equatorial-guinea
+- 1975-ufo-stamps
+keywords:
+- equatorial-guinea
+- 1975-ufo-stamps
+affiliate_category: equatorial-guinea
+show_ads: true
+description: The 1975 saucer stamps are the most verifiable UFO-related artefacts from Equatorial Guinea.
+hero_summary: The 1975 saucer stamps are the most verifiable UFO-related artefacts from Equatorial Guinea.
+layout: default
+permalink: /1975-ufo-stamps/
+sidebar_expanded_urls:
+- /equatorial-guinea/
+nav_short_title: 1975 UFO Stamps
+title: How Equatorial Guinea’s 1975 Stamps Entered UFO Culture
+title_full: How Equatorial Guinea’s 1975 Stamps Entered UFO Culture | EquatorialGuineaUFOs
+display_title_short: 1975 UFO Stamps
+display_title: 1975 UFO Stamps
+heading_title: How Equatorial Guinea’s 1975 Stamps Entered UFO Culture
+page_heading_title: How Equatorial Guinea’s 1975 Stamps Entered UFO Culture
+source_count: 31
+infographic_count: 3
+planned_sections:
+- Stamp design and imagery
+- Historical context of issue
+- Cultural impact on collectors
+focal_unit_type: entity
+topic_lens: historical_comparative
+topic_granularity: pillar
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+parent_title: EquatorialGuineaUFOs
+parent_permalink: /equatorial-guinea/
+parent_nav_short_title: EquatorialGuineaUFOs
+parent_heading_title: What Do We Really Know About UFOs in Equatorial Guinea?
+ancestor_links:
+- basename: Equatorial_Guinea_ae2c01
+  title: EquatorialGuineaUFOs
+  permalink: /equatorial-guinea/
+  short_title: EquatorialGuineaUFOs
+breadcrumb_links:
+- basename: Equatorial_Guinea_ae2c01
+  title: EquatorialGuineaUFOs
+  permalink: /equatorial-guinea/
+  short_title: EquatorialGuineaUFOs
+sibling_links:
+- basename: Equatorial_Guinea_ae2c01_aviation_sightings_c_628d39
+  title: Aviation Context | What Do We Really Know About UFOs in Equatorial Guinea?
+  permalink: /aviation-context/
+  short_title: Aviation Context
+  heading_title: How Local Aviation Shapes Potential UFO Sightings
+- basename: Equatorial_Guinea_ae2c01_ufo_claims_review_b22215
+  title: Claims & Debunks | What Do We Really Know About UFOs in Equatorial Guinea?
+  permalink: /claims-debunks/
+  short_title: Claims & Debunks
+  heading_title: Separating Fact, Rumour, and Misinterpretation in Local UFO Claims
+- basename: Equatorial_Guinea_ae2c01_media_reporting_limi_0b923c
+  title: Media Limitations | What Do We Really Know About UFOs in Equatorial Guinea?
+  permalink: /media-limitations/
+  short_title: Media Limitations
+  heading_title: Why UFO Reports Rarely Surface in Equatorial Guinea
+up_link:
+  basename: Equatorial_Guinea_ae2c01
+  title: EquatorialGuineaUFOs
+  permalink: /equatorial-guinea/
+  short_title: EquatorialGuineaUFOs
+next_link:
+  basename: Equatorial_Guinea_ae2c01_aviation_sightings_c_628d39
+  title: Aviation Context | What Do We Really Know About UFOs in Equatorial Guinea?
+  permalink: /aviation-context/
+  short_title: Aviation Context
+  heading_title: How Local Aviation Shapes Potential UFO Sightings
+date: '2026-05-31 04:13:33 '
+header:
+  og_image: /assets/images/Equatorial_Guinea_ae2c01_ufo_stamp_analysis_c9eb72-Illustration-1-social.jpg
+  preview_image: /assets/images/Equatorial_Guinea_ae2c01_ufo_stamp_analysis_c9eb72-Illustration-1.webp
+image: /assets/images/Equatorial_Guinea_ae2c01_ufo_stamp_analysis_c9eb72-Illustration-1-social.jpg
+---
+
+## Introduction
+
+[Equatorial Guinea]({{ 'equatorial-guinea/' | relative_url }})’s 1975 UFO-themed stamp issue occupies an unusual place in both African philately and UFO culture. Unlike many alleged UFO incidents linked to weak testimony or recycled folklore, these stamps are tangible, catalogued artefacts that were genuinely issued and circulated. Their importance lies less in any claimed encounter with unidentified objects and more in what they reveal about the visual culture of the 1970s: a decade when space exploration, Cold War symbolism and popular flying-saucer imagery increasingly overlapped.
+
+
+<img src="{{ "/assets/images/Equatorial_Guinea_ae2c01_ufo_stamp_analysis_c9eb72-Illustration-1-light.svg" | relative_url }}" alt="1975 UFO Stamps illustration 1" data-theme-src-dark="{{ "/assets/images/Equatorial_Guinea_ae2c01_ufo_stamp_analysis_c9eb72-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Equatorial_Guinea_ae2c01_ufo_stamp_analysis_c9eb72-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+The stamps are especially notable because they appear to be among the earliest official postage issues anywhere in the world to depict recognisable UFO imagery rather than generic futuristic spacecraft. Several designs borrowed directly from famous flying-saucer motifs already circulating in international UFO literature, including imagery associated with contactee figure George Adamski. That combination of official state postage and pseudoscientific UFO iconography turned a relatively obscure Equatorial Guinean issue into a lasting curiosity for collectors and UFO historians alike. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pelicanist.blogspot.com/2022/06/make-ufology-philately.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pelicanist.blogspot.com">[pelicanist.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pelicanist.blogspot.com</span><span class="citation-popover-title">make ufology philately</span><span class="citation-popover-snippet">21 Jun 2022 — González traces the first specifically UFO related postage stamp as far back as 1975, in an issue from Equatorial Guinea co...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/George_Adamski" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">George Adamski</span><span class="citation-popover-snippet">George AdamskiThis same UFO photograph was depicted in an August 1978 commemorative stamp issued by the island nation of Grenada in or...</span><span class="citation-popover-meta">Published: August 1978</span></span></span>
+
+## How the stamp issue emerged from the 1970s space boom
+
+The 1975 issue appeared during a period when Equatorial Guinea produced large numbers of internationally marketed commemorative stamps. Many focused on topical global subjects rather than specifically national themes. Space exploration was especially attractive to international collectors because it combined modern technology, Cold War rivalry and dramatic visual design.
+
+The timing mattered. In July 1975 the Apollo–Soyuz Test Project became the first joint United States–Soviet space mission, widely presented as a symbolic thaw in Cold War tensions. Around the world, postal administrations issued stamps celebrating international cooperation in space. Equatorial Guinea joined this trend, but its designers introduced something stranger: imagery associated not with established aerospace science, but with UFO mythology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pelicanist.blogspot.com/2022/06/make-ufology-philately.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pelicanist.blogspot.com">[pelicanist.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pelicanist.blogspot.com</span><span class="citation-popover-title">make ufology philately</span><span class="citation-popover-snippet">21 Jun 2022 — González traces the first specifically UFO related postage stamp as far back as 1975, in an issue from Equatorial Guinea co...</span></span></span>
+
+This blending of official space celebration and fringe UFO symbolism reflected a broader 1970s media atmosphere. Flying saucers had become part of mainstream popular culture through paperback books, magazine covers, television documentaries and cinema. By the middle of the decade, UFOs were no longer confined to niche enthusiast groups. They were commercially recognisable visual icons.
+
+Equatorial Guinea’s stamp programme of the era also reflected economic realities. Many developing countries outsourced or heavily commercialised commemorative stamp production for sale to foreign collectors. The resulting issues often prioritised colourful themes with global appeal over strictly national subjects. Philatelic commentators later criticised some of these programmes as “wallpaper” issues aimed primarily at export collectors rather than domestic postal use. <span class="citation-chip-wrap"><a class="citation-chip" href="https://punkphilatelist.com/2016/04/22/well-smack-my-gob-the-hairdo-and-the-tortoise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: punkphilatelist.com">[Punk Philatelist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">punkphilatelist.com</span><span class="citation-popover-title">Punk Philatelist Bogus! When a stamp is not a stamp</span><span class="citation-popover-snippet">Punk PhilatelistBogus! When a stamp is not a stampApril 21, 2016 — 22 Apr 2016 — Bogus stamps LOOK like stamps, but they have a dirty sec...</span><span class="citation-popover-meta">Published: April 21, 2016</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.stampcollectingblog.com/equatorial-guinea-a-country-with-lost-reputation.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stampcollectingblog.com">[2stampcollectingblog.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stampcollectingblog.com</span><span class="citation-popover-title">equatorial guinea a country with lost reputation</span><span class="citation-popover-snippet">Equatorial Guinea – a country with lost philatelic reputation13 Aug 2012 — 1975 Equatorial Guinea. One of the few stamps decipting presid...</span></span></span>
+
+## Stamp design and imagery
+
+### The Adamski-style saucer
+
+The most discussed design in the set depicts a classic metallic flying saucer closely resembling imagery associated with George Adamski, one of the most famous UFO contactees of the 1950s. Adamski claimed repeated encounters with benevolent extraterrestrials and published photographs that sceptics later dismissed as fabricated or heavily manipulated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/george-adamski-ufo-alien-photos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">george adamski ufo alien photos</span><span class="citation-popover-snippet">HISTORYGeorge Adamski Got Famous Sharing His UFO Photos and...9 Jan 2020 — Adamski had multiple claims to UFO fame. Starting in the late...</span></span></span>
+
+The Equatorial Guinea design did not merely show a generic disc-shaped craft. Collectors and UFO writers have repeatedly noted its similarity to Adamski’s famous “scout ship” photographs, especially the domed upper structure and circular underside detailing. A later review of UFO philately described the stamp as an “enhanced version” of the traditional Adamski saucer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pelicanist.blogspot.com/2022/06/make-ufology-philately.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pelicanist.blogspot.com">[pelicanist.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pelicanist.blogspot.com</span><span class="citation-popover-title">make ufology philately</span><span class="citation-popover-snippet">21 Jun 2022 — González traces the first specifically UFO related postage stamp as far back as 1975, in an issue from Equatorial Guinea co...</span></span></span>
+
+That distinction matters because it places the issue inside a specific UFO tradition. The stamps were not celebrating unidentified aerial phenomena in an abstract sense. They visually referenced one of the most recognisable and controversial images in contactee history.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nRSpVi5PxW8" title="FRANCISCO MACIAS NGUEMA: Africa&#x27;s scariest Dictator ?| African Biographics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nRSpVi5PxW8" target="_blank" rel="noopener noreferrer">FRANCISCO MACIAS NGUEMA: Africa&#x27;s scariest Dictator ?| African Biographics</a></p><p class="youtube-embed-meta">Channel: African Biographics &middot; Views: 47.3K &middot; Uploaded: October 2020 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nRSpVi5PxW8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nRSpVi5PxW8">Open on YouTube</a></p></div></div></div>
+
+### “Interplanetary collaboration” as a visual theme
+
+Some of the stamps reportedly carried the Spanish wording “Colaboración interplanetaria” (“Interplanetary collaboration”). The phrase created an intriguing ambiguity. On one level, it fit the diplomatic optimism surrounding Apollo–Soyuz cooperation. On another, it echoed contactee-era UFO beliefs that humanity was entering peaceful relations with advanced extraterrestrial civilisations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pelicanist.blogspot.com/2022/06/make-ufology-philately.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pelicanist.blogspot.com">[pelicanist.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pelicanist.blogspot.com</span><span class="citation-popover-title">make ufology philately</span><span class="citation-popover-snippet">21 Jun 2022 — González traces the first specifically UFO related postage stamp as far back as 1975, in an issue from Equatorial Guinea co...</span></span></span>
+
+This ambiguity probably helped make the stamps memorable. They could be read simultaneously as:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* celebrations of human spaceflight,
+* speculative science-fiction art,
+* playful UFO imagery,
+* or subtle nods to contemporary flying-saucer mythology.
+
+</div>
+
+The designs also reflected visual conventions common in 1960s and 1970s UFO illustration. Bright propulsion trails, exaggerated metallic textures and dramatic celestial backgrounds resembled magazine cover art more than aerospace engineering diagrams. Several surviving collector discussions describe the broader Equatorial Guinea space series as unusually surreal or flamboyant even by the standards of 1970s topical stamp production. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/philately/comments/n6etv7/wacky_space_stamps_from_equatorial_guineas_set_on/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Wacky space stamps from Equatorial Guinea&#x27;s set on the</span><span class="citation-popover-snippet">RedditWacky space stamps from Equatorial Guinea&#x27;s set on the &quot;...May 6, 2021 — Wacky space stamps from Equatorial Guinea&#x27;s set on the &quot;C...</span><span class="citation-popover-meta">Published: May 6, 2021</span></span></span>
+
+## Why the issue became important in UFO culture
+
+### One of the earliest official UFO stamp issues
+
+The strongest reason the 1975 issue remains significant is chronological. UFO researchers and philatelic writers frequently describe it as one of the first state-issued stamp sets to feature explicit flying-saucer imagery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pelicanist.blogspot.com/2022/06/make-ufology-philately.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pelicanist.blogspot.com">[pelicanist.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pelicanist.blogspot.com</span><span class="citation-popover-title">make ufology philately</span><span class="citation-popover-snippet">21 Jun 2022 — González traces the first specifically UFO related postage stamp as far back as 1975, in an issue from Equatorial Guinea co...</span></span></span>
+
+That makes the issue historically useful because it demonstrates how thoroughly UFO motifs had entered mainstream commercial and visual culture by the mid-1970s. Earlier decades often treated flying saucers as marginal or controversial subjects. By 1975, however, a sovereign postal administration could place saucer imagery on official postage without apparent concern.
+
+This does not mean the Equatorial Guinean government endorsed UFO contact claims. There is no evidence that the stamps represented a state position on extraterrestrials. Instead, the issue shows that UFO imagery had become commercially safe and internationally recognisable enough for official commemorative use.
+
+
+<img src="{{ "/assets/images/Equatorial_Guinea_ae2c01_ufo_stamp_analysis_c9eb72-Illustration-2-light.svg" | relative_url }}" alt="1975 UFO Stamps illustration 2" data-theme-src-dark="{{ "/assets/images/Equatorial_Guinea_ae2c01_ufo_stamp_analysis_c9eb72-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Equatorial_Guinea_ae2c01_ufo_stamp_analysis_c9eb72-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+### Collectors preserved the issue better than UFO archives did
+
+Another reason the stamps survived in public memory is practical. Physical stamp catalogues, dealer inventories and collector exchanges preserved the designs in ways that many African UFO rumours were not preserved.
+
+Equatorial Guinea has relatively sparse public archival material concerning UFO sightings or investigations. By contrast, stamp collectors continuously reproduced images of the 1975 issue through catalogues, auctions and online philatelic marketplaces. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.etsy.com/listing/1179179051/postage-stamps-equatorial-guinea-1975" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: etsy.com">[Etsy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">etsy.com</span><span class="citation-popover-title">postage stamps equatorial guinea 1975</span><span class="citation-popover-snippet">EtsyPostage Stamps. Equatorial-guinea 1975. Philately14 Feb 2022 — This Postage Stamps item by FatCatPostStamps has 4 favorites from Ets...</span></span></span>
+
+As a result, the stamps became more verifiable than most alleged UFO stories associated with the country. They can be physically examined, traded and catalogued. That gives them unusual evidential solidity compared with anecdotal sighting claims lacking documentation.
+
+## What the stamps do not prove
+
+A recurring misunderstanding in UFO circles is the suggestion that the stamp issue reflected hidden government knowledge or a national wave of sightings. The available evidence does not support that interpretation.
+
+No credible archival source connects the stamps to:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* an Equatorial Guinean UFO investigation, <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebay.com/b/Space-Equatorial-Guinean-Stamps/179356/bn_27087803" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebay.com">[ebay.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebay.com</span><span class="citation-popover-title">bn 27087803</span><span class="citation-popover-snippet">Space Equatorial Guinean Stamps for saleEQUATORIAL GUINEA 1975, SPACE: APOLLO - SOYUZ, ASTRONAUTS, Scott 75123 S/S, MNH. $2.00. $2.50 shi...</span></span></span>
+* military sightings,
+* radar incidents,
+* aviation encounters,
+* or official claims about extraterrestrial visitation.
+
+</div>
+
+Instead, the evidence points strongly toward a commercial commemorative issue produced within the wider international market for thematic stamps. The saucer imagery appears cultural and decorative rather than documentary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pelicanist.blogspot.com/2022/06/make-ufology-philately.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pelicanist.blogspot.com">[pelicanist.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pelicanist.blogspot.com</span><span class="citation-popover-title">make ufology philately</span><span class="citation-popover-snippet">21 Jun 2022 — González traces the first specifically UFO related postage stamp as far back as 1975, in an issue from Equatorial Guinea co...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://punkphilatelist.com/2016/04/22/well-smack-my-gob-the-hairdo-and-the-tortoise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: punkphilatelist.com">[Punk Philatelist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">punkphilatelist.com</span><span class="citation-popover-title">Punk Philatelist Bogus! When a stamp is not a stamp</span><span class="citation-popover-snippet">Punk PhilatelistBogus! When a stamp is not a stampApril 21, 2016 — 22 Apr 2016 — Bogus stamps LOOK like stamps, but they have a dirty sec...</span><span class="citation-popover-meta">Published: April 21, 2016</span></span></span>
+
+This distinction is important because UFO history often blurs together three very different categories:
+
+
+<div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
+
+* alleged unexplained events,
+* fictional or symbolic imagery,
+* and official documentation.
+
+</div>
+
+The 1975 stamps belong firmly in the second category. They are authentic postal artefacts, but they are not evidence of UFO encounters.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GOmWEFZdlMs" title="The 1970s Space Message and A UFO Awakening | Full Documentary | Aliens Uncovered: Close Encounters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GOmWEFZdlMs" target="_blank" rel="noopener noreferrer">The 1970s Space Message and A UFO Awakening | Full Documentary | Aliens Uncovered: Close Encounters</a></p><p class="youtube-embed-meta">Channel: Sci-Fi Central &middot; Views: 5.0K &middot; Uploaded: April 2025 &middot; Length: 1 hour 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GOmWEFZdlMs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GOmWEFZdlMs">Open on YouTube</a></p></div></div></div>
+
+## The broader philatelic context inside Equatorial Guinea
+
+The UFO-themed issue also illustrates a larger transformation in Equatorial Guinea’s stamp production during the 1970s. After independence from Spain in 1968, the country entered a politically turbulent period under Francisco Macías Nguema. During these years, stamp issues expanded dramatically in volume and thematic variety. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.stampcollectingblog.com/equatorial-guinea-a-country-with-lost-reputation.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stampcollectingblog.com">[stampcollectingblog.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stampcollectingblog.com</span><span class="citation-popover-title">equatorial guinea a country with lost reputation</span><span class="citation-popover-snippet">Equatorial Guinea – a country with lost philatelic reputation13 Aug 2012 — 1975 Equatorial Guinea. One of the few stamps decipting presid...</span></span></span>
+
+Many subjects had limited direct connection to domestic life. Wildlife, Olympic events, space exploration and international celebrities appeared frequently because such themes sold well abroad. This commercial orientation was not unique to Equatorial Guinea. Several smaller or economically constrained postal administrations adopted similar strategies during the era.
+
+For collectors, this created a split reputation:
+
+* some appreciated the bold and imaginative artwork,
+* while traditional philatelists criticised the sheer quantity and perceived speculative nature of the issues.
+
+The UFO stamps sit exactly at that intersection. To sceptical collectors, they represented another example of internationally marketable topical imagery. To UFO enthusiasts, they became rare examples of official postal material embracing saucer iconography openly.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WpRWkuYu9V8" title="All the videos from Pentagon&#x27;s first batch of UFO files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WpRWkuYu9V8" target="_blank" rel="noopener noreferrer">All the videos from Pentagon&#x27;s first batch of UFO files</a></p><p class="youtube-embed-meta">Channel: Face the Nation &middot; Views: 61.7K &middot; Uploaded: May 2026 &middot; Length: 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WpRWkuYu9V8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WpRWkuYu9V8">Open on YouTube</a></p></div></div></div>
+
+## Why the stamps still attract attention
+
+Today the 1975 issue survives mainly through specialist collector communities, UFO-history discussions and online stamp marketplaces. The designs remain visually striking because they capture a very specific cultural moment: the point where Cold War space optimism, psychedelic science-fiction aesthetics and postwar UFO mythology converged.
+
+Their continuing appeal comes from several overlapping factors:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* they are visually unusual,
+* they appeared surprisingly early in official UFO-themed philately,
+* they reference recognisable UFO lore,
+* and they emerged from a country not otherwise strongly associated with documented UFO history.
+
+</div>
+
+That combination gives the issue a disproportionate cultural footprint compared with its original postal importance. In the wider Equatorial Guinea UFO record, the 1975 stamps remain the clearest and most verifiable artefact tied to the subject. Unlike many alleged sightings, they can still be held in hand, catalogued and historically situated with reasonable confidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pelicanist.blogspot.com/2022/06/make-ufology-philately.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pelicanist.blogspot.com">[pelicanist.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pelicanist.blogspot.com</span><span class="citation-popover-title">make ufology philately</span><span class="citation-popover-snippet">21 Jun 2022 — González traces the first specifically UFO related postage stamp as far back as 1975, in an issue from Equatorial Guinea co...</span></span></span>
+
+
+<img src="{{ "/assets/images/Equatorial_Guinea_ae2c01_ufo_stamp_analysis_c9eb72-Illustration-3-light.svg" | relative_url }}" alt="1975 UFO Stamps illustration 3" data-theme-src-dark="{{ "/assets/images/Equatorial_Guinea_ae2c01_ufo_stamp_analysis_c9eb72-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Equatorial_Guinea_ae2c01_ufo_stamp_analysis_c9eb72-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How Equatorial Guinea’s 1975 Stamps Entered UFO Culture. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
+        </h4>
+        <p class="fr-book-author">By David Clarke</p>
+        
+        <p class="fr-book-desc">Places UFO imagery within broader popular culture history.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Unidentified on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1VQ0EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Unidentified" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Unidentified">The Unidentified</a>
+        </h4>
+        <p class="fr-book-author">By Colin Dickey</p>
+        
+        <p class="fr-book-desc">Explores the cultural fascination behind UFO-related artifacts and imagery.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Stamp+Collecting+for+Dummies+Richard+L.+Sine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stamp Collecting for Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/521864-M.jpg" alt="Cover for Stamp Collecting for Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Stamp+Collecting+for+Dummies+Richard+L.+Sine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stamp Collecting for Dummies">Stamp Collecting for Dummies</a>
+        </h4>
+        <p class="fr-book-author">By Richard L. Sine</p>
+        
+        <p class="fr-book-desc">First published 2001. Subjects: Stamp collecting, Postage stamps, collectors and collecting.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Stamp+Collecting+for+Dummies+Richard+L.+Sine&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F+Erich+von+D%C3%A4niken&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chariots of the gods? on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F+Erich+von+D%C3%A4niken&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chariots of the gods?">Chariots of the gods?</a>
+        </h4>
+        <p class="fr-book-author">By Erich von Däniken</p>
+        
+        <p class="fr-book-desc">First published 1971. Subjects: Interplanetary voyages, Life on other planets.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F+Erich+von+D%C3%A4niken&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Unidentified&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Unidentified</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Stamp+Collecting+for+Dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Stamp Collecting for Dummies</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: pelicanist.blogspot.com  
+   Title: make ufology philately  
+   Link: [https://pelicanist.blogspot.com/2022/06/make-ufology-philately.html](https://pelicanist.blogspot.com/2022/06/make-ufology-philately.html)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>21 Jun 2022 — González traces the first specifically UFO related postage stamp as far back as 1975, in an issue from Equatorial Guinea co...</p></details>
+
+2. <a id="endnote-2"></a>
+   Source: Wikipedia  
+   Title: George Adamski  
+   Link: [https://en.wikipedia.org/wiki/George_Adamski](https://en.wikipedia.org/wiki/George_Adamski)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>George AdamskiThis same UFO photograph was depicted in an August 1978 commemorative stamp issued by the island nation of Grenada in or...</p></details>
+   Published: August 1978  
+
+3. <a id="endnote-3"></a>
+   Source: history.com  
+   Title: george adamski ufo alien photos  
+   Link: [https://www.history.com/articles/george-adamski-ufo-alien-photos](https://www.history.com/articles/george-adamski-ufo-alien-photos)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORYGeorge Adamski Got Famous Sharing His UFO Photos and...9 Jan 2020 — Adamski had multiple claims to UFO fame. Starting in the late...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: ebay.com  
+   Title: bn 27087803  
+   Link: [https://www.ebay.com/b/Space-Equatorial-Guinean-Stamps/179356/bn_27087803](https://www.ebay.com/b/Space-Equatorial-Guinean-Stamps/179356/bn_27087803)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Space Equatorial Guinean Stamps for saleEQUATORIAL GUINEA 1975, SPACE: APOLLO - SOYUZ, ASTRONAUTS, Scott 75123 S/S, MNH. $2.00. $2.50 shi...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: stampcollectingblog.com  
+   Title: equatorial guinea a country with lost reputation  
+   Link: [https://www.stampcollectingblog.com/equatorial-guinea-a-country-with-lost-reputation.php](https://www.stampcollectingblog.com/equatorial-guinea-a-country-with-lost-reputation.php)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Equatorial Guinea – a country with lost philatelic reputation13 Aug 2012 — 1975 Equatorial Guinea. One of the few stamps decipting presid...</p></details>
+
+6. <a id="endnote-6"></a>
+   Source: reddit.com  
+   Title: Wacky space stamps from Equatorial Guinea's set on the "  
+   Link: [https://www.reddit.com/r/philately/comments/n6etv7/wacky_space_stamps_from_equatorial_guineas_set_on/](https://www.reddit.com/r/philately/comments/n6etv7/wacky_space_stamps_from_equatorial_guineas_set_on/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditWacky space stamps from Equatorial Guinea&#x27;s set on the &quot;...May 6, 2021 — Wacky space stamps from Equatorial Guinea&#x27;s set on the &quot;C...</p></details>
+   Published: May 6, 2021  
+
+7. <a id="endnote-7"></a>
+   Source: etsy.com  
+   Title: postage stamps equatorial guinea 1975  
+   Link: [https://www.etsy.com/listing/1179179051/postage-stamps-equatorial-guinea-1975](https://www.etsy.com/listing/1179179051/postage-stamps-equatorial-guinea-1975)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>EtsyPostage Stamps. Equatorial-guinea 1975. Philately14 Feb 2022 — This Postage Stamps item by FatCatPostStamps has 4 favorites from Ets...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: Wikipedia  
+   Title: Mas (Mediterranean farmhouse)  
+   Link: [https://en.wikipedia.org/wiki/Mas_%28Mediterranean_farmhouse%29](https://en.wikipedia.org/wiki/Mas_%28Mediterranean_farmhouse%29)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mas (Mediterranean farmhouse)A mas (Occitan: [ˈmas], Catalan: [ˈmas]) in the Provence and Midi; masia (Catalan pronunciation: [maˈzia...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/UKPersonalFinance/comments/1nnhkwy/what_is_a_mas_type_of_payment/](https://www.reddit.com/r/UKPersonalFinance/comments/1nnhkwy/what_is_a_mas_type_of_payment/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>What is a MAS type of payment?: r/UKPersonalFinanceThe bank I work for shows some payments as MAS on its statements and online transacti...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: punkphilatelist.com  
+   Title: Punk Philatelist Bogus! When a stamp is not a stamp  
+   Link: [https://punkphilatelist.com/2016/04/22/well-smack-my-gob-the-hairdo-and-the-tortoise/](https://punkphilatelist.com/2016/04/22/well-smack-my-gob-the-hairdo-and-the-tortoise/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Punk PhilatelistBogus! When a stamp is not a stampApril 21, 2016 — 22 Apr 2016 — Bogus stamps LOOK like stamps, but they have a dirty sec...</p></details>
+   Published: April 21, 2016  
+
+11. <a id="endnote-11"></a>
+   Source: stampworld.com  
+   Title: Equatorial Guinea  
+   Link: [https://www.stampworld.com/en/stamps/Equatorial-Guinea/Postage%20stamps/1970-1979?page=21](https://www.stampworld.com/en/stamps/Equatorial-Guinea/Postage%20stamps/1970-1979?page=21)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Postage stamps (1970 - 1979) - Page 21Now showing: Equatorial Guinea - Postage stamps (1970 - 1979) - 1836 stamps. 1975 Butterflies 6. De...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: artsandculture.google.com  
+   Title: ow VRs Wygi T1m0g  
+   Link: [https://artsandculture.google.com/story/the-history-of-mas-notting-hill-carnival/owVRsWygiT1m0g?hl=en](https://artsandculture.google.com/story/the-history-of-mas-notting-hill-carnival/owVRsWygiT1m0g?hl=en)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>History of MasMas, short for &#x27;masquerade&#x27;, participants dress in costumes, masks and other disguises to dance through the parade route. T...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: masarchitecture.co.uk  
+   Title: MA S architecture  
+   Link: [https://www.masarchitecture.co.uk/](https://www.masarchitecture.co.uk/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>History · Team · Design Methodology · Technological Methodology. Projects. Commercial / Retail · Education / Community...</p></details>
+
+### Additional References
+
+14. <a id="endnote-14"></a>
+   Source: mas.gov.sg  
+   Link: [https://www.mas.gov.sg/](https://www.mas.gov.sg/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Monetary Authority of SingaporeMAS is the central bank of Singapore. Our mission is to promote sustained non-inflationary economic growth...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: malaysiaairlines.com  
+   Link: [https://www.malaysiaairlines.com/hq/en/home.html](https://www.malaysiaairlines.com/hq/en/home.html)  
+
+16. <a id="endnote-16"></a>
+   Source: freestampcatalogue.com  
+   Title: Stamps from Equatorial Guinea Buy Stamps at Post Beeld  
+   Link: [https://www.freestampcatalogue.com/stamps/country/equatorial-guinea/page/7](https://www.freestampcatalogue.com/stamps/country/equatorial-guinea/page/7)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stamps from Equatorial GuineaBuy Stamps at PostBeeld - Stamp shop with entire world in stock, buy, sell, trade, price list, safe and secu...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: find-and-update.company-information.service.gov.uk  
+   Title: company-information.service.gov.ukmas of london limited  
+   Link: [https://find-and-update.company-information.service.gov.uk/company/06487770](https://find-and-update.company-information.service.gov.uk/company/06487770)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>45200 - Maintenance and repair of motor vehicles; 66210 - Risk and damage evaluation; 77110 - Renting and leasing of cars and...Read more...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/groups/philatelycheatersaroundtheglobe/posts/26149800837955295/](https://www.facebook.com/groups/philatelycheatersaroundtheglobe/posts/26149800837955295/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>hemed stamps? Rockets, spacecraft, planets, etc. Thanks...</p></details>
+
+19. <a id="endnote-19"></a>
+   Source: massgrave.dev  
+   Link: [https://massgrave.dev/](https://massgrave.dev/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ethods, along with advanced troubleshooting...</p></details>
+
+20. <a id="endnote-20"></a>
+   Source: dokumen.pub  
+   Title: The Time Machine Hypothesis  
+   Link: [https://dokumen.pub/the-time-machine-hypothesis-extreme-science-meets-science-fiction-978-3-030-16177-4-978-3-030-16178-1.html](https://dokumen.pub/the-time-machine-hypothesis-extreme-science-meets-science-fiction-978-3-030-16177-4-978-3-030-16178-1.html)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Extreme Science Meets...The UFO topic burst back into the news in December, 2017, when The New York Times and other serious sources repo...</p></details>
+
+21. <a id="endnote-21"></a>
+   Source: postbeeld.com  
+   Title: sgnp0650 ships 14v  
+   Link: [https://www.postbeeld.com/sgnp0650-ships-14v](https://www.postbeeld.com/sgnp0650-ships-14v)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stamp 1975, Equatorial Guinea Ships 14v, 1975Main product: sgn0650. Country: Equatorial Guinea. Year: 1975. Nr. Michel: 650/63. Is Unique...</p></details>
+
+22. <a id="endnote-22"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=GOmWEFZdlMs](https://www.youtube.com/watch?v=GOmWEFZdlMs)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Adamski: Saucers, Aliens and Beyond! (UFO Documentary)...</p></details>
+
+23. <a id="endnote-23"></a>
+   Source: youtube.com  
+   Title: FRANCISCO MACIAS NGUEMA: Africa's scariest Dictator?| African Biographics  
+   Link: [https://www.youtube.com/watch?v=nRSpVi5PxW8](https://www.youtube.com/watch?v=nRSpVi5PxW8)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>All the videos from Pentagon&#x27;s first batch of UFO files...</p></details>

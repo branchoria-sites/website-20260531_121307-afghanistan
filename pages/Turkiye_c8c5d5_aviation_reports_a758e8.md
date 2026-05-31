@@ -1,0 +1,574 @@
+---
+level: 2
+basename: Turkiye_c8c5d5_aviation_reports_a758e8
+parent_basename: Turkiye_c8c5d5
+child_basenames: []
+sibling_basenames:
+- Turkiye_c8c5d5_bursa_cloud_f707f0
+- Turkiye_c8c5d5_kumburgaz_footage_924137
+- Turkiye_c8c5d5_ufo_culture_ee27c9
+tags:
+- turkiye
+- aviation-cases
+keywords:
+- turkiye
+- aviation-cases
+affiliate_category: turkiye
+show_ads: true
+description: Reports near Istanbul and Gaziantep show how unidentified objects become safety decisions even without radar confirmation.
+hero_summary: Reports near Istanbul and Gaziantep show how unidentified objects become safety decisions even without radar confirmation.
+layout: default
+permalink: /aviation-cases-95ae4b/
+sidebar_expanded_urls:
+- /turkiye/
+nav_short_title: Aviation Cases
+title: When UFO Reports Disrupt Turkish Airspace
+title_full: When UFO Reports Disrupt Turkish Airspace | Türkiye UFOs
+display_title_short: Aviation Cases
+display_title: Aviation Cases
+heading_title: When UFO Reports Disrupt Turkish Airspace
+page_heading_title: When UFO Reports Disrupt Turkish Airspace
+source_count: 33
+infographic_count: 3
+planned_sections:
+- Turkish Airlines pilots near Silivri
+- Gaziantep airport flight disruptions
+- Why precaution is not proof
+focal_unit_type: population_context
+topic_lens: critique_risk
+topic_granularity: case_family
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+parent_title: Türkiye UFOs
+parent_permalink: /turkiye/
+parent_nav_short_title: Türkiye UFOs
+parent_heading_title: What Do Türkiye's UFO Cases Really Show?
+ancestor_links:
+- basename: Turkiye_c8c5d5
+  title: Türkiye UFOs
+  permalink: /turkiye/
+  short_title: Türkiye UFOs
+breadcrumb_links:
+- basename: Turkiye_c8c5d5
+  title: Türkiye UFOs
+  permalink: /turkiye/
+  short_title: Türkiye UFOs
+sibling_links:
+- basename: Turkiye_c8c5d5_bursa_cloud_f707f0
+  title: Bursa Cloud | What Do Türkiye's UFO Cases Really Show?
+  permalink: /bursa-cloud/
+  short_title: Bursa Cloud
+  heading_title: The Bursa UFO Cloud That Wasn't a UFO
+- basename: Turkiye_c8c5d5_kumburgaz_footage_924137
+  title: Kumburgaz | What Do Türkiye's UFO Cases Really Show?
+  permalink: /kumburgaz/
+  short_title: Kumburgaz
+  heading_title: Why Kumburgaz Still Divides UFO Watchers
+- basename: Turkiye_c8c5d5_ufo_culture_ee27c9
+  title: UFO Culture | What Do Türkiye's UFO Cases Really Show?
+  permalink: /ufo-culture/
+  short_title: UFO Culture
+  heading_title: How Türkiye Built a UFO Public Culture
+up_link:
+  basename: Turkiye_c8c5d5
+  title: Türkiye UFOs
+  permalink: /turkiye/
+  short_title: Türkiye UFOs
+next_link:
+  basename: Turkiye_c8c5d5_bursa_cloud_f707f0
+  title: Bursa Cloud | What Do Türkiye's UFO Cases Really Show?
+  permalink: /bursa-cloud/
+  short_title: Bursa Cloud
+  heading_title: The Bursa UFO Cloud That Wasn't a UFO
+date: '2026-05-31 04:34:49 '
+header:
+  og_image: /assets/images/Turkiye_c8c5d5_aviation_reports_a758e8-Illustration-1-social.jpg
+  preview_image: /assets/images/Turkiye_c8c5d5_aviation_reports_a758e8-Illustration-1.webp
+image: /assets/images/Turkiye_c8c5d5_aviation_reports_a758e8-Illustration-1-social.jpg
+---
+
+## Introduction
+
+Reports from pilots and airport personnel occupy a special place in Türkiye’s UFO record because they are not simply stories about unusual lights in the sky. They are aviation safety events. When a flight crew reports an unidentified object near an aircraft or in controlled airspace, air traffic controllers and airport authorities must decide whether operations can continue safely, regardless of whether the object is ever identified.
+
+
+<img src="{{ "/assets/images/Turkiye_c8c5d5_aviation_reports_a758e8-Illustration-1-light.svg" | relative_url }}" alt="Aviation Cases illustration 1" data-theme-src-dark="{{ "/assets/images/Turkiye_c8c5d5_aviation_reports_a758e8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Turkiye_c8c5d5_aviation_reports_a758e8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+Two Turkish cases illustrate this distinction particularly well. One involved Turkish Airlines pilots reporting a luminous object near Istanbul’s Silivri district in 2016. The other involved major flight disruptions at Gaziantep Airport in 2023 after pilots and radar systems reported an unidentified object near the airport’s airspace. In neither case did authorities publicly confirm an extraordinary explanation. Yet both incidents show how unidentified aerial reports can trigger real operational decisions because aviation prioritises risk management over certainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hurriyetdailynews.com/ufo-with-green-lights-passed-over-our-plane-say-turkish-pilots--99476" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hurriyetdailynews.com">[Hürriyet Daily News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hurriyetdailynews.com</span><span class="citation-popover-snippet">Hürriyet Daily NewsUFO with green lights passed over our plane, say Turkish...May 20, 2016 — 21 May 2016 — The “UFO” was seen around Ist...</span><span class="citation-popover-meta">Published: May 20, 2016</span></span></span>
+
+## Turkish Airlines pilots near Silivri
+
+In May 2016, the crew of a Turkish Airlines flight travelling from Bodrum to Istanbul reported an unidentified object with green lights near the Silivri area west of Istanbul. According to reports, the pilots informed air traffic control that the object appeared to pass several thousand feet above their aircraft before suddenly disappearing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hurriyetdailynews.com/ufo-with-green-lights-passed-over-our-plane-say-turkish-pilots--99476" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hurriyetdailynews.com">[Hürriyet Daily News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hurriyetdailynews.com</span><span class="citation-popover-snippet">Hürriyet Daily NewsUFO with green lights passed over our plane, say Turkish...May 20, 2016 — 21 May 2016 — The “UFO” was seen around Ist...</span><span class="citation-popover-meta">Published: May 20, 2016</span></span></span>
+
+What makes the incident notable is not the description itself but the source. Airline pilots are trained observers who routinely identify aircraft, navigation lights, weather phenomena and other aerial traffic. Because of that training, pilot reports are often treated as more significant than ordinary witness accounts.
+
+However, aviation credibility is not the same as proof. In the Silivri case, no publicly available radar confirmation established the nature of the object. Reports at the time indicated that airport authorities did not identify a corresponding radar target matching the pilots’ description. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.inquisitr.com/ufo-sightings-2016-turkish-pilots-saw-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inquisitr.com">[Inquisitr News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inquisitr.com</span><span class="citation-popover-title">ufo sightings 2016 turkish pilots saw ufo</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+The case therefore falls into an important category within Turkish UFO history:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* A trained-witness report exists.
+* The report was made through operational aviation channels rather than social media.
+* No publicly available evidence resolved the sighting.
+* No publicly available evidence demonstrated an extraordinary craft.
+
+</div>
+
+As a result, the event remains unidentified but not evidentially strong enough to support conclusions about its origin.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0N93GMlukt0" title="Pilots report UFO sightings during flight | West Coast Wrap" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0N93GMlukt0" target="_blank" rel="noopener noreferrer">Pilots report UFO sightings during flight | West Coast Wrap</a></p><p class="youtube-embed-meta">Channel: KTVU FOX 2 San Francisco &middot; Views: 32.0K &middot; Uploaded: December 2024 &middot; Length: 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0N93GMlukt0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0N93GMlukt0">Open on YouTube</a></p></div></div></div>
+
+## Gaziantep airport flight disruptions
+
+The most consequential Turkish aviation-related UFO case occurred in May 2023 at Gaziantep Airport in southeastern Türkiye.
+
+According to multiple reports, cockpit crews approaching the airport observed or detected an unidentified object at roughly 9,000 feet. Pilots notified air traffic control, and airport authorities responded by suspending flight operations. Incoming aircraft were redirected to other airports while officials attempted to determine the nature of the object. Flights were disrupted for approximately twelve hours, and numerous departures and arrivals were cancelled. Hürriyet Daily News <span class="citation-chip-wrap"><a class="citation-chip" href="https://thesun.my/news/world-news/flights-suspended-for-12-hours-due-to-suspected-ufo-in-se-[turkiye" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thesun.my">[The Sun Malaysia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thesun.my</span><span class="citation-popover-snippet">The Sun MalaysiaFlights suspended for 12 hours due to suspected UFO in Se...GAZIANTEP: Flights were suspended for 12 hours due to the UF...</span></span></span>
+
+The significance of the incident lies in the chain of decision-making.
+
+Authorities did not need to establish that the object was extraterrestrial, hostile or even unusual. They only needed to determine that an unidentified object might present a hazard to aircraft. From an aviation-safety perspective, uncertainty itself becomes part of the risk calculation.
+
+Reports from the period indicate that:
+
+
+<div class="content-enhancement content-enhancement--comparison" markdown="1">
+
+* Pilots reported an unidentified object in the airport’s airspace. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.turkiyetoday.com/turkiye/ufo-alert-in-turkiyes-gaziantep-flights-halted-120856" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: turkiyetoday.com">[turkiyetoday.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">turkiyetoday.com</span><span class="citation-popover-title">ufo alert in turkiyes gaziantep flights halted 120856</span><span class="citation-popover-snippet">UFO alert in Türkiye&#x27;s Gaziantep: Flights halted19 Feb 2025 — Flights were suspended at Gaziantep Airport on Monday night after pilots re...</span></span></span>
+* Air traffic control treated the reports seriously enough to interrupt operations.
+* Aircraft were diverted to alternative airports.
+* Dozens of flights were affected before operations resumed. Hürriyet Daily News <span class="citation-chip-wrap"><a class="citation-chip" href="https://thesun.my/news/world-news/flights-suspended-for-12-hours-due-to-suspected-ufo-in-se-[turkiye" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thesun.my">[The Sun Malaysia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thesun.my</span><span class="citation-popover-snippet">The Sun MalaysiaFlights suspended for 12 hours due to suspected UFO in Se...GAZIANTEP: Flights were suspended for 12 hours due to the UF...</span></span></span>
+
+</div>
+
+The object was never publicly established as anything extraordinary. News coverage described it simply as unidentified, while later speculation included possibilities such as a drone or another conventional aerial object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hurriyetdailynews.com/ufo-with-green-lights-passed-over-our-plane-say-turkish-pilots--99476" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hurriyetdailynews.com">[Hürriyet Daily News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hurriyetdailynews.com</span><span class="citation-popover-snippet">Hürriyet Daily NewsUFO with green lights passed over our plane, say Turkish...May 20, 2016 — 21 May 2016 — The “UFO” was seen around Ist...</span><span class="citation-popover-meta">Published: May 20, 2016</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nst.com.my/world/world/2023/05/911574/report-turkish-airport-suspends-flights-12-hours-following-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nst.com.my">[NST Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nst.com.my</span><span class="citation-popover-title">report turkish airport suspends flights 12 hours following ufo sighting</span><span class="citation-popover-snippet">NST OnlineTurkish airport suspends flights for 12 hours following &#x27;UFO...20 May 2023 — GAZIANTEP, TURKIYE: At least 18 flights were susp...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+
+For researchers of Turkish UFO reports, Gaziantep is therefore valuable not because it provides evidence of non-human technology, but because it demonstrates how an unidentified report can create measurable operational consequences.
+
+## Why aviation reports receive more attention
+
+Within Türkiye’s wider UFO history, aviation sightings are often treated differently from videos, social-media claims or mass-witness stories.
+
+Several factors explain this distinction.
+
+
+<img src="{{ "/assets/images/Turkiye_c8c5d5_aviation_reports_a758e8-Illustration-2-light.svg" | relative_url }}" alt="Aviation Cases illustration 2" data-theme-src-dark="{{ "/assets/images/Turkiye_c8c5d5_aviation_reports_a758e8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Turkiye_c8c5d5_aviation_reports_a758e8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+### Trained observers
+
+Pilots spend thousands of hours observing aircraft behaviour, atmospheric conditions and navigation systems. Their testimony is therefore generally considered more reliable than that of untrained observers when describing what they saw.
+
+This does not make pilots infallible. Astronomical objects, atmospheric effects, reflections and other aircraft can still be misidentified. But pilot observations usually begin from a stronger evidential baseline than casual sightings.
+
+### Structured reporting
+
+Aviation incidents generate records.
+
+Radio communications, flight tracks, radar reviews, operational logs and controller reports can all become part of an investigation. Even when those records are not publicly released, the existence of a formal reporting chain gives analysts more material than is available in most civilian UFO cases.
+
+### Public-safety consequences
+
+A pilot report may require immediate action.
+
+An unidentified object near a flight path could represent:
+
+
+<div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
+
+* Another aircraft.
+* A drone.
+* A balloon.
+* A radar anomaly.
+* A weather-related phenomenon.
+* Something that remains unidentified.
+
+</div>
+
+Because aviation safety systems are designed around caution, authorities frequently act before they know which explanation is correct.
+
+The Gaziantep disruptions illustrate this principle particularly clearly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hurriyetdailynews.com/ufo-with-green-lights-passed-over-our-plane-say-turkish-pilots--99476" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hurriyetdailynews.com">[Hürriyet Daily News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hurriyetdailynews.com</span><span class="citation-popover-snippet">Hürriyet Daily NewsUFO with green lights passed over our plane, say Turkish...May 20, 2016 — 21 May 2016 — The “UFO” was seen around Ist...</span><span class="citation-popover-meta">Published: May 20, 2016</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6GgT2mjhpAg" title="What Did Steven Spielberg Get Right About UFO Encounters in the Cockpit? - Episode 317" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6GgT2mjhpAg" target="_blank" rel="noopener noreferrer">What Did Steven Spielberg Get Right About UFO Encounters in the Cockpit? - Episode 317</a></p><p class="youtube-embed-meta">Channel: Flight Safety Detectives &middot; Views: 2.9K &middot; Uploaded: February 2026 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6GgT2mjhpAg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6GgT2mjhpAg">Open on YouTube</a></p></div></div></div>
+
+## Why precaution is not proof
+
+One of the most common misunderstandings in discussions of Turkish airport and pilot reports is the assumption that official concern validates an extraordinary explanation.
+
+In reality, aviation authorities operate according to precautionary principles. A temporary suspension of flights means that decision-makers judged the situation uncertain enough to justify caution. It does not mean they concluded that an unusual craft was present.
+
+The distinction matters because many Turkish UFO stories gain attention precisely when airports alter operations, issue warnings or conduct checks. Those actions can appear to confirm the sighting. In practice they confirm only that the sighting was taken seriously enough to investigate.
+
+The Gaziantep case demonstrates this perfectly. Flights were interrupted, aircraft were redirected and airport authorities responded as if a genuine hazard might exist. Yet no public investigation established an extraterrestrial or otherwise extraordinary object. The operational response reflected uncertainty, not confirmation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hurriyetdailynews.com/ufo-with-green-lights-passed-over-our-plane-say-turkish-pilots--99476" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hurriyetdailynews.com">[Hürriyet Daily News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hurriyetdailynews.com</span><span class="citation-popover-snippet">Hürriyet Daily NewsUFO with green lights passed over our plane, say Turkish...May 20, 2016 — 21 May 2016 — The “UFO” was seen around Ist...</span><span class="citation-popover-meta">Published: May 20, 2016</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nst.com.my/world/world/2023/05/911574/report-turkish-airport-suspends-flights-12-hours-following-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nst.com.my">[NST Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nst.com.my</span><span class="citation-popover-title">report turkish airport suspends flights 12 hours following ufo sighting</span><span class="citation-popover-snippet">NST OnlineTurkish airport suspends flights for 12 hours following &#x27;UFO...20 May 2023 — GAZIANTEP, TURKIYE: At least 18 flights were susp...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+
+The same caution applies to the Silivri pilot report. A credible witness report does not automatically become a verified event merely because the witness was a professional pilot. Without corroborating data, the object remains unidentified rather than explained or confirmed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hurriyetdailynews.com/ufo-with-green-lights-passed-over-our-plane-say-turkish-pilots--99476" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hurriyetdailynews.com">[Hürriyet Daily News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hurriyetdailynews.com</span><span class="citation-popover-snippet">Hürriyet Daily NewsUFO with green lights passed over our plane, say Turkish...May 20, 2016 — 21 May 2016 — The “UFO” was seen around Ist...</span><span class="citation-popover-meta">Published: May 20, 2016</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lTGJt7Gho0w" title="Inside the Data: What 1,000+ Pilot Reports Reveal About UAP | iConnections Webinar with Ryan Graves" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lTGJt7Gho0w" target="_blank" rel="noopener noreferrer">Inside the Data: What 1,000+ Pilot Reports Reveal About UAP | iConnections Webinar with Ryan Graves</a></p><p class="youtube-embed-meta">Channel: iConnections &middot; Views: 287 &middot; Uploaded: April 2026 &middot; Length: 45 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lTGJt7Gho0w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lTGJt7Gho0w">Open on YouTube</a></p></div></div></div>
+
+## What these cases add to Türkiye’s UFO record
+
+Compared with famous Turkish UFO narratives such as the [Kumburgaz footage]({{ 'kumburgaz/' | relative_url }}), pilot and airport incidents contribute something different. They reveal how unidentified aerial reports move through professional safety systems rather than public belief networks.
+
+The Silivri and Gaziantep events show a recurring pattern:
+
+
+<img src="{{ "/assets/images/Turkiye_c8c5d5_aviation_reports_a758e8-Illustration-3-light.svg" | relative_url }}" alt="Aviation Cases illustration 3" data-theme-src-dark="{{ "/assets/images/Turkiye_c8c5d5_aviation_reports_a758e8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Turkiye_c8c5d5_aviation_reports_a758e8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+<div class="content-enhancement content-enhancement--step-flow" markdown="1">
+
+1. Trained aviation personnel report an unusual object.
+2. Authorities assess potential risks to aircraft.
+3. Operational decisions are made under uncertainty.
+4. Public interest focuses on the UFO aspect.
+5. Definitive identification often remains unavailable.
+
+</div>
+
+That pattern explains why aviation cases continue to attract attention despite the absence of conclusive evidence. They sit at the intersection of witness testimony, technical monitoring, institutional response and public safety. In Türkiye’s UFO history, their importance comes less from what they prove and more from how they demonstrate the real-world consequences of unidentified reports in controlled airspace.
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to When UFO Reports Disrupt Turkish Airspace. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+        </h4>
+        <p class="fr-book-author">By J. Allen Hynek</p>
+        
+        <p class="fr-book-desc">Provides frameworks for analysing reports from trained observers.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+        </h4>
+        <p class="fr-book-author">By J. Allen Hynek</p>
+        
+        <p class="fr-book-desc">Contains case-study material useful for comparison.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+        </h4>
+        <p class="fr-book-author">By Leslie Kean</p>
+        
+        <p class="fr-book-desc">Directly aligns with aviation-related UFO reports and airspace incidents.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+        </h4>
+        <p class="fr-book-author">By Jacques Vallee</p>
+        
+        <p class="fr-book-desc">Offers broader interpretation of unexplained aerial reports.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: hurriyetdailynews.com  
+   Link: [https://www.hurriyetdailynews.com/ufo-with-green-lights-passed-over-our-plane-say-turkish-pilots--99476](https://www.hurriyetdailynews.com/ufo-with-green-lights-passed-over-our-plane-say-turkish-pilots--99476)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hürriyet Daily NewsUFO with green lights passed over our plane, say Turkish...May 20, 2016 — 21 May 2016 — The “UFO” was seen around Ist...</p></details>
+   Published: May 20, 2016  
+
+2. <a id="endnote-2"></a>
+   Source: hurriyetdailynews.com  
+   Title: unidentified object alert halts flights at airport 183326  
+   Link: [https://www.hurriyetdailynews.com/unidentified-object-alert-halts-flights-at-airport-183326](https://www.hurriyetdailynews.com/unidentified-object-alert-halts-flights-at-airport-183326)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hürriyet Daily NewsUnidentified object alert halts flights at airport22 May 2023 — Flights at the Gaziantep Airport were stopped for abou...</p></details>
+   Published: May 2023  
+
+3. <a id="endnote-3"></a>
+   Source: inquisitr.com  
+   Title: ufo sightings 2016 turkish pilots saw ufo  
+   Link: [https://www.inquisitr.com/ufo-sightings-2016-turkish-pilots-saw-ufo](https://www.inquisitr.com/ufo-sightings-2016-turkish-pilots-saw-ufo)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Report Ad. #ufosfacts Turkish Airlines Pilot Encounters An Ufo [https://t.co/jQEc01WEBP](https://t.co/jQEc01WEBP) #ufos #ufos #ufosfacts pic...Read more...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: thesun.my  
+   Link: [https://thesun.my/news/world-news/flights-suspended-for-12-hours-due-to-suspected-ufo-in-se-[turkiye](https://thesun.my/news/world-news/flights-suspended-for-12-hours-due-to-suspected-ufo-in-se-[turkiye)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Sun MalaysiaFlights suspended for 12 hours due to suspected UFO in Se...GAZIANTEP: Flights were suspended for 12 hours due to the UF...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: nst.com.my  
+   Title: report turkish airport suspends flights 12 hours following ufo sighting  
+   Link: [https://www.nst.com.my/world/world/2023/05/911574/report-turkish-airport-suspends-flights-12-hours-following-ufo-sighting](https://www.nst.com.my/world/world/2023/05/911574/report-turkish-airport-suspends-flights-12-hours-following-ufo-sighting)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NST OnlineTurkish airport suspends flights for 12 hours following &#x27;UFO...20 May 2023 — GAZIANTEP, TURKIYE: At least 18 flights were susp...</p></details>
+   Published: May 2023  
+
+6. <a id="endnote-6"></a>
+   Source: Wikipedia  
+   Link: [https://en.wikipedia.org/wiki/Gaziantep](https://en.wikipedia.org/wiki/Gaziantep)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>GaziantepIt is the fifth-most populous city in Turkey. Gaziantep is a diverse city inhabited mostly by ethnic Turks and a significant...</p></details>
+
+### Additional References
+
+7. <a id="endnote-7"></a>
+   Source: nypost.com  
+   Title: ufo sighting grounds airport flights contact is definitely happening before 2027  
+   Link: [https://nypost.com/2025/02/20/lifestyle/ufo-sighting-grounds-airport-flights-contact-is-definitely-happening-before-2027/](https://nypost.com/2025/02/20/lifestyle/ufo-sighting-grounds-airport-flights-contact-is-definitely-happening-before-2027/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pilots reported the unidentified flying object to the control tower, which grounded all flights for an hour as they attempted to identify...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: news.iheart.com  
+   Title: 2023 05 22 ufo sightings cause shut downs at airports in turkey and taiwan  
+   Link: [https://news.iheart.com/featured/coast-to-coast-am/content/2023-05-22-ufo-sightings-cause-shut-downs-at-airports-in-turkey-and-taiwan/](https://news.iheart.com/featured/coast-to-coast-am/content/2023-05-22-ufo-sightings-cause-shut-downs-at-airports-in-turkey-and-taiwan/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sightings Cause Shut Downs at Airports in Turkey...22 May 2023 — A pair of peculiar incidents over the past few days saw airports in bot...</p></details>
+   Published: May 2023  
+
+9. <a id="endnote-9"></a>
+   Source: english.alarabiya.net  
+   Title: Turkish Airlines pilots saw UFO above plane on same day of Egypt Air crash  
+   Link: [https://english.alarabiya.net/variety/2016/05/23/Turkish-Airlines-pilots-saw-UFO-above-plane-on-same-day-of-EgyptAir-crash-](https://english.alarabiya.net/variety/2016/05/23/Turkish-Airlines-pilots-saw-UFO-above-plane-on-same-day-of-EgyptAir-crash-)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Airlines pilots saw UFO above plane on same day...23 May 2016 — Danzinger said many pilots had shared UFO stories with him, claiming “vi...</p></details>
+   Published: May 2016  
+
+10. <a id="endnote-10"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/viceuk/posts/a-ufo-sighting-grounded-several-flights-at-an-airport-in-turkey/1000835555247860/](https://www.facebook.com/viceuk/posts/a-ufo-sighting-grounded-several-flights-at-an-airport-in-turkey/1000835555247860/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 2012, UFO reports went up by 35% compared to the year before, and that trend continued with a 45%...Read more...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: unexplained-mysteries.com  
+   Title: ufo delays more than 18 flights for 12 hours at airport in turkey  
+   Link: [https://www.unexplained-mysteries.com/news/367200/ufo-delays-more-than-18-flights-for-12-hours-at-airport-in-turkey](https://www.unexplained-mysteries.com/news/367200/ufo-delays-more-than-18-flights-for-12-hours-at-airport-in-turkey)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;UFO&#x27; delays more than 18 flights for 12 hours at airport in...25 May 2023 — Sightings of an unidentified object caused considerable dis...</p></details>
+   Published: May 2023  
+
+12. <a id="endnote-12"></a>
+   Source: sinardaily.my  
+   Link: [https://www.sinardaily.my/article/196526/focus/world/flight-suspended-for-12-hours-due-suspected-ufo-in-south-eastern-turkey](https://www.sinardaily.my/article/196526/focus/world/flight-suspended-for-12-hours-due-suspected-ufo-in-south-eastern-turkey)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>t) allegedly detected by the radar of a passenger plane in the southeastern Turkey.Read more...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: dimsumdaily.hk  
+   Link: [https://www.dimsumdaily.hk/flights-suspended-for-12-hours-in-turkiye-due-to-alleged-ufo-detection-on-radar/](https://www.dimsumdaily.hk/flights-suspended-for-12-hours-in-turkiye-due-to-alleged-ufo-detection-on-radar/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ntep airport at midnight detected an object at an altitude of 2743.2 meters (9,000 feet)...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: turkiyetoday.com  
+   Title: ufo alert in turkiyes gaziantep flights halted 120856  
+   Link: [https://www.turkiyetoday.com/turkiye/ufo-alert-in-turkiyes-gaziantep-flights-halted-120856](https://www.turkiyetoday.com/turkiye/ufo-alert-in-turkiyes-gaziantep-flights-halted-120856)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO alert in Türkiye&#x27;s Gaziantep: Flights halted19 Feb 2025 — Flights were suspended at Gaziantep Airport on Monday night after pilots re...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: urdupoint.com  
+   Title: dozens of flights grounded in turkeys gazian 1694762  
+   Link: [https://www.urdupoint.com/en/world/dozens-of-flights-grounded-in-turkeys-gazian-1694762.html](https://www.urdupoint.com/en/world/dozens-of-flights-grounded-in-turkeys-gazian-1694762.html)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dozens Of Flights Grounded In Turkeys Gaziantep Over...20 May 2023 — A total of 26 flights were canceled at Gaziantep Airport in Turkeys...</p></details>
+   Published: May 2023  
+
+16. <a id="endnote-16"></a>
+   Source: d-fendsolutions.com  
+   Title: Global Drone Incidents Tracker | Trends & Insights  
+   Link: [https://d-fendsolutions.com/drone-incident-tracker/](https://d-fendsolutions.com/drone-incident-tracker/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>An unidentified drone near Bremen Airport prompted a nearly one-hour suspension of flights. Read article. Location, Flughafenallee, Breme...</p></details>

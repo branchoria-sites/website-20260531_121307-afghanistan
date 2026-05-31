@@ -1,0 +1,498 @@
+---
+level: 2
+basename: Albania_79b9d2_roskovec_2006_landin_fec7e4
+parent_basename: Albania_79b9d2
+child_basenames: []
+sibling_basenames:
+- Albania_79b9d2_communist_era_ufo_re_4d5af0
+- Albania_79b9d2_early_ufo_reports_6c784f
+- Albania_79b9d2_post_1990_sightings_114a00
+tags:
+- albania
+- roskovec-2006
+keywords:
+- albania
+- roskovec-2006
+affiliate_category: albania
+show_ads: true
+description: The Roskovec case features alleged ground marks, photographic evidence, and multiple witnesses, making it Albania's most publicized landing claim.
+hero_summary: The Roskovec case features alleged ground marks, photographic evidence, and multiple witnesses, making it Albania's most publicized landing claim.
+layout: default
+permalink: /roskovec-2006/
+sidebar_expanded_urls:
+- /albania/
+nav_short_title: Roskovec 2006
+title: Did a UFO Land in Roskovec in 2006?
+title_full: Did a UFO Land in Roskovec in 2006? | AlbanianUFOs
+display_title_short: Roskovec 2006
+display_title: Roskovec 2006
+heading_title: Did a UFO Land in Roskovec in 2006?
+page_heading_title: Did a UFO Land in Roskovec in 2006?
+source_count: 19
+infographic_count: 3
+planned_sections:
+- Eyewitness accounts and photographs
+- Local environmental effects
+- Media follow ups and analysis
+focal_unit_type: event_time_window
+topic_lens: evidence
+topic_granularity: pillar
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+parent_title: AlbanianUFOs
+parent_permalink: /albania/
+parent_nav_short_title: AlbanianUFOs
+parent_heading_title: What Unexplained Aerial Phenomena Have Occurred in Albania?
+ancestor_links:
+- basename: Albania_79b9d2
+  title: AlbanianUFOs
+  permalink: /albania/
+  short_title: AlbanianUFOs
+breadcrumb_links:
+- basename: Albania_79b9d2
+  title: AlbanianUFOs
+  permalink: /albania/
+  short_title: AlbanianUFOs
+sibling_links:
+- basename: Albania_79b9d2_communist_era_ufo_re_4d5af0
+  title: Communist Era Reports | What Unexplained Aerial Phenomena Have Occurred in...
+  permalink: /communist-era-reports/
+  short_title: Communist Era Reports
+  heading_title: How Did Albania's Cold War Secrecy Shape UFO Sightings?
+- basename: Albania_79b9d2_early_ufo_reports_6c784f
+  title: Early Reports | What Unexplained Aerial Phenomena Have Occurred in...
+  permalink: /early-reports/
+  short_title: Early Reports
+  heading_title: What Were Albania's Earliest Recorded UFO Incidents?
+- basename: Albania_79b9d2_post_1990_sightings_114a00
+  title: Post 1990 Sightings | What Unexplained Aerial Phenomena Have Occurred in...
+  permalink: /post-1990-sightings/
+  short_title: Post 1990 Sightings
+  heading_title: What Are the Most Documented Albanian UFO Events Since 1990?
+up_link:
+  basename: Albania_79b9d2
+  title: AlbanianUFOs
+  permalink: /albania/
+  short_title: AlbanianUFOs
+prev_link:
+  basename: Albania_79b9d2_post_1990_sightings_114a00
+  title: Post 1990 Sightings | What Unexplained Aerial Phenomena Have Occurred in...
+  permalink: /post-1990-sightings/
+  short_title: Post 1990 Sightings
+  heading_title: What Are the Most Documented Albanian UFO Events Since 1990?
+date: '2026-05-31 03:54:37 '
+header:
+  og_image: /assets/images/Albania_79b9d2_roskovec_2006_landin_fec7e4-Illustration-1-social.jpg
+  preview_image: /assets/images/Albania_79b9d2_roskovec_2006_landin_fec7e4-Illustration-1.webp
+image: /assets/images/Albania_79b9d2_roskovec_2006_landin_fec7e4-Illustration-1-social.jpg
+---
+
+## Introduction
+
+The 2006 **Roskovec landing incident** is the most widely discussed alleged UFO encounter in [Albania]({{ 'albania/' | relative_url }})’s modern record, largely because it combines witness testimony, claimed physical traces on the ground, and subsequent media attention. It is commonly described in Albanian-language sources and UFO lists as an event where a craft purportedly descended and briefly touched down in the small town of Roskovec, near Fier, on the evening of **4 May 2006**, before disappearing as abruptly as it appeared. Public accounts emphasise dramatic environmental effects, childhood witness statements, and the later release of photographs—yet the episode remains **unverified by independent scientific investigation, official documentation, or corroborating sensory data**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Albania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Albania</span><span class="citation-popover-snippet">UFO sightings in Albania</span></span></span>
+
+
+<img src="{{ "/assets/images/Albania_79b9d2_roskovec_2006_landin_fec7e4-Illustration-1-light.svg" | relative_url }}" alt="Roskovec 2006 illustration 1" data-theme-src-dark="{{ "/assets/images/Albania_79b9d2_roskovec_2006_landin_fec7e4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Albania_79b9d2_roskovec_2006_landin_fec7e4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+This report examines the **witness accounts and evidence claims** associated with the Roskovec incident, distinguishing what is reported, what remains unexamined, and where claims enter the realm of local legend or folklore rather than substantiated documentation.
+
+## What Witnesses and Music Reports Claim Happened
+
+Contemporary UFO lists and summaries describe the Roskovec event as follows:
+
+* **Multiple witnesses**: Local testimonies collected in media summaries say an adult woman and at least two children reported seeing an unusual object descend to ground level in Roskovec. Residents described swift environmental changes—sudden darkness, an abrupt windstorm, and noise—coinciding with the moment of the alleged landing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Albania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Albania</span><span class="citation-popover-snippet">UFO sightings in Albania</span></span></span>
+* **Child witness details**: One of the key witness statements cited in media comes from an 11‑year‑old child who described the object as **oval or disc‑shaped, grey in colour with a thin blue line**, and very briefly on the ground before lifting off again. That child’s experience is highlighted in later interviews, where it is claimed he was traumatised for an extended period after the event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gazetaexpress.com/en/ufo-ne-roskovec-fotografi-nxjerr-per-here-te-pare-pamjet-femija-qe-e-pa-nga-afer-ishte-i-traumatizuar-foto/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetaexpress.com">[Gazeta Express]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetaexpress.com</span><span class="citation-popover-snippet">Gazeta ExpressUFO in Roskovec? Photographer releases footage for the first time: Child who saw it up close was traumatized (PHOTOS)Septem...</span></span></span>
+* **Environmental effects**: Witness narratives circulated in local reporting assert that weather conditions changed abruptly—clear skies turned misty and dark, winds picked up strongly, and nearby tree branches bent under unexplained force. Such descriptions are consistent across multiple retellings in internet media, though there is no meteorological data provided to support this. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Albania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Albania</span><span class="citation-popover-snippet">UFO sightings in Albania</span></span></span>
+
+These details have been repeated in Albanian press and online UFO compilations, but **none originate from contemporaneous official reports or third‑party forensic documentation**.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Wa-spCETGuk" title="Ufot ne toke" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Wa-spCETGuk" target="_blank" rel="noopener noreferrer">Ufot ne toke</a></p><p class="youtube-embed-meta">Channel: Jeti Lik &middot; Views: 77.8K &middot; Uploaded: January 2014 &middot; Length: 14 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Wa-spCETGuk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Wa-spCETGuk">Open on YouTube</a></p></div></div></div>
+
+## Photographs and Ground Marks: The Core Material Claim
+
+A central piece of the Roskovec narrative in online accounts is the **photograph of marks on the road** allegedly taken by local photographer **Alim Çepele**. According to interviews relayed in online articles:
+
+* Çepele is reported to have **photographed two double‑banded black circles on the asphalt**, interpreted by some locals as impressions made by the object that landed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gazetaexpress.com/en/ufo-ne-roskovec-fotografi-nxjerr-per-here-te-pare-pamjet-femija-qe-e-pa-nga-afer-ishte-i-traumatizuar-foto/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetaexpress.com">[Gazeta Express]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetaexpress.com</span><span class="citation-popover-snippet">Gazeta ExpressUFO in Roskovec? Photographer releases footage for the first time: Child who saw it up close was traumatized (PHOTOS)Septem...</span></span></span>
+* These images were discussed on a television programme (“Euronews Albania”), where the photographer explained his hesitation to publish them at the time, due in part to social stigma around such claims in 2006. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gazetaexpress.com/en/ufo-ne-roskovec-fotografi-nxjerr-per-here-te-pare-pamjet-femija-qe-e-pa-nga-afer-ishte-i-traumatizuar-foto/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetaexpress.com">[Gazeta Express]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetaexpress.com</span><span class="citation-popover-snippet">Gazeta ExpressUFO in Roskovec? Photographer releases footage for the first time: Child who saw it up close was traumatized (PHOTOS)Septem...</span></span></span>
+* The photographs have circulated in Albanian media reports, but **no high‑resolution verified scan, expert analysis, or contextual metadata** is publicly available to assess whether the marks are unusual, old, caused by ordinary vehicles, or the result of environmental wear. In other words, the claimed landing marks have **not been subjected to forensic examination**.
+
+
+<img src="{{ "/assets/images/Albania_79b9d2_roskovec_2006_landin_fec7e4-Illustration-2-light.svg" | relative_url }}" alt="Roskovec 2006 illustration 2" data-theme-src-dark="{{ "/assets/images/Albania_79b9d2_roskovec_2006_landin_fec7e4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Albania_79b9d2_roskovec_2006_landin_fec7e4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Evaluation of Witness Reliability
+
+When examining witness evidence in an alleged physical encounter like Roskovec, several factors shape the assessment of reliability:
+
+* **Memory after many years**: Most accounts surfaced or were repeated years after 2006. Human memory degrades, particularly for rare and emotionally salient events, and retrospective narratives can evolve. No contemporaneous verified interview transcripts or recordings from 2006 have been published. This makes it hard to distinguish recall from later embellishment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Albania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Albania</span><span class="citation-popover-snippet">UFO sightings in Albania</span></span></span>
+* **Child testimony**: The 11‑year‑old’s descriptions are emotive and specific, but **child memory is notoriously suggestible**. Without an independently recorded 2006 interview or corroborative sensory data (e.g., environmental measurements), it cannot be taken as conclusive evidence of a landing object.
+* **Community storytelling**: Subsequent media and online narratives often present a **collective memory** rather than distinct evidence streams. Local belief, cultural memory, and shared stories can amplify an event’s perceived extraordinariness even without physical verification.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-Ly7HZwNI3U" title="Banorët e Roskovecit të bindur se kanë parë alienët në qytezën tyre - (27 Maj 2006)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-Ly7HZwNI3U" target="_blank" rel="noopener noreferrer">Banorët e Roskovecit të bindur se kanë parë alienët në qytezën tyre - (27 Maj 2006)</a></p><p class="youtube-embed-meta">Channel: RTV KLAN &middot; Views: 10.8K &middot; Uploaded: July 2023 &middot; Length: 2 minutes 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-Ly7HZwNI3U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-Ly7HZwNI3U">Open on YouTube</a></p></div></div></div>
+
+## Local Physical Evidence: What Is and Isn’t Established
+
+The **three double‑banded black circles** photographed on the Roskovec road are the physical evidence most frequently cited. However:
+
+
+<div class="content-enhancement content-enhancement--comparison" markdown="1">
+
+* There is **no published expert analysis** confirming these marks are anomalous or inconsistent with ordinary road markings, vehicle tyres, or wear patterns.
+* There is **no comparison to control sites** or documentation of the marks’ dimensions, chemical properties, or substrate disruptions.
+* The claims about petals of roses being “burned” when placed on the marks are anecdotal and have not been published in a testable, replicable form.
+
+</div>
+
+Without such analysis, the marks remain **unverified and ambiguous** rather than confirmed evidence of a landing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Albania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Albania</span><span class="citation-popover-snippet">UFO sightings in Albania</span></span></span>
+
+
+<img src="{{ "/assets/images/Albania_79b9d2_roskovec_2006_landin_fec7e4-Illustration-3-light.svg" | relative_url }}" alt="Roskovec 2006 illustration 3" data-theme-src-dark="{{ "/assets/images/Albania_79b9d2_roskovec_2006_landin_fec7e4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Albania_79b9d2_roskovec_2006_landin_fec7e4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Media Follow‑Ups and Skepticism
+
+The Roskovec landing story has circulated primarily through Albanian online press, UFO interest sites, and social media reproductions. It has **not been adopted by mainstream scientific journals** or aviation authorities. Notably:
+
+* The Wikipedia page listing UFO sightings in Albania mentions the Roskovec incident and associated witness claims, but descriptors in that list are derived from media and anecdotal sources rather than official surveillance or investigation bodies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Albania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Albania</span><span class="citation-popover-snippet">UFO sightings in Albania</span></span></span>
+* No satellite imagery, radar logs, civil aviation recordings, or third‑party environmental data have been released to support claims of a ground contact physics event.
+* There have been no credible investigative follow‑ups by independent scientific institutions.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OfL1o164RsQ" title="A janë ulur UFO-t në Roskovec?! Dëshmia tronditëse e fotografit" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OfL1o164RsQ" target="_blank" rel="noopener noreferrer">A janë ulur UFO-t në Roskovec?! Dëshmia tronditëse e fotografit</a></p><p class="youtube-embed-meta">Channel: SYRI TV &middot; Views: 57.1K &middot; Uploaded: May 2022 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OfL1o164RsQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OfL1o164RsQ">Open on YouTube</a></p></div></div></div>
+
+## Summary Assessment
+
+In sum, the Roskovec 2006 incident stands as a **local cultural report of an alleged landing**, sustained in public memory by witness retellings and media articles that emphasise dramatic description but lack **independent verification**. The key pieces of evidence—a childhood eyewitness account and photographs of road marks—have not been analysed by impartial experts or placed into a broader data context.
+
+As with many such UFO landing narratives, the Roskovec case illustrates the gap between **vivid personal testimony and corroborated empirical evidence**. Without independent documentation from the time of the event, contemporaneous measurements, or third‑party forensic reporting, the incident remains a **contested local claim rather than an established physical encounter**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gazetaexpress.com/en/ufo-ne-roskovec-fotografi-nxjerr-per-here-te-pare-pamjet-femija-qe-e-pa-nga-afer-ishte-i-traumatizuar-foto/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetaexpress.com">[Gazeta Express]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetaexpress.com</span><span class="citation-popover-snippet">Gazeta ExpressUFO in Roskovec? Photographer releases footage for the first time: Child who saw it up close was traumatized (PHOTOS)Septem...</span></span></span>
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Did a UFO Land in Roskovec in 2006?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+        </h4>
+        <p class="fr-book-author">By J. Allen Hynek</p>
+        
+        <p class="fr-book-desc">Explains encounter categories and investigative approaches.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8004248-M.jpg" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+        </h4>
+        <p class="fr-book-author">By Jacques Vallee</p>
+        
+        <p class="fr-book-desc">First published 2008. Subjects: Unidentified flying objects, Alien abduction, Human-alien encounters, Sightings and encounters.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+        </h4>
+        <p class="fr-book-author">By Leslie Kean</p>
+        
+        <p class="fr-book-desc">Provides standards for evaluating extraordinary claims.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+        </h4>
+        <p class="fr-book-author">By Jacques Vallee</p>
+        
+        <p class="fr-book-desc">Provides broader context for recurring landing and witness traditions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dimensions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dimensions</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: Wikipedia  
+   Title: UFO sightings in Albania  
+   Link: [https://en.wikipedia.org/wiki/UFO_sightings_in_Albania](https://en.wikipedia.org/wiki/UFO_sightings_in_Albania)  
+
+2. <a id="endnote-2"></a>
+   Source: gazetaexpress.com  
+   Link: [https://www.gazetaexpress.com/en/ufo-ne-roskovec-fotografi-nxjerr-per-here-te-pare-pamjet-femija-qe-e-pa-nga-afer-ishte-i-traumatizuar-foto/](https://www.gazetaexpress.com/en/ufo-ne-roskovec-fotografi-nxjerr-per-here-te-pare-pamjet-femija-qe-e-pa-nga-afer-ishte-i-traumatizuar-foto/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gazeta ExpressUFO in Roskovec? Photographer releases footage for the first time: Child who saw it up close was traumatized (PHOTOS)Septem...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: youtube.com  
+   Title: Ufot ne toke  
+   Link: [http://www.youtube.com/watch?v=Wa-spCETGuk](http://www.youtube.com/watch?v=Wa-spCETGuk)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in Albania - Documenting the Unexplained...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: youtube.com  
+   Title: UFO sightings in Albania  
+   Link: [http://www.youtube.com/watch?v=zR27tQ3y4Hk](http://www.youtube.com/watch?v=zR27tQ3y4Hk)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating UAP Sightings and Witness Testimony...</p></details>
+
+### Additional References
+
+5. <a id="endnote-5"></a>
+   Source: periskopi.com  
+   Link: [https://www.periskopi.com/en/UFO-in-Albania--here%27s-what-secret-the-Albanian-state-is-hiding/](https://www.periskopi.com/en/UFO-in-Albania--here%27s-what-secret-the-Albanian-state-is-hiding/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>PeriscopesAuthor Ben Shehu, in the novel &quot;They Shouldn&#x27;t Know&quot; deals with many aspects of the arrival of UFOs and the landing of aliens i...</p></details>
+
+6. <a id="endnote-6"></a>
+   Source: periskopi.com  
+   Link: [https://www.periskopi.com/en/The-unexplained-mysteries-that-shock-Albanians-from-UFOs-to-ghosts--photos/](https://www.periskopi.com/en/The-unexplained-mysteries-that-shock-Albanians-from-UFOs-to-ghosts--photos/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>PeriscopesTHE UNEXPLAINED MYSTERIES THAT SHOCKED ALBANIANS, FROM UFOS TO GHOSTS (PHOTO) Image: The unexplained mysteries that shocked Alb...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: koha.net  
+   Title: UF Os in Albania under the surveillance of the State Security since the 60s  
+   Link: [https://www.koha.net/en/lemsh/ufo-t-ne-shqiperi-nen-vezhgimin-e-sigurimit-te-shtetit-qe-ne-vitet-60](https://www.koha.net/en/lemsh/ufo-t-ne-shqiperi-nen-vezhgimin-e-sigurimit-te-shtetit-qe-ne-vitet-60)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs in Albania under the surveillance of the State Security since the 60s - KOHA.netMarch 2, 2017 — The Albanian officer even learns fro...</p></details>
+   Published: March 2, 2017  
+
+8. <a id="endnote-8"></a>
+   Source: voxnews.al  
+   Title: ufo ne roskovec fotografi nxjerr pamjet femija qe e pa u tramuatizua i48451  
+   Link: [https://www.voxnews.al/english/aktualitet/ufo-ne-roskovec-fotografi-nxjerr-pamjet-femija-qe-e-pa-u-tramuatizua--i48451](https://www.voxnews.al/english/aktualitet/ufo-ne-roskovec-fotografi-nxjerr-pamjet-femija-qe-e-pa-u-tramuatizua--i48451)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO in Roskovec, photographer reveals footage: Child who saw him was traumatized for six months, said he was a......September 17, 2023 —...</p></details>
+   Published: September 17, 2023  
+
+9. <a id="endnote-9"></a>
+   Source: alb365.com  
+   Title: Ngjarja shqiptare e pashpjeguar: UFO në Roskovec  
+   Link: [https://alb365.com/ngjarja-shqiptare-e-pashpjeguar-ufo-ne-roskovec/](https://alb365.com/ngjarja-shqiptare-e-pashpjeguar-ufo-ne-roskovec/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Alb365 NEWSMay 18, 2022 — NGJARJA SHQIPTARE E PASHPJEGUAR: UFO NË ROSKOVEC alb365 May 18, 2022 0 52 3 minutes read Image: Ufo1 Në një koh...</p></details>
+   Published: May 18, 2022  
+
+10. <a id="endnote-10"></a>
+   Source: alfapress.al  
+   Title: The strangest mysteries in Albania  
+   Link: [https://alfapress.al/english/mistere-kuriozitete/misteret-me-te-cuditshme-ne-shqiperi-i23870](https://alfapress.al/english/mistere-kuriozitete/misteret-me-te-cuditshme-ne-shqiperi-i23870)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>MISTERE&amp;KURIOZITETEJune 15, 2022 — THE STRANGEST MYSTERIES IN ALBANIA Image 2022-06-15 14:42:14 / MISTERE&amp;KURIOZITETE ALFA PRESS Image: T...</p></details>
+   Published: June 15, 2022  
+
+11. <a id="endnote-11"></a>
+   Source: gazetadita.al  
+   Title: UF O në Roskovec?!  
+   Link: [https://gazetadita.al/ufo-ne-roskovec-habit-fotografi-dhe-nxjerr-pamjet-femija-qe-e-pa-u-tramuatizua-per-6-muaj/](https://gazetadita.al/ufo-ne-roskovec-habit-fotografi-dhe-nxjerr-pamjet-femija-qe-e-pa-u-tramuatizua-per-6-muaj/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit fotografi, tregon ngjarjen e vitit 2006 dhe nxjerr pamjet - Gazeta DitaSeptember 18, 2023 — UFO NË ROSKOVEC?! HABIT FOTOGRAFI, TREG...</p></details>
+   Published: September 18, 2023  
+
+12. <a id="endnote-12"></a>
+   Source: youtube.com  
+   Title: Investigating UAP Sightings and Witness Testimony  
+   Link: [http://www.youtube.com/watch?v=F31086Qv5yU](http://www.youtube.com/watch?v=F31086Qv5yU)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO incident Roskovec 2006 Banorët e Roskovecit të bindur se kanë parë alienët në qytezën tyre - (27 Maj 2006) RTV KLAN...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: youtube.com  
+   Title: Banorët e Roskovecit të bindur se kanë parë alienët në qytezën tyre  
+   Link: [http://www.youtube.com/watch?v=-Ly7HZwNI3U](http://www.youtube.com/watch?v=-Ly7HZwNI3U)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>A janë ulur UFO-t në Roskovec?! Dëshmia tronditëse e fotografit...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: nuforc.org  
+   Link: [https://nuforc.org/sighting/?id=52006](https://nuforc.org/sighting/?id=52006)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 52006October 30, 2006 — NUFORC UFO SIGHTING 52006 Occurred: 2006-08-13 23:30 Local (8.13.2006) Reported: 2006-08-13 1...</p></details>
+   Published: August 13, 2006  

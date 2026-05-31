@@ -1,0 +1,564 @@
+---
+level: 2
+basename: Madagascar_f92bcb_meteor_bolide_debate_b3559e
+parent_basename: Madagascar_f92bcb
+child_basenames: []
+sibling_basenames:
+- Madagascar_f92bcb_archive_trail_e36ff1
+- Madagascar_f92bcb_madagascar_chronolog_fed8a2
+- Madagascar_f92bcb_tananarive_1954_4099fb
+tags:
+- madagascar
+- meteor-debate
+keywords:
+- madagascar
+- meteor-debate
+affiliate_category: madagascar
+show_ads: true
+description: A bolide can explain some reported features, but the low-altitude turns and electrical effects make the case depend on witness reliability.
+hero_summary: A bolide can explain some reported features, but the low-altitude turns and electrical effects make the case depend on witness reliability.
+layout: default
+permalink: /meteor-debate/
+sidebar_expanded_urls:
+- /madagascars-ufo-record-famous-case-thin/
+nav_short_title: Meteor Debate
+title: Meteor, Bolide or Something Harder to Explain?
+title_full: Meteor, Bolide or Something Harder to Explain? | Madagascar UFOs
+display_title_short: Meteor Debate
+display_title: Meteor Debate
+heading_title: Meteor, Bolide or Something Harder to Explain?
+page_heading_title: Meteor, Bolide or Something Harder to Explain?
+source_count: 31
+infographic_count: 3
+planned_sections:
+- Why a green bolide fits part of the report
+- Where the meteor explanation struggles
+- How distance and speed misjudgments shape UFO cases
+focal_unit_type: mechanism
+topic_lens: critique_risk
+topic_granularity: theme_cluster
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+parent_title: Madagascar UFOs
+parent_permalink: /madagascars-ufo-record-famous-case-thin/
+parent_nav_short_title: Madagascar UFOs
+parent_heading_title: 'Madagascar''s UFO Record: Famous Case, Thin Archive'
+ancestor_links:
+- basename: Madagascar_f92bcb
+  title: Madagascar UFOs
+  permalink: /madagascars-ufo-record-famous-case-thin/
+  short_title: Madagascar UFOs
+breadcrumb_links:
+- basename: Madagascar_f92bcb
+  title: Madagascar UFOs
+  permalink: /madagascars-ufo-record-famous-case-thin/
+  short_title: Madagascar UFOs
+sibling_links:
+- basename: Madagascar_f92bcb_archive_trail_e36ff1
+  title: 'Archive Trail | Madagascar''s UFO Record: Famous Case, Thin Archive'
+  permalink: /archive-trail/
+  short_title: Archive Trail
+  heading_title: Why the Official File Trail Runs Cold
+- basename: Madagascar_f92bcb_madagascar_chronolog_fed8a2
+  title: 'Chronology | Madagascar''s UFO Record: Famous Case, Thin Archive'
+  permalink: /chronology/
+  short_title: Chronology
+  heading_title: Is There a Wider Madagascar UFO Pattern?
+- basename: Madagascar_f92bcb_tananarive_1954_4099fb
+  title: 'Tananarive 1954 | Madagascar''s UFO Record: Famous Case, Thin Archive'
+  permalink: /tananarive-1954/
+  short_title: Tananarive 1954
+  heading_title: What Really Happened Over Tananarive in 1954?
+up_link:
+  basename: Madagascar_f92bcb
+  title: Madagascar UFOs
+  permalink: /madagascars-ufo-record-famous-case-thin/
+  short_title: Madagascar UFOs
+prev_link:
+  basename: Madagascar_f92bcb_madagascar_chronolog_fed8a2
+  title: 'Chronology | Madagascar''s UFO Record: Famous Case, Thin Archive'
+  permalink: /chronology/
+  short_title: Chronology
+  heading_title: Is There a Wider Madagascar UFO Pattern?
+next_link:
+  basename: Madagascar_f92bcb_tananarive_1954_4099fb
+  title: 'Tananarive 1954 | Madagascar''s UFO Record: Famous Case, Thin Archive'
+  permalink: /tananarive-1954/
+  short_title: Tananarive 1954
+  heading_title: What Really Happened Over Tananarive in 1954?
+date: '2026-05-31 04:21:41 '
+header:
+  og_image: /assets/images/Madagascar_f92bcb_meteor_bolide_debate_b3559e-Illustration-1-social.jpg
+  preview_image: /assets/images/Madagascar_f92bcb_meteor_bolide_debate_b3559e-Illustration-1.webp
+image: /assets/images/Madagascar_f92bcb_meteor_bolide_debate_b3559e-Illustration-1-social.jpg
+---
+
+## Introduction
+
+The strongest conventional explanation for [Madagascar]({{ 'madagascars-ufo-record-famous-case-thin/' | relative_url }})’s most famous UFO report, the 16 August 1954 Antananarivo (then Tananarive) sighting, is that witnesses initially observed a bright meteor or bolide: a large meteoroid entering the atmosphere and producing an intense luminous fireball. That interpretation fits several core features of the earliest descriptions, especially the reports of a fast-moving green object crossing the sky. Yet the same case remains controversial because later witness accounts added details that seem difficult to reconcile with a normal meteor, including apparent low-altitude passes, changes in direction, electrical disturbances and behaviour suggesting a controlled craft. The debate therefore turns less on whether meteors can look extraordinary and more on how reliable the most dramatic parts of the testimony really are. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;The Cometa Report [UFO&#x27;s And Defense3.1 Phenomenon Observed by Numerous Witnesses at Antananarivo (August 1...</span></span></span>
+
+
+<img src="{{ "/assets/images/Madagascar_f92bcb_meteor_bolide_debate_b3559e-Illustration-1-light.svg" | relative_url }}" alt="Meteor Debate illustration 1" data-theme-src-dark="{{ "/assets/images/Madagascar_f92bcb_meteor_bolide_debate_b3559e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Madagascar_f92bcb_meteor_bolide_debate_b3559e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+In the Madagascar case, the disagreement is not between a weak natural explanation and a perfectly documented structured craft. It is between a natural explanation that matches part of the evidence and a controlled-object interpretation that depends heavily on witness estimates of distance, altitude and manoeuvring. That tension is what has kept the incident alive in UFO literature for decades. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;The Cometa Report [UFO&#x27;s And Defense3.1 Phenomenon Observed by Numerous Witnesses at Antananarivo (August 1...</span></span></span>
+
+## Why a green bolide fits part of the report
+
+One of the most important details in the Antananarivo reports is also one of the most ordinary from an astronomical perspective: witnesses first described a large green luminous object moving rapidly across the sky. According to later retellings preserved in the COMETA report, observers initially assumed they were seeing a meteorite. The object was described as a green ball travelling at high speed before disappearing behind terrain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;The Cometa Report [UFO&#x27;s And Defense3.1 Phenomenon Observed by Numerous Witnesses at Antananarivo (August 1...</span></span></span>
+
+That matters because bright bolides frequently appear green. The colour can result from atmospheric interactions and the composition of the incoming object. Green fireballs have a long history of being reported as mysterious aerial phenomena before later being linked to meteoric events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Observation_d%27Antananarivo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Observation d&#x27;Antananarivo</span><span class="citation-popover-snippet">Observation d&#x27;Antananarivo</span></span></span>
+
+Several aspects of the Madagascar sighting align naturally with a bolide scenario:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* **Strong green luminosity** is a recognised feature of some bright fireballs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Green_fireballs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Green fireballs</span><span class="citation-popover-snippet">Green fireballs</span></span></span>
+* **Very high apparent speed** is expected from meteors entering the atmosphere.
+* **The impression of descent toward the ground** is common when observers lack reliable distance cues.
+* **Large numbers of witnesses** are entirely consistent with a bright atmospheric event visible over a wide area.
+* **Reports from separated locations** can occur because a high-altitude bolide may be visible across hundreds of kilometres. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Green_fireballs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Green fireballs</span><span class="citation-popover-snippet">Green fireballs</span></span></span>
+
+</div>
+
+Modern examples from Madagascar itself demonstrate how dramatic such events can appear. The 2018 Benenitra meteorite fall produced a bright fireball seen across a large region, fragmentation effects, shock-related phenomena and strong public attention. Scientific analysis later confirmed the event through infrasound and seismic data, illustrating how spectacular atmospheric entries can generate reports that initially seem extraordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://scielo.org.za/scielo.php?pid=S0038-23532021000200021&amp;script=sci_arttext" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scielo.org.za">[SciELO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scielo.org.za</span><span class="citation-popover-snippet">An investigation of the 27 July 2018 bolide and meteorite...by RL Gibson · 2021 · Cited by 2 — Several dozen stones of an ordinary chond...</span><span class="citation-popover-meta">Published: July 2018</span></span></span>
+
+From a sceptical standpoint, the simplest reading of the first phase of the 1954 sighting is therefore straightforward: witnesses saw an unusually bright green bolide and interpreted it through the cultural framework available at the time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;The Cometa Report [UFO&#x27;s And Defense3.1 Phenomenon Observed by Numerous Witnesses at Antananarivo (August 1...</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uGSAdNAWByk" title="&#x27;This is a Hollywood script&#x27;: Michio Kaku on reports of UFOs, aliens | Banfield" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uGSAdNAWByk" target="_blank" rel="noopener noreferrer">&#x27;This is a Hollywood script&#x27;: Michio Kaku on reports of UFOs, aliens | Banfield</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 1.2M &middot; Uploaded: June 2023 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uGSAdNAWByk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uGSAdNAWByk">Open on YouTube</a></p></div></div></div>
+
+## Where the meteor explanation struggles
+
+The debate becomes more difficult when later testimony is considered. The famous versions of the Antananarivo case do not stop with a distant green fireball. They describe what appeared to be a structured object re-emerging after passing behind a hill and travelling over the city at what witnesses believed was extremely low altitude. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;The Cometa Report [UFO&#x27;s And Defense3.1 Phenomenon Observed by Numerous Witnesses at Antananarivo (August 1...</span></span></span>
+
+According to these accounts, observers reported:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* A metallic, rugby-ball-shaped object.
+* A distinct luminous green section at the front.
+* Sparks or luminous emissions from the rear.
+* Apparently silent movement.
+* Altitudes estimated at roughly 50 to 100 metres.
+* Electrical disturbances and temporary light failures.
+* Animal panic among dogs and zebu cattle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;The Cometa Report [UFO&#x27;s And Defense3.1 Phenomenon Observed by Numerous Witnesses at Antananarivo (August 1...</span></span></span>
+
+</div>
+
+Taken literally, these details are difficult to fit into a conventional meteor explanation.
+
+A meteor cannot level out and cruise across a city. It cannot perform deliberate turns. It cannot repeatedly circle an area. Nor would a normal bolide travel at low altitude over urban streets for an extended period while maintaining a structured appearance. If every witness estimate is accepted at face value, the meteor hypothesis becomes weak. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;The Cometa Report [UFO&#x27;s And Defense3.1 Phenomenon Observed by Numerous Witnesses at Antananarivo (August 1...</span></span></span>
+
+The strongest challenge comes from the reported transition between a fast-moving green fireball and what witnesses later described as a clearly defined metallic body. Ufologists have long argued that this shift implies observers were not merely watching an astronomical object but a physical craft under control. The COMETA account preserves precisely this interpretation by presenting the sighting as a case where witnesses believed an apparently natural-looking light resolved into a structured object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;The Cometa Report [UFO&#x27;s And Defense3.1 Phenomenon Observed by Numerous Witnesses at Antananarivo (August 1...</span></span></span>
+
+The reported electrical effects create another problem. Temporary blackouts and disturbances are often cited in UFO reports worldwide. However, the Madagascar case lacks publicly available technical records demonstrating that a specific electrical anomaly occurred at the exact time and place described. The claims survive primarily through witness testimony rather than surviving utility reports or official engineering documentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;The Cometa Report [UFO&#x27;s And Defense3.1 Phenomenon Observed by Numerous Witnesses at Antananarivo (August 1...</span></span></span>
+
+
+<img src="{{ "/assets/images/Madagascar_f92bcb_meteor_bolide_debate_b3559e-Illustration-2-light.svg" | relative_url }}" alt="Meteor Debate illustration 2" data-theme-src-dark="{{ "/assets/images/Madagascar_f92bcb_meteor_bolide_debate_b3559e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Madagascar_f92bcb_meteor_bolide_debate_b3559e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## How distance and speed misjudgements shape UFO cases
+
+The central sceptical argument is not that witnesses fabricated the event. It is that human observers are often poor at estimating the distance, size and speed of unfamiliar aerial phenomena.
+
+This becomes especially important when a bright object is viewed against an open sky without known reference points. A meteor tens of kilometres away may appear startlingly close. A luminous trail can be interpreted as a solid body. Brief visibility interruptions caused by terrain or cloud can create the impression that an object disappeared and later reappeared under intelligent control. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://it.wikipedia.org/wiki/Avvistamento_di_Antananarivo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Avvistamento di Antananarivo</span><span class="citation-popover-snippet">Avvistamento di Antananarivo</span></span></span>
+
+The Antananarivo case contains several classic conditions that increase perceptual uncertainty:
+
+### Apparent low altitude may not equal real low altitude
+
+Witnesses often estimate altitude from how large an object appears rather than from measurable geometry. If the object was much farther away than observers assumed, then estimates of 50 to 100 metres become unreliable.
+
+This matters because a distant luminous phenomenon can appear enormous and nearby, especially during a dramatic event. The reported comparison with the length of a DC-4 aircraft depends entirely on assumptions about range. Change the assumed distance and the estimated size changes radically. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;The Cometa Report [UFO&#x27;s And Defense3.1 Phenomenon Observed by Numerous Witnesses at Antananarivo (August 1...</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1u0VDFppCI4" title="Neil deGrasse Tyson&#x27;s Skepticism Over UFO&#x27;s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1u0VDFppCI4" target="_blank" rel="noopener noreferrer">Neil deGrasse Tyson&#x27;s Skepticism Over UFO&#x27;s</a></p><p class="youtube-embed-meta">Channel: PowerfulJRE &middot; Views: 6.8M &middot; Uploaded: May 2021 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1u0VDFppCI4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1u0VDFppCI4">Open on YouTube</a></p></div></div></div>
+
+### Changes in direction may be perspective effects
+
+A meteor moving across a wide field of view can seem to alter course when observers move, shift position or compare different stages of the sighting from different locations.
+
+The Madagascar reports were collected from many witnesses rather than from a single instrumented observation point. Combining multiple recollections can unintentionally create a flight path that appears more complex than what any individual observer actually saw. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/tana54gepa24.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Head of Air France Technical Services in Madagascar, professional airplane pilot...Read more...</span></span></span>
+
+### Structured shapes can emerge during reconstruction
+
+Psychologists studying unusual aerial sightings have repeatedly noted that witnesses often remember a distinct object after first observing a bright light. The longer a sighting is discussed and retold, the more likely observers are to agree on a coherent shape.
+
+That does not mean the witnesses are dishonest. It means memory tends to organise ambiguous stimuli into meaningful forms. In the Antananarivo case, descriptions of a metallic rugby-ball shape became a defining part of the narrative, but they appear in later reconstructions rather than in independently recorded instrument observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;The Cometa Report [UFO&#x27;s And Defense3.1 Phenomenon Observed by Numerous Witnesses at Antananarivo (August 1...</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/B75xmeeKH0c" title="Meteoroids, Meteorites, Fireballs - What&#x27;s the Difference?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=B75xmeeKH0c" target="_blank" rel="noopener noreferrer">Meteoroids, Meteorites, Fireballs - What&#x27;s the Difference?</a></p><p class="youtube-embed-meta">Channel: NASA&#x27;s Marshall Space Flight Center &middot; Views: 4.3K &middot; Uploaded: March 2014 &middot; Length: 4 minutes 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=B75xmeeKH0c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=B75xmeeKH0c">Open on YouTube</a></p></div></div></div>
+
+## The controlled-craft interpretation
+
+Supporters of the controlled-craft interpretation focus on a different set of facts. They argue that the meteor explanation only accounts for the opening moments of the sighting and fails to explain what happened afterwards.
+
+Their reasoning usually centres on four points:
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Meteor, Bolide or Something Harder to Explain?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+        </h4>
+        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        
+        <p class="fr-book-desc">Directly addresses witness perception and competing explanations.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+        </h4>
+        <p class="fr-book-author">By Terence Dickinson</p>
+        
+        <p class="fr-book-desc">Helps explain meteors, bolides and sky-object misidentifications.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Anomaly+by+Daniel+Coumbe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Anomaly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3maAEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Anomaly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Anomaly+by+Daniel+Coumbe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Anomaly">Anomaly</a>
+        </h4>
+        <p class="fr-book-author">By Daniel Coumbe</p>
+        
+        <p class="fr-book-desc">Examines UFO cases using analytical and scientific methods.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Anomaly+by+Daniel+Coumbe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+        </h4>
+        <p class="fr-book-author">By J. Allen Hynek</p>
+        
+        <p class="fr-book-desc">Contains examples where natural explanations compete with extraordinary claims.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Anomaly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Anomaly</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+1. **Experienced witnesses were present.** Edmond Campagnac was associated with Air France technical operations and aviation, making simple misidentification seem less likely to proponents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;The Cometa Report [UFO&#x27;s And Defense3.1 Phenomenon Observed by Numerous Witnesses at Antananarivo (August 1...</span></span></span>
+2. **Hundreds of people reportedly observed the event.** Advocates argue that a large witness pool reduces the likelihood of a purely subjective misunderstanding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;The Cometa Report [UFO&#x27;s And Defense3.1 Phenomenon Observed by Numerous Witnesses at Antananarivo (August 1...</span></span></span>
+3. **Animal reactions were reported.** Panic among animals is frequently cited as evidence that something physical passed through the area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;The Cometa Report [UFO&#x27;s And Defense3.1 Phenomenon Observed by Numerous Witnesses at Antananarivo (August 1...</span></span></span>
+4. **The object was allegedly seen again far away.** Some accounts describe a similar object being reported roughly 150 kilometres from Antananarivo shortly afterwards. If accurate, that creates a difficult speed calculation that neither fits a conventional aircraft nor comfortably matches a simple meteor narrative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;The Cometa Report [UFO&#x27;s And Defense3.1 Phenomenon Observed by Numerous Witnesses at Antananarivo (August 1...</span></span></span>
+
+The weakness of this interpretation is evidential rather than conceptual. The more extraordinary claims depend on testimony preserved through later UFO literature. No publicly available radar data, photographs, physical traces or surviving official technical investigation has emerged to independently verify the most dramatic aspects of the case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;The Cometa Report [UFO&#x27;s And Defense3.1 Phenomenon Observed by Numerous Witnesses at Antananarivo (August 1...</span></span></span>
+
+
+<img src="{{ "/assets/images/Madagascar_f92bcb_meteor_bolide_debate_b3559e-Illustration-3-light.svg" | relative_url }}" alt="Meteor Debate illustration 3" data-theme-src-dark="{{ "/assets/images/Madagascar_f92bcb_meteor_bolide_debate_b3559e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Madagascar_f92bcb_meteor_bolide_debate_b3559e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Why the case remains unresolved
+
+The Madagascar sighting survives because neither side fully eliminates the other.
+
+The meteor explanation accounts naturally for the green colour, the speed, the initial appearance and the broad visibility of the phenomenon. Those are among the strongest and most consistently reported features. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;The Cometa Report [UFO&#x27;s And Defense3.1 Phenomenon Observed by Numerous Witnesses at Antananarivo (August 1...</span></span></span>
+
+The controlled-craft interpretation draws strength from the reported low-altitude behaviour, apparent structure, electrical effects and claims of manoeuvring. Yet those are also the elements most dependent on witness estimation and retrospective reconstruction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;The Cometa Report [UFO&#x27;s And Defense3.1 Phenomenon Observed by Numerous Witnesses at Antananarivo (August 1...</span></span></span>
+
+As a result, the Antananarivo incident occupies an unusual middle ground in Madagascar’s UFO history. It is neither a clearly solved meteor case nor a well-documented demonstration of an unknown craft. The strongest conventional explanation remains a bright bolide, but whether that explanation can absorb every reported detail depends largely on how much confidence one places in the witnesses’ estimates of distance, altitude, shape and motion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;The Cometa Report [UFO&#x27;s And Defense3.1 Phenomenon Observed by Numerous Witnesses at Antananarivo (August 1...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/tana54gepa24.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Head of Air France Technical Services in Madagascar, professional airplane pilot...Read more...</span></span></span>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: ia801803.us.archive.org  
+   Link: [https://ia801803.us.archive.org/27/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf](https://ia801803.us.archive.org/27/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cometa Report [UFO&#x27;s And DefenseSeptember 25, 2014 — described below occurred on August 16, 1954, in Antananarivo, It was seen by several...</p></details>
+   Published: September 25, 2014  
+
+2. <a id="endnote-2"></a>
+   Source: Wikipedia  
+   Title: Observation d'Antananarivo  
+   Link: [https://fr.wikipedia.org/wiki/Observation_d%27Antananarivo](https://fr.wikipedia.org/wiki/Observation_d%27Antananarivo)  
+
+3. <a id="endnote-3"></a>
+   Source: archive.org  
+   Link: [https://archive.org/stream/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D_djvu.txt](https://archive.org/stream/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D_djvu.txt)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveFull text of &quot;The Cometa Report [UFO&#x27;s And Defense3.1 Phenomenon Observed by Numerous Witnesses at Antananarivo (August 1...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: Wikipedia  
+   Title: Green fireballs  
+   Link: [https://en.wikipedia.org/wiki/Green_fireballs](https://en.wikipedia.org/wiki/Green_fireballs)  
+
+5. <a id="endnote-5"></a>
+   Source: Wikipedia  
+   Title: Avvistamento di Antananarivo  
+   Link: [https://it.wikipedia.org/wiki/Avvistamento_di_Antananarivo](https://it.wikipedia.org/wiki/Avvistamento_di_Antananarivo)  
+
+6. <a id="endnote-6"></a>
+   Source: Wikipedia  
+   Title: Unidentified flying object  
+   Link: [https://en.wikipedia.org/wiki/Unidentified_flying_object](https://en.wikipedia.org/wiki/Unidentified_flying_object)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified flying objectAn unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or exp...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: ufologie.patrickgross.org  
+   Link: [https://ufologie.patrickgross.org/htm/tana54gepa24.htm](https://ufologie.patrickgross.org/htm/tana54gepa24.htm)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Head of Air France Technical Services in Madagascar, professional airplane pilot...Read more...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: scielo.org.za  
+   Link: [https://scielo.org.za/scielo.php?pid=S0038-23532021000200021&script=sci_arttext](https://scielo.org.za/scielo.php?pid=S0038-23532021000200021&script=sci_arttext)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>An investigation of the 27 July 2018 bolide and meteorite...by RL Gibson · 2021 · Cited by 2 — Several dozen stones of an ordinary chond...</p></details>
+   Published: July 2018  
+
+### Additional References
+
+9. <a id="endnote-9"></a>
+   Source: researchgate.net  
+   Link: [https://www.researchgate.net/publication/350460440_An_investigation_of_the_27_July_2018_bolide_and_meteorite_fall_over_Benenitra_southwestern_Madagascar](https://www.researchgate.net/publication/350460440_An_investigation_of_the_27_July_2018_bolide_and_meteorite_fall_over_Benenitra_southwestern_Madagascar)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) An investigation of the 27 July 2018 bolide and...Several dozen stones of an ordinary chondrite meteorite fell in and around the t...</p></details>
+   Published: July 2018  
+
+10. <a id="endnote-10"></a>
+   Source: enigmalabs.io  
+   Link: [https://enigmalabs.io/library/14fcc56d-1ea9-452b-b691-be54021eb314](https://enigmalabs.io/library/14fcc56d-1ea9-452b-b691-be54021eb314)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mass UAP Sighting Over Tananarive, MadagascarOn the afternoon of August 16, 1954, personnel at the Air France office observed what was de...</p></details>
+   Published: August 16, 1954  
+
+11. <a id="endnote-11"></a>
+   Source: researchgate.net  
+   Link: [https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue](https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue)  
+
+12. <a id="endnote-12"></a>
+   Source: ibtimes.co.uk  
+   Link: [https://www.ibtimes.co.uk/martians-are-here-inside-frances-1954-ufo-frenzy-humanoids-face-face-encounters-1775052](https://www.ibtimes.co.uk/martians-are-here-inside-frances-1954-ufo-frenzy-humanoids-face-face-encounters-1775052)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Martians Are Here!&#x27; Inside France&#x27;s 1954 UFO Frenzy With...30 Jan 2026 — Inside France&#x27;s terrifying UFO wave of 1954, when humanoids la...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: arxiv.org  
+   Link: [https://arxiv.org/html/2502.06794v2](https://arxiv.org/html/2502.06794v2)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>only been observed by professional engineers, scientists, and astronomers...Read more...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: uncorruptedtruth.com  
+   Title: the ufo dossier 100 years of government secrets conspiracies  
+   Link: [https://uncorruptedtruth.com/wp-content/uploads/2022/11/the_ufo_dossier_100_years_of_government_secrets_conspiracies.pdf](https://uncorruptedtruth.com/wp-content/uploads/2022/11/the_ufo_dossier_100_years_of_government_secrets_conspiracies.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>about the authorIn 1974 he got his first credit as a freelance writer with an article about UFO landing traces. He has investigated such...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: facebook.com  
+   Title: onthisday 1954 british airline pilot captain james howard and his crew reported  
+   Link: [https://www.facebook.com/BBCArchive/posts/onthisday-1954-british-airline-pilot-captain-james-howard-and-his-crew-reported-/486815347076731/](https://www.facebook.com/BBCArchive/posts/onthisday-1954-british-airline-pilot-captain-james-howard-and-his-crew-reported-/486815347076731/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ian Gunner ▻ Alien UFO Sightings Reloaded. 8y · Public · On this day, October 21st in...Read more...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: cia.gov  
+   Title: cia rdp81r00560r000100010001 0  
+   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...&quot; Images closely similar to UFO photographed over France in March 1954 (see below). 8. White...</p></details>
+   Published: March 1954  
+
+17. <a id="endnote-17"></a>
+   Source: reddit.com  
+   Title: on august 16 1954 at 0500pm an event stupefied  
+   Link: [https://www.reddit.com/r/Madagascar/comments/1dikjj8/on_august_16_1954_at_0500pm_an_event_stupefied/](https://www.reddit.com/r/Madagascar/comments/1dikjj8/on_august_16_1954_at_0500pm_an_event_stupefied/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>On August 16, 1954, at 05:00pm, an event stupefied tens of...Mr. Edmond Campagnac, at the time technical director of Air France in Tanan...</p></details>
+   Published: August 16, 1954  
+
+18. <a id="endnote-18"></a>
+   Source: completefrance.com  
+   Title: flying saucers in france a history of ufo sightings  
+   Link: [https://www.completefrance.com/travel/flying-saucers-in-france-a-history-of-ufo-sightings/](https://www.completefrance.com/travel/flying-saucers-in-france-a-history-of-ufo-sightings/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>M. Nicolaï was not the first in France to report a close encounter with alien beings. In 1954, railway worker...Read more...</p></details>

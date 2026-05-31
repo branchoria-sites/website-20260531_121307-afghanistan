@@ -1,0 +1,570 @@
+---
+level: 2
+basename: Central_African_Repu_358788_bangui_magnetic_anom_ae8e0c
+parent_basename: Central_African_Repu_358788
+child_basenames: []
+sibling_basenames:
+- Central_African_Repu_358788_aaro_africa_clips_c199ba
+- Central_African_Repu_358788_november_2022_strike_86eb74
+- Central_African_Repu_358788_scarce_ufo_records_3b71d5
+tags:
+- central-african-republic
+- bangui-anomaly
+keywords:
+- central-african-republic
+- bangui-anomaly
+affiliate_category: central-african-republic
+show_ads: true
+description: The Bangui magnetic anomaly is a real geophysical feature, but it is not evidence for craft or a hidden UFO archive.
+hero_summary: The Bangui magnetic anomaly is a real geophysical feature, but it is not evidence for craft or a hidden UFO archive.
+layout: default
+permalink: /bangui-anomaly/
+sidebar_expanded_urls:
+- /central-african-republic/
+nav_short_title: Bangui Anomaly
+title: Why the Bangui Anomaly Attracts UFO Myths
+title_full: Why the Bangui Anomaly Attracts UFO Myths | CAR UFOs
+display_title_short: Bangui Anomaly
+display_title: Bangui Anomaly
+heading_title: Why the Bangui Anomaly Attracts UFO Myths
+page_heading_title: Why the Bangui Anomaly Attracts UFO Myths
+source_count: 35
+infographic_count: 3
+planned_sections:
+- What the magnetic anomaly is
+- Where speculation enters the story
+- How to separate geology from sightings
+focal_unit_type: entity
+topic_lens: historical_comparative
+topic_granularity: pillar
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+parent_title: CAR UFOs
+parent_permalink: /central-african-republic/
+parent_nav_short_title: CAR UFOs
+parent_heading_title: What Counts as a UFO in CAR?
+ancestor_links:
+- basename: Central_African_Repu_358788
+  title: CAR UFOs
+  permalink: /central-african-republic/
+  short_title: CAR UFOs
+breadcrumb_links:
+- basename: Central_African_Repu_358788
+  title: CAR UFOs
+  permalink: /central-african-republic/
+  short_title: CAR UFOs
+sibling_links:
+- basename: Central_African_Repu_358788_november_2022_strike_86eb74
+  title: 2022 Strike | What Counts as a UFO in CAR?
+  permalink: /2022-strike/
+  short_title: 2022 Strike
+  heading_title: Was the 2022 Strike a UFO Case?
+- basename: Central_African_Repu_358788_aaro_africa_clips_c199ba
+  title: AARO Clips | What Counts as a UFO in CAR?
+  permalink: /aaro-clips/
+  short_title: AARO Clips
+  heading_title: Do AARO's Africa Clips Point to CAR?
+- basename: Central_African_Repu_358788_scarce_ufo_records_3b71d5
+  title: Missing Records | What Counts as a UFO in CAR?
+  permalink: /missing-records/
+  short_title: Missing Records
+  heading_title: Why Are CAR UFO Records So Thin?
+up_link:
+  basename: Central_African_Repu_358788
+  title: CAR UFOs
+  permalink: /central-african-republic/
+  short_title: CAR UFOs
+prev_link:
+  basename: Central_African_Repu_358788_aaro_africa_clips_c199ba
+  title: AARO Clips | What Counts as a UFO in CAR?
+  permalink: /aaro-clips/
+  short_title: AARO Clips
+  heading_title: Do AARO's Africa Clips Point to CAR?
+next_link:
+  basename: Central_African_Repu_358788_scarce_ufo_records_3b71d5
+  title: Missing Records | What Counts as a UFO in CAR?
+  permalink: /missing-records/
+  short_title: Missing Records
+  heading_title: Why Are CAR UFO Records So Thin?
+date: '2026-05-31 04:10:04 '
+header:
+  og_image: /assets/images/Central_African_Repu_358788_bangui_magnetic_anom_ae8e0c-Illustration-1-social.jpg
+  preview_image: /assets/images/Central_African_Repu_358788_bangui_magnetic_anom_ae8e0c-Illustration-1.webp
+image: /assets/images/Central_African_Repu_358788_bangui_magnetic_anom_ae8e0c-Illustration-1-social.jpg
+---
+
+## Introduction
+
+The **Bangui magnetic anomaly** is a real geophysical feature underlying much of the *[Central African Republic]({{ 'central-african-republic/' | relative_url }})*, centred roughly on the capital city of Bangui. It is one of the largest and most intense variations in Earth’s magnetic field on the African continent, and it lies at the heart of a set of speculative narratives that sometimes associate it with unusual aerial or “UFO‑related” phenomena. This page explains what the anomaly actually is, why some have woven it into UFO mythology, and how solid science distinguishes geological mystery from extraordinary claims.[Wikipedia]
+
+
+<img src="{{ "/assets/images/Central_African_Repu_358788_bangui_magnetic_anom_ae8e0c-Illustration-1-light.svg" | relative_url }}" alt="Bangui Anomaly illustration 1" data-theme-src-dark="{{ "/assets/images/Central_African_Repu_358788_bangui_magnetic_anom_ae8e0c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Central_African_Repu_358788_bangui_magnetic_anom_ae8e0c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+## What the Magnetic Anomaly Is
+
+At its simplest, the Bangui magnetic anomaly is a **local variation in Earth’s magnetic field** that is unusually strong and spatially extensive. Geophysical surveys – starting with surface measurements in the 1950s, later detailed by airborne and satellite instruments – show a roughly elliptical region of magnetic disturbance about 700 × 1,000 km across, extending over much of the Central African Republic and appearing clearly in satellite magnetometer data.[Wikipedia]
+
+Two broad geological ideas have been proposed to explain this anomaly:
+
+* **Deep crustal and lithospheric contrasts:** Scientists have long recognised that variations in rock types and structures within Earth’s crust – including highly magnetised metamorphic and igneous rocks – can produce significant magnetic anomalies. Studies suggest that overlapping magnetic sources many tens of kilometres thick could explain the Bangui feature without invoking anything beyond ordinary geology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S003192011300126X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectRock magnetic investigation of possible sources of the Bangui magnetic anomaly - ScienceDirect...</span></span></span>
+* **Ancient impact hypothesis:** A minority of geophysicists have suggested that the anomaly might be a remnant of a **very ancient meteorite impact** in Precambrian times, with ring‑like structures in the topography taken as possible vestiges of that event. This idea remains debated and unproven because definitive impact signatures such as shocked minerals or well‑defined crater morphology have not been clearly identified.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S003192011300126X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectRock magnetic investigation of possible sources of the Bangui magnetic anomaly - ScienceDirect...</span></span></span>
+
+Neither theory, however, suggests anything unusual in the recent sky or space above Bangui; they focus on deep crustal processes that occurred hundreds of millions to billions of years ago.[Wikipedia]
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gNWNKsqXSqY" title="The Strange Magnetic “Anomaly” Under Africa | Anomaly: Bermuda Triangle of Space | BBC Earth Science" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gNWNKsqXSqY" target="_blank" rel="noopener noreferrer">The Strange Magnetic “Anomaly” Under Africa | Anomaly: Bermuda Triangle of Space | BBC Earth Science</a></p><p class="youtube-embed-meta">Channel: BBC Earth Science &middot; Views: 12.3K &middot; Uploaded: December 2023 &middot; Length: 3 minutes 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gNWNKsqXSqY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gNWNKsqXSqY">Open on YouTube</a></p></div></div></div>
+
+## Where Speculation Enters the Story
+
+Public curiosity about magnetic anomalies can easily drift into **mythic or speculative territory**, particularly when combined with cultural enthusiasm for UFOs and extraterrestrial narratives. A few informal online discussions and worldbuilding threads treat the Bangui anomaly as a backdrop for imagined alien technology or buried craft, often referencing the idea that something “mysterious” lies beneath the surface.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/worldbuilding/comments/1krv56y/the_bangui_magnetic_anomaly_a_worldbuilding/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">The Bangui magnetic anomaly: a worldbuilding goldmine</span><span class="citation-popover-snippet">RedditThe Bangui magnetic anomaly: a worldbuilding goldmineMay 21, 2025 — It could be a meteorite containing a rare and exotic metal or a...</span><span class="citation-popover-meta">Published: May 21, 2025</span></span></span>
+
+There are several reasons this kind of speculation emerges:
+
+* **Magnetic anomalies and mystery:** Because anomalies like Bangui are visible on magnetic maps but not directly of everyday experience, they are fertile ground for speculative associations with paranormal or unidentified phenomena. People often conflate unexplained geophysical maps with physical mysteries.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esa.int/ESA_Multimedia/Images/2017/03/Magnetic_anomaly_Bangui" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esa.int">[European Space Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esa.int</span><span class="citation-popover-title">European Space Agency ESA</span><span class="citation-popover-snippet">European Space AgencyESA - Magnetic anomaly: BanguiOne of these anomalies occurs in Central African Republic, centred on the city of Bang...</span></span></span>
+* **The broader UFO cultural milieu:** Some UFO enthusiasts draw loose connections between magnetic disturbances and sightings, arguing that “unusual electromagnetic conditions” might attract or influence supposed craft. However, there is no established scientific evidence linking geologic magnetic anomalies to UFO events anywhere on Earth.[Wikipedia]
+* **Creative storytelling:** Forums such as Reddit often encourage imaginative interpretations of real features like the Bangui anomaly, ranging from buried alien ships to exotic metals, but these are fictional elaborations rather than claims grounded in data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/worldbuilding/comments/1krv56y/the_bangui_magnetic_anomaly_a_worldbuilding/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">The Bangui magnetic anomaly: a worldbuilding goldmine</span><span class="citation-popover-snippet">RedditThe Bangui magnetic anomaly: a worldbuilding goldmineMay 21, 2025 — It could be a meteorite containing a rare and exotic metal or a...</span><span class="citation-popover-meta">Published: May 21, 2025</span></span></span>
+
+Crucially, these narratives do **not originate from scientific findings** and are not supported by published palaeomagnetic, aeromagnetic, or geological field research on the anomaly.
+
+
+<img src="{{ "/assets/images/Central_African_Repu_358788_bangui_magnetic_anom_ae8e0c-Illustration-2-light.svg" | relative_url }}" alt="Bangui Anomaly illustration 2" data-theme-src-dark="{{ "/assets/images/Central_African_Repu_358788_bangui_magnetic_anom_ae8e0c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Central_African_Repu_358788_bangui_magnetic_anom_ae8e0c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## How to Separate Geology from Sightings
+
+When people encounter the Bangui magnetic anomaly online or in maps, it’s useful to clarify a few principles that distinguish scientific knowledge from speculative narratives:
+
+* **Magnetic anomalies do not imply physical objects in the sky or space.** A magnetic anomaly is a **variation in the Earth’s crustal magnetisation** detected by instruments, not a sensor reading of a physical craft or structure at the surface or in the atmosphere.[Wikipedia]
+* **There is no documented link between the Bangui anomaly and UFO sightings.** Despite the cultural appeal of linking these topics, credible UFO reporting systems and scientific reviews of aerial phenomena do not list the Bangui magnetic anomaly as evidence of unexplained airborne craft.[Wikipedia]
+* **Scientific debate focuses on age‑old geological processes.** The research about Bangui’s origin centres on crustal composition, tectonic history, and geomagnetic mapping, not on contemporary aerial events or unidentified flying objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S003192011300126X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectRock magnetic investigation of possible sources of the Bangui magnetic anomaly - ScienceDirect...</span></span></span>
+
+In practice, what makes the Bangui magnetic anomaly genuinely interesting is not its value as evidence for extraordinary aerial technology, but the fact that Earth’s crust can produce large, persistent magnetic variations that we are still working to fully understand. That is both a real scientific mystery and a better basis for inquiry than unfounded speculation.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Y3vKUkjFhvI" title="Bangui Magnetic Anomaly" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Y3vKUkjFhvI" target="_blank" rel="noopener noreferrer">Bangui Magnetic Anomaly</a></p><p class="youtube-embed-meta">Channel: Wiki4All &middot; Views: 1.6K &middot; Uploaded: February 2021 &middot; Length: 1 minute 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Y3vKUkjFhvI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Y3vKUkjFhvI">Open on YouTube</a></p></div></div></div>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/op_wCAep23o" title="SOMETHING IS HAPPENING — We Are Detecting Anomalous Objects | What They Don’t Explain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=op_wCAep23o" target="_blank" rel="noopener noreferrer">SOMETHING IS HAPPENING — We Are Detecting Anomalous Objects | What They Don’t Explain</a></p><p class="youtube-embed-meta">Channel: Ray&#x27;s Astrophotography &middot; Views: 55.0K &middot; Uploaded: March 2026 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=op_wCAep23o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=op_wCAep23o">Open on YouTube</a></p></div></div></div>
+
+## Summary
+
+* The **Bangui magnetic anomaly** is a **large, genuine crustal magnetic feature** centred on the Central African Republic, documented by surface surveys and satellite magnetometers.[Wikipedia]
+* Its **origin remains scientifically debated** (geological contrasts vs ancient impact) but is grounded in Earth science, not extraterrestrial technology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S003192011300126X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectRock magnetic investigation of possible sources of the Bangui magnetic anomaly - ScienceDirect...</span></span></span>
+* **UFO narratives tied to the anomaly appear only in informal, speculative contexts** and are not supported by scientific evidence or UFO reporting archives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/worldbuilding/comments/1krv56y/the_bangui_magnetic_anomaly_a_worldbuilding/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">The Bangui magnetic anomaly: a worldbuilding goldmine</span><span class="citation-popover-snippet">RedditThe Bangui magnetic anomaly: a worldbuilding goldmineMay 21, 2025 — It could be a meteorite containing a rare and exotic metal or a...</span><span class="citation-popover-meta">Published: May 21, 2025</span></span></span>
+* Clear thinking about the anomaly means appreciating it as **an intriguing geological phenomenon** rather than a clue about unexplained aerial visitors.<span class="citation-chip-wrap"><a class="citation-chip" href="https://gcaw.net/2014/06/22/the-african-country-where-compasses-go-haywire/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gcaw.net">[Graeme Wood]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gcaw.net</span><span class="citation-popover-snippet">Graeme WoodThe African country where compasses go haywire22 Jun 2014 — A massive aberration known as the Bangui Magnetic Anomaly, named f...</span></span></span>
+
+
+<img src="{{ "/assets/images/Central_African_Repu_358788_bangui_magnetic_anom_ae8e0c-Illustration-3-light.svg" | relative_url }}" alt="Bangui Anomaly illustration 3" data-theme-src-dark="{{ "/assets/images/Central_African_Repu_358788_bangui_magnetic_anom_ae8e0c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Central_African_Repu_358788_bangui_magnetic_anom_ae8e0c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why the Bangui Anomaly Attracts UFO Myths. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+        </h4>
+        <p class="fr-book-author">By Leslie Kean</p>
+        
+        <p class="fr-book-desc">Helps separate documented aerial cases from speculative anomaly myths.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+        </h4>
+        <p class="fr-book-author">By Carl Sagan</p>
+        
+        <p class="fr-book-desc">Offers tools for evaluating extraordinary claims tied to geological mysteries.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+        </h4>
+        <p class="fr-book-author">By Leslie Kean</p>
+        
+        <p class="fr-book-desc">Helps separate documented aerial cases from speculative anomaly myths.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Magnetic+Universe+J.+B.+Zirker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Magnetic Universe on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Magnetic+Universe+J.+B.+Zirker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Magnetic Universe">The Magnetic Universe</a>
+        </h4>
+        <p class="fr-book-author">By J. B. Zirker</p>
+        
+        <p class="fr-book-desc">Explains Earth&#x27;s magnetic phenomena and helps ground discussion of the Bangui anomaly.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Magnetic+Universe+J.+B.+Zirker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+## References
+
+[Bangui magnetic anomaly](#endnote-1 "Endnote 1") aly,* Wikipedia.Wikipedia [* *Bangui Satellite Magnetic Anomaly,* NASA/GSFC.core2.gsfc.nasa.gov](#endnote-1 "Endnote 1") [* Rock magnetic studies and geological models of the anomaly.ScienceDirect](#endnote-1 "Endnote 1")
+* Online and popular speculative pieces (not scientific evidence).[Reddit](#endnote-4 "
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditThe Bangui magnetic anomaly: a worldbuilding goldmineMay 21, 2025 — It could be a meteorite containing a rare and exotic metal or a...&quot;)...</p></details>
+* Broader context on UFO reporting and interpretation.[Wikipedia]
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: Wikipedia  
+   Title: Bangui magnetic anomaly  
+   Link: [https://en.wikipedia.org/wiki/Bangui_magnetic_anomaly](https://en.wikipedia.org/wiki/Bangui_magnetic_anomaly)  
+
+2. <a id="endnote-2"></a>
+   Source: sciencedirect.com  
+   Link: [https://www.sciencedirect.com/science/article/abs/pii/S003192011300126X](https://www.sciencedirect.com/science/article/abs/pii/S003192011300126X)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectRock magnetic investigation of possible sources of the Bangui magnetic anomaly - ScienceDirect...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: sciencedirect.com  
+   Link: [https://www.sciencedirect.com/science/article/abs/pii/004019519290139W](https://www.sciencedirect.com/science/article/abs/pii/004019519290139W)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectA possible impact origin for the Bangui magnetic anomaly (Central Africa) - ScienceDirectOctober 1, 1992...</p></details>
+   Published: October 1, 1992  
+
+4. <a id="endnote-4"></a>
+   Source: reddit.com  
+   Title: The Bangui magnetic anomaly: a worldbuilding goldmine  
+   Link: [https://www.reddit.com/r/worldbuilding/comments/1krv56y/the_bangui_magnetic_anomaly_a_worldbuilding/](https://www.reddit.com/r/worldbuilding/comments/1krv56y/the_bangui_magnetic_anomaly_a_worldbuilding/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditThe Bangui magnetic anomaly: a worldbuilding goldmineMay 21, 2025 — It could be a meteorite containing a rare and exotic metal or a...</p></details>
+   Published: May 21, 2025  
+
+5. <a id="endnote-5"></a>
+   Source: Wikipedia  
+   Title: Unidentified flying object  
+   Link: [https://en.wikipedia.org/wiki/Unidentified_flying_object](https://en.wikipedia.org/wiki/Unidentified_flying_object)  
+
+6. <a id="endnote-6"></a>
+   Source: sciencedirect.com  
+   Link: [https://www.sciencedirect.com/science/article/pii/S1464343X21001072](https://www.sciencedirect.com/science/article/pii/S1464343X21001072)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectCrustal thickness, depth to the bottom of magnetic sources and thermal structure of the crust from Cameroon to Central Afric...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: core2.gsfc.nasa.gov  
+   Link: [https://core2.gsfc.nasa.gov/terr_mag/Bangui.html](https://core2.gsfc.nasa.gov/terr_mag/Bangui.html)  
+
+8. <a id="endnote-8"></a>
+   Source: sciencedirect.com  
+   Link: [https://www.sciencedirect.com/science/article/abs/pii/S026437070100059X](https://www.sciencedirect.com/science/article/abs/pii/S026437070100059X)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectJanuary 1, 2002 — JOURNAL OF GEODYNAMICS Volume 33, Issues 1–2, January–March 2002, Pages 131-142 GRADIENTS IN THE INTERPRET...</p></details>
+   Published: January 1, 2002  
+
+9. <a id="endnote-9"></a>
+   Source: sciencedirect.com  
+   Title: A possible impact origin for the Bangui magnetic anomaly (Central Africa)  
+   Link: [https://www.sciencedirect.com/science/article/pii/004019519290139W](https://www.sciencedirect.com/science/article/pii/004019519290139W)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectOctober 1, 1992 — TECTONOPHYSICS Volume 212, Issues 1–2, 1 October 1992, Pages 45-58 A POSSIBLE IMPACT ORIGIN FOR THE BANGUI...</p></details>
+   Published: October 1, 1992  
+
+10. <a id="endnote-10"></a>
+   Source: sciencedirect.com  
+   Title: A possible impact origin for the Bangui magnetic anomaly (Central Africa)  
+   Link: [https://www.sciencedirect.com/science/article/pii/004019519290139W/pdf?md5=9b6098175365e03c7c99fbeafe88d4ab&pid=1-s2.0-004019519290139W-main.pdf](https://www.sciencedirect.com/science/article/pii/004019519290139W/pdf?md5=9b6098175365e03c7c99fbeafe88d4ab&pid=1-s2.0-004019519290139W-main.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectOctober 1, 1992 — TECTONOPHYSICS Volume 212, Issues 1–2, 1 October 1992, Pages 45-58 A POSSIBLE IMPACT ORIGIN FOR THE BANGUI...</p></details>
+   Published: October 1, 1992  
+
+11. <a id="endnote-11"></a>
+   Source: sciencedirect.com  
+   Link: [https://www.sciencedirect.com/science/article/pii/0012821X85901050](https://www.sciencedirect.com/science/article/pii/0012821X85901050)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectEARTH AND PLANETARY SCIENCE LETTERS Volume 75, Issues 2–3, October 1985, Pages 231-244 SEISMOLOGICAL INVESTIGATION OF THE BA...</p></details>
+   Published: October 1985  
+
+12. <a id="endnote-12"></a>
+   Source: ntrs.nasa.gov  
+   Title: They named this anomaly the Bangui  
+   Link: [https://ntrs.nasa.gov/citations/19770018759](https://ntrs.nasa.gov/citations/19770018759)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>the origin of the Bangui magnetic anomaly, central...by BD Marsh · 1977 · Cited by 3 — A large magnetic anomaly was recognized in satell...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: everything.explained.today  
+   Title: The magnetic anomaly  
+   Link: [https://everything.explained.today/Bangui_magnetic_anomaly/](https://everything.explained.today/Bangui_magnetic_anomaly/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>magnetic anomaly explainedBANGUI MAGNETIC ANOMALY EXPLAINED The Bangui magnetic anomaly is a local variation in the Earth&#x27;s magnetic fiel...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: youtube.com  
+   Title: Bangui Magnetic Anomaly  
+   Link: [https://www.youtube.com/watch?v=Y3vKUkjFhvI](https://www.youtube.com/watch?v=Y3vKUkjFhvI)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Bangui Anomaly: ESA believes an asteroid modified Earth&#x27;s magnetic field...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: gcaw.net  
+   Link: [https://gcaw.net/2014/06/22/the-african-country-where-compasses-go-haywire/](https://gcaw.net/2014/06/22/the-african-country-where-compasses-go-haywire/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Graeme WoodThe African country where compasses go haywire22 Jun 2014 — A massive aberration known as the Bangui Magnetic Anomaly, named f...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: esa.int  
+   Title: European Space Agency ESA  
+   Link: [https://www.esa.int/ESA_Multimedia/Images/2017/03/Magnetic_anomaly_Bangui](https://www.esa.int/ESA_Multimedia/Images/2017/03/Magnetic_anomaly_Bangui)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>European Space AgencyESA - Magnetic anomaly: BanguiOne of these anomalies occurs in Central African Republic, centred on the city of Bang...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: ui.adsabs.harvard.edu  
+   Link: [https://ui.adsabs.harvard.edu/abs/1982JGR....87.1107R/abstract](https://ui.adsabs.harvard.edu/abs/1982JGR....87.1107R/abstract)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bangui Magnetic Anomaly: Its geological originby RD Regan · 1982 · Cited by 84 — Satellite magnetometer data have revealed a long-wave le...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: pubs.usgs.gov  
+   Link: [https://pubs.usgs.gov/publication/ofr781006](https://pubs.usgs.gov/publication/ofr781006)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bangui magnetic anomaly, Central African Empireby RD Regan · 1978 · Cited by 1 — The principal objectives of this project have been the d...</p></details>
+
+### Additional References
+
+19. <a id="endnote-19"></a>
+   Source: usgs.gov  
+   Link: [https://www.usgs.gov/publications/preliminary-correlations-magsat-anomalies-tectonic-features-africa](https://www.usgs.gov/publications/preliminary-correlations-magsat-anomalies-tectonic-features-africa)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Geological SurveyJanuary 1, 1982 — PRELIMINARY CORRELATIONS OF MAGSAT ANOMALIES WITH TECTONIC FEATURES OF AFRICA January 1, 1982 An overv...</p></details>
+   Published: January 1, 1982  
+
+20. <a id="endnote-20"></a>
+   Source: usgs.gov  
+   Title: The Bangui magnetic anomaly, Central African Empire: Final trip report | U.S  
+   Link: [https://www.usgs.gov/publications/bangui-magnetic-anomaly-central-african-empire-final-trip-report](https://www.usgs.gov/publications/bangui-magnetic-anomaly-central-african-empire-final-trip-report)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Geological SurveyJanuary 1, 1978 — THE BANGUI MAGNETIC ANOMALY, CENTRAL AFRICAN EMPIRE: FINAL TRIP REPORT January 1, 1978 View Document F...</p></details>
+   Published: January 1, 1978  
+
+21. <a id="endnote-21"></a>
+   Source: researchgate.net  
+   Link: [https://www.researchgate.net/publication/233449170_The_bangui_magnetic_anomaly_in_Central_Africa_in_the_light_of_new_geological_evidence](https://www.researchgate.net/publication/233449170_The_bangui_magnetic_anomaly_in_Central_Africa_in_the_light_of_new_geological_evidence)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The bangui magnetic anomaly in Central Africa in the light...Furthermore, knowledge of geological phenomena can be enhanced by mapping o...</p></details>
+
+22. <a id="endnote-22"></a>
+   Source: researchgate.net  
+   Link: [https://www.researchgate.net/publication/350585450_Crustal_Thickness_Depth_To_The_Bottom_Of_Magnetic_Sources_And_Thermal_Structure_Of_The_Crust_From_Cameroon_To_Central_African_Republic_Preliminary_Results_For_A_Better_Understanding_Of_The_Origin_Of_T](https://www.researchgate.net/publication/350585450_Crustal_Thickness_Depth_To_The_Bottom_Of_Magnetic_Sources_And_Thermal_Structure_Of_The_Crust_From_Cameroon_To_Central_African_Republic_Preliminary_Results_For_A_Better_Understanding_Of_The_Origin_Of_T)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Preliminary Results For A Better Understanding Of The Origin Of The Bangui Magnetic Anomaly | Request PDFCRUSTAL THICKNESS, DEPTH TO THE...</p></details>
+
+23. <a id="endnote-23"></a>
+   Source: iflscience.com  
+   Link: [https://www.iflscience.com/a-giant-magnetic-anomaly-beneath-earths-surface-has-been-mapped-with-incredible-detail-82490](https://www.iflscience.com/a-giant-magnetic-anomaly-beneath-earths-surface-has-been-mapped-with-incredible-detail-82490)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside The US&#x27;s Biggest &quot;Alien&quot; Sighting Database. vault icon · There&#x27;s A Rare Brain &quot;Glitch&quot; That Turns People Into Obsessive...Read more...</p></details>
+
+24. <a id="endnote-24"></a>
+   Source: ui.adsabs.harvard.edu  
+   Link: [https://ui.adsabs.harvard.edu/abs/1977oobm.rept.....M/abstract](https://ui.adsabs.harvard.edu/abs/1977oobm.rept.....M/abstract)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>the origin of the Bangui magnetic anomaly, central...by BD Marsh · 1977 · Cited by 3 — They named this anomaly the Bangui magnetic anoma...</p></details>
+
+25. <a id="endnote-25"></a>
+   Source: tandfonline.com  
+   Title: Full article: The origin of Bangui magnetic anomaly  
+   Link: [https://www.tandfonline.com/doi/abs/10.1080/14432471.2022.2035519](https://www.tandfonline.com/doi/abs/10.1080/14432471.2022.2035519)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>one of the largest magnetic anomalies in the worldFebruary 25, 2022 — THE ORIGIN OF BANGUI MAGNETIC ANOMALY - ONE OF THE LARGEST MAGNETIC...</p></details>
+   Published: February 25, 2022  
+
+26. <a id="endnote-26"></a>
+   Source: tandfonline.com  
+   Title: Full article: The origin of Bangui magnetic anomaly  
+   Link: [https://www.tandfonline.com/doi/full/10.1080/14432471.2022.2035519](https://www.tandfonline.com/doi/full/10.1080/14432471.2022.2035519)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>one of the largest magnetic anomalies in the worldFebruary 25, 2022 — THE ORIGIN OF BANGUI MAGNETIC ANOMALY - ONE OF THE LARGEST MAGNETIC...</p></details>
+   Published: February 25, 2022  
+
+27. <a id="endnote-27"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=gNWNKsqXSqY](https://www.youtube.com/watch?v=gNWNKsqXSqY)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>SOMETHING IS HAPPENING — We Are Detecting Anomalous Objects | What They Don&#x27;t Explain...</p></details>
+
+28. <a id="endnote-28"></a>
+   Source: scribd.com  
+   Title: 4chan Bermuda Triangle OSINT  
+   Link: [https://www.scribd.com/document/832121800/4chan-Bermuda-Triangle-OSINT](https://www.scribd.com/document/832121800/4chan-Bermuda-Triangle-OSINT)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>4chan&#x27;s Bermuda Triangle UFO Leak Analysis | PDFMeaning that an anomalous reading in one area, has an inter-related cascading affect on the...</p></details>

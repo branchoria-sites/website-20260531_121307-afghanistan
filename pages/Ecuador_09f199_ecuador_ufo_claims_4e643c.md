@@ -1,0 +1,690 @@
+---
+level: 2
+basename: Ecuador_09f199_ecuador_ufo_claims_4e643c
+parent_basename: Ecuador_09f199
+child_basenames: []
+sibling_basenames:
+- Ecuador_09f199_ceifo_investigation_71e5ea
+- Ecuador_09f199_ecuador_sightings_7f35a6
+- Ecuador_09f199_manabi_ufo_hotspot_29e677
+tags:
+- ecuador
+keywords:
+- ecuador
+affiliate_category: ecuador
+show_ads: true
+description: Ecuador’s UFO record includes officially confirmed CEIFO files, contested videos and testimonies, and speculative underwater facility claims.
+hero_summary: Ecuador’s UFO record includes officially confirmed CEIFO files, contested videos and testimonies, and speculative underwater facility claims.
+layout: default
+permalink: /claims-evidence/
+sidebar_expanded_urls:
+- /what-evidence-exists-for-ufos-in-ecuador/
+nav_short_title: Claims & Evidence
+title: Evaluating Confirmed and Contested UFO Claims in Ecuador
+title_full: Evaluating Confirmed and Contested UFO Claims in Ecuador | EcuadorUFOs
+display_title_short: Claims & Evidence
+display_title: Claims & Evidence
+heading_title: Evaluating Confirmed and Contested UFO Claims in Ecuador
+page_heading_title: Evaluating Confirmed and Contested UFO Claims in Ecuador
+source_count: 32
+infographic_count: 3
+planned_sections:
+- Confirmed CEIFO Records
+- Contested Videos and Testimonies
+- Speculative Underwater Installations
+focal_unit_type: dataset_evidence
+topic_lens: critique_risk
+topic_granularity: pillar
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+parent_title: EcuadorUFOs
+parent_permalink: /what-evidence-exists-for-ufos-in-ecuador/
+parent_nav_short_title: EcuadorUFOs
+parent_heading_title: What Evidence Exists for UFOs in Ecuador?
+ancestor_links:
+- basename: Ecuador_09f199
+  title: EcuadorUFOs
+  permalink: /what-evidence-exists-for-ufos-in-ecuador/
+  short_title: EcuadorUFOs
+breadcrumb_links:
+- basename: Ecuador_09f199
+  title: EcuadorUFOs
+  permalink: /what-evidence-exists-for-ufos-in-ecuador/
+  short_title: EcuadorUFOs
+sibling_links:
+- basename: Ecuador_09f199_ceifo_investigation_71e5ea
+  title: CEIFO Archive | What Evidence Exists for UFOs in Ecuador?
+  permalink: /ceifo-archive/
+  short_title: CEIFO Archive
+  heading_title: Inside Ecuador's CEIFO UFO Investigation Commission
+- basename: Ecuador_09f199_ecuador_sightings_7f35a6
+  title: Major Sightings | What Evidence Exists for UFOs in Ecuador?
+  permalink: /major-sightings/
+  short_title: Major Sightings
+  heading_title: Notable UFO Sightings Across Ecuadorian Cities
+- basename: Ecuador_09f199_manabi_ufo_hotspot_29e677
+  title: Manabí UFOs | What Evidence Exists for UFOs in Ecuador?
+  permalink: /manabí-ufos/
+  short_title: Manabí UFOs
+  heading_title: Why Manabí Became Ecuador’s UFO Epicenter
+up_link:
+  basename: Ecuador_09f199
+  title: EcuadorUFOs
+  permalink: /what-evidence-exists-for-ufos-in-ecuador/
+  short_title: EcuadorUFOs
+prev_link:
+  basename: Ecuador_09f199_ceifo_investigation_71e5ea
+  title: CEIFO Archive | What Evidence Exists for UFOs in Ecuador?
+  permalink: /ceifo-archive/
+  short_title: CEIFO Archive
+  heading_title: Inside Ecuador's CEIFO UFO Investigation Commission
+next_link:
+  basename: Ecuador_09f199_ecuador_sightings_7f35a6
+  title: Major Sightings | What Evidence Exists for UFOs in Ecuador?
+  permalink: /major-sightings/
+  short_title: Major Sightings
+  heading_title: Notable UFO Sightings Across Ecuadorian Cities
+date: '2026-05-31 04:13:03 '
+header:
+  og_image: /assets/images/Ecuador_09f199_ecuador_ufo_claims_4e643c-Illustration-1-social.jpg
+  preview_image: /assets/images/Ecuador_09f199_ecuador_ufo_claims_4e643c-Illustration-1.webp
+image: /assets/images/Ecuador_09f199_ecuador_ufo_claims_4e643c-Illustration-1-social.jpg
+---
+
+## Introduction
+
+[Ecuador]({{ 'what-evidence-exists-for-ufos-in-ecuador/' | relative_url }})’s UFO record sits in an unusual middle ground between official acknowledgement, unresolved witness testimony, and highly speculative folklore. Unlike many countries where UFO claims remained entirely unofficial, Ecuador briefly created a government-linked investigative body — the Comisión Ecuatoriana para la Investigación del Fenómeno OVNI (CEIFO) — tied to the Ecuadorian Air Force and Ministry of Defence. That institutional involvement is real and documented. What remains unproven is the extraordinary conclusion often attached to it: that Ecuadorian authorities confirmed extraterrestrial craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ecuadorian_Air_Force" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ecuadorian Air Force</span><span class="citation-popover-snippet">April 26, 2026 — The Ecuadorian Air Force is the air branch of the Armed Forces of Ecuador. Ecuadorian Air Force. Fuerza Aérea Ecuatorian...</span><span class="citation-popover-meta">Published: April 26, 2026</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Jaime_Rodr%C3%ADguez_%28uf%C3%B3logo%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jaime Rodríguez (ufólogo</span><span class="citation-popover-snippet">Jaime Rodríguez (ufólogo</span></span></span>
+
+
+<img src="{{ "/assets/images/Ecuador_09f199_ecuador_ufo_claims_4e643c-Illustration-1-light.svg" | relative_url }}" alt="Claims &amp; Evidence illustration 1" data-theme-src-dark="{{ "/assets/images/Ecuador_09f199_ecuador_ufo_claims_4e643c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ecuador_09f199_ecuador_ufo_claims_4e643c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+The country’s UFO debate is therefore best understood through three separate evidence categories. First are the confirmed facts: CEIFO existed, files were collected, and military personnel gave testimony. Second are contested claims: videos, photographs, pilot accounts and stories that cannot be independently verified or conclusively debunked. Third are speculative narratives, especially claims about hidden underwater alien installations off the Ecuadorian coast, which remain unsupported by verifiable evidence despite recurring media attention. The distinction matters because Ecuadorian UFO discussions often blur these categories together.
+
+## Confirmed CEIFO Records and What They Actually Prove
+
+The strongest documented element in Ecuador’s UFO history is institutional recognition of unidentified aerial reports. Ecuador’s Air Force history references CEIFO as a commission created within a broader aerospace-development framework associated with the Ministry of Defence. That establishes that Ecuador treated UFO reports as a matter worthy of formal review, at least for a limited period in the mid-2000s. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/32053531/STATE_OF_THE_ART_IN_UFO_DISCLOSURE_WORLDWIDE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">STATE OF THE ART IN UFO DISCLOSURE WORLDWIDE</span><span class="citation-popover-snippet">Academiastate-of-the-art in ufo disclosure worldwide28 Nov 2024 — This paper describes (as per September 2011) the various releases and d...</span><span class="citation-popover-meta">Published: September 2011</span></span></span> The commission is closely associated with Ecuadorian ufologist Jaime Rodríguez, who spent years lobbying for declassification of military and civilian UFO reports. According to repeated local reporting and Rodríguez’s own statements, CEIFO reviewed dozens of cases involving both civilians and members of the armed forces. The often-cited figure is 44 investigated cases selected from a much larger archive of photographs and videos. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ecuadorian_Air_Force" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ecuadorian Air Force</span><span class="citation-popover-snippet">April 26, 2026 — The Ecuadorian Air Force is the air branch of the Armed Forces of Ecuador. Ecuadorian Air Force. Fuerza Aérea Ecuatorian...</span><span class="citation-popover-meta">Published: April 26, 2026</span></span></span>
+
+What is important — and often misunderstood — is the meaning of “official investigation”. Ecuadorian authorities confirmed that unexplained aerial reports existed. They did not officially confirm alien visitation. The distinction is critical because later documentaries and online discussions frequently imply that Ecuador “admitted UFOs were extraterrestrial”. The public evidence does not support that conclusion.
+
+Several recurring Ecuadorian cases illustrate this ambiguity:
+
+* A 1992 Guayaquil recording reportedly filmed by former vice-president Luis Parodi is frequently described as one of the country’s most important UFO videos. However, independent technical analysis of the original material is limited, and surviving public copies are poor-quality or incomplete.
+* A 1995 military sighting in Loja province involving Colonel Eustorgio Pacheco became one of CEIFO’s most repeated witness accounts. The officer reportedly described a luminous object descending toward a military detachment before rapidly ascending after shots were fired. The account is notable because of the military witness, but it still relies largely on testimony rather than preserved physical evidence.
+* Reports from coastal and Amazonian regions describing lights moving without obvious aircraft characteristics were collected into [CEIFO archives]({{ 'ceifo-archive/' | relative_url }}), but few became publicly accessible in full investigative form.
+
+This creates a recurring pattern in Ecuadorian UFO history: credible witnesses exist, official interest existed, but the underlying evidence remains fragmentary.
+
+## Why Ecuador’s “Disclosure” Narrative Became Controversial
+
+During the 2000s, Ecuador acquired a reputation in international UFO circles as a country moving toward disclosure. Television documentaries and UFO conferences often presented Ecuador alongside Brazil, Chile and Peru as part of a Latin American wave of military openness regarding UFOs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/32053531/STATE_OF_THE_ART_IN_UFO_DISCLOSURE_WORLDWIDE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">STATE OF THE ART IN UFO DISCLOSURE WORLDWIDE</span><span class="citation-popover-snippet">Academiastate-of-the-art in ufo disclosure worldwide28 Nov 2024 — This paper describes (as per September 2011) the various releases and d...</span><span class="citation-popover-meta">Published: September 2011</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://tv.apple.com/us/episode/ufo-dossier-ecuador/umc.cmc.y5b919cfxqedptkg79oxpv08" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tv.apple.com">[Apple TV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tv.apple.com</span><span class="citation-popover-snippet">UFO Casebook (Season 1, Episode 10)S1, E10: In recent months, some major governments have begun to de-classify documents regarding cases...</span></span></span>
+
+That reputation partly emerged because Ecuador’s government publicly discussed declassification efforts during the administrations of Lucio Gutiérrez and Rafael Correa. Rodríguez repeatedly claimed the armed forces possessed more material than had been publicly released. These statements fuelled the perception that hidden files contained stronger proof than the public had seen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Jaime_Rodr%C3%ADguez_%28uf%C3%B3logo%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Jaime Rodríguez (ufólogo</span><span class="citation-popover-snippet">Jaime Rodríguez (ufólogo</span></span></span>
+
+However, the practical reality was much less dramatic than the mythology that followed. Ecuador never created a comprehensive public archive equivalent to a searchable national database. Many reported cases circulated only through television programmes, lectures, local newspapers, or secondary retellings. That makes independent verification difficult decades later.
+
+This lack of archival transparency produced two opposing narratives:
+
+* **Ufological interpretation:** Ecuadorian authorities quietly acknowledged genuine unexplained phenomena but withheld the strongest evidence.
+* **Sceptical interpretation:** Ecuadorian officials merely collected reports without validating extraordinary claims, while later media exaggeration transformed routine investigations into “proof”.
+
+The surviving public record supports the existence of investigations more strongly than it supports claims of concealed extraterrestrial evidence.
+
+## Contested Videos and Witness Testimonies
+
+Many of Ecuador’s most famous UFO claims remain unresolved not because they are overwhelmingly convincing, but because the evidence quality is too weak for definitive judgement. This is especially true of videos and photographs that circulated through television broadcasts or later internet uploads without preserved originals.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mAcCgUhOMTk" title="UFO Casebook | Dossier Ecuador | S1E10 | REAL Footage!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mAcCgUhOMTk" target="_blank" rel="noopener noreferrer">UFO Casebook | Dossier Ecuador | S1E10 | REAL Footage!</a></p><p class="youtube-embed-meta">Channel: Sci-Fi Central &middot; Views: 397.0K &middot; Uploaded: October 2021 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mAcCgUhOMTk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mAcCgUhOMTk">Open on YouTube</a></p></div></div></div>
+
+### The Problem With Ecuador’s Video Evidence
+
+A recurring weakness in Ecuadorian UFO media is missing provenance. Important details are often unavailable:
+
+
+<div class="content-enhancement content-enhancement--comparison" markdown="1">
+
+* original recording format
+* chain of custody
+* camera specifications
+* exact location coordinates
+* weather conditions
+* astronomical comparison data
+* uncompressed source footage
+
+</div>
+
+Without those elements, analysts cannot reliably distinguish between atmospheric effects, aircraft lights, lens artefacts, hoaxes, drones, or genuinely unexplained objects.
+
+This problem became more severe after social media accelerated the circulation of edited clips detached from their original context. Online reposts frequently transformed local sightings into international UFO “proof” while stripping away the uncertainty attached to the original report.
+
+The result is a large body of visually intriguing but evidentially weak material.
+
+### Witness Credibility Versus Physical Proof
+
+Ecuadorian UFO culture places heavy emphasis on witness testimony, especially from military personnel, pilots, police officers and rural observers. In many cases, believers argue that trained observers should be considered inherently credible.
+
+That approach has limits. A credible witness can still misinterpret distance, speed, lighting, astronomical objects or unfamiliar aircraft behaviour. Human testimony alone rarely resolves UFO cases conclusively.
+
+The Ecuadorian debate therefore often divides into two camps:
+
+
+<div class="content-enhancement content-enhancement--comparison" markdown="1">
+
+* those who view multiple independent witnesses as cumulative evidence of something extraordinary;
+* those who argue that without radar data, physical traces or preserved instrumentation, testimony remains insufficient.
+
+</div>
+
+This tension appears repeatedly in discussions of coastal sightings near Manabí, aerial lights observed near Guayaquil, and reports from remote Andean or Amazonian regions.
+
+### Internet Amplification and the Rise of Weak Evidence
+
+Recent Ecuador-related UFO clips circulating online illustrate how quickly speculation outruns evidence. Viral footage from Quito and other cities often attracts claims that objects display “non-human manoeuvres”, yet many uploads lack duration, context or stable reference points. Online debate around such clips commonly splits between enthusiastic believers and viewers who identify likely digital manipulation or ordinary explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/nq94h4/ufo_sighting_in_quito_ecuador/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">UFO sighting in Quito Ecuador</span><span class="citation-popover-snippet">RedditUFO sighting in Quito EcuadorJune 2, 2021 — UFO sighting in San Bernardino. Any idea what they are? r/UFOs. • 5y ago...Read more...</span><span class="citation-popover-meta">Published: June 2, 2021</span></span></span>
+
+The internet era has therefore expanded Ecuador’s UFO mythology while simultaneously weakening the average evidential standard. Older CEIFO-era reports at least attempted structured collection and interviews. Modern viral clips often bypass investigation entirely.
+
+
+<img src="{{ "/assets/images/Ecuador_09f199_ecuador_ufo_claims_4e643c-Illustration-2-light.svg" | relative_url }}" alt="Claims &amp; Evidence illustration 2" data-theme-src-dark="{{ "/assets/images/Ecuador_09f199_ecuador_ufo_claims_4e643c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ecuador_09f199_ecuador_ufo_claims_4e643c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## The Manabí Underwater Base Claims
+
+The most speculative branch of Ecuadorian UFO lore concerns alleged underwater extraterrestrial installations off the coast of Manabí province. These stories claim unidentified craft emerge from or disappear beneath the Pacific Ocean, sometimes linked to disappearances, unusual lights, or supposed military secrecy.
+
+No verified physical evidence supports these claims.
+
+The underwater-base narrative combines several separate themes:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* coastal UFO sightings;
+* broader global “USO” mythology involving unidentified submerged objects;
+* local folklore;
+* claims by television ufologists;
+* internet-era conspiracy culture.
+
+</div>
+
+Jaime Rodríguez and other Ecuadorian UFO personalities have discussed alleged underwater activity near the coast, helping popularise the idea in local media. Social media clips and sensational interviews later amplified the narrative further. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.instagram.com/reel/DU8uOTFCWyW/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Instagram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">InstagramUFÓLOGO ASEGURA QUE EXISTE BASE...... Ecuador #Misterio #Manabi #UltimaHora... UFOs, underwater bases, and inexplicable disapp...</span></span></span>
+
+What is missing is corroborating evidence such as:
+
+
+<div class="content-enhancement content-enhancement--metric" markdown="1">
+
+* sonar records;
+* military tracking data;
+* verified underwater imagery;
+* recovered material;
+* authenticated government documents;
+* independent scientific investigation.
+
+</div>
+
+The claims therefore remain speculative folklore rather than documented cases.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/S-F7aoChVKw" title="The Scariest UFO Theory Yet: They Live Underwater" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=S-F7aoChVKw" target="_blank" rel="noopener noreferrer">The Scariest UFO Theory Yet: They Live Underwater</a></p><p class="youtube-embed-meta">Channel: Club Random Podcast &middot; Views: 85.9K &middot; Uploaded: January 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=S-F7aoChVKw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=S-F7aoChVKw">Open on YouTube</a></p></div></div></div>
+
+### Why the Underwater Theory Persists
+
+Despite weak evidence, the underwater-installation story remains influential for several reasons.
+
+First, Ecuador’s Pacific coastline and proximity to deep oceanic zones make the narrative geographically plausible to believers. Second, coastal UFO reports are visually difficult to interpret because lights over water distort distance and motion perception. Third, global UFO culture increasingly promotes the idea that some unidentified phenomena originate underwater rather than from space.
+
+International discussion of unidentified submerged objects has indirectly reinforced Ecuadorian stories by giving local claims a broader mythology to connect with. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=S-F7aoChVKw" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">The Scariest UFO Theory Yet: They Live Underwatermassive underwater craft to insiders claiming non... “We Have Been WARNED” Neil...</span></span></span>
+
+Yet Ecuador-specific evidence still falls short of demonstrating anything beyond anecdote and speculation.
+
+## What Ecuador’s UFO Record Looks Like Under Critical Review
+
+When Ecuador’s UFO history is separated into evidence tiers, a clearer picture emerges.
+
+
+<img src="{{ "/assets/images/Ecuador_09f199_ecuador_ufo_claims_4e643c-Illustration-3-light.svg" | relative_url }}" alt="Claims &amp; Evidence illustration 3" data-theme-src-dark="{{ "/assets/images/Ecuador_09f199_ecuador_ufo_claims_4e643c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ecuador_09f199_ecuador_ufo_claims_4e643c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+### Strongly Supported
+
+These points are reasonably well established:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* CEIFO existed as a government-linked investigative body.
+* Ecuadorian authorities collected UFO reports.
+* Some military personnel and officials gave testimony regarding unexplained aerial observations.
+* Political discussion about declassification genuinely occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/32053531/STATE_OF_THE_ART_IN_UFO_DISCLOSURE_WORLDWIDE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">STATE OF THE ART IN UFO DISCLOSURE WORLDWIDE</span><span class="citation-popover-snippet">Academiastate-of-the-art in ufo disclosure worldwide28 Nov 2024 — This paper describes (as per September 2011) the various releases and d...</span><span class="citation-popover-meta">Published: September 2011</span></span></span>
+
+</div>
+
+### Unresolved but Plausible as Genuine Unknowns
+
+These claims remain open but unproven:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* certain military and civilian sightings;
+* some aerial-light incidents lacking clear conventional explanations;
+* witness reports involving unusual manoeuvres or silent movement.
+
+</div>
+
+These cases may represent misidentification, classified technology, atmospheric effects, or genuinely unexplained events. The public evidence is insufficient for firm conclusions.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Divc40V2PYA" title="Neil Armstrong’s Secret Ecuadorian Jungle Mission! | Nasa’s Unexplained Files | Discovery Channel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Divc40V2PYA" target="_blank" rel="noopener noreferrer">Neil Armstrong’s Secret Ecuadorian Jungle Mission! | Nasa’s Unexplained Files | Discovery Channel</a></p><p class="youtube-embed-meta">Channel: DiscoveryChannelInd &middot; Views: 27.7K &middot; Uploaded: November 2024 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Divc40V2PYA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Divc40V2PYA">Open on YouTube</a></p></div></div></div>
+
+### Weak or Highly Speculative
+
+These claims lack reliable supporting evidence:
+
+* hidden underwater alien bases; <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.instagram.com/reel/DU8uOTFCWyW/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[instagram.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">InstagramUFÓLOGO ASEGURA QUE EXISTE BASE...... Ecuador #Misterio #Manabi #UltimaHora... UFOs, underwater bases, and inexplicable disapp...</span></span></span>
+* extraterrestrial diplomatic contact stories;
+* claims of secret confirmed alien knowledge inside Ecuador’s government;
+* sensational interpretations of low-quality viral videos.
+
+Such narratives persist primarily through repetition, media amplification and UFO folklore rather than independently verifiable documentation.
+
+## Ecuador’s Place in the Wider Latin American UFO Landscape
+
+Ecuador occupies a distinctive position in Latin American UFO history because it briefly crossed the boundary from private ufology into partial state involvement. That alone makes the country notable within regional UFO research.
+
+At the same time, Ecuador demonstrates how easily official acknowledgement of unexplained reports can evolve into exaggerated claims of confirmed alien visitation. The strongest evidence from Ecuador supports institutional interest and unresolved sightings, not proof of extraterrestrials.
+
+For researchers comparing Ecuador with neighbouring countries in broader South American UFO studies, the country’s importance lies less in any single spectacular case and more in the interaction between government inquiry, media mythology, and incomplete disclosure. Ecuador shows how UFO narratives can grow around fragments of authentic official involvement, even when the underlying evidence remains uncertain.
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Evaluating Confirmed and Contested UFO Claims in Ecuador. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+        </h4>
+        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        
+        <p class="fr-book-desc">Useful for assessing contested sightings and unresolved cases.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+        </h4>
+        <p class="fr-book-author">By Leslie Kean</p>
+        
+        <p class="fr-book-desc">Examines evidence standards and credibility in UFO reporting.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+        </h4>
+        <p class="fr-book-author">By Jacques Vallee</p>
+        
+        <p class="fr-book-desc">Addresses how folklore and interpretation influence extraordinary claims.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+        </h4>
+        <p class="fr-book-author">By Carl Sagan</p>
+        
+        <p class="fr-book-desc">Excellent fit for separating confirmed facts from contested claims.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: Wikipedia  
+   Title: Ecuadorian Air Force  
+   Link: [https://en.wikipedia.org/wiki/Ecuadorian_Air_Force](https://en.wikipedia.org/wiki/Ecuadorian_Air_Force)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 26, 2026 — The Ecuadorian Air Force is the air branch of the Armed Forces of Ecuador. Ecuadorian Air Force. Fuerza Aérea Ecuatorian...</p></details>
+   Published: April 26, 2026  
+
+2. <a id="endnote-2"></a>
+   Source: Wikipedia  
+   Title: Jaime Rodríguez (ufólogo)  
+   Link: [https://es.wikipedia.org/wiki/Jaime_Rodr%C3%ADguez_%28uf%C3%B3logo%29](https://es.wikipedia.org/wiki/Jaime_Rodr%C3%ADguez_%28uf%C3%B3logo%29)  
+
+3. <a id="endnote-3"></a>
+   Source: academia.edu  
+   Title: STATE OF THE ART IN UFO DISCLOSURE WORLDWIDE  
+   Link: [https://www.academia.edu/32053531/STATE_OF_THE_ART_IN_UFO_DISCLOSURE_WORLDWIDE](https://www.academia.edu/32053531/STATE_OF_THE_ART_IN_UFO_DISCLOSURE_WORLDWIDE)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Academiastate-of-the-art in ufo disclosure worldwide28 Nov 2024 — This paper describes (as per September 2011) the various releases and d...</p></details>
+   Published: September 2011  
+
+4. <a id="endnote-4"></a>
+   Source: tv.apple.com  
+   Link: [https://tv.apple.com/us/episode/ufo-dossier-ecuador/umc.cmc.y5b919cfxqedptkg79oxpv08](https://tv.apple.com/us/episode/ufo-dossier-ecuador/umc.cmc.y5b919cfxqedptkg79oxpv08)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Casebook (Season 1, Episode 10)S1, E10: In recent months, some major governments have begun to de-classify documents regarding cases...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: tv.apple.com  
+   Link: [https://tv.apple.com/us/movie/ufo-dossier-ecuador/umc.cmc.y8a52stnqhbr0khxv4kz3pnn](https://tv.apple.com/us/movie/ufo-dossier-ecuador/umc.cmc.y8a52stnqhbr0khxv4kz3pnn)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dossier: EcuadorUFO Dossier: Ecuador. Documentary. An investigative look at the recently declassified Ecuadorian documents regarding case...</p></details>
+
+6. <a id="endnote-6"></a>
+   Source: reddit.com  
+   Title: UFO sighting in Quito Ecuador  
+   Link: [https://www.reddit.com/r/UFOs/comments/nq94h4/ufo_sighting_in_quito_ecuador/](https://www.reddit.com/r/UFOs/comments/nq94h4/ufo_sighting_in_quito_ecuador/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditUFO sighting in Quito EcuadorJune 2, 2021 — UFO sighting in San Bernardino. Any idea what they are? r/UFOs. • 5y ago...Read more...</p></details>
+   Published: June 2, 2021  
+
+7. <a id="endnote-7"></a>
+   Source: instagram.com  
+   Link: [https://www.instagram.com/reel/DU8uOTFCWyW/](https://www.instagram.com/reel/DU8uOTFCWyW/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>InstagramUFÓLOGO ASEGURA QUE EXISTE BASE...... Ecuador #Misterio #Manabi #UltimaHora... UFOs, underwater bases, and inexplicable disapp...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=S-F7aoChVKw](https://www.youtube.com/watch?v=S-F7aoChVKw)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Scariest UFO Theory Yet: They Live Underwatermassive underwater craft to insiders claiming non... “We Have Been WARNED” Neil...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=jrNO4NZQITk](https://www.youtube.com/watch?v=jrNO4NZQITk)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs IN ECUADOR / The CEIFO... research, and collection of testimonies related to the UFO phenomenon in Ecuador.... UFOs IN ECUADOR / Th...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: 2017-2021.state.gov  
+   Link: [https://2017-2021.state.gov/report/custom/c5349ec0dd/](https://2017-2021.state.gov/report/custom/c5349ec0dd/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>claims; UNHCR participates as an observer. Ethiopian and Eritrean asylum... It also includes measures to facilitate the removal of alien...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: centroufologiconazionale.net  
+   Title: STATE OF THE ART IN UFO DISCLOSURE WORLDWIDE  
+   Link: [https://www.centroufologiconazionale.net/documenti/STATE-OF-THE-ART%20IN%20UFO%20DISCLOSURE%20WORLDWIDE.pdf](https://www.centroufologiconazionale.net/documenti/STATE-OF-THE-ART%20IN%20UFO%20DISCLOSURE%20WORLDWIDE.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>state-of-the-art in ufo disclosure worldwideIn its preparation phase, the attached template has received invaluable cooperation from the...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: archives.gov  
+   Link: [https://www.archives.gov/research/topics/uaps](https://www.archives.gov/research/topics/uaps)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — NARA has records related to unidentified flying objects (UFO)...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: instagram.com  
+   Link: [https://www.instagram.com/reel/DYHPr5UgvNe/](https://www.instagram.com/reel/DYHPr5UgvNe/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NacionalA pilot captured what many consider the best footage of a UFO ever seen. The bright object appears between the clouds and its aut...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: youtube.com  
+   Title: ECUADOR DECLASSIFIED! Military and Pilots Saw UFOs and Extraterrestrials  
+   Link: [https://www.youtube.com/watch?v=ybx6KNyYK5Q](https://www.youtube.com/watch?v=ybx6KNyYK5Q)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Casebook | Dossier Ecuador | S1E10 | REAL Footage...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: youtube.com  
+   Title: UFO Casebook | Dossier Ecuador | S1E10 | REAL Footage!  
+   Link: [https://www.youtube.com/watch?v=mAcCgUhOMTk](https://www.youtube.com/watch?v=mAcCgUhOMTk)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ufologist Jaime Rodriguez: The Secret of UFOs and the CIA...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: youtube.com  
+   Title: Ufologist Jaime Rodriguez: The Secret of UFOs and the CIA  
+   Link: [https://www.youtube.com/watch?v=obrDNxRhut0](https://www.youtube.com/watch?v=obrDNxRhut0)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Neil Armstrong&#x27;s Secret Ecuadorian Jungle Mission! | Nasa&#x27;s Unexplained Files...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: youtube.com  
+   Title: Neil Armstrong's Secret Ecuadorian Jungle Mission! | Nasa's Unexplained Files  
+   Link: [https://www.youtube.com/watch?v=Divc40V2PYA](https://www.youtube.com/watch?v=Divc40V2PYA)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ECUADOR DECLASSIFIED! Military and Pilots Saw UFOs and Extraterrestrials is highly relevant because it carefully catalogs and analyzes th...</p></details>
+
+### Additional References
+
+18. <a id="endnote-18"></a>
+   Source: exostudies.org  
+   Link: [https://www.exostudies.org/resources/dates/](https://www.exostudies.org/resources/dates/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dates | Exo Studies Master CourseBelow is a condensed list of notable dates in exo studies – these include a few of the more notable alle...</p></details>
+
+19. <a id="endnote-19"></a>
+   Source: saa.org  
+   Link: [https://www.saa.org/common/Uploaded%20files/saadocs/AnnualMeeting/Final%20Program/final_2015-program.pdf](https://www.saa.org/common/Uploaded%20files/saadocs/AnnualMeeting/Final%20Program/final_2015-program.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>PROGRAM OF THE 80TH ANNUAL MEETING... Aliens. 7:30. Krystal Hammond—Research with an Agenda: Creationist. Media on Archaeological Discove...</p></details>
+
+20. <a id="endnote-20"></a>
+   Source: europeanunionufbootcamp.weebly.com  
+   Link: [https://europeanunionufbootcamp.weebly.com/uploads/1/4/6/1/146151020/globalizing_migration_regimes_new_challenges_to_transnational_cooperation__stockholm_workshop_on_global_migration_r_etc.___z-library_.pdf](https://europeanunionufbootcamp.weebly.com/uploads/1/4/6/1/146151020/globalizing_migration_regimes_new_challenges_to_transnational_cooperation__stockholm_workshop_on_global_migration_r_etc.___z-library_.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Migration Regimes2 A report from a Nordic committee proposed that aliens denied work permits be granted the right of appeal. This was rej...</p></details>
+
+21. <a id="endnote-21"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/groups/Aliens2019/posts/663263267613031/](https://www.facebook.com/groups/Aliens2019/posts/663263267613031/)  
+
+22. <a id="endnote-22"></a>
+   Source: dialogo-americas.com  
+   Title: rayo justiciero the drone squadron redefining ecuadors airspace control  
+   Link: [https://dialogo-americas.com/articles/rayo-justiciero-the-drone-squadron-redefining-ecuadors-airspace-control/](https://dialogo-americas.com/articles/rayo-justiciero-the-drone-squadron-redefining-ecuadors-airspace-control/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rayo Justiciero: The Drone Squadron Redefining...4 Feb 2026 — The Rayo Justiciero Drone Squadron, operated by the Ecuadorian Air Force...</p></details>
+
+23. <a id="endnote-23"></a>
+   Source: wesodonnell.medium.com  
+   Title: i saw a ufo while serving in the us military eec3122b2a55  
+   Link: [https://wesodonnell.medium.com/i-saw-a-ufo-while-serving-in-the-us-military-eec3122b2a55](https://wesodonnell.medium.com/i-saw-a-ufo-while-serving-in-the-us-military-eec3122b2a55)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Saw a UFO Up Close While Serving in the Air ForceI Saw a UFO Up Close While Serving in the Air Force So, what does the US intelligence co...</p></details>
+
+24. <a id="endnote-24"></a>
+   Source: discovery.ucl.ac.uk  
+   Link: [https://discovery.ucl.ac.uk/10082374/1/Capella%20Palacios_10082374_thesis_redacted.pdf](https://discovery.ucl.ac.uk/10082374/1/Capella%20Palacios_10082374_thesis_redacted.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>critical ethnography of trainees´ professional identity Manuel...Online hip-hop videos from underground “ghetto” artists, warned outside...</p></details>
+
+25. <a id="endnote-25"></a>
+   Source: dokumen.pub  
+   Title: East Central Europe in Exile Volume 1: Transatlantic  
+   Link: [https://dokumen.pub/east-central-europe-in-exile-volume-1-transatlantic-migrations-1nbsped-9781443868914-9781443847254.html](https://dokumen.pub/east-central-europe-in-exile-volume-1-transatlantic-migrations-1nbsped-9781443868914-9781443847254.html)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Contract Labour Law of 1885 the importation and migration of foreigners and aliens under contract or agreement to perform labour wa...</p></details>
+
+26. <a id="endnote-26"></a>
+   Source: bristoluniversitypressdigital.com  
+   Link: [https://bristoluniversitypressdigital.com/display/book/9781529208184/9781529208184.pdf](https://bristoluniversitypressdigital.com/display/book/9781529208184/9781529208184.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>a post-neoliberal era in latin america?bajo tierra: videografías en circulación paralela (Underground Ecuador...</p></details>
+
+27. <a id="endnote-27"></a>
+   Source: coralreefs.org  
+   Title: Reef Encounter Jul 2020 hi res  
+   Link: [https://coralreefs.org/wp-content/uploads/2018/12/Reef_Encounter_Jul_2020_hi-res.pdf](https://coralreefs.org/wp-content/uploads/2018/12/Reef_Encounter_Jul_2020_hi-res.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>REEF ENCOUNTER1 Jul 2020 — Cohen M (2014) Denotation in alien environments: the underwater je ne sais quoi. Representations 125(1):103-12...</p></details>

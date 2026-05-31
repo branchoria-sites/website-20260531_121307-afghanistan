@@ -1,0 +1,615 @@
+---
+level: 2
+basename: Latvia_c5f5bb_latvia_ufo_chronolog_b15e2c
+parent_basename: Latvia_c5f5bb
+child_basenames: []
+sibling_basenames:
+- Latvia_c5f5bb_latvia_airspace_moni_a07e2e
+- Latvia_c5f5bb_latvia_sighting_patt_7d8d93
+- Latvia_c5f5bb_latvia_ufology_group_bd8a6d
+tags:
+- latvia
+- sightings-timeline
+keywords:
+- latvia
+- sightings-timeline
+affiliate_category: latvia
+show_ads: true
+description: This page details Latvia's major UFO sightings from historical claims to recent civilian and official reports.
+hero_summary: This page details Latvia's major UFO sightings from historical claims to recent civilian and official reports.
+layout: default
+permalink: /sightings-timeline-cd0e16/
+sidebar_expanded_urls:
+- /what-has-latvia-really-seen-in-the-sky/
+nav_short_title: Sightings Timeline
+title: 'Latvia''s UFO Sightings: From 19th Century to Today'
+title_full: 'Latvia''s UFO Sightings: From 19th Century to Today | Latvia UFOs'
+display_title_short: Sightings Timeline
+display_title: Sightings Timeline
+heading_title: 'Latvia''s UFO Sightings: From 19th Century to Today'
+page_heading_title: 'Latvia''s UFO Sightings: From 19th Century to Today'
+source_count: 33
+infographic_count: 3
+planned_sections:
+- Historical and early reports
+- Post Soviet civilian sightings
+- Recent official alerts and drone incidents
+focal_unit_type: event_time_window
+topic_lens: historical_comparative
+topic_granularity: pillar
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+parent_title: Latvia UFOs
+parent_permalink: /what-has-latvia-really-seen-in-the-sky/
+parent_nav_short_title: Latvia UFOs
+parent_heading_title: What Has Latvia Really Seen in the Sky?
+ancestor_links:
+- basename: Latvia_c5f5bb
+  title: Latvia UFOs
+  permalink: /what-has-latvia-really-seen-in-the-sky/
+  short_title: Latvia UFOs
+breadcrumb_links:
+- basename: Latvia_c5f5bb
+  title: Latvia UFOs
+  permalink: /what-has-latvia-really-seen-in-the-sky/
+  short_title: Latvia UFOs
+sibling_links:
+- basename: Latvia_c5f5bb_latvia_airspace_moni_a07e2e
+  title: Airspace Records | What Has Latvia Really Seen in the Sky?
+  permalink: /airspace-records/
+  short_title: Airspace Records
+  heading_title: How Latvia Monitors and Confirms Unidentified Objects
+- basename: Latvia_c5f5bb_latvia_sighting_patt_7d8d93
+  title: Regional Patterns | What Has Latvia Really Seen in the Sky?
+  permalink: /regional-patterns-eb1843/
+  short_title: Regional Patterns
+  heading_title: Where and Why UFOs Appear in Latvia
+- basename: Latvia_c5f5bb_latvia_ufology_group_bd8a6d
+  title: Ufology Groups | What Has Latvia Really Seen in the Sky?
+  permalink: /ufology-groups/
+  short_title: Ufology Groups
+  heading_title: Inside Latvia's UFO Research Communities
+up_link:
+  basename: Latvia_c5f5bb
+  title: Latvia UFOs
+  permalink: /what-has-latvia-really-seen-in-the-sky/
+  short_title: Latvia UFOs
+prev_link:
+  basename: Latvia_c5f5bb_latvia_sighting_patt_7d8d93
+  title: Regional Patterns | What Has Latvia Really Seen in the Sky?
+  permalink: /regional-patterns-eb1843/
+  short_title: Regional Patterns
+  heading_title: Where and Why UFOs Appear in Latvia
+next_link:
+  basename: Latvia_c5f5bb_latvia_ufology_group_bd8a6d
+  title: Ufology Groups | What Has Latvia Really Seen in the Sky?
+  permalink: /ufology-groups/
+  short_title: Ufology Groups
+  heading_title: Inside Latvia's UFO Research Communities
+date: '2026-05-31 04:20:18 '
+header:
+  og_image: /assets/images/Latvia_c5f5bb_latvia_ufo_chronolog_b15e2c-Illustration-1-social.jpg
+  preview_image: /assets/images/Latvia_c5f5bb_latvia_ufo_chronolog_b15e2c-Illustration-1.webp
+image: /assets/images/Latvia_c5f5bb_latvia_ufo_chronolog_b15e2c-Illustration-1-social.jpg
+---
+
+## Introduction
+
+[Latvia]({{ 'what-has-latvia-really-seen-in-the-sky/' | relative_url }})’s UFO history is not defined by a single famous encounter but by a scattered chain of reports stretching from disputed nineteenth-century claims to modern airspace alerts involving drones and military monitoring. The country’s record combines folklore-era observations, Soviet-period stories, post-independence civilian sightings and, increasingly, official reports of unidentified aerial objects near Latvia’s eastern borders. The result is a timeline that reveals as much about changing technology, politics and public perception as it does about unexplained sightings themselves.
+
+
+<img src="{{ "/assets/images/Latvia_c5f5bb_latvia_ufo_chronolog_b15e2c-Illustration-1-light.svg" | relative_url }}" alt="Sightings Timeline illustration 1" data-theme-src-dark="{{ "/assets/images/Latvia_c5f5bb_latvia_ufo_chronolog_b15e2c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Latvia_c5f5bb_latvia_ufo_chronolog_b15e2c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+Most Latvian UFO cases remain poorly documented. Many survive only through witness testimony, local media reports or international databases such as the National UFO Reporting Center (NUFORC). Few include radar records, military documentation or independently verified imagery. Recent incidents differ sharply from earlier reports because they involve state security institutions, NATO air surveillance systems and investigations into drones crossing Baltic airspace. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">NUFORCNUFORC Reports by LocationAugust 20, 2023 — Asher Salido on NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data an...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+
+## Historical and Early Reports
+
+### The disputed 1871 Madona account
+
+One of the oldest UFO-related stories associated with Latvia concerns an alleged observation near present-day Madona in 1871. Later anomaly catalogues attributed the event to astronomer Étienne Léopold Trouvelot and described multiple unusual aerial objects moving at different speeds and altitudes.
+
+The problem is evidential rather than chronological. Modern references to the incident largely appear in secondary ufology compilations rather than easily verifiable contemporary records. Because the original documentation is difficult to trace, researchers generally treat the case as part of Latvia’s UFO folklore rather than a firmly established historical observation.
+
+The significance of the story lies less in what was allegedly seen and more in the fact that later Latvian anomaly researchers adopted it as the beginning of a national UFO timeline.
+
+### Soviet-era silence and scattered accounts
+
+During the Soviet period, reports of unusual aerial phenomena circulated privately but rarely entered a transparent public archive. Latvia shared the broader Soviet environment in which military secrecy, restricted airspace and limited media openness complicated investigation of unusual sightings.
+
+Some accounts from the 1960s through the 1980s appeared later in private catalogues or were submitted retrospectively to international databases. These reports often lack precise dates, locations or supporting evidence, making them difficult to evaluate decades later.
+
+A notable example preserved in modern reporting databases is a sighting allegedly occurring in 1985 near the Latvian-Lithuanian region. As with many Cold War-era reports, the surviving description is brief and cannot be independently verified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">NUFORCNUFORC Reports by LocationAugust 20, 2023 — Asher Salido on NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data an...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+
+## The Post-Soviet Wave of Civilian Sightings
+
+Following Latvia’s restoration of independence in 1991, public discussion of anomalous aerial phenomena became easier. Newspapers, television programmes and later internet forums created a visible record of claims that would previously have remained private.
+
+### 1991–1993: Early independence reports
+
+One frequently cited case is a July 1991 report from Ķekava. Although the event allegedly occurred during the final Soviet period, the report was filed much later. The delay creates obvious reliability issues because memories can change significantly over time.
+
+Another early database entry concerns a June 1993 sighting in Rīga. Like many reports from the period, the account describes unusual lights rather than a structured craft. The lack of photographs, radar data or official investigation means the case remains an unidentified observation rather than a confirmed anomaly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">NUFORCNUFORC Reports by LocationAugust 20, 2023 — Asher Salido on NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data an...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+
+### The Sigulda triangle of 2005
+
+Among Latvia’s better-known civilian reports is an October 2005 sighting near Sigulda.
+
+Witnesses described what initially appeared to be falling stars followed by a silent triangular arrangement of lights moving rapidly through the sky. Triangle-shaped UFO reports are common internationally, particularly since the late twentieth century, making the Sigulda case notable within Latvia but not unique in a broader European context.
+
+No official evidence emerged to support extraordinary interpretations. The report nevertheless became one of the most frequently referenced Latvian entries in international UFO databases because it included multiple observers and a relatively detailed description. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">NUFORCNUFORC Reports by LocationAugust 20, 2023 — Asher Salido on NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data an...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QMif68C3KVA" title="Safe skies: NATO Air Policing – the Baltic States" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QMif68C3KVA" target="_blank" rel="noopener noreferrer">Safe skies: NATO Air Policing – the Baltic States</a></p><p class="youtube-embed-meta">Channel: NATO &middot; Views: 9.5K &middot; Uploaded: July 2021 &middot; Length: 1 minute 17 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QMif68C3KVA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QMif68C3KVA">Open on YouTube</a></p></div></div></div>
+
+### The Rīga light formations of 2008
+
+A widely discussed report from August 2008 described six to ten pulsating lights observed over Rīga.
+
+Witnesses claimed the objects moved in a loose triangular pattern and remained visible for several minutes. Reports of grouped lights are notoriously difficult to assess because they can involve aircraft formations, satellites, atmospheric effects, lanterns or observational errors.
+
+No corroborating military or aviation data became public. As a result, the event remains a notable witness report rather than a documented unexplained aerial incident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">NUFORCNUFORC Reports by LocationAugust 20, 2023 — Asher Salido on NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data an...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+
+### Liepāja and western Latvia reports, 2009–2013
+
+Several additional entries appeared during the late 2000s and early 2010s:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* A 2009 report from Liepāja described orange circular lights.
+* A 2013 report from Rīga referred to a bright fireball-like object.
+* Smaller reports from various regions mentioned luminous spheres, rapidly moving lights and objects changing direction unexpectedly.
+
+</div>
+
+Many such observations may have astronomical or atmospheric explanations. Fireballs, meteor activity, aircraft landing lights and satellite reflections have historically accounted for large numbers of reports throughout Northern Europe. Nevertheless, these entries demonstrate that sightings were not confined to the capital and occurred across multiple Latvian regions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">NUFORCNUFORC Reports by LocationAugust 20, 2023 — Asher Salido on NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data an...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+
+## UFOlats and Latvia's Civilian Investigation Culture
+
+By the early 2010s, Latvia had developed a small but organised UFO and anomaly research community.
+
+The most visible group was UFOlats, which presented itself as an organisation investigating unexplained phenomena including unusual aerial sightings. Local media described participants as coming from technical, scientific and historical backgrounds. The group collected witness accounts, examined photographs and attempted field investigations of selected cases.
+
+Their work illustrates an important feature of Latvia’s UFO chronology: much of the country's record has been assembled by private enthusiasts rather than government agencies. Unlike France's GEIPAN programme or the United Kingdom's former Ministry of Defence UFO desk, Latvia never maintained a widely known public office dedicated to UFO investigations.
+
+As a result, many Latvian cases survive only through local research networks, media archives and international reporting databases.
+
+
+<img src="{{ "/assets/images/Latvia_c5f5bb_latvia_ufo_chronolog_b15e2c-Illustration-2-light.svg" | relative_url }}" alt="Sightings Timeline illustration 2" data-theme-src-dark="{{ "/assets/images/Latvia_c5f5bb_latvia_ufo_chronolog_b15e2c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Latvia_c5f5bb_latvia_ufo_chronolog_b15e2c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## The 2018–2022 Reports: A Shift Toward Modern Explanations
+
+### Saldus triangle report, 2018
+
+A 2018 report from Saldus described a triangular object or formation. Triangle sightings continued to appear despite major changes in aerial technology.
+
+Researchers increasingly note that modern drone formations, commercial aircraft lighting systems and high-visibility navigation lights can generate observations that resemble classic UFO descriptions. Without supporting evidence, the Saldus case remains unresolved but not necessarily extraordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">NUFORCNUFORC Reports by LocationAugust 20, 2023 — Asher Salido on NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data an...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+
+### Turlava report, 2022
+
+A 2022 sighting near Turlava involved reports of a disc-like lighted object.
+
+The timing is significant. By 2022, consumer drones, satellite constellations and military aerial activity had become much more common throughout Europe. This broader technological environment makes interpretation of modern sightings more complicated than comparisons with older reports might suggest.
+
+The Turlava case attracted interest among UFO enthusiasts but did not produce publicly available evidence sufficient to move it beyond the category of an unidentified witness observation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">NUFORCNUFORC Reports by LocationAugust 20, 2023 — Asher Salido on NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data an...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/I4qTpa7ZyTI" title="Ukraine Targets Russia, But Its Drones End Up Hitting NATO Countries | Firstpost America | N18G" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=I4qTpa7ZyTI" target="_blank" rel="noopener noreferrer">Ukraine Targets Russia, But Its Drones End Up Hitting NATO Countries | Firstpost America | N18G</a></p><p class="youtube-embed-meta">Channel: Firstpost &middot; Views: 19.1K &middot; Uploaded: May 2026 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=I4qTpa7ZyTI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=I4qTpa7ZyTI">Open on YouTube</a></p></div></div></div>
+
+## From UFO Reports to Airspace Security Incidents
+
+A major change occurred after Russia’s full-scale invasion of Ukraine. Latvia’s eastern position on NATO’s border transformed the meaning of unidentified aerial objects.
+
+Instead of primarily civilian reports about mysterious lights, authorities increasingly confronted drones, radar contacts and potential airspace violations.
+
+### The Russian drone crash of September 2024
+
+One of the most significant recent incidents occurred in September 2024 when a Russian military drone carrying explosives crashed in Latvia after apparently deviating from its intended route toward Ukraine.
+
+Officials identified the aircraft as a Shahed-type drone. The object crashed near Gaigalava, and explosive material was later neutralised. NATO officials condemned the incident but stated there was no indication that Latvia had been deliberately targeted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/russian-drone-that-crashed-latvia-carried-explosives-latvian-military-says-2024-09-09/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Latvian officials believe the drone, which was of the Iranian-designed Shahed type, likely strayed into Latvian airspace while en route t...</span></span></span>
+
+This event is important in Latvia’s UFO chronology because it demonstrates how an initially unidentified aerial object can evolve into a clearly identified military threat once investigators recover physical evidence.
+
+
+<img src="{{ "/assets/images/Latvia_c5f5bb_latvia_ufo_chronolog_b15e2c-Illustration-3-light.svg" | relative_url }}" alt="Sightings Timeline illustration 3" data-theme-src-dark="{{ "/assets/images/Latvia_c5f5bb_latvia_ufo_chronolog_b15e2c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Latvia_c5f5bb_latvia_ufo_chronolog_b15e2c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+### March 2026: Drone entry in Krāslava district
+
+In March 2026, Latvian authorities confirmed that a drone entering Latvian territory from Russia was Ukrainian. Early warning systems detected the object, and reports emerged of an explosion-like sound in Krāslava district.
+
+No injuries were reported and infrastructure was not damaged. Nevertheless, the incident highlighted growing concern about unidentified aerial objects appearing over Latvian territory before their origin could be determined. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eng.lsm.lv/article/society/defence/25.03.2026-drone-that-crashed-in-latvia-confirmed-as-ukrainian.a640380/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eng.lsm.lv">[LSM.lv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eng.lsm.lv</span><span class="citation-popover-snippet">that crashed in Latvia confirmed as UkrainianThe authorities in Latvia have confirmed that a drone that crashed in the east of the countr...</span></span></span>
+
+## The 2026 Drone Alerts and Airspace Crisis
+
+### May 2026: Objects crossing Latvia's eastern border
+
+The most dramatic sequence of recent unidentified-object incidents occurred during May 2026.
+
+Latvian military authorities detected multiple drones entering national airspace from the direction of Russia. Initial uncertainty meant the objects effectively qualified as unidentified aerial threats until their probable origin could be assessed. Authorities issued alerts, NATO aircraft were scrambled and schools in some eastern districts temporarily closed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/two-drones-russia-crash-latvia-army-says-2026-05-07/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Baltic nations seek more NATO defence as drone hits Latvian oil tanks</span><span class="citation-popover-snippet">One drone exploded at an oil storage facility in Rezekne, damaging four empty tanks, though no casualties were reported. The drones were...</span></span></span>
+
+One drone exploded at an oil storage facility near Rēzekne, damaging empty tanks. Officials later stated that the drones were most likely Ukrainian systems that had gone off course during attacks directed toward Russia, although authorities initially examined several possible explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/russia-warns-latvia-against-letting-ukraine-launch-drones-threatens-retaliation-2026-05-19/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Russia says Latvia risks retaliation over Ukraine drone plans</span><span class="citation-popover-snippet">ReutersRussia says Latvia risks retaliation over Ukraine drone plansMay 19, 2026 — 1 day ago — Latvia issued a first air threat alert ​ov...</span><span class="citation-popover-meta">Published: May 19, 2026</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Xbnh_Wgar6k" title="UFO Formations in Latvia &amp; Lithuania&#x27; 1983 &amp; 1985 / Real Sighting / Animation by Nick Lido" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Xbnh_Wgar6k" target="_blank" rel="noopener noreferrer">UFO Formations in Latvia &amp; Lithuania&#x27; 1983 &amp; 1985 / Real Sighting / Animation by Nick Lido</a></p><p class="youtube-embed-meta">Channel: Nick Lido &middot; Views: 8.2K &middot; Uploaded: March 2010 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Xbnh_Wgar6k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Xbnh_Wgar6k">Open on YouTube</a></p></div></div></div>
+
+### Political consequences
+
+Unlike traditional UFO sightings, the 2026 incidents produced immediate political consequences.
+
+Questions emerged about warning systems, air-defence readiness and Latvia’s ability to detect and intercept incoming aerial objects. Public debate eventually contributed to a wider political crisis and changes within the government. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.euronews.com/my-europe/2026/05/14/late-warnings-and-a-ministers-fall-latvias-air-defence-failures-revealed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: euronews.com">[euronews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">euronews.com</span><span class="citation-popover-snippet">euronewsLate warnings and a minister&#x27;s fall: Latvia&#x27;s air-defence...6 days ago — A series of drones crossed into its airspace, sparking...</span></span></span>
+
+The episode demonstrates how the concept of an unidentified flying object has shifted in Latvia. The central question is no longer whether a strange light might represent an unknown craft, but whether unidentified aerial objects constitute a security threat requiring military response.
+
+### Continuing alerts and uncertainty
+
+Several additional airspace alerts followed during May 2026. In some cases authorities warned residents about possible drone threats only to later conclude that no confirmed airspace violation had occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/denmark-reopens-airports-after-drone-disruption-2025-09-25/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">denmark reopens airports after drone disruption 2025 09 25</span><span class="citation-popover-snippet">Denmark links drone sorties to state actor, Latvia says25 Sept 2025 — Denmark reported to NATO allies that unspecified &quot;state actors&quot; wer...</span></span></span>
+
+These incidents show a recurring pattern familiar to UFO researchers: an object is initially unidentified, generates concern and speculation, and is later either identified or determined to have insufficient evidence for a definitive conclusion.
+
+## What the Timeline Reveals
+
+Viewed as a whole, Latvia’s UFO chronology falls into three distinct eras.
+
+**The historical era** consists largely of retrospective stories and poorly documented observations, including the disputed 1871 Madona account.
+
+**The post-Soviet civilian era** runs from the early 1990s through the late 2010s and is characterised by reports of lights, triangles, fireballs and unusual aerial movements submitted to databases and discussed in local media. Most remain unresolved because evidence was limited.
+
+**The modern security era** begins in the early 2020s and is dominated by drones, airspace violations and military monitoring. These cases are often better documented than classic UFO reports because radar systems, defence ministries and NATO surveillance assets are involved. Yet they also tend to produce more conventional explanations once investigations are completed. Reuters <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mod.gov.lv/en/news/unmanned-aerial-vehicles-russia-enter-latvian-airspace-two-crash-within-national-territory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mod.gov.lv">[2Aizsardzības ministrija]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mod.gov.lv</span><span class="citation-popover-snippet">Aizsardzības ministrijaUnmanned aerial vehicles from russia enter Latvian airspace8 May 2026 — During the incident, two foreign drones cr...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+
+The overall record suggests that Latvia has experienced a steady stream of unidentified aerial reports rather than a concentrated wave of extraordinary incidents. The most consequential events in recent years have been those where unidentified objects became identified drones, revealing real-world security concerns rather than evidence of extraterrestrial visitation.
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Latvia&#x27;s UFO Sightings From 19th Century to Today. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+        </h4>
+        <p class="fr-book-author">By J. Allen Hynek</p>
+        
+        <p class="fr-book-desc">Offers comparative case material across decades.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+        </h4>
+        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        
+        <p class="fr-book-desc">Provides structure for interpreting historical and modern cases.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael D. Swords</p>
+        
+        <p class="fr-book-desc">Adds historical context to changing official responses.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+        </h4>
+        <p class="fr-book-author">By Jacques Vallee</p>
+        
+        <p class="fr-book-desc">Connects historical reports with modern UFO narratives.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: nuforc.org  
+   Title: Reports by Location  
+   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC Reports by LocationAugust 20, 2023 — Asher Salido on NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data an...</p></details>
+   Published: August 20, 2023  
+
+2. <a id="endnote-2"></a>
+   Source: reuters.com  
+   Link: [https://www.reuters.com/world/europe/russian-drone-that-crashed-latvia-carried-explosives-latvian-military-says-2024-09-09/](https://www.reuters.com/world/europe/russian-drone-that-crashed-latvia-carried-explosives-latvian-military-says-2024-09-09/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Latvian officials believe the drone, which was of the Iranian-designed Shahed type, likely strayed into Latvian airspace while en route t...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: eng.lsm.lv  
+   Link: [https://eng.lsm.lv/article/society/defence/25.03.2026-drone-that-crashed-in-latvia-confirmed-as-ukrainian.a640380/](https://eng.lsm.lv/article/society/defence/25.03.2026-drone-that-crashed-in-latvia-confirmed-as-ukrainian.a640380/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>that crashed in Latvia confirmed as UkrainianThe authorities in Latvia have confirmed that a drone that crashed in the east of the countr...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: reuters.com  
+   Title: Baltic nations seek more NATO defence as drone hits Latvian oil tanks  
+   Link: [https://www.reuters.com/world/two-drones-russia-crash-latvia-army-says-2026-05-07/](https://www.reuters.com/world/two-drones-russia-crash-latvia-army-says-2026-05-07/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>One drone exploded at an oil storage facility in Rezekne, damaging four empty tanks, though no casualties were reported. The drones were...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: euronews.com  
+   Link: [https://www.euronews.com/my-europe/2026/05/14/late-warnings-and-a-ministers-fall-latvias-air-defence-failures-revealed](https://www.euronews.com/my-europe/2026/05/14/late-warnings-and-a-ministers-fall-latvias-air-defence-failures-revealed)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>euronewsLate warnings and a minister&#x27;s fall: Latvia&#x27;s air-defence...6 days ago — A series of drones crossed into its airspace, sparking...</p></details>
+
+6. <a id="endnote-6"></a>
+   Source: reuters.com  
+   Title: Russia says Latvia risks retaliation over Ukraine drone plans  
+   Link: [https://www.reuters.com/world/russia-warns-latvia-against-letting-ukraine-launch-drones-threatens-retaliation-2026-05-19/](https://www.reuters.com/world/russia-warns-latvia-against-letting-ukraine-launch-drones-threatens-retaliation-2026-05-19/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ReutersRussia says Latvia risks retaliation over Ukraine drone plansMay 19, 2026 — 1 day ago — Latvia issued a first air threat alert ​ov...</p></details>
+   Published: May 19, 2026  
+
+7. <a id="endnote-7"></a>
+   Source: eng.lsm.lv  
+   Link: [https://eng.lsm.lv/article/society/defence/15.05.2026-another-airspace-alert-issued-in-eastern-latvia-over-drone-activity.a647221/](https://eng.lsm.lv/article/society/defence/15.05.2026-another-airspace-alert-issued-in-eastern-latvia-over-drone-activity.a647221/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>airspace alert issued in eastern Latvia over drone...Latvia&#x27;s National Armed Forces (NBS) issued another air emergency alert in the earl...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: reuters.com  
+   Title: denmark reopens airports after drone disruption 2025 09 25  
+   Link: [https://www.reuters.com/world/europe/denmark-reopens-airports-after-drone-disruption-2025-09-25/](https://www.reuters.com/world/europe/denmark-reopens-airports-after-drone-disruption-2025-09-25/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Denmark links drone sorties to state actor, Latvia says25 Sept 2025 — Denmark reported to NATO allies that unspecified &quot;state actors&quot; wer...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: mod.gov.lv  
+   Link: [https://www.mod.gov.lv/en/news/unmanned-aerial-vehicles-russia-enter-latvian-airspace-two-crash-within-national-territory](https://www.mod.gov.lv/en/news/unmanned-aerial-vehicles-russia-enter-latvian-airspace-two-crash-within-national-territory)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aizsardzības ministrijaUnmanned aerial vehicles from russia enter Latvian airspace8 May 2026 — During the incident, two foreign drones cr...</p></details>
+   Published: May 2026  
+
+10. <a id="endnote-10"></a>
+   Source: Wikipedia  
+   Link: [https://en.wikipedia.org/wiki/Latvia](https://en.wikipedia.org/wiki/Latvia)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Latviaa country in the Baltic region of Northern Europe. It is one of the three Baltic states, along with Estonia to the north and Lit...</p></details>
+
+### Additional References
+
+11. <a id="endnote-11"></a>
+   Source: kyivpost.com  
+   Link: [https://www.kyivpost.com/post/76312](https://www.kyivpost.com/post/76312)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NATO Jets Scrambled After Unidentified Drone Breaches...3 days ago — On May 7, a major diplomatic row erupted after two stray, explosive...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: washingtonpost.com  
+   Link: [https://www.washingtonpost.com/world/2026/05/14/latvian-government-collapses-amid-dispute-over-breaches-by-ukrainian-drones/](https://www.washingtonpost.com/world/2026/05/14/latvian-government-collapses-amid-dispute-over-breaches-by-ukrainian-drones/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Washington PostLatvian government collapses amid dispute over breaches...3 hours ago — Latvia&#x27;s government collapsed on Thursday ove...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: Wikipedia  
+   Link: [https://en.wikipedia.org/wiki/Violations_of_non-combatant_airspace_during_the_Russo-Ukrainian_war_%282022%E2%80%93present%29](https://en.wikipedia.org/wiki/Violations_of_non-combatant_airspace_during_the_Russo-Ukrainian_war_%282022%E2%80%93present%29)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>↑ &quot;Latvia says Russian drone that violated airspace came through Belarus&quot;. Politico Europe. September 8, 2024. Retrieved September 9, 202...</p></details>
+   Published: September 8, 2024  
+
+14. <a id="endnote-14"></a>
+   Source: meduza.io  
+   Link: [https://meduza.io/en/feature/2026/05/12/ukrainian-drones-crashing-in-latvia-trigger-a-government-crisis-as-the-nation-s-defense-minister-resigns](https://meduza.io/en/feature/2026/05/12/ukrainian-drones-crashing-in-latvia-trigger-a-government-crisis-as-the-nation-s-defense-minister-resigns)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>try, three drones crossed into Latvian airspace from Russia: two came down on...Read more...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: news.inbox.eu  
+   Link: [https://news.inbox.eu/150avxs-europe-is-preparing-divisions-to-defend-latvia-the-us-has-decided-to-cut-back-on-nato-media?language=en](https://news.inbox.eu/150avxs-europe-is-preparing-divisions-to-defend-latvia-the-us-has-decided-to-cut-back-on-nato-media?language=en)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>is preparing divisions to defend Latvia. The US has decided to cut back on NATO - media...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: pravda.com.ua  
+   Link: [https://www.pravda.com.ua/eng/news/2026/05/17/8035031/](https://www.pravda.com.ua/eng/news/2026/05/17/8035031/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>so warned about a possible threat in the airspace over the Krāslava, Ludza, Balvi...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: Wikipedia  
+   Title: 2026 Ukrainian drone incursions into Baltic states  
+   Link: [https://en.wikipedia.org/wiki/2026_Ukrainian_drone_incursions_into_Baltic_states](https://en.wikipedia.org/wiki/2026_Ukrainian_drone_incursions_into_Baltic_states)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>2026 Ukrainian drone incursions into Baltic statesIn March and May 2026, several Ukrainian or suspected Ukrainian military drones ente...</p></details>
+   Published: May 2026  
+
+18. <a id="endnote-18"></a>
+   Source: eurointegration.com.ua  
+   Link: [https://www.eurointegration.com.ua/eng/news/2026/05/14/7237565/](https://www.eurointegration.com.ua/eng/news/2026/05/14/7237565/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Two of them struck an oil depot, which fortunately turned out to...Read more...</p></details>
+
+19. <a id="endnote-19"></a>
+   Source: instagram.com  
+   Link: [https://www.instagram.com/p/DYg9mC5OylB/](https://www.instagram.com/p/DYg9mC5OylB/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The National Armed Forces of Latvia have declared a...Drones crash into NATO territory, prompting Latvia to scramble fighter jets...</p></details>
+
+20. <a id="endnote-20"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/hindustantimes/videos/watch-ukraines-drone-war-is-reportedly-spilling-beyond-russia-with-alleged-uav-i/2375419606296817/](https://www.facebook.com/hindustantimes/videos/watch-ukraines-drone-war-is-reportedly-spilling-beyond-russia-with-alleged-uav-i/2375419606296817/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ide Latvia. Yet another alleged friendly fire incident involving...</p></details>

@@ -1,0 +1,548 @@
+---
+level: 2
+basename: Montenegro_479fb3_social_media_clips_m_8ffe9e
+parent_basename: Montenegro_479fb3
+child_basenames: []
+sibling_basenames:
+- Montenegro_479fb3_civilian_sightings_m_12f50c
+- Montenegro_479fb3_military_anecdotes_m_054b40
+- Montenegro_479fb3_skepticism_montenegr_079711
+tags:
+- montenegro
+- viral-clips
+keywords:
+- montenegro
+- viral-clips
+affiliate_category: montenegro
+show_ads: true
+description: Videos and clips circulated online often depict moving lights or unusual objects, though authenticity remains unverified.
+hero_summary: Videos and clips circulated online often depict moving lights or unusual objects, though authenticity remains unverified.
+layout: default
+permalink: /viral-clips/
+sidebar_expanded_urls:
+- /are-ufos-really-seen-over-montenegro/
+nav_short_title: Viral Clips
+title: Montenegro UFO Footage on Social Media
+title_full: Montenegro UFO Footage on Social Media | MontenegroUFOs
+display_title_short: Viral Clips
+display_title: Viral Clips
+heading_title: Montenegro UFO Footage on Social Media
+page_heading_title: Montenegro UFO Footage on Social Media
+source_count: 28
+infographic_count: 3
+planned_sections:
+- Berane 2019 Video
+- Podgorica Online Clips
+- Budva and Igalo Viral Sightings
+focal_unit_type: dataset_evidence
+topic_lens: evidence
+topic_granularity: pillar
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+parent_title: MontenegroUFOs
+parent_permalink: /are-ufos-really-seen-over-montenegro/
+parent_nav_short_title: MontenegroUFOs
+parent_heading_title: Are UFOs Really Seen Over Montenegro?
+ancestor_links:
+- basename: Montenegro_479fb3
+  title: MontenegroUFOs
+  permalink: /are-ufos-really-seen-over-montenegro/
+  short_title: MontenegroUFOs
+breadcrumb_links:
+- basename: Montenegro_479fb3
+  title: MontenegroUFOs
+  permalink: /are-ufos-really-seen-over-montenegro/
+  short_title: MontenegroUFOs
+sibling_links:
+- basename: Montenegro_479fb3_civilian_sightings_m_12f50c
+  title: Civilian Sightings | Are UFOs Really Seen Over Montenegro?
+  permalink: /civilian-sightings/
+  short_title: Civilian Sightings
+  heading_title: Civilian UFO Sightings Across Montenegro
+- basename: Montenegro_479fb3_military_anecdotes_m_054b40
+  title: Military Reports | Are UFOs Really Seen Over Montenegro?
+  permalink: /military-reports-89646a/
+  short_title: Military Reports
+  heading_title: Historic Yugoslav Air Force UFO Encounters
+- basename: Montenegro_479fb3_skepticism_montenegr_079711
+  title: Skeptical Analysis | Are UFOs Really Seen Over Montenegro?
+  permalink: /skeptical-analysis/
+  short_title: Skeptical Analysis
+  heading_title: Skepticism and Evidence Review of Montenegrin UFOs
+up_link:
+  basename: Montenegro_479fb3
+  title: MontenegroUFOs
+  permalink: /are-ufos-really-seen-over-montenegro/
+  short_title: MontenegroUFOs
+prev_link:
+  basename: Montenegro_479fb3_skepticism_montenegr_079711
+  title: Skeptical Analysis | Are UFOs Really Seen Over Montenegro?
+  permalink: /skeptical-analysis/
+  short_title: Skeptical Analysis
+  heading_title: Skepticism and Evidence Review of Montenegrin UFOs
+date: '2026-05-31 04:24:16 '
+header:
+  og_image: /assets/images/Montenegro_479fb3_social_media_clips_m_8ffe9e-Illustration-1-social.jpg
+  preview_image: /assets/images/Montenegro_479fb3_social_media_clips_m_8ffe9e-Illustration-1.webp
+image: /assets/images/Montenegro_479fb3_social_media_clips_m_8ffe9e-Illustration-1-social.jpg
+---
+
+## Introduction
+
+[Montenegro]({{ 'are-ufos-really-seen-over-montenegro/' | relative_url }})’s skies occasionally become the backdrop for **amateur clips and viral social media posts** claiming to show unexplained aerial phenomena. These posts—shared on platforms like Facebook, Instagram and YouTube—often depict **lights, shapes or movements that local observers describe as unusual**, sparking curiosity and debate within online communities. While these clips circulate widely and attract commentary, they **remain unverified and lack corroborating scientific or official investigation**, reflecting the broader pattern seen with civilian‑sourced footage rather than confirmed unidentified flying objects (UFOs) or UAP (Unidentified Aerial Phenomena). <span class="citation-chip-wrap"><a class="citation-chip" href="https://mondo.rs/Info/EX-YU/a1248717/Berane-snimak-NLO.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mondo.rs">[Mondo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mondo.rs</span><span class="citation-popover-title">Berane snimak NLO | Mondo</span><span class="citation-popover-snippet">MondoBerane snimak NLO | Mondo...</span></span></span>
+
+
+<img src="{{ "/assets/images/Montenegro_479fb3_social_media_clips_m_8ffe9e-Illustration-1-light.svg" | relative_url }}" alt="Viral Clips illustration 1" data-theme-src-dark="{{ "/assets/images/Montenegro_479fb3_social_media_clips_m_8ffe9e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montenegro_479fb3_social_media_clips_m_8ffe9e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+## Berane 2019 Video Clips: Mystery Lights on Facebook
+
+In November 2019, a video posted on the Facebook group **“Podgorički vremeplov”** purported to show a strange light or object above **Berane** in northern Montenegro. The clip quickly spread across local social media and was reposted by several news portals and regional sites, with commenters offering varied interpretations—from underwater drones or aerial lights to jokes about plastic bags caught in the wind. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mondo.rs/Info/EX-YU/a1248717/Berane-snimak-NLO.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mondo.rs">[Mondo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mondo.rs</span><span class="citation-popover-title">Berane snimak NLO | Mondo</span><span class="citation-popover-snippet">MondoBerane snimak NLO | Mondo...</span></span></span>
+
+* **Content of the clip:** A bright, slow‑moving white light or shape visible against the night sky over Berane, lacking clear reference points for scale; users debated whether it was airborne or simply a drifting object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mondo.rs/Info/EX-YU/a1248717/Berane-snimak-NLO.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mondo.rs">[Mondo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mondo.rs</span><span class="citation-popover-title">Berane snimak NLO | Mondo</span><span class="citation-popover-snippet">MondoBerane snimak NLO | Mondo...</span></span></span>
+* **Online reactions:** Comments ranged from speculation about unmanned aerial vehicles (drones) to humorous suggestions of ordinary objects (e.g., wind‑blown plastic). Some reports extended the phenomenon to nearby towns like **Nikšić**, though with no substantiated footage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.espreso.co.rs/svet/crna-gora/466419/nlo-snimljen-na-nebu-iznad-crne-gore-procurio-snimak-ceo-region-bruji-o-ovome-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: espreso.co.rs">[espreso.co.rs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">espreso.co.rs</span><span class="citation-popover-snippet">NLO SNIMLJEN NA NEBU IZNAD CRNE GORE: Procurio snimak, ceo region bruji o ovome! (VIDEO)November 12, 2019...</span><span class="citation-popover-meta">Published: November 12, 2019</span></span></span>
+* **Verification status:** No official body confirmed the object’s nature or source, and the clip remains anecdotal social footage with no instrumental validation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://radiosarajevo.ba/multimedia/video/ljudi-u-nevjerici-cudni-krug-na-nebu-zapanjio-balkan/357179" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: radiosarajevo.ba">[Radiosarajevo.ba]</a><span class="citation-popover" role="note"><span class="citation-popover-source">radiosarajevo.ba</span><span class="citation-popover-title">Ljudi u nevjerici: Čudni krug na nebu zapanjio Balkan</span><span class="citation-popover-snippet">November 12, 2019...</span><span class="citation-popover-meta">Published: November 12, 2019</span></span></span>
+
+These Berane posts illustrate how **social media can amplify uncertain visual anomalies** without established context or expert analysis, leaving interpretation open to community conjecture rather than empirical determination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mondo.rs/Info/EX-YU/a1248717/Berane-snimak-NLO.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mondo.rs">[Mondo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mondo.rs</span><span class="citation-popover-title">Berane snimak NLO | Mondo</span><span class="citation-popover-snippet">MondoBerane snimak NLO | Mondo...</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/N7AnT-GiG3A" title="1997 The Phoenix Lights Caught On Camera! | UFO Witness Full Episode | Discovery Channel India" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=N7AnT-GiG3A" target="_blank" rel="noopener noreferrer">1997 The Phoenix Lights Caught On Camera! | UFO Witness Full Episode | Discovery Channel India</a></p><p class="youtube-embed-meta">Channel: DiscoveryChannelInd &middot; Views: 296.8K &middot; Uploaded: May 2025 &middot; Length: 42 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=N7AnT-GiG3A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=N7AnT-GiG3A">Open on YouTube</a></p></div></div></div>
+
+## Podgorica and Nationwide Night Sky Snippets
+
+Separate viral clips posted on Instagram in **2025** showed **streaming light trails and glowing streaks** across the night sky over central Montenegro, including the **Podgorica** region and highland areas like Žabljak. Viewers commenting on these posts reported seeing **light formations that moved rapidly and made hissing sounds**, generating a mix of speculation—from satellite trains like **Starlink** to atmospheric or military phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aloonline.ba/region/video-neobican-prizor-na-nebu-iznad-crne-gore-cuo-se-i-zvuk-sistanje/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aloonline.ba">[aloonline.ba]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aloonline.ba</span><span class="citation-popover-title">Neobičan prizor na nebu iznad Crne Gore</span><span class="citation-popover-snippet">Neobičan prizor na nebu iznad Crne Gore</span></span></span>
+
+
+<div class="content-enhancement content-enhancement--metric" markdown="1">
+
+* **Visual features:** Elongated luminous trails crossing the sky at night, sometimes accompanied in comments by reported sound effects, though these are unverified and absent from many clips. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aloonline.ba/Region/123829/video-neobican-prizor-na-nebu-iznad-crne-gore-cuo-se-i-zvuk-sistanje.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aloonline.ba">[aloonline.ba]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aloonline.ba</span><span class="citation-popover-snippet">June 17, 2025...</span><span class="citation-popover-meta">Published: June 17, 2025</span></span></span>
+* **Public interpretation:** Most viewers offered personal theories (e.g., satellites, meteors, atmospheric effects), and there was **no consensus or expert clarification** linked to these posts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aloonline.ba/region/video-neobican-prizor-na-nebu-iznad-crne-gore-cuo-se-i-zvuk-sistanje/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aloonline.ba">[aloonline.ba]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aloonline.ba</span><span class="citation-popover-title">Neobičan prizor na nebu iznad Crne Gore</span><span class="citation-popover-snippet">Neobičan prizor na nebu iznad Crne Gore</span></span></span>
+* **Scientific context:** Without triangulated footage, radar data or expert atmospheric analysis, such night sky videos resist robust classification, leaving them as **social media‑driven sightings rather than substantiated UAP evidence**. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aloonline.ba/Region/123829/video-neobican-prizor-na-nebu-iznad-crne-gore-cuo-se-i-zvuk-sistanje.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aloonline.ba">[aloonline.ba]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aloonline.ba</span><span class="citation-popover-snippet">June 17, 2025...</span><span class="citation-popover-meta">Published: June 17, 2025</span></span></span>
+
+</div>
+
+The Podgorica region examples underscore how **platform‑specific dynamics—fast sharing, brief clips, and crowd interpretation—shape public perception** of aerial anomalies, often independent of physical explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aloonline.ba/Region/123829/video-neobican-prizor-na-nebu-iznad-crne-gore-cuo-se-i-zvuk-sistanje.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aloonline.ba">[aloonline.ba]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aloonline.ba</span><span class="citation-popover-snippet">June 17, 2025...</span><span class="citation-popover-meta">Published: June 17, 2025</span></span></span>
+
+
+<img src="{{ "/assets/images/Montenegro_479fb3_social_media_clips_m_8ffe9e-Illustration-2-light.svg" | relative_url }}" alt="Viral Clips illustration 2" data-theme-src-dark="{{ "/assets/images/Montenegro_479fb3_social_media_clips_m_8ffe9e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montenegro_479fb3_social_media_clips_m_8ffe9e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Budva and Igalo Online Sightings: Daylight and Symbolic Clips
+
+Montenegro’s coast has also been the subject of viral posts that intersect with aerial phenomenon narratives, though their content ranges from ambiguous sky objects to more prosaic visual effects:
+
+* **Budva daylight clip (2019):** A video originally circulated as a supposed unusual object in Budva drew attention on blogs dedicated to unidentified sightings; online commentators later proposed **drone or model aircraft explanations**, emphasising the difficulty of attributing meaning to unverified footage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufosightingsfootage.uk/2021/08/what-is-this-ufo-in-budva-montenegro-it.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufosightingsfootage.uk">[ufosightingsfootage.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufosightingsfootage.uk</span><span class="citation-popover-title">What is This UFO in Budva, Montenegro it Looks So Unusual</span><span class="citation-popover-snippet">Hmmm!August 29, 2021...</span><span class="citation-popover-meta">Published: August 29, 2021</span></span></span>
+* **Instagram symbolic formations (2023):** Clips showing cloud shapes over Budva that some viewers interpreted symbolically (e.g., resembling a cross) also circulated widely. These **interpretations were driven by personal or cultural readings** rather than confirmed aerial phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.espreso.co.rs/svet/crna-gora/1308807/krst-na-nebu-budva-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: espreso.co.rs">[espreso.co.rs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">espreso.co.rs</span><span class="citation-popover-title">Ovo se ukazalo na nebu iznad Budve?</span><span class="citation-popover-snippet">June 18, 2023...</span><span class="citation-popover-meta">Published: June 18, 2023</span></span></span>
+
+In both cases, the viral spread of the clips owes more to **visual intrigue and community discussion** than to any confirmed unconventional aerial behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufosightingsfootage.uk/2021/08/what-is-this-ufo-in-budva-montenegro-it.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufosightingsfootage.uk">[ufosightingsfootage.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufosightingsfootage.uk</span><span class="citation-popover-title">What is This UFO in Budva, Montenegro it Looks So Unusual</span><span class="citation-popover-snippet">Hmmm!August 29, 2021...</span><span class="citation-popover-meta">Published: August 29, 2021</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0Xx_h4JOKGU" title="‘Eight-pointed ALIEN’ seen in UAP FILES? Viral UFO footage sparks OPHANIM THEORY frenzy online" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0Xx_h4JOKGU" target="_blank" rel="noopener noreferrer">‘Eight-pointed ALIEN’ seen in UAP FILES? Viral UFO footage sparks OPHANIM THEORY frenzy online</a></p><p class="youtube-embed-meta">Channel: The Economic Times &middot; Views: 4.2K &middot; Uploaded: May 2026 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0Xx_h4JOKGU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0Xx_h4JOKGU">Open on YouTube</a></p></div></div></div>
+
+## Assessing Viral UAP Clips: Interpretation and Limitations
+
+Across Montenegro’s social media landscape, several patterns emerge regarding footage of alleged aerial anomalies:
+
+* **Lack of verification:** None of the widely shared clips has been supported by **official verification, scientific analysis, radar tracking, or corroborated multi‑angle recordings**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mondo.rs/Info/EX-YU/a1248717/Berane-snimak-NLO.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mondo.rs">[Mondo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mondo.rs</span><span class="citation-popover-title">Berane snimak NLO | Mondo</span><span class="citation-popover-snippet">MondoBerane snimak NLO | Mondo...</span></span></span>
+* **Alternative explanations:** Ordinary phenomena—drones, satellites, aircraft lights, atmospheric conditions, and even drifting objects—are commonly suggested by observers and sceptics alike where clips are examined. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aloonline.ba/Region/123829/video-neobican-prizor-na-nebu-iznad-crne-gore-cuo-se-i-zvuk-sistanje.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aloonline.ba">[aloonline.ba]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aloonline.ba</span><span class="citation-popover-snippet">June 17, 2025...</span><span class="citation-popover-meta">Published: June 17, 2025</span></span></span>
+* **Role of social platforms:** Viral sharing often emphasises **emotional reaction and speculation**, which can elevate ambiguous footage into narratives of mystery without establishing factual ground truth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.espreso.co.rs/svet/crna-gora/466419/nlo-snimljen-na-nebu-iznad-crne-gore-procurio-snimak-ceo-region-bruji-o-ovome-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: espreso.co.rs">[espreso.co.rs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">espreso.co.rs</span><span class="citation-popover-snippet">NLO SNIMLJEN NA NEBU IZNAD CRNE GORE: Procurio snimak, ceo region bruji o ovome! (VIDEO)November 12, 2019...</span><span class="citation-popover-meta">Published: November 12, 2019</span></span></span>
+
+These limitations mean that, while social media footage contributes to **cultural conversations about unexplained sightings in Montenegro**, it does not by itself constitute evidence of verified UAP occurrences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://radiosarajevo.ba/multimedia/video/ljudi-u-nevjerici-cudni-krug-na-nebu-zapanjio-balkan/357179" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: radiosarajevo.ba">[Radiosarajevo.ba]</a><span class="citation-popover" role="note"><span class="citation-popover-source">radiosarajevo.ba</span><span class="citation-popover-title">Ljudi u nevjerici: Čudni krug na nebu zapanjio Balkan</span><span class="citation-popover-snippet">November 12, 2019...</span><span class="citation-popover-meta">Published: November 12, 2019</span></span></span>
+
+
+<img src="{{ "/assets/images/Montenegro_479fb3_social_media_clips_m_8ffe9e-Illustration-3-light.svg" | relative_url }}" alt="Viral Clips illustration 3" data-theme-src-dark="{{ "/assets/images/Montenegro_479fb3_social_media_clips_m_8ffe9e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montenegro_479fb3_social_media_clips_m_8ffe9e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Broader Patterns and Community Discourse
+
+Montenegrin online communities reflect a **microcosm of global social media engagement with aerial anomalies**: users share clips eagerly, offer diverse interpretations, and often move quickly between scepticism and belief. Although clips from areas like **Berane, Podgorica and Budva** generate engagement, their **ephemeral nature, lack of metadata and absence of expert validation** distinguish them from scientifically documented aerial phenomena studies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mondo.rs/Info/EX-YU/a1248717/Berane-snimak-NLO.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mondo.rs">[Mondo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mondo.rs</span><span class="citation-popover-title">Berane snimak NLO | Mondo</span><span class="citation-popover-snippet">MondoBerane snimak NLO | Mondo...</span></span></span>
+
+This social dynamic underscores the importance of **contextualising viral footage within broader observational norms** (e.g., satellites, aircraft lights, atmospheric optics) and reserving claims of unexplained phenomena for cases with stronger empirical underpinnings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aloonline.ba/Region/123829/video-neobican-prizor-na-nebu-iznad-crne-gore-cuo-se-i-zvuk-sistanje.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aloonline.ba">[aloonline.ba]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aloonline.ba</span><span class="citation-popover-snippet">June 17, 2025...</span><span class="citation-popover-meta">Published: June 17, 2025</span></span></span>
+
+## Local Engagement vs. Empirical Evidence
+
+In Montenegro, viral videos of strange lights or shapes in the sky have undoubtedly captured attention, but they remain **cultural artefacts of online sharing** rather than confirmed UAP records. Community reaction often reflects **local curiosity, humour, and speculation**, not validated phenomena. Without corroborated data beyond social posts, these clips sit within the realm of **unverified eyewitness media**, useful for understanding popular interest but not for establishing scientific conclusions about aerial anomalies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mondo.rs/Info/EX-YU/a1248717/Berane-snimak-NLO.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mondo.rs">[Mondo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mondo.rs</span><span class="citation-popover-title">Berane snimak NLO | Mondo</span><span class="citation-popover-snippet">MondoBerane snimak NLO | Mondo...</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qahexKe5Fvw" title="Pentagon RELEASES Creepy UFO Footage Of Rotating 8-Pointed Star; ‘OPHANIM’ Theory Goes Viral" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qahexKe5Fvw" target="_blank" rel="noopener noreferrer">Pentagon RELEASES Creepy UFO Footage Of Rotating 8-Pointed Star; ‘OPHANIM’ Theory Goes Viral</a></p><p class="youtube-embed-meta">Channel: Oneindia News &middot; Views: 3.7K &middot; Uploaded: May 2026 &middot; Length: 3 minutes 45 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qahexKe5Fvw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qahexKe5Fvw">Open on YouTube</a></p></div></div></div>
+
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Montenegro UFO Footage on Social Media. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+        </h4>
+        <p class="fr-book-author">By Ross Coulthart</p>
+        
+        <p class="fr-book-desc">Discusses contemporary sightings, media circulation, and evidence issues.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+        </h4>
+        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        
+        <p class="fr-book-desc">Helps readers understand how visual sightings can be assessed.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+        </h4>
+        <p class="fr-book-author">By Leslie Kean</p>
+        
+        <p class="fr-book-desc">Provides context for judging modern footage and eyewitness claims.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+        </h4>
+        <p class="fr-book-author">By Jacques Vallee</p>
+        
+        <p class="fr-book-desc">Explores how stories and reports spread through culture.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: mondo.rs  
+   Title: Berane snimak NLO | Mondo  
+   Link: [https://mondo.rs/Info/EX-YU/a1248717/Berane-snimak-NLO.html](https://mondo.rs/Info/EX-YU/a1248717/Berane-snimak-NLO.html)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>MondoBerane snimak NLO | Mondo...</p></details>
+
+2. <a id="endnote-2"></a>
+   Source: aloonline.ba  
+   Title: Neobičan prizor na nebu iznad Crne Gore  
+   Link: [https://aloonline.ba/region/video-neobican-prizor-na-nebu-iznad-crne-gore-cuo-se-i-zvuk-sistanje/](https://aloonline.ba/region/video-neobican-prizor-na-nebu-iznad-crne-gore-cuo-se-i-zvuk-sistanje/)  
+
+3. <a id="endnote-3"></a>
+   Source: espreso.co.rs  
+   Link: [https://www.espreso.co.rs/svet/crna-gora/466419/nlo-snimljen-na-nebu-iznad-crne-gore-procurio-snimak-ceo-region-bruji-o-ovome-video](https://www.espreso.co.rs/svet/crna-gora/466419/nlo-snimljen-na-nebu-iznad-crne-gore-procurio-snimak-ceo-region-bruji-o-ovome-video)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NLO SNIMLJEN NA NEBU IZNAD CRNE GORE: Procurio snimak, ceo region bruji o ovome! (VIDEO)November 12, 2019...</p></details>
+   Published: November 12, 2019  
+
+4. <a id="endnote-4"></a>
+   Source: radiosarajevo.ba  
+   Title: Ljudi u nevjerici: Čudni krug na nebu zapanjio Balkan  
+   Link: [https://radiosarajevo.ba/multimedia/video/ljudi-u-nevjerici-cudni-krug-na-nebu-zapanjio-balkan/357179](https://radiosarajevo.ba/multimedia/video/ljudi-u-nevjerici-cudni-krug-na-nebu-zapanjio-balkan/357179)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>November 12, 2019...</p></details>
+   Published: November 12, 2019  
+
+5. <a id="endnote-5"></a>
+   Source: aloonline.ba  
+   Link: [https://aloonline.ba/Region/123829/video-neobican-prizor-na-nebu-iznad-crne-gore-cuo-se-i-zvuk-sistanje.html](https://aloonline.ba/Region/123829/video-neobican-prizor-na-nebu-iznad-crne-gore-cuo-se-i-zvuk-sistanje.html)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>June 17, 2025...</p></details>
+   Published: June 17, 2025  
+
+6. <a id="endnote-6"></a>
+   Source: ufosightingsfootage.uk  
+   Title: What is This UFO in Budva, Montenegro it Looks So Unusual  
+   Link: [https://www.ufosightingsfootage.uk/2021/08/what-is-this-ufo-in-budva-montenegro-it.html](https://www.ufosightingsfootage.uk/2021/08/what-is-this-ufo-in-budva-montenegro-it.html)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hmmm!August 29, 2021...</p></details>
+   Published: August 29, 2021  
+
+7. <a id="endnote-7"></a>
+   Source: espreso.co.rs  
+   Title: Ovo se ukazalo na nebu iznad Budve?  
+   Link: [https://www.espreso.co.rs/svet/crna-gora/1308807/krst-na-nebu-budva-video](https://www.espreso.co.rs/svet/crna-gora/1308807/krst-na-nebu-budva-video)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>June 18, 2023...</p></details>
+   Published: June 18, 2023  
+
+8. <a id="endnote-8"></a>
+   Source: youtube.com  
+   Title: The SHOCKING Math Error Behind Viral UFO Videos | Mick West  
+   Link: [https://www.youtube.com/watch?v=ypfbhfEXnBo](https://www.youtube.com/watch?v=ypfbhfEXnBo)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>1997 The Phoenix Lights Caught On Camera! | UFO Witness Full Episode | Discovery Channel India...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=N7AnT-GiG3A](https://www.youtube.com/watch?v=N7AnT-GiG3A)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon RELEASES Creepy UFO Footage Of Rotating 8-Pointed Star; &#x27;OPHANIM&#x27; Theory Goes Viral...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=qahexKe5Fvw](https://www.youtube.com/watch?v=qahexKe5Fvw)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Eight-pointed ALIEN&#x27; seen in UAP FILES? Viral UFO footage sparks OPHANIM THEORY frenzy online...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=0Xx_h4JOKGU](https://www.youtube.com/watch?v=0Xx_h4JOKGU)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO File Release Triggered One Billion Global Hits | WION Podcast...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: youtube.com  
+   Title: UFO File Release Triggered One Billion Global Hits | WION Podcast  
+   Link: [https://www.youtube.com/watch?v=pImECg-NzX0](https://www.youtube.com/watch?v=pImECg-NzX0)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The video The SHOCKING Math Error Behind Viral UFO Videos | Mick West provides a highly relevant, expert breakdown of common perceptual a...</p></details>
+
+### Additional References
+
+13. <a id="endnote-13"></a>
+   Source: 6yka.com  
+   Link: [https://6yka.com/region/gori-more-tope-se-planine-rijedak-fenomen-izazvao-haos-na-obali-budve-prizor-kao-iz-horor-filma-video/](https://6yka.com/region/gori-more-tope-se-planine-rijedak-fenomen-izazvao-haos-na-obali-budve-prizor-kao-iz-horor-filma-video/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>August 18, 2024 — “GORI MORE, TOPE SE PLANINE”: RIJEDAK FENOMEN IZAZVAO HAOS NA OBALI BUDVE, PRIZOR KAO IZ HOROR FILMA (VIDEO) blic 18.08...</p></details>
+   Published: August 18, 2024  
+
+14. <a id="endnote-14"></a>
+   Source: onemanwolfpack.de  
+   Link: [https://www.onemanwolfpack.de/drone-videos/4k-drone-footage-the-beauty-of-montenegro-in-18-minutes-2019-cinematic-aerial-podgorica-skadar-bar/](https://www.onemanwolfpack.de/drone-videos/4k-drone-footage-the-beauty-of-montenegro-in-18-minutes-2019-cinematic-aerial-podgorica-skadar-bar/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>One Man Wolf Pack – 〖4K〗Drone Footage | The Beauty of Montenegro in 18 Minutes 2019 | Cinematic Aerial Podgorica BalkansJune 14, 2019 — O...</p></details>
+   Published: June 14, 2019  
+
+15. <a id="endnote-15"></a>
+   Source: latest-ufo-sightings.net  
+   Link: [https://www.latest-ufo-sightings.net/2013/05/photojournalist-captures-ufo-across.html](https://www.latest-ufo-sightings.net/2013/05/photojournalist-captures-ufo-across.html)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 16, 2013 — PHOTOJOURNALIST CAPTURES UFO ACROSS THE SKIES OF MONTENEGRO ON CAMERA May 16, 2013 LUFOS Europe, UFO videos 1 Advertisemen...</p></details>
+   Published: May 16, 2013  
+
+16. <a id="endnote-16"></a>
+   Source: volimpodgoricu.me  
+   Link: [https://volimpodgoricu.me/novosti/drustvo/nlo-iznad-berana-ljudi-u-panici-misteriozna-pojava-na-nebu-uznemirila-sve-video](https://volimpodgoricu.me/novosti/drustvo/nlo-iznad-berana-ljudi-u-panici-misteriozna-pojava-na-nebu-uznemirila-sve-video)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ljudi u panici! Misteriozna pojava na nebu uznemirila sve! (VIDEO)November 12, 2019 — NLO IZNAD BERANA?! Ljudi u panici! Misteriozna poja...</p></details>
+   Published: November 12, 2019  
+
+17. <a id="endnote-17"></a>
+   Source: soulask.com  
+   Title: UF O over Montenegro captured on camera by photojournalist  
+   Link: [https://www.soulask.com/ufo-over-montenegro-captured-on-camera-by-photojournalist/](https://www.soulask.com/ufo-over-montenegro-captured-on-camera-by-photojournalist/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO over Montenegro captured on camera by photojournalistMay 15, 2013 — UFO OVER MONTENEGRO CAPTURED ON CAMERA BY PHOTOJOURNALIST Publish...</p></details>
+   Published: May 15, 2013  
+
+18. <a id="endnote-18"></a>
+   Source: en.vijesti.me  
+   Title: me VIDE O Watch aerial footage from Piper and Smokovac  
+   Link: [https://en.vijesti.me/news-b/society/770395/video-watch-aerial-footage-from-Piper-and-Smokovac](https://en.vijesti.me/news-b/society/770395/video-watch-aerial-footage-from-Piper-and-Smokovac)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch aerial footage from Piper and SmokovacAugust 12, 2025 — VIDEO WATCH AERIAL FOOTAGE FROM PIPER AND SMOKOVAC There are multiple activ...</p></details>
+   Published: August 12, 2025  
+
+19. <a id="endnote-19"></a>
+   Source: sd.rs  
+   Title: pijavica u blizini budvanske obale 2023 12 22  
+   Link: [https://www.sd.rs/vesti/region/pijavica-u-blizini-budvanske-obale-2023-12-22](https://www.sd.rs/vesti/region/pijavica-u-blizini-budvanske-obale-2023-12-22)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ZAŠTRAŠUJUĆA POJAVA NADOMAK OBALE: Vazdušni vrtlog se opasno približio Budvi (video)December 22, 2023 — ZAŠTRAŠUJUĆA POJAVA NADOMAK OBALE...</p></details>
+   Published: December 22, 2023  
+
+20. <a id="endnote-20"></a>
+   Source: sandzakdanas.rs  
+   Title: (VIDEO) GRAĐANI NOVOG PAZARA U ŠOKU!  
+   Link: [https://www.sandzakdanas.rs/video-gradjani-novog-pazara-u-soku-tvrde-da-su-snimili-vanzemaljce-mobilnim-telefonima/](https://www.sandzakdanas.rs/video-gradjani-novog-pazara-u-soku-tvrde-da-su-snimili-vanzemaljce-mobilnim-telefonima/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tvrde da su snimili &quot;VANZEMALJCE&quot; mobilnim telefonima - Sandžak DanasJune 26, 2021 — (VIDEO) GRAĐANI NOVOG PAZARA U ŠOKU! TVRDE DA SU SNI...</p></details>
+   Published: June 26, 2021  
+
+21. <a id="endnote-21"></a>
+   Source: srpskainfo.com  
+   Title: Dron u moru: Propao spektakl u Budvi  
+   Link: [https://srpskainfo.com/svijet/dron-u-moru-propao-spektakl-u-budvi/](https://srpskainfo.com/svijet/dron-u-moru-propao-spektakl-u-budvi/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 1, 2026 — (VIDEO) PROPAO SPEKTAKL U BUDVI OKO 600 DRONOVA PALO U MORE Najavljivan kao spektakl koji nikad nije viđen na ovim pros...</p></details>
+   Published: January 1, 2026  
+
+22. <a id="endnote-22"></a>
+   Source: mojacrnagora.com  
+   Title: Slika dana 0 0 Tags:Bar Veliki pije  
+   Link: [https://www.mojacrnagora.com/slika-dana-2013-04-02-nlo-oblak-iznad-bara/](https://www.mojacrnagora.com/slika-dana-2013-04-02-nlo-oblak-iznad-bara/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NLO oblak iznad Bara (02.04.2013.) - Moja Crna GoraApril 2, 2013 — NLO OBLAK IZNAD BARA (02.04.2013.) Bar, Foto: Arnela Agović Izvor: htt...</p></details>
+   Published: April 2, 2013  

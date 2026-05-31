@@ -1,0 +1,573 @@
+---
+level: 2
+basename: Tonga_e8a123_1978_red_light_repor_cd9c77
+parent_basename: Tonga_e8a123
+child_basenames: []
+sibling_basenames:
+- Tonga_e8a123_island_geography_con_3bb188
+- Tonga_e8a123_natural_light_false_89ff94
+- Tonga_e8a123_vavau_green_lights_69db12
+tags:
+- tonga
+- 1978-report
+keywords:
+- tonga
+- 1978-report
+affiliate_category: tonga
+show_ads: true
+description: The 1978 red-light story is striking, but its late filing and vague location make it hard to test.
+hero_summary: The 1978 red-light story is striking, but its late filing and vague location make it hard to test.
+layout: default
+permalink: /1978-report/
+sidebar_expanded_urls:
+- /what-really-exists-in-tongas-ufo-record/
+nav_short_title: 1978 Report
+title: Can a Late UFO Memory Be Tested?
+title_full: Can a Late UFO Memory Be Tested? | Tonga UFOs
+display_title_short: 1978 Report
+display_title: 1978 Report
+heading_title: Can a Late UFO Memory Be Tested?
+page_heading_title: Can a Late UFO Memory Be Tested?
+source_count: 38
+infographic_count: 3
+planned_sections:
+- What the witness account says
+- Gaps that limit identification
+- Aircraft, satellite and meteor possibilities
+focal_unit_type: event_time_window
+topic_lens: critique_risk
+topic_granularity: pillar
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+parent_title: Tonga UFOs
+parent_permalink: /what-really-exists-in-tongas-ufo-record/
+parent_nav_short_title: Tonga UFOs
+parent_heading_title: What Really Exists in Tonga's UFO Record?
+ancestor_links:
+- basename: Tonga_e8a123
+  title: Tonga UFOs
+  permalink: /what-really-exists-in-tongas-ufo-record/
+  short_title: Tonga UFOs
+breadcrumb_links:
+- basename: Tonga_e8a123
+  title: Tonga UFOs
+  permalink: /what-really-exists-in-tongas-ufo-record/
+  short_title: Tonga UFOs
+sibling_links:
+- basename: Tonga_e8a123_island_geography_con_3bb188
+  title: Island Effects | What Really Exists in Tonga's UFO Record?
+  permalink: /island-effects-5ac504/
+  short_title: Island Effects
+  heading_title: Why Tonga Makes Lights Hard to Judge
+- basename: Tonga_e8a123_natural_light_false_89ff94
+  title: Natural Lights | What Really Exists in Tonga's UFO Record?
+  permalink: /natural-lights/
+  short_title: Natural Lights
+  heading_title: When Tonga's Sky Looks Like a UFO
+- basename: Tonga_e8a123_vavau_green_lights_69db12
+  title: Vavau Lights | What Really Exists in Tonga's UFO Record?
+  permalink: /vavau-lights/
+  short_title: Vavau Lights
+  heading_title: What Happened to the Vavau Green Lights?
+up_link:
+  basename: Tonga_e8a123
+  title: Tonga UFOs
+  permalink: /what-really-exists-in-tongas-ufo-record/
+  short_title: Tonga UFOs
+next_link:
+  basename: Tonga_e8a123_island_geography_con_3bb188
+  title: Island Effects | What Really Exists in Tonga's UFO Record?
+  permalink: /island-effects-5ac504/
+  short_title: Island Effects
+  heading_title: Why Tonga Makes Lights Hard to Judge
+date: '2026-05-31 04:34:17 '
+header:
+  og_image: /assets/images/Tonga_e8a123_1978_red_light_repor_cd9c77-Illustration-1-social.jpg
+  preview_image: /assets/images/Tonga_e8a123_1978_red_light_repor_cd9c77-Illustration-1.webp
+image: /assets/images/Tonga_e8a123_1978_red_light_repor_cd9c77-Illustration-1-social.jpg
+---
+
+## Introduction
+
+One of the most frequently cited UFO reports linked to [Tonga]({{ 'what-really-exists-in-tongas-ufo-record/' | relative_url }}) is also one of the hardest to evaluate. The event is usually described as a 1978 sighting in which three witnesses saw a red light move across the night sky, stop briefly, then accelerate upward and disappear. On paper, those details sound dramatic. The problem is that the report was not publicly filed until 2016, roughly thirty-eight years after the alleged event, and it contains very little information that can be independently checked. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=128174" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 128174While walking on a road in Tonga, one night, &amp; looking up at the sky, we saw a red light moving horizonta...</span></span></span>
+
+
+<img src="{{ "/assets/images/Tonga_e8a123_1978_red_light_repor_cd9c77-Illustration-1-light.svg" | relative_url }}" alt="1978 Report illustration 1" data-theme-src-dark="{{ "/assets/images/Tonga_e8a123_1978_red_light_repor_cd9c77-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tonga_e8a123_1978_red_light_repor_cd9c77-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+That delay transforms the case from a simple sighting report into a memory problem. Instead of asking only what was seen in 1978, investigators must also ask what happens to eyewitness recollection across decades. In a country such as Tonga, where public UFO archives are sparse and official investigative records are largely absent, that distinction matters. The central question is not whether the witnesses were sincere. It is whether a late recollection can still provide enough reliable detail to identify what was observed.
+
+## What the witness account says
+
+The publicly available report describes three people walking on a road in Tonga at night. According to the witness statement, they observed a red light moving horizontally across the sky. The light reportedly stopped for around twenty to thirty seconds and then shot upward before vanishing. The witness described the object as silent and unusual. The event date was listed as approximate, and the report itself was submitted in 2016 rather than near the time of the sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=event" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports by MonthMysterious Lights in Northern Michigan – A NUFORC Investigation · 68 New UFO Images Added to Gallery · NUFORC Part...</span></span></span>
+
+Several elements immediately attract attention:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* There were reportedly three observers rather than one.
+* The object was described as a distinct red light rather than a vague glow.
+* The reported pause followed by rapid upward movement resembles a pattern commonly associated with UFO narratives.
+* The witness believed the behaviour was inconsistent with a normal aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=161333" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 161333NUFORC UFO Sighting 161333. Occurred: 1978-11-15 15:00 Local (11/00/1978) - Approximate Reported: 2020-12-27 19...</span><span class="citation-popover-meta">Published: December 27, 2020</span></span></span>
+
+</div>
+
+If the report had been documented in 1978 with a precise location, time, direction of travel and supporting observations, those details could have been compared against aviation records, astronomical data and local weather conditions. Instead, nearly all of the potentially testable information is missing.
+
+## Why the late filing changes the investigation
+
+The most important fact about the case is not the red light itself. It is the thirty-eight-year gap between the event and the report.
+
+Research on eyewitness memory consistently shows that recollections change over time. People do not store experiences like video recordings. Instead, memories are reconstructed whenever they are recalled, and details can be altered, simplified, strengthened or blended with later information. Studies of eyewitness testimony have found that confidence and accuracy are not always the same thing, especially when long periods separate an event from its later description. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6450142/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCPredicting Accuracy in Eyewitness Testimonies With Memory...by PU Gustafsson · 2019 · Cited by 53 — The present study attempts to pro...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://profiles.wustl.edu/en/publications/initial-eyewitness-confidence-reliably-predicts-eyewitness-identi/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: profiles.wustl.edu">[WashU Research Profiles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">profiles.wustl.edu</span><span class="citation-popover-title">initial eyewitness confidence reliably predicts eyewitness identi</span><span class="citation-popover-snippet">WashU Research ProfilesInitial eyewitness confidence reliably predicts...by JT Wixted · 2015 · Cited by 295 — Eyewitness memory is widel...</span></span></span>
+
+This does not mean the witness invented the event. A genuine unusual observation may well have occurred. The difficulty is that investigators cannot easily separate:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* What was directly observed in 1978.
+* What was inferred shortly afterwards.
+* What was remembered years later.
+* What may have been reshaped by later discussions, media exposure or repeated retellings. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://support.gorilla.sc/support/educational-resources/classic-psychology-tasks/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.gorilla.sc">[Gorilla Support]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.gorilla.sc</span><span class="citation-popover-title">Support The Misinformation Effect</span><span class="citation-popover-snippet">Gorilla SupportThe Misinformation Effect - Gorilla Support DocumentationMisinformation refers to the fact that language in post-event que...</span></span></span>
+
+</div>
+
+Memory researchers refer to this broad problem as the misinformation effect: later information can become incorporated into recollections until the witness experiences the revised version as a genuine memory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://support.gorilla.sc/support/educational-resources/classic-psychology-tasks/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.gorilla.sc">[Gorilla Support]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.gorilla.sc</span><span class="citation-popover-title">Support The Misinformation Effect</span><span class="citation-popover-snippet">Gorilla SupportThe Misinformation Effect - Gorilla Support DocumentationMisinformation refers to the fact that language in post-event que...</span></span></span>
+
+In practical terms, every missing detail becomes more significant when the report appears decades after the alleged sighting.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lqHKN56ajKs" title="The 1978 New Zealand UFO Footage (Season 5) | The Proof Is Out There" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lqHKN56ajKs" target="_blank" rel="noopener noreferrer">The 1978 New Zealand UFO Footage (Season 5) | The Proof Is Out There</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 27.1K &middot; Uploaded: December 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lqHKN56ajKs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lqHKN56ajKs">Open on YouTube</a></p></div></div></div>
+
+## Which missing details make the case difficult to test?
+
+A surprising amount of UFO identification work depends on basic information that is absent from this report.
+
+The public entry does not provide a precise location within Tonga. It does not establish a specific date beyond the year. It does not provide the exact time, viewing direction, elevation angle, weather conditions or estimated distance to the object. It also lacks photographs, sketches, radar records, aviation checks or contemporary newspaper references. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=128174" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 128174While walking on a road in Tonga, one night, &amp; looking up at the sky, we saw a red light moving horizonta...</span></span></span>
+
+Without those details, investigators cannot reliably answer simple questions such as:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* Was the object low on the horizon or high overhead?
+* Was it moving toward the witnesses or across their field of view?
+* Was the apparent stop a true halt or a perspective effect?
+* How long did the entire event last?
+* Was the object actually ascending, or did it simply fade from view?
+
+</div>
+
+These are not minor technicalities. They are often the difference between identifying a conventional explanation and declaring an event unexplained.
+
+The report's wording also leaves uncertainty about scale. A distant light can appear to move dramatically if the observer lacks fixed reference points. Over ocean horizons, where Tonga offers many long sightlines, this problem becomes particularly acute.
+
+
+<img src="{{ "/assets/images/Tonga_e8a123_1978_red_light_repor_cd9c77-Illustration-2-light.svg" | relative_url }}" alt="1978 Report illustration 2" data-theme-src-dark="{{ "/assets/images/Tonga_e8a123_1978_red_light_repor_cd9c77-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tonga_e8a123_1978_red_light_repor_cd9c77-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Could later UFO culture have influenced the memory?
+
+The timing is notable. Although the report concerns an event in 1978, it entered a UFO reporting system in 2016. During those intervening decades, UFO imagery became far more standardised through television, books, documentaries and internet discussions.
+
+Psychological research has repeatedly shown that people can unintentionally absorb later information into older memories. In some studies, participants have confidently reported seeing footage that never existed, demonstrating how recollections can be reconstructed around expectations and assumptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0191886906002224" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">2008, Cortex. Citation Excerpt: Previous research has shown that sizeable minorities of respondents...Read more...</span></span></span>
+
+That does not prove contamination occurred in the Tonga case. There is no evidence that the witness consciously altered the account. The issue is methodological: once a report emerges decades later, investigators can no longer assume that every detail reflects the original observation exactly as experienced.
+
+The red-light narrative itself is not unique. Similar descriptions of lights stopping, hovering and accelerating appear throughout international UFO archives. That recurring pattern may reflect genuinely unusual observations in some cases. It may also reflect the way people interpret distant lights whose true distance, speed and altitude are unknown. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/10588816" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">ZenodoThe Weakest Link in the Chain of UFO EvidenceEyewitness reports of observations of UFOs are still the central argument in all discu...</span></span></span>
+
+## Aircraft, satellite and meteor possibilities
+
+Because the report lacks precise observational data, conventional explanations cannot be confirmed or excluded. The best that can be done is compare the description against known categories of aerial phenomena.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/93ocNhHyGVo" title="The New Science of Eyewitness Memory | John Wixted | TED" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=93ocNhHyGVo" target="_blank" rel="noopener noreferrer">The New Science of Eyewitness Memory | John Wixted | TED</a></p><p class="youtube-embed-meta">Channel: TED &middot; Views: 24.7K &middot; Uploaded: April 2026 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=93ocNhHyGVo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=93ocNhHyGVo">Open on YouTube</a></p></div></div></div>
+
+### Aircraft and viewing-angle effects
+
+A distant aircraft can appear to move horizontally and then stop when its direction changes relative to the observer. This is a well-known perspective effect. An aircraft travelling toward an observer may seem nearly stationary even while moving at high speed.
+
+If the aircraft later turned, climbed or simply changed visibility because of atmospheric conditions, the apparent motion could seem abrupt. Without bearings or timing information, the report cannot rule this out.
+
+### Satellites
+
+Satellites can produce striking visual effects, particularly under dark skies. A bright satellite moving across the sky may appear to vanish suddenly when it enters Earth's shadow. Depending on viewing geometry and witness expectations, a disappearance can be remembered as an abrupt departure.
+
+The challenge is that satellite reconstruction requires an exact date and time. The Tonga report does not provide enough information to perform such a check. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=event" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports by MonthMysterious Lights in Northern Michigan – A NUFORC Investigation · 68 New UFO Images Added to Gallery · NUFORC Part...</span></span></span>
+
+### Meteors and fireballs
+
+A meteor is less consistent with the reported pause, but the possibility cannot be dismissed outright because the event was recalled many years later. Memory compression and reconstruction sometimes alter the sequence of events in eyewitness accounts. A bright meteor breaking up or changing brightness could potentially be remembered differently after decades. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6450142/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCPredicting Accuracy in Eyewitness Testimonies With Memory...by PU Gustafsson · 2019 · Cited by 53 — The present study attempts to pro...</span></span></span>
+
+
+<img src="{{ "/assets/images/Tonga_e8a123_1978_red_light_repor_cd9c77-Illustration-3-light.svg" | relative_url }}" alt="1978 Report illustration 3" data-theme-src-dark="{{ "/assets/images/Tonga_e8a123_1978_red_light_repor_cd9c77-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tonga_e8a123_1978_red_light_repor_cd9c77-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+### Atmospheric and horizon effects
+
+Tonga's [island geography]({{ 'island-effects-5ac504/' | relative_url }}) creates long ocean horizons and limited reference points at night. Under such conditions, lights can appear detached from their true source, and judging speed, altitude and distance becomes difficult.
+
+This does not explain every unusual sighting, but it increases the likelihood that a conventional light source could appear anomalous when viewed under dark-sky conditions.
+
+## What makes the case interesting despite its weaknesses?
+
+The report survives because it contains a memorable narrative structure: movement, pause and apparent acceleration. Many UFO researchers regard such manoeuvres as potentially significant because they seem inconsistent with ordinary aircraft behaviour.
+
+Yet the same feature that makes the account interesting also makes it vulnerable to memory distortion. The more unusual an event appears, the more likely witnesses are to rehearse it, discuss it and reinterpret it over time. Research into eyewitness testimony suggests that repeated recollection can strengthen confidence while not necessarily preserving accuracy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://profiles.wustl.edu/en/publications/initial-eyewitness-confidence-reliably-predicts-eyewitness-identi/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: profiles.wustl.edu">[WashU Research Profiles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">profiles.wustl.edu</span><span class="citation-popover-title">initial eyewitness confidence reliably predicts eyewitness identi</span><span class="citation-popover-snippet">WashU Research ProfilesInitial eyewitness confidence reliably predicts...by JT Wixted · 2015 · Cited by 295 — Eyewitness memory is widel...</span></span></span>
+
+For Tonga specifically, the case illustrates a broader problem in the country's UFO record. There are very few publicly accessible reports, and several of the available entries lack the kind of contemporary documentation needed for rigorous investigation. The 1978 red-light sighting therefore occupies an awkward middle ground: too detailed to dismiss outright, yet too poorly documented to verify.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/epXmFjTqWeU" title="False Memories and the Misinformation Effect" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=epXmFjTqWeU" target="_blank" rel="noopener noreferrer">False Memories and the Misinformation Effect</a></p><p class="youtube-embed-meta">Channel: Bite-Sized Psychology &middot; Views: 14.3K &middot; Uploaded: July 2025 &middot; Length: 2 minutes 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=epXmFjTqWeU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=epXmFjTqWeU">Open on YouTube</a></p></div></div></div>
+
+## Can a late UFO memory be tested?
+
+Only to a limited extent.
+
+The Tonga red-light report demonstrates why timing matters in UFO investigations. A report filed shortly after an event can often be checked against weather records, flight paths, astronomical data and local witnesses. A report filed nearly four decades later loses most of those opportunities.
+
+As a result, the case remains neither confirmed nor debunked. The witness account may preserve a genuine observation of something unusual. It may also contain distortions introduced by normal human memory processes over many years. What can be said with confidence is that the report's greatest evidential weakness is not the description of the light itself, but the gap between the event and the moment it entered the public record. NUFORC <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6450142/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCPredicting Accuracy in Eyewitness Testimonies With Memory...by PU Gustafsson · 2019 · Cited by 53 — The present study attempts to pro...</span></span></span>
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Can a Late UFO Memory Be Tested?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+        </h4>
+        <p class="fr-book-author">By Edward J. Ruppelt</p>
+        
+        <p class="fr-book-desc">Provides historical perspective on evaluating sighting reports and witness accounts.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+        </h4>
+        <p class="fr-book-author">By Michael Shermer</p>
+        
+        <p class="fr-book-desc">Helps explain how people interpret and remember extraordinary events over long periods.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+        </h4>
+        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+        
+        <p class="fr-book-desc">Useful for understanding memory revision, certainty and retrospective interpretation.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Investigations Manual on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Investigations Manual">UFO Investigations Manual</a>
+        </h4>
+        <p class="fr-book-author">By Nigel Watson</p>
+        
+        <p class="fr-book-desc">Directly matches the article&#x27;s focus on witness testimony, missing evidence and testing UFO claims.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: nuforc.org  
+   Link: [https://nuforc.org/sighting/?id=128174](https://nuforc.org/sighting/?id=128174)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 128174While walking on a road in Tonga, one night, &amp; looking up at the sky, we saw a red light moving horizonta...</p></details>
+
+2. <a id="endnote-2"></a>
+   Source: pmc.ncbi.nlm.nih.gov  
+   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6450142/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6450142/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCPredicting Accuracy in Eyewitness Testimonies With Memory...by PU Gustafsson · 2019 · Cited by 53 — The present study attempts to pro...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: support.gorilla.sc  
+   Title: Support The Misinformation Effect  
+   Link: [https://support.gorilla.sc/support/educational-resources/classic-psychology-tasks/misinformation-effect](https://support.gorilla.sc/support/educational-resources/classic-psychology-tasks/misinformation-effect)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gorilla SupportThe Misinformation Effect - Gorilla Support DocumentationMisinformation refers to the fact that language in post-event que...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: sciencedirect.com  
+   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0191886906002224](https://www.sciencedirect.com/science/article/abs/pii/S0191886906002224)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>2008, Cortex. Citation Excerpt: Previous research has shown that sizeable minorities of respondents...Read more...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: zenodo.org  
+   Link: [https://zenodo.org/records/10588816](https://zenodo.org/records/10588816)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ZenodoThe Weakest Link in the Chain of UFO EvidenceEyewitness reports of observations of UFOs are still the central argument in all discu...</p></details>
+
+6. <a id="endnote-6"></a>
+   Source: nuforc.org  
+   Link: [https://nuforc.org/ndx/?id=event](https://nuforc.org/ndx/?id=event)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by MonthMysterious Lights in Northern Michigan – A NUFORC Investigation · 68 New UFO Images Added to Gallery · NUFORC Part...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: nuforc.org  
+   Link: [https://nuforc.org/sighting/?id=161333](https://nuforc.org/sighting/?id=161333)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 161333NUFORC UFO Sighting 161333. Occurred: 1978-11-15 15:00 Local (11/00/1978) - Approximate Reported: 2020-12-27 19...</p></details>
+   Published: December 27, 2020  
+
+8. <a id="endnote-8"></a>
+   Source: sciencedirect.com  
+   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0010945208001408](https://www.sciencedirect.com/science/article/abs/pii/S0010945208001408)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>These reported experiences included UFO sightings (repeatedly over many...Read more...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: profiles.wustl.edu  
+   Title: initial eyewitness confidence reliably predicts eyewitness identi  
+   Link: [https://profiles.wustl.edu/en/publications/initial-eyewitness-confidence-reliably-predicts-eyewitness-identi/](https://profiles.wustl.edu/en/publications/initial-eyewitness-confidence-reliably-predicts-eyewitness-identi/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>WashU Research ProfilesInitial eyewitness confidence reliably predicts...by JT Wixted · 2015 · Cited by 295 — Eyewitness memory is widel...</p></details>
+
+### Additional References
+
+10. <a id="endnote-10"></a>
+   Source: verywellmind.com  
+   Link: [https://www.verywellmind.com/can-you-trust-eyewitness-testimony-4579757](https://www.verywellmind.com/can-you-trust-eyewitness-testimony-4579757)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Memories can be distorted by stress, trauma, leading questions, and interactions with law enforcement or other witnesses. Factors such as...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: medium.com  
+   Link: [https://medium.com/resonant-archive/close-encounters-and-information-theory-why-ufo-reports-read-like-corrupted-data-2fe7709828ed](https://medium.com/resonant-archive/close-encounters-and-information-theory-why-ufo-reports-read-like-corrupted-data-2fe7709828ed)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why UFO Reports Read Like Corrupted DataThis makes eyewitness testimony unreliable for anything weird. The more unusual the stimulus, the...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: researchgate.net  
+   Link: [https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue](https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue)  
+
+13. <a id="endnote-13"></a>
+   Source: academia.edu  
+   Link: [https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony](https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony)  
+
+14. <a id="endnote-14"></a>
+   Source: psychstory.co.uk  
+   Link: [https://www.psychstory.co.uk/memory/eye-witness-testimony](https://www.psychstory.co.uk/memory/eye-witness-testimony)  
+
+15. <a id="endnote-15"></a>
+   Source: facebook.com  
+   Title: the rnzafs orions were called to help in a variety of missions over the years bu  
+   Link: [https://www.facebook.com/AirForceMuseumofNewZealand/posts/the-rnzafs-orions-were-called-to-help-in-a-variety-of-missions-over-the-years-bu/745880247571085/](https://www.facebook.com/AirForceMuseumofNewZealand/posts/the-rnzafs-orions-were-called-to-help-in-a-variety-of-missions-over-the-years-bu/745880247571085/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The RNZAF&#x27;s Orions were called to help...In late December 1978 New Zealand was gripped by UFO fever after a series of unexplained sighti...</p></details>
+   Published: December 1978  
+
+16. <a id="endnote-16"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/NewZealandBrand/posts/-ufos-over-kaik%C5%8Dura-the-1978-lights-that-shocked-new-zealandin-december-1978-the/1283382197122543/](https://www.facebook.com/NewZealandBrand/posts/-ufos-over-kaik%C5%8Dura-the-1978-lights-that-shocked-new-zealandin-december-1978-the/1283382197122543/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Over Kaikōura: The 1978 Lights That Shocked New...These lights again appeared on Wellington air traffic control radar, adding credi...</p></details>
+   Published: december 1978  
+
+17. <a id="endnote-17"></a>
+   Source: wrap.warwick.ac.uk  
+   Title: warwick.ac.uk False claims about false memory research  
+   Link: [https://wrap.warwick.ac.uk/392/1/WRAP_Wade_Wade_et_al_on_Pez_Lam.pdf](https://wrap.warwick.ac.uk/392/1/WRAP_Wade_Wade_et_al_on_Pez_Lam.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>claims about false memory research - WRAP: Warwickby KA Wade · 2007 · Cited by 138 — Intensity of amnesia during hypnosis is positively c...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: academia.edu  
+   Title: (PDF) UFOs, Earthquakes and the Straight Line Mystery  
+   Link: [https://www.academia.edu/104742523/UFOs_Earthquakes_and_the_Straight_Line_Mystery_The_Answer_to_the_UFO_Enigma](https://www.academia.edu/104742523/UFOs_Earthquakes_and_the_Straight_Line_Mystery_The_Answer_to_the_UFO_Enigma)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO were warned off by a shot of intense, paralyzing light. This type of light resulted in temporary paralysis, causing the witness not b...</p></details>
+
+19. <a id="endnote-19"></a>
+   Source: archive.org  
+   Link: [https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-2-Parts-1-and-2-1956-1979_djvu.txt](https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-2-Parts-1-and-2-1956-1979_djvu.txt)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ing from 1952 to 2009 have been Declassified and released to the public.Read more...</p></details>

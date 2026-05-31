@@ -1,0 +1,704 @@
+---
+level: 2
+basename: Bosnia_and_Herzegovi_552c9f_bosnia_ufo_evidence_0bf303
+parent_basename: Bosnia_and_Herzegovi_552c9f
+child_basenames: []
+sibling_basenames:
+- Bosnia_and_Herzegovi_552c9f_bosnia_community_rep_72c2d9
+- Bosnia_and_Herzegovi_552c9f_bosnia_ufo_regions_000e13
+- Bosnia_and_Herzegovi_552c9f_bosnia_ufo_sightings_9633fd
+tags:
+- bosnia-and-herzegovina
+- evidence-assessment
+keywords:
+- bosnia-and-herzegovina
+- evidence-assessment
+affiliate_category: bosnia-and-herzegovina
+show_ads: true
+description: Evaluates the reliability, corroboration, and alternative explanations of UFO reports in Bosnia.
+hero_summary: Evaluates the reliability, corroboration, and alternative explanations of UFO reports in Bosnia.
+layout: default
+permalink: /evidence-assessment/
+sidebar_expanded_urls:
+- /bosnia-and-herzegovina/
+nav_short_title: Evidence Assessment
+title: 'Evaluating UFO Reports: Evidence, Skepticism, and Credibility'
+title_full: 'Evaluating UFO Reports: Evidence, Skepticism, and Credibility | BosniaUFOs'
+display_title_short: Evidence Assessment
+display_title: Evidence Assessment
+heading_title: 'Evaluating UFO Reports: Evidence, Skepticism, and Credibility'
+page_heading_title: 'Evaluating UFO Reports: Evidence, Skepticism, and Credibility'
+source_count: 32
+infographic_count: 3
+planned_sections:
+- Anecdotal vs Verified Cases
+- Scientific and Astronomical Input
+- Common Misidentifications and Debunking
+focal_unit_type: mechanism
+topic_lens: critique_risk
+topic_granularity: pillar
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+parent_title: BosniaUFOs
+parent_permalink: /bosnia-and-herzegovina/
+parent_nav_short_title: BosniaUFOs
+parent_heading_title: What Do UFO Reports Reveal About Bosnia and Herzegovina?
+ancestor_links:
+- basename: Bosnia_and_Herzegovi_552c9f
+  title: BosniaUFOs
+  permalink: /bosnia-and-herzegovina/
+  short_title: BosniaUFOs
+breadcrumb_links:
+- basename: Bosnia_and_Herzegovi_552c9f
+  title: BosniaUFOs
+  permalink: /bosnia-and-herzegovina/
+  short_title: BosniaUFOs
+sibling_links:
+- basename: Bosnia_and_Herzegovi_552c9f_bosnia_community_rep_72c2d9
+  title: Community Reports | What Do UFO Reports Reveal About Bosnia and Herzegovina?
+  permalink: /community-reports/
+  short_title: Community Reports
+  heading_title: Eyewitness and Local Accounts of Unexplained Lights
+- basename: Bosnia_and_Herzegovi_552c9f_bosnia_ufo_regions_000e13
+  title: Regional Patterns | What Do UFO Reports Reveal About Bosnia and Herzegovina?
+  permalink: /regional-patterns/
+  short_title: Regional Patterns
+  heading_title: Mapping UFO Sightings Across Bosnian Regions
+- basename: Bosnia_and_Herzegovi_552c9f_bosnia_ufo_sightings_9633fd
+  title: Sightings Archive | What Do UFO Reports Reveal About Bosnia and Herzegovina?
+  permalink: /sightings-archive/
+  short_title: Sightings Archive
+  heading_title: Comprehensive Timeline of UFO Sightings in Bosnia
+up_link:
+  basename: Bosnia_and_Herzegovi_552c9f
+  title: BosniaUFOs
+  permalink: /bosnia-and-herzegovina/
+  short_title: BosniaUFOs
+prev_link:
+  basename: Bosnia_and_Herzegovi_552c9f_bosnia_community_rep_72c2d9
+  title: Community Reports | What Do UFO Reports Reveal About Bosnia and Herzegovina?
+  permalink: /community-reports/
+  short_title: Community Reports
+  heading_title: Eyewitness and Local Accounts of Unexplained Lights
+next_link:
+  basename: Bosnia_and_Herzegovi_552c9f_bosnia_ufo_regions_000e13
+  title: Regional Patterns | What Do UFO Reports Reveal About Bosnia and Herzegovina?
+  permalink: /regional-patterns/
+  short_title: Regional Patterns
+  heading_title: Mapping UFO Sightings Across Bosnian Regions
+date: '2026-05-31 04:06:37 '
+header:
+  og_image: /assets/images/Bosnia_and_Herzegovi_552c9f_bosnia_ufo_evidence_0bf303-Illustration-1-social.jpg
+  preview_image: /assets/images/Bosnia_and_Herzegovi_552c9f_bosnia_ufo_evidence_0bf303-Illustration-1.webp
+image: /assets/images/Bosnia_and_Herzegovi_552c9f_bosnia_ufo_evidence_0bf303-Illustration-1-social.jpg
+---
+
+## Introduction
+
+Claims of UFO or unidentified aerial phenomena (UAP) sightings in [Bosnia and Herzegovina]({{ 'bosnia-and-herzegovina/' | relative_url }}) are plentiful enough to sustain local folklore and online discussion, yet the underlying evidence remains weak by scientific and investigative standards. Most Bosnian cases rely on single-witness testimony, low-quality video, or retrospective internet reports submitted years after the alleged event. No known Bosnian government agency, university observatory, or military institution has publicly confirmed any sighting as extraterrestrial or technologically unexplained.
+
+
+<img src="{{ "/assets/images/Bosnia_and_Herzegovi_552c9f_bosnia_ufo_evidence_0bf303-Illustration-1-light.svg" | relative_url }}" alt="Evidence Assessment illustration 1" data-theme-src-dark="{{ "/assets/images/Bosnia_and_Herzegovi_552c9f_bosnia_ufo_evidence_0bf303-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bosnia_and_Herzegovi_552c9f_bosnia_ufo_evidence_0bf303-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+That does not mean every report is fabricated. Some witnesses almost certainly observed real aerial phenomena they could not identify at the time. The central issue is evidential quality: whether a sighting can be independently verified, instrumentally measured, or separated from ordinary explanations such as aircraft, satellites, atmospheric optics, drones, military activity, or camera artefacts. In Bosnia and Herzegovina, the gap between public fascination and verifiable evidence is especially wide.
+
+## Why Most Bosnian UFO Cases Remain Anecdotal
+
+The overwhelming majority of reported UFO incidents linked to Bosnia and Herzegovina fall into a familiar global pattern: isolated visual experiences with little supporting data. Databases such as the National UFO Reporting Center (NUFORC) contain entries from Sarajevo, Tuzla, Banja Luka and other locations, but the reports are almost entirely self-submitted narratives rather than investigated case files. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=59797" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 59797August 20, 2023 — NUFORC UFO Sighting 59797. Occurred: 1993-06-01 19:00 Local - Approximate... Location...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNational UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</span></span></span>
+
+Several recurring weaknesses appear across Bosnian reports:
+
+
+<div class="content-enhancement content-enhancement--caution" markdown="1">
+
+* **No radar confirmation:** Publicly available cases rarely include radar tracking, air-traffic correlation, or military sensor data.
+* **Single-source testimony:** Many incidents depend on one observer or a small group who already know one another.
+* **Retrospective reporting:** Some reports were submitted years after the alleged event, increasing memory distortion risks.
+* **No preserved physical evidence:** There are no widely accepted Bosnian cases involving recovered material, verified landing traces, or authenticated sensor recordings.
+* **Limited chain of custody:** Images and videos circulating online are often reposted repeatedly without original metadata.
+
+</div>
+
+A widely cited NUFORC case from Banja Luka describes a silent triangular craft allegedly observed in 1993 during the Bosnian War. Yet the report was not formally submitted until 2007, roughly fourteen years later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank | NUFORC</span><span class="citation-popover-snippet">Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</span></span></span> That time gap alone makes forensic verification extremely difficult. Investigators cannot reliably reconstruct weather conditions, military aircraft activity, witness consistency, or optical context.
+
+The wartime environment of the 1990s further complicates interpretation. Bosnia’s airspace during the conflict included helicopters, military aircraft, flares, artillery illumination, NATO operations, and heightened public anxiety. Under such conditions, unusual lights or sounds were more likely to be interpreted dramatically, especially at night.
+
+## The Absence of Official Investigation Infrastructure
+
+Unlike countries such as France, which maintains the GEIPAN civilian aerospace anomaly programme, Bosnia and Herzegovina has never developed a recognised national framework for systematically studying UFO reports. There is no publicly known equivalent archive of declassified investigations, structured witness interviews, or scientific review panels.
+
+This institutional absence matters because reliable UAP investigation depends heavily on procedure:
+
+
+<div class="content-enhancement content-enhancement--metric" markdown="1">
+
+* Immediate witness interviewing
+* Cross-checking with astronomical data
+* Aviation and satellite records
+* Atmospheric conditions
+* Sensor corroboration
+* Image authentication
+
+</div>
+
+Without those mechanisms, Bosnian UFO reports remain largely disconnected anecdotes rather than cumulative evidence.
+
+The lack of institutional continuity also encourages recycling and myth amplification. A local story reported by a regional news outlet may later appear on UFO blogs, then on social media, and eventually in international databases, gaining an illusion of credibility through repetition rather than new evidence.
+
+## Scientific and Astronomical Explanations Often Fit the Available Data
+
+Professional sceptics and astronomers generally argue that Bosnian UFO reports resemble ordinary misidentification cases seen worldwide. The available descriptions frequently match known phenomena more closely than exotic hypotheses.
+
+### Astronomical Misidentifications
+
+Many reports involve bright stationary or slowly moving lights. These are commonly associated with:
+
+
+<div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
+
+* Venus near the horizon
+* Jupiter during high-visibility periods
+* Meteors and fireballs
+* Satellite trains
+* Atmospheric scintillation
+* Iridium flare-style reflections from satellites
+
+</div>
+
+Bosnia and Herzegovina contains many mountainous and rural regions with comparatively dark skies. Under such conditions, bright celestial objects can appear unusually dramatic, especially to observers unfamiliar with astronomical motion.
+
+Modern sceptical literature on UFO reporting repeatedly notes that human perception is poor at estimating speed, size, and distance for lights seen against a dark sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/exclusive/keep-ufo-reporting-grounded-in-reality-advise-skeptics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerKeep UFO Reporting Grounded in Reality, Advise SkepticsJune 9, 2021 — 9 Jun 2021 — Pseudoscientific ideas about UFOs ha...</span><span class="citation-popover-meta">Published: June 9, 2021</span></span></span> Witnesses may sincerely describe impossible manoeuvres even when observing ordinary objects.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_Y-Ds_-Wf-k" title="Public Perception and Skepticism: Unidentified Aerial Phenomena (UAP), also known as UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_Y-Ds_-Wf-k" target="_blank" rel="noopener noreferrer">Public Perception and Skepticism: Unidentified Aerial Phenomena (UAP), also known as UFOs</a></p><p class="youtube-embed-meta">Channel: The Dr. Phil Podcast &middot; Views: 1.7K &middot; Uploaded: June 2025 &middot; Length: 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_Y-Ds_-Wf-k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_Y-Ds_-Wf-k">Open on YouTube</a></p></div></div></div>
+
+### Wartime and Postwar Aviation Confusion
+
+Bosnia’s recent history adds another interpretive layer. During and after the Yugoslav conflicts, unfamiliar aircraft, military exercises, helicopters, and surveillance activity were more common than in peacetime civilian environments.
+
+Some “silent triangle” reports resemble descriptions associated elsewhere with military aircraft misidentifications. Without contemporaneous military records, it is difficult to distinguish extraordinary claims from imperfect observation under stressful conditions.
+
+### Drone and Consumer Technology Effects
+
+More recent Bosnian sightings increasingly overlap with the global rise of drones, LED-equipped recreational aircraft, and smartphone video artefacts. Online clips from the late 2000s onward often display symptoms familiar to video-analysis communities:
+
+
+<div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
+
+* Digital stabilisation distortion
+* Motion blur
+* Zoom compression
+* Autofocus pulsing
+* CGI compositing
+* Frame interpolation
+
+</div>
+
+A heavily debated 2009 Bosnia UFO video circulated online illustrates this problem well. Internet discussions focused less on extraterrestrial explanations than on whether the object’s motion was consistent with computer-generated tracking. Multiple viewers argued that the camera appeared to anticipate the object’s movement too precisely, suggesting post-production manipulation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/190zrcu/bosnia_ufo_from_2009_two_different_angles_and/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">January 7, 2024 — The ukraine UFO and other star shaped UFOs are a visual aberrations created by the legs that hold up the camera&#x27;s secon...</span><span class="citation-popover-meta">Published: January 7, 2024</span></span></span>
+
+Importantly, sceptical analysis does not necessarily claim deliberate hoaxing in every case. Many anomalies emerge unintentionally through compression, lighting, lens behaviour, or misperception.
+
+
+<img src="{{ "/assets/images/Bosnia_and_Herzegovi_552c9f_bosnia_ufo_evidence_0bf303-Illustration-2-light.svg" | relative_url }}" alt="Evidence Assessment illustration 2" data-theme-src-dark="{{ "/assets/images/Bosnia_and_Herzegovi_552c9f_bosnia_ufo_evidence_0bf303-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bosnia_and_Herzegovi_552c9f_bosnia_ufo_evidence_0bf303-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Why Eyewitness Certainty Is Not Strong Evidence
+
+One of the most misunderstood aspects of UFO discussion in Bosnia and elsewhere is the difference between witness sincerity and evidential reliability.
+
+A witness may honestly believe they saw something extraordinary while still misinterpreting what occurred. Decades of psychological research show that memory is reconstructive rather than photographic. Stress, darkness, surprise, and expectation all affect recall.
+
+This becomes especially relevant in Bosnia’s social context, where unusual events can quickly acquire folkloric or symbolic meaning. In some communities, UFO narratives intersect with broader themes of hidden powers, wartime trauma, religious interpretation, or distrust of institutions.
+
+Sceptical investigators therefore focus less on how convinced a witness sounds and more on measurable factors:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* Was the object independently tracked?
+* Were multiple unrelated witnesses present?
+* Did observers describe consistent details?
+* Is timing precise?
+* Can astronomical or aviation records exclude conventional explanations?
+* Is original footage available?
+
+</div>
+
+Most Bosnian cases fail several of these tests simultaneously.
+
+## The Problem of Internet Amplification
+
+Bosnian UFO narratives today circulate mainly through social media, YouTube compilations, forums, and repost-driven websites. This creates several reliability problems.
+
+### Recycled Claims Become “Famous Cases”
+
+A weakly sourced incident may be copied across blogs until it appears internationally recognised. The repetition itself can create a false sense of corroboration.
+
+### Low Editorial Standards
+
+Many UFO-oriented websites publish witness claims without verification. Some mix factual reporting with speculation about aliens, ancient civilisations, or conspiracies. In Bosnia-related cases, local media stories are sometimes translated or exaggerated as they move into international UFO culture.
+
+### Selective Attention
+
+Videos labelled “unexplained” often receive more attention than subsequent debunkings. This imbalance reinforces the impression that unresolved cases are more numerous than they actually are.
+
+UNESCO has separately warned about broader transparency and misinformation vulnerabilities in Bosnia and Herzegovina’s digital media environment, especially online news circulation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unesco.org/en/articles/new-report-exposes-major-transparency-gaps-bosnia-and-herzegovinas-online-news-sector" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">UNESCONew report exposes major transparency gaps in Bosnia...9 Dec 2025 — At the start of 2025, 2.73 million people in Bosnia and Herzeg...</span></span></span> Although not specific to UFOs, that concern is relevant when assessing how extraordinary claims spread online.
+
+
+<img src="{{ "/assets/images/Bosnia_and_Herzegovi_552c9f_bosnia_ufo_evidence_0bf303-Illustration-3-light.svg" | relative_url }}" alt="Evidence Assessment illustration 3" data-theme-src-dark="{{ "/assets/images/Bosnia_and_Herzegovi_552c9f_bosnia_ufo_evidence_0bf303-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bosnia_and_Herzegovi_552c9f_bosnia_ufo_evidence_0bf303-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## How Contemporary UAP Research Changes the Standard of Proof
+
+Modern scientific discussion of UAP has become more technically rigorous than older UFO culture. Researchers associated with projects studying aerial anomalies increasingly emphasise multisensor observation rather than anecdotal testimony alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivThe Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
+
+This shift is important when evaluating Bosnian cases. Under current scientific standards, convincing evidence would ideally include:
+
+
+<div class="content-enhancement content-enhancement--metric" markdown="1">
+
+* Simultaneous optical and radar data
+* Precise timestamps
+* Environmental measurements
+* Multiple calibrated cameras
+* Independent observers
+* Spectral or thermal signatures
+* Preserved metadata
+
+</div>
+
+Virtually none of the publicly discussed Bosnian incidents meet those criteria.
+
+Even researchers who advocate serious UAP study generally stress that most reports ultimately prove explainable or insufficiently documented. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivThe Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span> That position differs sharply from internet narratives that treat every unresolved light as evidence of extraterrestrial visitation.
+
+## Cases That Remain Unresolved Are Not Automatically Extraordinary
+
+A central sceptical principle is that “unidentified” does not equal “alien”. Some Bosnian sightings remain unresolved simply because too little information exists to determine a cause.
+
+There are many ordinary reasons why a case can stay unresolved:
+
+* Incomplete witness data
+* Missing timestamps
+* Poor image quality
+* Lost original files
+* Unknown aircraft traffic
+* Atmospheric ambiguity
+
+This distinction matters because UFO culture often treats unresolved status as positive evidence for exotic explanations. Scientific reasoning does not. An unresolved event may simply be an information failure.
+
+The Office of the Director of National Intelligence in the United States reached a similar conclusion in broader UAP assessments: many incidents remain unexplained because available data are limited or inconsistent, not because extraordinary technology has been demonstrated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.intelligence.gov/publics-daily-brief/publics-daily-brief-articles/unidentified-aerial-phenomena-preliminary-intelligence-assessment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intelligence.gov">[Intelligence.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intelligence.gov</span><span class="citation-popover-snippet">Unidentified Aerial PhenomenaThe Office of the Director of National Intelligence submitted to Congress a preliminary report regarding Uni...</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
+
+## What Would Strengthen a Bosnian UFO Case?
+
+At present, Bosnia and Herzegovina has no publicly documented UFO incident widely accepted by astronomers, aviation experts, or scientific investigators as evidence of non-human technology. However, a future case could attract serious attention if it included several forms of corroboration simultaneously.
+
+The strongest potential indicators would include:
+
+* Multiple unrelated witnesses
+* Verified original recordings
+* Radar confirmation
+* Air-traffic elimination
+* Astronomical exclusion
+* Precise geolocation and timing
+* Consistent multisensor evidence
+* Independent expert review
+
+Until such evidence emerges, expert scepticism toward Bosnian UFO claims remains the dominant evidence-based position.
+
+## The Most Defensible Conclusion
+
+The available UFO evidence from Bosnia and Herzegovina supports a cautious and largely sceptical interpretation. Reports exist, witnesses are often sincere, and some sightings genuinely remain unidentified at a personal level. Yet the documented material consistently falls short of the evidential threshold needed for extraordinary conclusions.
+
+Most Bosnian UFO narratives are better understood as a mixture of misidentifications, incomplete observations, folklore amplification, wartime context, internet recycling, and occasional probable hoaxes rather than evidence of extraterrestrial visitation. The real story is therefore not a hidden archive of confirmed alien encounters, but how uncertainty, perception, and modern media combine to sustain enduring fascination with unexplained lights in the sky.
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Evaluating UFO Reports Evidence, Skepticism, and Credibility. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+        </h4>
+        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        
+        <p class="fr-book-desc">Discusses investigation techniques and case quality.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
+        </h4>
+        <p class="fr-book-author">By Allan Hendry</p>
+        
+        <p class="fr-book-desc">Directly addresses credibility, verification and misidentification.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+        </h4>
+        <p class="fr-book-author">By Leslie Kean</p>
+        
+        <p class="fr-book-desc">Highlights cases considered stronger by investigators.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+        </h4>
+        <p class="fr-book-author">By Carl Sagan</p>
+        
+        <p class="fr-book-desc">Promotes scientific skepticism and evidence standards.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: nuforc.org  
+   Link: [https://nuforc.org/sighting/?id=59797](https://nuforc.org/sighting/?id=59797)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 59797August 20, 2023 — NUFORC UFO Sighting 59797. Occurred: 1993-06-01 19:00 Local - Approximate... Location...</p></details>
+   Published: August 20, 2023  
+
+2. <a id="endnote-2"></a>
+   Source: nuforc.org  
+   Link: [https://nuforc.org/](https://nuforc.org/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNational UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: nuforc.org  
+   Title: Data Bank | NUFORC  
+   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/UFOs/comments/190zrcu/bosnia_ufo_from_2009_two_different_angles_and/](https://www.reddit.com/r/UFOs/comments/190zrcu/bosnia_ufo_from_2009_two_different_angles_and/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>January 7, 2024 — The ukraine UFO and other star shaped UFOs are a visual aberrations created by the legs that hold up the camera&#x27;s secon...</p></details>
+   Published: January 7, 2024  
+
+5. <a id="endnote-5"></a>
+   Source: unesco.org  
+   Link: [https://www.unesco.org/en/articles/new-report-exposes-major-transparency-gaps-bosnia-and-herzegovinas-online-news-sector](https://www.unesco.org/en/articles/new-report-exposes-major-transparency-gaps-bosnia-and-herzegovinas-online-news-sector)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCONew report exposes major transparency gaps in Bosnia...9 Dec 2025 — At the start of 2025, 2.73 million people in Bosnia and Herzeg...</p></details>
+
+6. <a id="endnote-6"></a>
+   Source: arxiv.org  
+   Link: [https://arxiv.org/abs/2305.18566](https://arxiv.org/abs/2305.18566)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivThe Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</p></details>
+   Published: May 29, 2023  
+
+7. <a id="endnote-7"></a>
+   Source: arxiv.org  
+   Title: arXiv The New Science of Unidentified Aerospace-Undersea Phenomena (UAP)  
+   Link: [https://arxiv.org/abs/2502.06794](https://arxiv.org/abs/2502.06794)  
+
+8. <a id="endnote-8"></a>
+   Source: intelligence.gov  
+   Link: [https://www.intelligence.gov/publics-daily-brief/publics-daily-brief-articles/unidentified-aerial-phenomena-preliminary-intelligence-assessment](https://www.intelligence.gov/publics-daily-brief/publics-daily-brief-articles/unidentified-aerial-phenomena-preliminary-intelligence-assessment)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Aerial PhenomenaThe Office of the Director of National Intelligence submitted to Congress a preliminary report regarding Uni...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: nuforc.org  
+   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationAsher Salido on NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data and Analysis; Rosa Orellan...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: nuforc.org  
+   Link: [https://nuforc.org/2025-best-ufos/](https://nuforc.org/2025-best-ufos/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Octahedrons – and 2025&#x27;s Best UFO Reports so Far11 May 2025 — Between January and early May 2025, thousands of UFO sightings have been re...</p></details>
+   Published: May 2025  
+
+11. <a id="endnote-11"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=_Y-Ds_-Wf-k](https://www.youtube.com/watch?v=_Y-Ds_-Wf-k)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>n as UFOs...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: youtube.com  
+   Title: Scientific Skepticism and UFOs  
+   Link: [https://www.youtube.com/watch?v=kYJ44v3-33k](https://www.youtube.com/watch?v=kYJ44v3-33k)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why People See UFOs: The Science of Misidentification...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: youtube.com  
+   Title: Why People See UFOs: The Science of Misidentification  
+   Link: [https://www.youtube.com/watch?v=3g8C-Kx_Hq8](https://www.youtube.com/watch?v=3g8C-Kx_Hq8)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating UAP: Evidence Standards and Skepticism...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: youtube.com  
+   Title: Investigating UAP: Evidence Standards and Skepticism  
+   Link: [https://www.youtube.com/watch?v=Xh0Yp8942aM](https://www.youtube.com/watch?v=Xh0Yp8942aM)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating UFO Footage: Expert Analysis Explained...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: youtube.com  
+   Title: Evaluating UFO Footage: Expert Analysis Explained  
+   Link: [https://www.youtube.com/watch?v=7X9G71C6hU0](https://www.youtube.com/watch?v=7X9G71C6hU0)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Problem with Anecdotal UFO Evidence...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: youtube.com  
+   Title: The Problem with Anecdotal UFO Evidence  
+   Link: [https://www.youtube.com/watch?v=O15e6S0t3-0](https://www.youtube.com/watch?v=O15e6S0t3-0)  
+
+17. <a id="endnote-17"></a>
+   Source: skepticalinquirer.org  
+   Link: [https://skepticalinquirer.org/exclusive/keep-ufo-reporting-grounded-in-reality-advise-skeptics/](https://skepticalinquirer.org/exclusive/keep-ufo-reporting-grounded-in-reality-advise-skeptics/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerKeep UFO Reporting Grounded in Reality, Advise SkepticsJune 9, 2021 — 9 Jun 2021 — Pseudoscientific ideas about UFOs ha...</p></details>
+   Published: June 9, 2021  
+
+### Additional References
+
+18. <a id="endnote-18"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/groups/1504351569653589/posts/25387328037595941/](https://www.facebook.com/groups/1504351569653589/posts/25387328037595941/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nice. I always recommend Carl Sagan&#x27;s classic work...UFOs and alien presence: six viewpoints in a thrift shop find. Dalek Caoimhin ▻ UFO...</p></details>
+
+19. <a id="endnote-19"></a>
+   Source: leonarddavid.com  
+   Link: [https://www.leonarddavid.com/unidentified-aerial-phenomena-research-paper-offers-insight-on-outing-human-bias-and-error/](https://www.leonarddavid.com/unidentified-aerial-phenomena-research-paper-offers-insight-on-outing-human-bias-and-error/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Aerial Phenomena: Research Paper Offers...9 Mar 2023 — “We derive physical constraints on interpretations of &#x27;highly maneuv...</p></details>
+
+20. <a id="endnote-20"></a>
+   Source: hangar1publishing.com  
+   Link: [https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/unidentified-aerial-phenomena?srsltid=AfmBOop7084ij7fiFPG9ZCzhliDm6-GelHVzIaGk82ZuJwTQPwi-vB6j](https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/unidentified-aerial-phenomena?srsltid=AfmBOop7084ij7fiFPG9ZCzhliDm6-GelHVzIaGk82ZuJwTQPwi-vB6j)  
+
+21. <a id="endnote-21"></a>
+   Source: avi-loeb.medium.com  
+   Title: open science and unidentified aerial phenomena 4873d3169383  
+   Link: [https://avi-loeb.medium.com/open-science-and-unidentified-aerial-phenomena-4873d3169383](https://avi-loeb.medium.com/open-science-and-unidentified-aerial-phenomena-4873d3169383)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science and Unidentified Aerial Phenomena | by Avi LoebDue to the media uproar, the observatory convened a seminar on the case on Septemb...</p></details>
+
+22. <a id="endnote-22"></a>
+   Source: researchgate.net  
+   Link: [https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue](https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Through historical analysis and studying religious responses, it uncovers how...Read more...</p></details>
+
+23. <a id="endnote-23"></a>
+   Source: spyscape.com  
+   Link: [https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings](https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>rop circles or sightings that began in 1992 when a motorist reported a craft...Read more...</p></details>
+
+24. <a id="endnote-24"></a>
+   Source: researchgate.net  
+   Link: [https://www.researchgate.net/publication/288389376_Unidentified_Aerial_Phenomena_UAP_A_New_Hypothesis_toward_Their_Explanation](https://www.researchgate.net/publication/288389376_Unidentified_Aerial_Phenomena_UAP_A_New_Hypothesis_toward_Their_Explanation)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP sightings in Hessdalen and most elsewhere.Read more...</p></details>
+
+25. <a id="endnote-25"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/ScientificAmerican/posts/a-new-investigation-of-unidentified-aerial-phenomena-could-have-bigger-impacts-o/541009354564008/](https://www.facebook.com/ScientificAmerican/posts/a-new-investigation-of-unidentified-aerial-phenomena-could-have-bigger-impacts-o/541009354564008/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>atmospheric science than on astrobiology...</p></details>
+
+26. <a id="endnote-26"></a>
+   Source: podcasts.apple.com  
+   Link: [https://podcasts.apple.com/us/podcast/new-york-nuforc-ufo-reports/id1431872901?i=1000762263447&l=ru](https://podcasts.apple.com/us/podcast/new-york-nuforc-ufo-reports/id1431872901?i=1000762263447&l=ru)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>YORK: NUFORC UFO REPORTS19 Apr 2026 — If you&#x27;re fascinated by UFO sightings, alien encounters, unexplained aerial phenomena, and real eye...</p></details>
+
+27. <a id="endnote-27"></a>
+   Source: sh.diva-portal.org  
+   Link: [https://sh.diva-portal.org/smash/get/diva2%3A16333/FULLTEXT01](https://sh.diva-portal.org/smash/get/diva2%3A16333/FULLTEXT01)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>alien phenomena. A caricature (see Picture 6) summarizes the conflict and the situation in Afghanistan. It shows the impersonal hammer an...</p></details>

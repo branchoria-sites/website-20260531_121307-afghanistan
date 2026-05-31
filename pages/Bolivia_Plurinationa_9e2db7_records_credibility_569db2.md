@@ -1,0 +1,727 @@
+---
+level: 2
+basename: Bolivia_Plurinationa_9e2db7_records_credibility_569db2
+parent_basename: Bolivia_Plurinationa_9e2db7
+child_basenames: []
+sibling_basenames:
+- Bolivia_Plurinationa_9e2db7_civilian_sightings_m_80dbe5
+- Bolivia_Plurinationa_9e2db7_metallic_spheres_deb_e7202d
+- Bolivia_Plurinationa_9e2db7_tarija_crash_f4f5cf
+tags:
+- bolivia-plurinational-state-of
+- credibility
+keywords:
+- bolivia-plurinational-state-of
+- credibility
+affiliate_category: bolivia-plurinational-state-of
+show_ads: true
+description: Bolivia's UFO record is shaped by missing archives, self-reported sightings, press claims, and local ufology more than by one official catalogue.
+hero_summary: Bolivia's UFO record is shaped by missing archives, self-reported sightings, press claims, and local ufology more than by one official catalogue.
+layout: default
+permalink: /credibility/
+sidebar_expanded_urls:
+- /bolivia-plurinational-state-of/
+nav_short_title: Credibility
+title: How Reliable Are Bolivia's UFO Records?
+title_full: How Reliable Are Bolivia's UFO Records? | Bolivia UFOs
+display_title_short: Credibility
+display_title: Credibility
+heading_title: How Reliable Are Bolivia's UFO Records?
+page_heading_title: How Reliable Are Bolivia's UFO Records?
+source_count: 44
+infographic_count: 3
+planned_sections:
+- The missing central archive problem
+- Local ufologists, press reports, and databases
+- A practical credibility ladder for claims
+focal_unit_type: policy_intervention
+topic_lens: critique_risk
+topic_granularity: decision_cluster
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+parent_title: Bolivia UFOs
+parent_permalink: /bolivia-plurinational-state-of/
+parent_nav_short_title: Bolivia UFOs
+parent_heading_title: What Really Happened in Bolivia's UFO Files?
+ancestor_links:
+- basename: Bolivia_Plurinationa_9e2db7
+  title: Bolivia UFOs
+  permalink: /bolivia-plurinational-state-of/
+  short_title: Bolivia UFOs
+breadcrumb_links:
+- basename: Bolivia_Plurinationa_9e2db7
+  title: Bolivia UFOs
+  permalink: /bolivia-plurinational-state-of/
+  short_title: Bolivia UFOs
+sibling_links:
+- basename: Bolivia_Plurinationa_9e2db7_civilian_sightings_m_80dbe5
+  title: Sightings Map | What Really Happened in Bolivia's UFO Files?
+  permalink: /sightings-map-72f856/
+  short_title: Sightings Map
+  heading_title: Where Do Bolivia UFO Reports Cluster?
+- basename: Bolivia_Plurinationa_9e2db7_metallic_spheres_deb_e7202d
+  title: Space Debris | What Really Happened in Bolivia's UFO Files?
+  permalink: /space-debris/
+  short_title: Space Debris
+  heading_title: When a UFO Case Becomes Space Junk
+- basename: Bolivia_Plurinationa_9e2db7_tarija_crash_f4f5cf
+  title: Tarija Crash | What Really Happened in Bolivia's UFO Files?
+  permalink: /tarija-crash/
+  short_title: Tarija Crash
+  heading_title: Was Tarija a Crash or a Legend?
+up_link:
+  basename: Bolivia_Plurinationa_9e2db7
+  title: Bolivia UFOs
+  permalink: /bolivia-plurinational-state-of/
+  short_title: Bolivia UFOs
+next_link:
+  basename: Bolivia_Plurinationa_9e2db7_civilian_sightings_m_80dbe5
+  title: Sightings Map | What Really Happened in Bolivia's UFO Files?
+  permalink: /sightings-map-72f856/
+  short_title: Sightings Map
+  heading_title: Where Do Bolivia UFO Reports Cluster?
+date: '2026-05-31 04:05:48 '
+header:
+  og_image: /assets/images/Bolivia_Plurinationa_9e2db7_records_credibility_569db2-Illustration-1-social.jpg
+  preview_image: /assets/images/Bolivia_Plurinationa_9e2db7_records_credibility_569db2-Illustration-1.webp
+image: /assets/images/Bolivia_Plurinationa_9e2db7_records_credibility_569db2-Illustration-1-social.jpg
+---
+
+## Introduction
+
+Bolivia’s UFO record is notable less for a single proven incident than for the difficulty of separating documentation from myth. Unlike countries that eventually created military reporting systems or released structured archives, Bolivia developed a fragmented UFO culture built from newspaper stories, radio interviews, local investigators, scattered witness accounts and later internet reposts. The result is a national UFO narrative with genuine historical traces at its core, but major credibility gaps around evidence, sourcing and preservation.
+
+
+<img src="{{ "/assets/images/Bolivia_Plurinationa_9e2db7_records_credibility_569db2-Illustration-1-light.svg" | relative_url }}" alt="Credibility illustration 1" data-theme-src-dark="{{ "/assets/images/Bolivia_Plurinationa_9e2db7_records_credibility_569db2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bolivia_Plurinationa_9e2db7_records_credibility_569db2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+That does not mean every Bolivian case is fabricated. Some incidents clearly entered official or semi-official channels, including reports noticed by foreign intelligence services and recurring regional press coverage. But the absence of a public national archive means that even widely repeated stories often rest on weak foundations: missing documents, second-hand testimony, uncertain dates, duplicated anecdotes and retrospective embellishment. The practical question for readers is therefore not “Did Bolivia have UFO incidents?” but “Which claims are actually documented, and how reliable are the records behind them?” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/0005515665" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">CIABOLIVIA REPORTS CONFLICT ON DETAILS OF FALLEN...We have received anther phone call!&#x27;ro:a cur audierce requesting confir.-aticn of re...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0000015258.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">of reports that an unidentified object fell in Folivian territory near...Read more...</span></span></span>
+
+## The Missing Central Archive Problem
+
+Bolivia’s biggest credibility problem is structural. There is no widely recognised public equivalent to a national UFO archive, military disclosure programme or long-running civil aviation database that systematically catalogues sightings across the country. That absence shapes nearly every debate about Bolivian UFO claims.
+
+In practice, this means researchers often rely on:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* Local newspaper clippings that are difficult to verify decades later.
+* Interviews with witnesses recorded long after the event.
+* Private ufology collections with inconsistent standards.
+* International databases such as NUFORC.
+* Repeated retellings copied across websites without new evidence.
+
+</div>
+
+The lack of centralisation produces several recurring distortions.
+
+First, stories become inflated over time. A report of an unidentified falling object may evolve into a “crashed extraterrestrial craft”, then later into claims of alien bodies or foreign recovery teams without new primary evidence appearing at any stage.
+
+Second, the same incident often circulates in multiple contradictory versions. Dates, locations, witness counts and object descriptions shift depending on the source. This is especially visible in retellings of the 1978 Tarija incident, where descriptions range from “metallic cylinder” to “flying saucer”, and where later narratives introduce dramatic recovery operations not clearly supported by contemporary reporting. CIA <span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/1978-ufo-crash-in-bolivia-witnessed-by-thousands/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">1978 ufo crash in bolivia witnessed by thousands</span><span class="citation-popover-snippet">Think About It Docs1978: UFO crash in Bolivia witnessed by thousandsJun 23, 2013 — On May 6, 1978, at about 4:15 pm, something crashed in...</span><span class="citation-popover-meta">Published: May 6, 1978</span></span></span>
+
+Third, records are highly vulnerable to disappearance. Bolivia’s regional media landscape historically depended on local radio stations and newspapers with limited archiving. Many original reports from the 1970s and 1980s are now inaccessible or survive only as references in later UFO literature. This creates an unusual situation in which modern summaries are often easier to find than the original source material they supposedly describe.
+
+The practical effect is that Bolivia has many UFO stories but comparatively few stable documentary chains.
+
+## Why the Tarija Case Became So Dominant
+
+The alleged 1978 crash near Tarija became Bolivia’s signature UFO case partly because it filled the vacuum left by missing archives. In countries with larger official collections, no single case necessarily defines the national narrative. Bolivia instead developed a kind of gravitational centre around one unresolved story.
+
+What gives the Tarija incident some historical weight is not proof of extraterrestrial origin, but the existence of overlapping evidence layers:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* Reports circulated near the Bolivia–Argentina border about an unidentified falling object.
+* Foreign intelligence monitoring appears to have noticed the incident.
+* Witnesses consistently described a loud aerial event and apparent descent.
+* The story persisted regionally long before internet-era UFO culture amplified it.
+
+</div>
+
+The CIA reading-room document often cited by researchers is narrower than later UFO retellings suggest. It confirms discussion of reports concerning a fallen unidentified object in Bolivian territory, but it does not validate claims about alien craft, recovered bodies or confirmed non-human technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/0005515665" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">CIABOLIVIA REPORTS CONFLICT ON DETAILS OF FALLEN...We have received anther phone call!&#x27;ro:a cur audierce requesting confir.-aticn of re...</span></span></span>
+
+This distinction matters because many later articles blur the line between:
+
+
+<div class="content-enhancement content-enhancement--step-flow" markdown="1">
+
+1. A documented report that something unusual reportedly fell.
+2. Speculation about what it might have been.
+3. Fully developed crash-retrieval mythology.
+
+</div>
+
+Over time, secondary sources added dramatic details such as:
+
+
+<div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
+
+* sealed-off mountains,
+* foreign military recovery teams,
+* hidden debris,
+* vanished witnesses,
+* secret transport operations.
+
+</div>
+
+Yet many of these additions trace back to repeated ufology retellings rather than independently verifiable primary documentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/1978-ufo-crash-in-bolivia-witnessed-by-thousands/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">1978 ufo crash in bolivia witnessed by thousands</span><span class="citation-popover-snippet">Think About It Docs1978: UFO crash in Bolivia witnessed by thousandsJun 23, 2013 — On May 6, 1978, at about 4:15 pm, something crashed in...</span><span class="citation-popover-meta">Published: May 6, 1978</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/ufos/cover-ups/the-tarija-case-ufo-crash-bolivia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">the tarija case ufo crash bolivia</span><span class="citation-popover-snippet">As we have noted in previous articles, UFO and apparent alien activity is rife through the entire...Read more...</span></span></span>
+
+That does not automatically debunk the case. It simply means the evidentiary ceiling remains lower than enthusiasts often imply.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bVm9J_fxsxQ" title="Expertos y testigos piden reabrir caso de supuesta caída de un ovni en Bolivia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bVm9J_fxsxQ" target="_blank" rel="noopener noreferrer">Expertos y testigos piden reabrir caso de supuesta caída de un ovni en Bolivia</a></p><p class="youtube-embed-meta">Channel: Al Rojo Vivo &middot; Views: 19.0K &middot; Uploaded: August 2023 &middot; Length: 2 minutes 52 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bVm9J_fxsxQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bVm9J_fxsxQ">Open on YouTube</a></p></div></div></div>
+
+## Local Ufologists and the Expansion of the Record
+
+Because Bolivia lacks a strong institutional archive, local ufologists became de facto record keepers. This gave private researchers disproportionate influence over what counts as Bolivian UFO history.
+
+Figures such as Pablo Santa Cruz and projects associated with “Proyecto Ovni” helped preserve witness narratives that might otherwise have disappeared entirely. Their work is important in a documentary sense because it gathered interviews, regional stories and local sighting reports across multiple Bolivian departments.
+
+At the same time, private ufology introduces unavoidable reliability problems:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* Standards of evidence vary widely.
+* Confirmation bias is difficult to control.
+* Cases are sometimes accepted without forensic investigation.
+* Witness interviews may occur years after events.
+* Extraordinary claims are often mixed with ordinary sightings.
+
+</div>
+
+Some local investigators openly acknowledge the lack of official records while simultaneously claiming large numbers of sightings. That combination illustrates the central tension of Bolivian ufology: there may indeed be many reports, but quantity is not the same as verification.
+
+The strongest contribution of local ufologists is therefore preservation rather than proof. They often document oral history and regional belief systems effectively. The weakest area is evidentiary filtering. In many cases, unexplained sightings, folklore, speculation and highly extraordinary narratives are presented together without clear separation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://inexplicata.blogspot.com/2026/04/bolivia-hundred-ufos-crossed-skies.html?m=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inexplicata.blogspot.com">[inexplicata.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inexplicata.blogspot.com</span><span class="citation-popover-title">bolivia hundred ufos crossed skies</span><span class="citation-popover-snippet">Bolivia: &quot;A Hundred UFOs Crossed The Skies, Sightings...Apr 23, 2026 — Among the most notable cases are the alleged UFO crashes in Tarij...</span></span></span>
+
+## Press Reports: Useful but Easily Distorted
+
+Bolivian UFO reporting has historically depended heavily on local press coverage. Newspapers and radio broadcasts served as the primary transmission mechanism for many incidents before online databases existed.
+
+These reports are valuable because they can establish:
+
+
+<div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
+
+* dates,
+* geographic locations,
+* witness reactions,
+* immediate public interpretation,
+* whether an event was contemporaneously reported.
+
+</div>
+
+But press coverage also introduces distortions, especially in sensational stories.
+
+Three patterns recur repeatedly in Bolivian UFO reporting.
+
+### The amplification cycle
+
+A local sighting receives modest regional coverage. Later UFO publications cite the newspaper. Internet sites then cite the UFO publication rather than the original article. Eventually, the retelling appears detached from the original wording and gains additional dramatic claims.
+
+### The witness multiplication problem
+
+Many articles refer vaguely to “hundreds” or “thousands” of witnesses without publishing names, independent statements or verifiable testimony. Over decades, estimated witness counts often increase.
+
+The Tarija case is a prime example. Modern retellings frequently describe thousands of witnesses and massive blast effects, but the surviving evidence base for those numerical claims is inconsistent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/1978-ufo-crash-in-bolivia-witnessed-by-thousands/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">1978 ufo crash in bolivia witnessed by thousands</span><span class="citation-popover-snippet">Think About It Docs1978: UFO crash in Bolivia witnessed by thousandsJun 23, 2013 — On May 6, 1978, at about 4:15 pm, something crashed in...</span><span class="citation-popover-meta">Published: May 6, 1978</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://howandwhys.com/bolivia-ufo-crash-1978/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: howandwhys.com">[How and Why&#x27;s]</a><span class="citation-popover" role="note"><span class="citation-popover-source">howandwhys.com</span><span class="citation-popover-title">bolivia ufo crash 1978</span><span class="citation-popover-snippet">Most Credible UFO Case Of South...Jun 30, 2021 — It is estimated that hundreds or maybe even thousands of people from Tarija, Bolivia wi...</span></span></span>
+
+### The unresolved-object problem
+
+A genuinely unidentified object at the time of reporting does not necessarily remain unidentified after later analysis. Yet some Bolivian UFO stories are preserved only in their earliest, most mysterious form.
+
+Objects potentially explainable as:
+
+* satellite debris,
+* meteors,
+* re-entry fragments,
+* atmospheric phenomena,
+* balloons,
+* aircraft lights,
+* military activity,
+
+may continue circulating indefinitely as “unsolved UFOs” because no later correction achieved the same visibility as the original story.
+
+
+<img src="{{ "/assets/images/Bolivia_Plurinationa_9e2db7_records_credibility_569db2-Illustration-2-light.svg" | relative_url }}" alt="Credibility illustration 2" data-theme-src-dark="{{ "/assets/images/Bolivia_Plurinationa_9e2db7_records_credibility_569db2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bolivia_Plurinationa_9e2db7_records_credibility_569db2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## What NUFORC and International Databases Actually Tell Us
+
+International databases such as the National UFO Reporting Center (NUFORC) provide useful but limited evidence about Bolivian sightings. They demonstrate that reports continue to emerge from places including La Paz, Cochabamba, Potosí, Santa Cruz and Lake Titicaca areas. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports by LocationNUFORC Reports by Location; Bosnia and herzegovina, 22; Botswana, 5; Brazil, 399; British Virgin Islands, 5...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=17133" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 17133ON THE 29TH OF MARCH 2001, IN THE CITIES OF LA PAZ, COCHABAMBA AND POTOSI OF BOLIVIA, SOUTHAMERICA ONE FLYING SA...</span><span class="citation-popover-meta">Published: MARCH 2001</span></span></span>
+
+However, these databases are often misunderstood.
+
+NUFORC records are primarily self-reported submissions. They preserve witness narratives, timestamps and location data, but they are not equivalent to verified scientific findings. A database entry means:
+
+* someone reported something unusual,
+* the report was archived,
+* basic metadata was retained.
+
+It does not mean the event was authenticated.
+
+This distinction becomes especially important in Bolivia because some online writers treat database inclusion as confirmation. In reality, NUFORC functions more like a repository of claims than a resolved catalogue of phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National UFO Reporting Center</span><span class="citation-popover-snippet">National UFO Reporting Center</span></span></span>
+
+Still, these databases have genuine value. They allow researchers to identify:
+
+* regional clustering patterns,
+* recurring object descriptions,
+* time periods with elevated reporting,
+* continuity between older and newer sighting traditions.
+
+They also reveal how Bolivia’s UFO culture differs from heavily institutionalised cases elsewhere. Bolivian reports often contain stronger folkloric and mystical framing tied to mountains, lakes, archaeological zones and remote landscapes.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/S7UtH8-o5kg" title="9. CONTACTO CON TRIPULANTES DE OVNIS - PABLO SANTA CRUZ (BOLIVIA)." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=S7UtH8-o5kg" target="_blank" rel="noopener noreferrer">9. CONTACTO CON TRIPULANTES DE OVNIS - PABLO SANTA CRUZ (BOLIVIA).</a></p><p class="youtube-embed-meta">Channel: PROYECTO OVNIS - UFOLOGÍA HIPERBÓREA &middot; Views: 338 &middot; Uploaded: April 2026 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=S7UtH8-o5kg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=S7UtH8-o5kg">Open on YouTube</a></p></div></div></div>
+
+## The Problem of Folklore Blending Into UFO Claims
+
+Bolivia’s geography and indigenous traditions contribute to another major credibility issue: the blending of UFO narratives with older spiritual or mythic frameworks.
+
+Lake Titicaca, the Altiplano, remote Andean mountains and Amazonian regions already possessed reputations for mystery before modern UFO culture emerged. In many cases, UFO stories became layered onto existing traditions rather than replacing them.
+
+This creates a difficult interpretive problem.
+
+Some narratives are best understood as:
+
+* modern folklore,
+* syncretic belief systems,
+* paranormal storytelling,
+* regional myth adaptation,
+
+rather than documentary evidence of aerospace anomalies.
+
+The internet intensified this process. Stories once confined to local oral culture now circulate globally beside alleged military documents and technical UFO analysis, often without distinction between the two.
+
+As a result, Bolivia’s UFO record contains several overlapping categories:
+
+* potentially genuine unidentified aerial observations,
+* misidentifications,
+* local legends,
+* speculative conspiracy narratives,
+* spiritual interpretations,
+* recycled internet mythology.
+
+Treating all of them as equivalent evidence produces major distortions.
+
+
+<img src="{{ "/assets/images/Bolivia_Plurinationa_9e2db7_records_credibility_569db2-Illustration-3-light.svg" | relative_url }}" alt="Credibility illustration 3" data-theme-src-dark="{{ "/assets/images/Bolivia_Plurinationa_9e2db7_records_credibility_569db2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bolivia_Plurinationa_9e2db7_records_credibility_569db2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## A Practical Credibility Ladder for Bolivian UFO Claims
+
+The most useful way to approach Bolivian UFO material is through a credibility ladder rather than a simple “true or false” framework.
+
+### Highest credibility tier
+
+These cases contain contemporary documentation or independently verifiable traces:
+
+* declassified references,
+* archived press reporting,
+* multiple independent witnesses,
+* physical debris with known provenance,
+* confirmed dates and locations.
+
+The Tarija incident partially enters this tier because some official and archival traces exist, even though the extraordinary interpretations remain unproven. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0000015258.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">of reports that an unidentified object fell in Folivian territory near...Read more...</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fb7T1v_VHpE" title="The Unknowns: Mystifying UFO Cases" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fb7T1v_VHpE" target="_blank" rel="noopener noreferrer">The Unknowns: Mystifying UFO Cases</a></p><p class="youtube-embed-meta">Channel: LEMMiNO</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fb7T1v_VHpE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fb7T1v_VHpE">Open on YouTube</a></p></div></div></div>
+
+### Medium credibility tier
+
+These include:
+
+* structured witness testimony,
+* regional press reports,
+* database entries,
+* photographs or recordings with identifiable provenance,
+* repeated independent accounts lacking definitive explanation.
+
+Many NUFORC Bolivia reports fall into this category. They may be sincere and interesting but remain unresolved rather than validated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=186728" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 18672816 Jan 2025 — Occurred: 2020-08-04 19:00 Local - Approximate; Reported: 2025-01-11 00:20 Pacific; Duration: E...</span><span class="citation-popover-meta">Published: August 4, 2020</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports by LocationNUFORC Reports by Location; Bosnia and herzegovina, 22; Botswana, 5; Brazil, 399; British Virgin Islands, 5...</span></span></span>
+
+### Low credibility tier
+
+These claims depend heavily on:
+
+* anonymous sources,
+* missing documents,
+* retrospective embellishment,
+* social-media reposting,
+* unverifiable military secrecy narratives,
+* copied internet articles.
+
+Stories involving alien occupants, hidden underground bases or secret recovery operations typically sit here unless supported by contemporary evidence.
+
+### Folklore and myth tier
+
+Some stories function primarily as cultural narratives rather than investigative cases. They may still matter sociologically or historically, especially in regions tied to longstanding spiritual traditions, but they should not be confused with documented aerospace incidents.
+
+## What Bolivia’s UFO Record Ultimately Shows
+
+Bolivia’s UFO history is best understood as a fragmented archive rather than a solved mystery. The country offers a revealing example of how UFO narratives develop when documentation is incomplete, regional memory is strong and institutional transparency is weak.
+
+The most important lesson is not that Bolivia contains definitive proof of extraterrestrial visitation. It is that gaps in evidence create fertile conditions for narrative expansion. Missing files, inaccessible newspapers, fragmented testimony and repeated retellings allow uncertain events to evolve into enduring national legends.
+
+For researchers, Bolivia remains interesting precisely because the record is uneven. There are enough documented traces to show that unusual aerial reports genuinely entered public discussion, but not enough consolidated evidence to support many of the more dramatic claims attached to them. The challenge is therefore not uncovering a hidden master archive, but learning how to distinguish between historical residue, unresolved observation and mythology layered on top of both.
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How Reliable Are Bolivia&#x27;s UFO Records?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
+        </h4>
+        <p class="fr-book-author">By Allan Hendry</p>
+        
+        <p class="fr-book-desc">Directly addresses evidence quality and investigation methods.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+        </h4>
+        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        
+        <p class="fr-book-desc">Provides a framework for weighing report credibility.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+        </h4>
+        <p class="fr-book-author">By Leslie Kean</p>
+        
+        <p class="fr-book-desc">Explores how stronger cases are documented.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+        </h4>
+        <p class="fr-book-author">By Carl Sagan</p>
+        
+        <p class="fr-book-desc">Teaches critical thinking for assessing extraordinary claims.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: cia.gov  
+   Link: [https://www.cia.gov/readingroom/document/0005515665](https://www.cia.gov/readingroom/document/0005515665)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>CIABOLIVIA REPORTS CONFLICT ON DETAILS OF FALLEN...We have received anther phone call!&#x27;ro:a cur audierce requesting confir.-aticn of re...</p></details>
+
+2. <a id="endnote-2"></a>
+   Source: cia.gov  
+   Link: [https://www.cia.gov/readingroom/docs/DOC_0000015258.pdf](https://www.cia.gov/readingroom/docs/DOC_0000015258.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>of reports that an unidentified object fell in Folivian territory near...Read more...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: nuforc.org  
+   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationNUFORC Reports by Location; Bosnia and herzegovina, 22; Botswana, 5; Brazil, 399; British Virgin Islands, 5...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: inexplicata.blogspot.com  
+   Title: bolivia hundred ufos crossed skies  
+   Link: [https://inexplicata.blogspot.com/2026/04/bolivia-hundred-ufos-crossed-skies.html?m=1](https://inexplicata.blogspot.com/2026/04/bolivia-hundred-ufos-crossed-skies.html?m=1)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bolivia: &quot;A Hundred UFOs Crossed The Skies, Sightings...Apr 23, 2026 — Among the most notable cases are the alleged UFO crashes in Tarij...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: nuforc.org  
+   Link: [https://nuforc.org/map/](https://nuforc.org/map/)  
+
+6. <a id="endnote-6"></a>
+   Source: nuforc.org  
+   Link: [https://nuforc.org/sighting/?id=17133](https://nuforc.org/sighting/?id=17133)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 17133ON THE 29TH OF MARCH 2001, IN THE CITIES OF LA PAZ, COCHABAMBA AND POTOSI OF BOLIVIA, SOUTHAMERICA ONE FLYING SA...</p></details>
+   Published: MARCH 2001  
+
+7. <a id="endnote-7"></a>
+   Source: nuforc.org  
+   Link: [https://nuforc.org/sighting/?id=186728](https://nuforc.org/sighting/?id=186728)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 18672816 Jan 2025 — Occurred: 2020-08-04 19:00 Local - Approximate; Reported: 2025-01-11 00:20 Pacific; Duration: E...</p></details>
+   Published: August 4, 2020  
+
+8. <a id="endnote-8"></a>
+   Source: Wikipedia  
+   Title: National UFO Reporting Center  
+   Link: [https://en.wikipedia.org/wiki/National_UFO_Reporting_Center](https://en.wikipedia.org/wiki/National_UFO_Reporting_Center)  
+
+9. <a id="endnote-9"></a>
+   Source: medium.com  
+   Link: [https://medium.com/anomalyblog/other-paradises-scientific-fictions-3587db85a65d](https://medium.com/anomalyblog/other-paradises-scientific-fictions-3587db85a65d)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>OTHER PARADISES: Scientific Fictions | by Jessica SequeiraQ: Are there UFOs in Bolivia? A: Well, we should clarify that Bolivia is a UFO...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: thinkaboutitdocs.com  
+   Title: 1978 ufo crash in bolivia witnessed by thousands  
+   Link: [https://thinkaboutitdocs.com/1978-ufo-crash-in-bolivia-witnessed-by-thousands/](https://thinkaboutitdocs.com/1978-ufo-crash-in-bolivia-witnessed-by-thousands/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Think About It Docs1978: UFO crash in Bolivia witnessed by thousandsJun 23, 2013 — On May 6, 1978, at about 4:15 pm, something crashed in...</p></details>
+   Published: May 6, 1978  
+
+11. <a id="endnote-11"></a>
+   Source: ufoinsight.com  
+   Title: the tarija case ufo crash bolivia  
+   Link: [https://www.ufoinsight.com/ufos/cover-ups/the-tarija-case-ufo-crash-bolivia](https://www.ufoinsight.com/ufos/cover-ups/the-tarija-case-ufo-crash-bolivia)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>As we have noted in previous articles, UFO and apparent alien activity is rife through the entire...Read more...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: howandwhys.com  
+   Title: bolivia ufo crash 1978  
+   Link: [https://howandwhys.com/bolivia-ufo-crash-1978/](https://howandwhys.com/bolivia-ufo-crash-1978/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Most Credible UFO Case Of South...Jun 30, 2021 — It is estimated that hundreds or maybe even thousands of people from Tarija, Bolivia wi...</p></details>
+
+### Additional References
+
+13. <a id="endnote-13"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/groups/historyandmystery/posts/1293703882405676/](https://www.facebook.com/groups/historyandmystery/posts/1293703882405676/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien lives in Bolivia after spaceship crashResidents participate in Bolivia, a UFO crashes with an alien astronaut on board. UFO, Aliens...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: github.com  
+   Link: [https://github.com/timothyrenner/nuforc_sightings_data](https://github.com/timothyrenner/nuforc_sightings_data)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>timothyrenner/nuforc_sightings_data: Data collection and...The Nationa UFO Research Center (NUFORC) maintains an online database of over...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: documentamusac.org  
+   Link: [https://documentamusac.org/ficha/ovni-archive/](https://documentamusac.org/ficha/ovni-archive/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ovni Archivo = UFO ArchiveOvni Archivo = UFO Archive... Notas: Contiene un libreto de imágenes cosido en la mitad del libro.... Edición...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/EnTiempoRealEC/posts/-mundo-trump-publica-primeros-archivos-desclasificados-sobre-ovnis-y-vida-extrat/1566902832102696/](https://www.facebook.com/EnTiempoRealEC/posts/-mundo-trump-publica-primeros-archivos-desclasificados-sobre-ovnis-y-vida-extrat/1566902832102696/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Trump publica primeros archivos desclasificados sobre...OVNI Bolivia de Tercer Ojo ▻ UFO, Aliens, Moon, Mars, Paranormal... Ed-misterio...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/UFOs/comments/qlsrf0/ufo_crash_in_tarija_bolivia/](https://www.reddit.com/r/UFOs/comments/qlsrf0/ufo_crash_in_tarija_bolivia/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Crash in Tarija, BoliviaStatement: We travel to Bolivia to hear the extraordinary story of a UFO crash in the mountains of Tarija. Wh...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: kaggle.com  
+   Link: [https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings](https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO SightingsThe National UFO Research Center (NUFORC) collects and serves over 100,000 reports of UFO sightings. This dataset contains t...</p></details>
+
+19. <a id="endnote-19"></a>
+   Source: huggingface.co  
+   Link: [https://huggingface.co/datasets/kcimc/NUFORC](https://huggingface.co/datasets/kcimc/NUFORC)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>kcimc/NUFORC · Datasets at Hugging FaceNUFORC. 147,890 UFO sightings from NUFORC, scraped on January 16, 2024. The best representation of...</p></details>
+   Published: January 16, 2024  
+
+20. <a id="endnote-20"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/ElCallaoTv/posts/ovnis-reveladosel-pent%C3%A1gono-public%C3%B3-documentos-secretos-sobre-ovnis-un-tema-de-i/1818029759643048/](https://www.facebook.com/ElCallaoTv/posts/ovnis-reveladosel-pent%C3%A1gono-public%C3%B3-documentos-secretos-sobre-ovnis-un-tema-de-i/1818029759643048/)  
+
+21. <a id="endnote-21"></a>
+   Source: facebook.com  
+   Title: trump ordena desclasificar archivos sobre ovnis y vida extraterrestreel preside  
+   Link: [https://www.facebook.com/infocaleta/posts/-trump-ordena-desclasificar-archivos-sobre-ovnis-y-vida-extraterrestreel-preside/1734468314210194/](https://www.facebook.com/infocaleta/posts/-trump-ordena-desclasificar-archivos-sobre-ovnis-y-vida-extraterrestreel-preside/1734468314210194/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>🛸 Trump ordena desclasificar archivos sobre OVNIs y vida...OVNI Bolivia de Tercer Ojo ▻ UFO, Aliens, Moon, Mars, Paranormal &amp; Conspiraci...</p></details>
+
+22. <a id="endnote-22"></a>
+   Source: ufoac.com  
+   Title: the most reliable ufo case in south america. bolivian ufo crash of 1978  
+   Link: [https://ufoac.com/the-most-reliable-ufo-case-in-south-america.-bolivian-ufo-crash-of-1978.html](https://ufoac.com/the-most-reliable-ufo-case-in-south-america.-bolivian-ufo-crash-of-1978.html)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bolivian UFO crash of 1978It is estimated that hundreds or perhaps even thousands of people from Tarija, Bolivia, witnessed the fall of a...</p></details>

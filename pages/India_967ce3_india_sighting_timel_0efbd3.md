@@ -1,0 +1,628 @@
+---
+level: 2
+basename: India_967ce3_india_sighting_timel_0efbd3
+parent_basename: India_967ce3
+child_basenames: []
+sibling_basenames:
+- India_967ce3_civilian_ufo_groups_14d729
+- India_967ce3_imphal_airport_scram_893f39
+- India_967ce3_ufo_evidence_checks_4ec399
+tags:
+- india
+- sightings-map
+keywords:
+- india
+- sightings-map
+affiliate_category: india
+show_ads: true
+description: India's reported UFO history stretches from a 1951 New Delhi account to scattered modern light and object sightings across several regions.
+hero_summary: India's reported UFO history stretches from a 1951 New Delhi account to scattered modern light and object sightings across several regions.
+layout: default
+permalink: /sightings-map-4c8b63/
+sidebar_expanded_urls:
+- /what-do-indias-ufo-reports-really-show/
+nav_short_title: Sightings Map
+title: Where Have UFOs Been Reported in India?
+title_full: Where Have UFOs Been Reported in India? | India UAP
+display_title_short: Sightings Map
+display_title: Sightings Map
+heading_title: Where Have UFOs Been Reported in India?
+page_heading_title: Where Have UFOs Been Reported in India?
+source_count: 29
+infographic_count: 3
+planned_sections:
+- Early New Delhi and postwar sighting claims
+- Regional clusters from Kolkata to Ladakh
+- How informal reports differ from verified records
+focal_unit_type: dataset_evidence
+topic_lens: historical_comparative
+topic_granularity: theme_cluster
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+parent_title: India UAP
+parent_permalink: /what-do-indias-ufo-reports-really-show/
+parent_nav_short_title: India UAP
+parent_heading_title: What Do India's UFO Reports Really Show?
+ancestor_links:
+- basename: India_967ce3
+  title: India UAP
+  permalink: /what-do-indias-ufo-reports-really-show/
+  short_title: India UAP
+breadcrumb_links:
+- basename: India_967ce3
+  title: India UAP
+  permalink: /what-do-indias-ufo-reports-really-show/
+  short_title: India UAP
+sibling_links:
+- basename: India_967ce3_ufo_evidence_checks_4ec399
+  title: Evidence Checks | What Do India's UFO Reports Really Show?
+  permalink: /evidence-checks/
+  short_title: Evidence Checks
+  heading_title: Why Most UFO Photos Stay Unproven
+- basename: India_967ce3_imphal_airport_scram_893f39
+  title: Imphal Scramble | What Do India's UFO Reports Really Show?
+  permalink: /imphal-scramble/
+  short_title: Imphal Scramble
+  heading_title: What Happened Over Imphal Airport?
+- basename: India_967ce3_civilian_ufo_groups_14d729
+  title: Research Groups | What Do India's UFO Reports Really Show?
+  permalink: /research-groups-0f856d/
+  short_title: Research Groups
+  heading_title: Who Tracks UFO Reports in India?
+up_link:
+  basename: India_967ce3
+  title: India UAP
+  permalink: /what-do-indias-ufo-reports-really-show/
+  short_title: India UAP
+prev_link:
+  basename: India_967ce3_civilian_ufo_groups_14d729
+  title: Research Groups | What Do India's UFO Reports Really Show?
+  permalink: /research-groups-0f856d/
+  short_title: Research Groups
+  heading_title: Who Tracks UFO Reports in India?
+date: '2026-05-31 04:17:59 '
+header:
+  og_image: /assets/images/India_967ce3_india_sighting_timel_0efbd3-Illustration-1-social.jpg
+  preview_image: /assets/images/India_967ce3_india_sighting_timel_0efbd3-Illustration-1.webp
+image: /assets/images/India_967ce3_india_sighting_timel_0efbd3-Illustration-1-social.jpg
+---
+
+## Introduction
+
+[India]({{ 'what-do-indias-ufo-reports-really-show/' | relative_url }}) has never developed a single, continuous UFO or UAP narrative in the way seen in the United States or parts of Latin America. Instead, reported sightings in India appear as scattered episodes tied to particular regions, military border zones, large cities, and moments of media amplification. The pattern that emerges is less a story of sustained national investigation and more a map of uneven local reporting: urban sky-light sightings in eastern and southern India, military observations along Himalayan borders, and occasional airport or aviation incidents that briefly trigger official responses.
+
+
+<img src="{{ "/assets/images/India_967ce3_india_sighting_timel_0efbd3-Illustration-1-light.svg" | relative_url }}" alt="Sightings Map illustration 1" data-theme-src-dark="{{ "/assets/images/India_967ce3_india_sighting_timel_0efbd3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/India_967ce3_india_sighting_timel_0efbd3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+The strongest documented Indian cases tend to involve either multiple witnesses or security concerns near sensitive frontier regions. By contrast, many viral photographs and social-media claims from urban areas have later been linked to drones, astronomical objects, digital manipulation, lanterns, or ordinary aircraft. Looking at the chronology region by region helps clarify an important distinction in the Indian record: some incidents generated institutional attention, while many others remained informal folklore or short-lived media sensations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_India" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in India</span><span class="citation-popover-snippet">UFO sightings in India</span></span></span>
+
+## Early Reports and the Long Gaps Between Waves
+
+India’s modern UFO timeline is unusually sparse before the 2000s. The best-known early report came from New Delhi in March 1951, when members of the Delhi Flying Club described a metallic cigar-shaped object crossing the sky at high speed. The case became widely repeated in later UFO literature because multiple aviation-linked witnesses were said to be involved rather than a lone observer. However, surviving documentation is limited, and there is no known detailed Indian government archive explaining the event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_India" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in India</span><span class="citation-popover-snippet">UFO sightings in India</span></span></span>
+
+What stands out historically is the absence of a sustained reporting culture afterwards. Unlike countries where UFO waves produced hundreds of newspaper reports in short periods, India’s post-independence decades contain only scattered mentions. This gap matters because it complicates attempts to identify long-term trends. Much of the surviving material from the twentieth century comes from later retellings rather than preserved primary investigation files.
+
+By the early 2000s, reports began appearing more regularly in newspapers and online forums. This shift reflected broader changes in mobile-phone access, internet culture, and 24-hour television news rather than clear evidence that unexplained aerial events themselves had increased.
+
+## Why the Himalayas Became India’s Main UFO Corridor
+
+The most persistent regional concentration of Indian UFO reporting is the Himalayan frontier belt, especially Ladakh and nearby border sectors. Several factors make this region unusually prone to unidentified-object reports:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* Extremely clear high-altitude skies
+* Limited civilian air traffic
+* Heavy military deployment
+* Sensitive India–China border tensions <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.upi.com/Odd_News/2013/08/18/UFOs-spotted-along-India-China-border/1121376858272/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[upi.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Indian Army spots UFOs in Ladakh</span><span class="citation-popover-snippet">18 Aug 2013 — Indian Army troops reported spotting unidentified objects in the sky above the Ladakh sector of the border between I...</span></span></span>
+* Difficulty distinguishing drones, balloons, planets, satellites, and military surveillance systems at long range
+
+</div>
+
+The Ladakh wave of 2012–2013 became India’s most discussed military-linked UFO episode. Indian Army and Indo-Tibetan Border Police personnel reportedly observed luminous moving objects near the Line of Actual Control. Reports described yellow or orange lights appearing repeatedly in the night sky and sometimes seeming to rise from the horizon before disappearing. Media accounts claimed more than one hundred observations over several months. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.indiatoday.in/magazine/nation/story/20121112-ufo-seen-in-ladakh-jammu-and-kashmir-by-indian-army-itbp-760402-2012-11-01" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indiatoday.in">[India Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indiatoday.in</span><span class="citation-popover-snippet">India TodayWe are not alone: UFO sightings in Ladakh spook soldiers2 Nov 2012 — Army, astronomers and DRDO have been unable to establish...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.upi.com/Odd_News/2013/08/18/UFOs-spotted-along-India-China-border/1121376858272/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Indian Army spots UFOs in Ladakh</span><span class="citation-popover-snippet">18 Aug 2013 — Indian Army troops reported spotting unidentified objects in the sky above the Ladakh sector of the border between I...</span></span></span>
+
+What makes the Ladakh incidents notable is not that they proved extraterrestrial activity, but that multiple Indian agencies reportedly treated the observations seriously enough to monitor them. According to contemporary reporting, astronomers from the Indian Astronomical Observatory at Hanle were consulted, and defence researchers attempted to determine whether the objects were celestial bodies, Chinese surveillance devices, or atmospheric phenomena. No definitive public explanation emerged. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.indiatoday.in/magazine/nation/story/20121112-ufo-seen-in-ladakh-jammu-and-kashmir-by-indian-army-itbp-760402-2012-11-01" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indiatoday.in">[India Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indiatoday.in</span><span class="citation-popover-snippet">India TodayWe are not alone: UFO sightings in Ladakh spook soldiers2 Nov 2012 — Army, astronomers and DRDO have been unable to establish...</span></span></span>
+
+At the same time, sceptical interpretations gained traction. Some analysts argued that bright planets such as Venus and Jupiter appeared unusually intense in the thin Himalayan atmosphere, while others pointed toward Chinese drones, military flares, or optical distortions common in mountain environments. The important pattern is that northern border sightings consistently intersect with national-security concerns more than civilian fascination. In India, UFO discussions become more institutional when they occur near contested frontiers.
+
+### Ladakh and Arunachal: Strategic Geography Shapes Interpretation
+
+Reports from Ladakh and Arunachal Pradesh are often interpreted differently from urban UFO stories because they occur in militarised zones. In these areas, unidentified lights are frequently viewed first through the lens of surveillance and border security.
+
+This produces a recurring pattern:
+
+
+<div class="content-enhancement content-enhancement--step-flow" markdown="1">
+
+1. Troops or border personnel observe unusual lights or objects.
+2. Local media label the sightings “UFOs”.
+3. Defence analysts suggest drones, balloons, or foreign monitoring devices.
+4. Public interest grows because of the remote geography and secrecy surrounding military operations.
+
+</div>
+
+The result is a hybrid category of sightings that sit somewhere between folklore and defence reporting. Even when no extraordinary explanation is supported, the strategic context keeps the stories alive longer than ordinary urban sightings.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Kne0y9RBPxI" title="India’s Connection to the Stars | Ancient Aliens | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Kne0y9RBPxI" target="_blank" rel="noopener noreferrer">India’s Connection to the Stars | Ancient Aliens | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 120.8K &middot; Uploaded: October 2025 &middot; Length: 34 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Kne0y9RBPxI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Kne0y9RBPxI">Open on YouTube</a></p></div></div></div>
+
+## Kolkata, Chennai, and the Urban Light Phenomenon
+
+A separate category of Indian UFO reports comes from major cities, especially Kolkata and Chennai. These cases usually involve glowing lights, “fireballs”, or moving luminous objects observed briefly by residents.
+
+In Kolkata, a widely circulated 2007 sighting involved a bright object photographed above the city and described in parts of the press as shape-shifting. The imagery spread rapidly through local media and early internet forums. Yet the evidentiary quality remained weak: the photographs lacked corroborating radar or aviation data, and there was no confirmed physical trace or official investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_India" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in India</span><span class="citation-popover-snippet">UFO sightings in India</span></span></span>
+
+Chennai produced another commonly cited case in June 2013, when witnesses reported several orange lights moving through the night sky. Such reports fit a broader global pattern in which lanterns, drones, aircraft lights, or atmospheric effects become difficult to interpret under low-light conditions. The Chennai case gained temporary attention because multiple people reportedly saw the lights, but no lasting evidence emerged. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_India" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in India</span><span class="citation-popover-snippet">UFO sightings in India</span></span></span>
+
+Urban Indian sightings share several characteristics:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* Short observation times
+* Heavy reliance on mobile-phone imagery
+* Rapid social-media amplification
+* Limited follow-up investigation
+* Frequent ambiguity between aerial phenomena and hoaxes
+
+</div>
+
+These reports differ sharply from Himalayan military sightings because they are usually driven by civilian interpretation rather than institutional concern.
+
+
+<img src="{{ "/assets/images/India_967ce3_india_sighting_timel_0efbd3-Illustration-2-light.svg" | relative_url }}" alt="Sightings Map illustration 2" data-theme-src-dark="{{ "/assets/images/India_967ce3_india_sighting_timel_0efbd3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/India_967ce3_india_sighting_timel_0efbd3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Uttar Pradesh and the Rise of Viral UFO Images
+
+By the mid-2010s, India’s UFO culture had become strongly shaped by smartphones and social media. Cases from Uttar Pradesh illustrate this transition clearly.
+
+In 2015, reports from Gorakhpur and Kanpur circulated widely after photographs and mobile images allegedly showed disc-shaped craft or giant hovering objects. Some images resembled cinematic depictions from films such as *Independence Day*, leading sceptics to argue that editing apps and digital compositing were likely responsible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_India" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in India</span><span class="citation-popover-snippet">UFO sightings in India</span></span></span>
+
+These cases matter because they mark a turning point in how Indian UFO stories spread:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* Earlier sightings depended on newspapers and local rumours.
+* Newer sightings spread virally through messaging apps and social platforms.
+* Verification became harder because manipulated imagery travelled faster than investigation.
+
+</div>
+
+This pattern also produced a widening divide between casual public fascination and more cautious researchers attempting to separate misidentifications from deliberate fabrication.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8--KGzXWRLE" title="UFOs in India: The Secret Gujarat Lights &amp; The Global Connection" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8--KGzXWRLE" target="_blank" rel="noopener noreferrer">UFOs in India: The Secret Gujarat Lights &amp; The Global Connection</a></p><p class="youtube-embed-meta">Channel: MyIndia &middot; Views: 39.6K &middot; Uploaded: September 2025 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8--KGzXWRLE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8--KGzXWRLE">Open on YouTube</a></p></div></div></div>
+
+## Northeast India and the Imphal Airport Incident
+
+The strongest recent Indian UFO case in terms of official reaction occurred in November 2023 at Imphal airport in Manipur. Flights were temporarily disrupted after reports of an unidentified object near the airport triggered security concerns. The Indian Air Force reportedly scrambled Rafale fighter aircraft to investigate. No object was ultimately identified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_India" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in India</span><span class="citation-popover-snippet">UFO sightings in India</span></span></span>
+
+Unlike many civilian sightings, the Imphal incident had measurable operational consequences:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* Air traffic was halted temporarily.
+* Military aircraft were deployed.
+* Airport authorities treated the report as a real aviation issue rather than internet folklore.
+
+</div>
+
+That does not mean the object was extraordinary. Airports worldwide periodically suspend operations because of drones, balloons, or unidentified aerial hazards. Still, the Imphal case demonstrated how UFO language in India increasingly overlaps with airspace security and drone anxiety.
+
+The Northeast has also accumulated a broader reputation for unusual aerial-light stories, partly because of mountainous terrain, limited visibility conditions, and strategic proximity to international borders. However, most regional accounts remain anecdotal and lightly documented. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/EastMojo/posts/from-eerie-night-skies-to-unsettling-daylight-sightings-northeast-india-has-long/709818137839895/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">FacebookFrom eerie night skies to unsettling daylight sightings...From eerie night skies to unsettling daylight sightings, Northeast Ind...</span></span></span>
+
+## What the Regional Pattern Actually Shows
+
+When India’s reported sightings are mapped chronologically and geographically, several patterns emerge more clearly than any single dramatic narrative.
+
+
+<img src="{{ "/assets/images/India_967ce3_india_sighting_timel_0efbd3-Illustration-3-light.svg" | relative_url }}" alt="Sightings Map illustration 3" data-theme-src-dark="{{ "/assets/images/India_967ce3_india_sighting_timel_0efbd3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/India_967ce3_india_sighting_timel_0efbd3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+### Border Regions Produce the Most Persistent Reports
+
+Ladakh, Arunachal Pradesh, and frontier sectors dominate the more serious discussions because military personnel and surveillance concerns are involved. These incidents tend to receive longer media attention and occasional technical scrutiny.
+
+### Major Cities Produce Short-Lived Visual Events
+
+Cities such as Kolkata, Chennai, Pune, and Delhi generate reports centred on unusual lights or photographs. These cases spread quickly but usually fade once no additional evidence appears.
+
+### Evidence Quality Varies Sharply
+
+India’s UFO timeline contains three broad categories:
+
+Type of reportTypical featuresExamplesMulti-witness or institutional casesSecurity concern, repeated observations, official responseLadakh 2012–13, Imphal 2023Civilian observational casesLights, brief sightings, media coverageChennai 2013, Kolkata 2007Viral image or internet-driven claimsEdited images, weak provenance, social-media spreadGorakhpur and Kanpur 2015
+
+The distinction matters because many online lists treat all sightings as equally credible when they are not.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BLJjeYDl-PU" title="The UFO Hunters of Ladakh | Unique Stories from India" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BLJjeYDl-PU" target="_blank" rel="noopener noreferrer">The UFO Hunters of Ladakh | Unique Stories from India</a></p><p class="youtube-embed-meta">Channel: 101 India &middot; Views: 149.6K &middot; Uploaded: August 2016 &middot; Length: 2 minutes 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BLJjeYDl-PU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BLJjeYDl-PU">Open on YouTube</a></p></div></div></div>
+
+## Why India Never Developed a Central UFO Archive
+
+Another striking feature of the Indian timeline is fragmentation. India has no publicly known equivalent to a long-running official UFO archive or declassification programme. Civilian groups such as the UFO Research Society of India and smaller investigator networks have attempted to document cases, but record-keeping remains inconsistent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iarf.res.in/wp-content/uploads/2021/08/IARF-The-truth-is-out-there-tales-India-UFO-investigators-Hindustan-Times.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iarf.res.in">[Indian Astrobiology Research Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iarf.res.in</span><span class="citation-popover-snippet">Indian Astrobiology Research FoundationTales from India&#x27;s UFO investigators - Hindustan TimesAugust 13, 2021 — 11 May 2017 — He is also t...</span><span class="citation-popover-meta">Published: August 13, 2021</span></span></span>
+
+As a result:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* Many early cases survive only through retellings.
+* Regional newspapers are often the main source material.
+* Follow-up investigations are rarely public.
+* Claims become difficult to verify over time.
+
+</div>
+
+This absence of centralised documentation partly explains why Indian UFO history appears episodic rather than continuous. The timeline is shaped as much by media attention and regional conditions as by the sightings themselves.
+
+## The Most Credible Reading of India’s UFO Timeline
+
+The Indian record does not point toward a single coherent mystery. Instead, it reveals several overlapping phenomena operating under the same label:
+
+* Genuine unidentified aerial observations <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/IndianDefense/comments/15ebhmk/unidentified_aerial_phenomena_uap_or_ufo_and/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Unidentified Aerial Phenomena (UAP or UFO) and notable...15th March 1951, New Delhi: 25 members of the Delhi Flying Club... There were...</span><span class="citation-popover-meta">Published: March 1951</span></span></span>
+* Military-security anxieties near borders
+* Atmospheric and astronomical misidentifications
+* Drone and surveillance concerns
+* Hoaxes amplified by digital media
+* Local folklore and public fascination
+
+The strongest cluster remains the Himalayan frontier, where geography, military tension, and difficult viewing conditions repeatedly generate unresolved observations. Urban reports, meanwhile, tend to be more fleeting and visually driven.
+
+Taken together, India’s UFO timeline is best understood not as a hidden archive of spectacular encounters, but as a fragmented map of how different regions interpret unusual things in the sky under very different social and political conditions.
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Where Have UFOs Been Reported in India?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+        </h4>
+        <p class="fr-book-author">By Edward J. Ruppelt</p>
+        
+        <p class="fr-book-desc">Useful comparison to how sightings are documented over time.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+        </h4>
+        <p class="fr-book-author">By Leslie Kean</p>
+        
+        <p class="fr-book-desc">Fits a timeline-style overview of sightings and reports.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+        </h4>
+        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        
+        <p class="fr-book-desc">Provides case categories useful for understanding sighting patterns.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+        </h4>
+        <p class="fr-book-author">By Ross Coulthart</p>
+        
+        <p class="fr-book-desc">Adds contemporary global context to sighting histories.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: Wikipedia  
+   Title: UFO sightings in India  
+   Link: [https://en.wikipedia.org/wiki/UFO_sightings_in_India](https://en.wikipedia.org/wiki/UFO_sightings_in_India)  
+
+2. <a id="endnote-2"></a>
+   Source: upi.com  
+   Title: Indian Army spots UFOs in Ladakh  
+   Link: [https://www.upi.com/Odd_News/2013/08/18/UFOs-spotted-along-India-China-border/1121376858272/](https://www.upi.com/Odd_News/2013/08/18/UFOs-spotted-along-India-China-border/1121376858272/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Aug 2013 — Indian Army troops reported spotting unidentified objects in the sky above the Ladakh sector of the border between I...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/EastMojo/posts/from-eerie-night-skies-to-unsettling-daylight-sightings-northeast-india-has-long/709818137839895/](https://www.facebook.com/EastMojo/posts/from-eerie-night-skies-to-unsettling-daylight-sightings-northeast-india-has-long/709818137839895/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookFrom eerie night skies to unsettling daylight sightings...From eerie night skies to unsettling daylight sightings, Northeast Ind...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/templescience/posts/a-true-mystery-kongka-la-pass-ufo-base-mysterious-story-%EF%B8%8Fhindi-translation-on-im/3308516905856326/](https://www.facebook.com/templescience/posts/a-true-mystery-kongka-la-pass-ufo-base-mysterious-story-%EF%B8%8Fhindi-translation-on-im/3308516905856326/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lagan Kher Area, Demchock, Ladakh, India and it is reported...Read more...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: facebook.com  
+   Title: ufo did you know that in 2012 over 100 unidentified flying objects ufo sightings  
+   Link: [https://www.facebook.com/EastMojo/posts/ufo-did-you-know-that-in-2012-over-100-unidentified-flying-objects-ufo-sightings/2865585877080546/](https://www.facebook.com/EastMojo/posts/ufo-did-you-know-that-in-2012-over-100-unidentified-flying-objects-ufo-sightings/2865585877080546/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>#UFO: Did you know that in 2012, over 100 &quot;Unidentified...#UFO: Did you know that in 2012, over 100 &quot;Unidentified Flying Objects&quot; (UFO)...</p></details>
+
+6. <a id="endnote-6"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/praveenmohanfans/posts/ufo-sighting-in-india-aliens-visit-shiva-temple-praveenmohan-aliens-ufo-drone-in/1154894429333330/](https://www.facebook.com/praveenmohanfans/posts/ufo-sighting-in-india-aliens-visit-shiva-temple-praveenmohan-aliens-ufo-drone-in/1154894429333330/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting in India 🛸 - Aliens visit Shiva Temple 👽...Within just three months, the Indian Army in Ladakh reported 100+ UFO sightings...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: facebook.com  
+   Title: mysterious flying light spotted at many parts of northeast indiavideo manipur mi  
+   Link: [https://www.facebook.com/Hillsnaga/posts/mysterious-flying-light-spotted-at-many-parts-of-northeast-indiavideo-manipur-mi/541204704540703/](https://www.facebook.com/Hillsnaga/posts/mysterious-flying-light-spotted-at-many-parts-of-northeast-indiavideo-manipur-mi/541204704540703/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious flying light spotted at many parts of Northeast...Imphal Airport UFO Sighting: - On November 20, 2023, security...</p></details>
+   Published: November 20, 2023  
+
+8. <a id="endnote-8"></a>
+   Source: indiatoday.in  
+   Link: [https://www.indiatoday.in/magazine/nation/story/20121112-ufo-seen-in-ladakh-jammu-and-kashmir-by-indian-army-itbp-760402-2012-11-01](https://www.indiatoday.in/magazine/nation/story/20121112-ufo-seen-in-ladakh-jammu-and-kashmir-by-indian-army-itbp-760402-2012-11-01)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>India TodayWe are not alone: UFO sightings in Ladakh spook soldiers2 Nov 2012 — Army, astronomers and DRDO have been unable to establish...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: ufofiles.app  
+   Link: [https://ufofiles.app/sightings/india/](https://ufofiles.app/sightings/india/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings in India | UFOFiles.appIndia entered the recent UFO news cycle through the 2023 Imphal airport report and airspace-response...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: iarf.res.in  
+   Link: [https://iarf.res.in/wp-content/uploads/2021/08/IARF-The-truth-is-out-there-tales-India-UFO-investigators-Hindustan-Times.pdf](https://iarf.res.in/wp-content/uploads/2021/08/IARF-The-truth-is-out-there-tales-India-UFO-investigators-Hindustan-Times.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Indian Astrobiology Research FoundationTales from India&#x27;s UFO investigators - Hindustan TimesAugust 13, 2021 — 11 May 2017 — He is also t...</p></details>
+   Published: August 13, 2021  
+
+### Additional References
+
+11. <a id="endnote-11"></a>
+   Source: timesofindia.indiatimes.com  
+   Link: [https://timesofindia.indiatimes.com/city/kolkata/ufo-spotted-near-indo-bangla-border/articleshow/121384058.cms](https://timesofindia.indiatimes.com/city/kolkata/ufo-spotted-near-indo-bangla-border/articleshow/121384058.cms)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitnesses described the object as stationary for approximately 10-12 minutes before vanishing, with some claiming it resembled a drone...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: scribd.com  
+   Link: [https://www.scribd.com/document/829454384/Special-Online-Supplement-Analytical-Paragraph-5](https://www.scribd.com/document/829454384/Special-Online-Supplement-Analytical-Paragraph-5)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings Trends in North India | PDFThe line graph illustrates the number of UFO sightings in North India from July to December last...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: en.bharatpedia.org  
+   Link: [https://en.bharatpedia.org/wiki/UFO_sightings_in_India](https://en.bharatpedia.org/wiki/UFO_sightings_in_India)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>sightings in IndiaResidents of Mogappiar, Chennai observed five specks of bright orange light... Army observed unidentified flying objec...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: dnaindia.com  
+   Title: ufo sightings in india imphal airport manipur iaf air force jets 1700471912526  
+   Link: [https://www.dnaindia.com/web-stories/viral/ufo-sightings-in-india-imphal-airport-manipur-iaf-air-force-jets-1700471912526](https://www.dnaindia.com/web-stories/viral/ufo-sightings-in-india-imphal-airport-manipur-iaf-air-force-jets-1700471912526)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in India20 Nov 2023 — UFO sightings in India · Imphal, Manipur, 2023 · Ludhiana, Punjab, 2021 · Pune, Maharashtra, 2014 · K...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: erp.nema.gov.mn  
+   Title: ufo sightings in india unexplained mysteries 1767648829  
+   Link: [https://erp.nema.gov.mn/today-chronicle/ufo-sightings-in-india-unexplained-mysteries-1767648829](https://erp.nema.gov.mn/today-chronicle/ufo-sightings-in-india-unexplained-mysteries-1767648829)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sightings In India: Unexplained Mysteries6 Jan 2026 — The lack of a definitive explanation for the Kangra Valley sightings underscores th...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: akbartravels.com  
+   Title: ufo in india sightings strange places that prove aliens exist  
+   Link: [https://www.akbartravels.com/in/blogs/ufo-in-india-sightings-strange-places-that-prove-aliens-exist/](https://www.akbartravels.com/in/blogs/ufo-in-india-sightings-strange-places-that-prove-aliens-exist/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Say less and hop on cheap flights to Leh, where in 2013, there were reports of many objects emitting bright...Read more...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: instagram.com  
+   Link: [https://www.instagram.com/p/Cff-9X3IcWw/](https://www.instagram.com/p/Cff-9X3IcWw/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ar-old rock paintings found in the Bastar region of Chhattisgarh.Read more...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/IndianDefense/comments/15ebhmk/unidentified_aerial_phenomena_uap_or_ufo_and/](https://www.reddit.com/r/IndianDefense/comments/15ebhmk/unidentified_aerial_phenomena_uap_or_ufo_and/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Aerial Phenomena (UAP or UFO) and notable...15th March 1951, New Delhi: 25 members of the Delhi Flying Club... There were...</p></details>
+   Published: March 1951  
+
+19. <a id="endnote-19"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/UFOs/comments/15eb2kq/good_to_know_ufo_sightings_arent_just_a_western/](https://www.reddit.com/r/UFOs/comments/15eb2kq/good_to_know_ufo_sightings_arent_just_a_western/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s famous for schools but also has military training...Read more...</p></details>
+
+20. <a id="endnote-20"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/IndiaSpeaks/comments/15gt71y/have_you_witnessed_any_ufo_sightings_in_india/](https://www.reddit.com/r/IndiaSpeaks/comments/15gt71y/have_you_witnessed_any_ufo_sightings_in_india/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>completely baffled by the jerky motion it was making.Read more...</p></details>

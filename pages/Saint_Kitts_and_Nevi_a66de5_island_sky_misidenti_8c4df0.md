@@ -1,0 +1,582 @@
+---
+level: 2
+basename: Saint_Kitts_and_Nevi_a66de5_island_sky_misidenti_8c4df0
+parent_basename: Saint_Kitts_and_Nevi_a66de5
+child_basenames: []
+sibling_basenames:
+- Saint_Kitts_and_Nevi_a66de5_basseterre_reports_50f288
+- Saint_Kitts_and_Nevi_a66de5_official_records_gap_43c6bb
+- Saint_Kitts_and_Nevi_a66de5_rocket_plumes_0fc132
+tags:
+- saint-kitts-and-nevis
+- sky-traps
+keywords:
+- saint-kitts-and-nevis
+- sky-traps
+affiliate_category: saint-kitts-and-nevis
+show_ads: true
+description: Clear horizons, boats, airport traffic and coastal viewing angles make Saint Kitts and Nevis sightings easy to misread.
+hero_summary: Clear horizons, boats, airport traffic and coastal viewing angles make Saint Kitts and Nevis sightings easy to misread.
+layout: default
+permalink: /sky-traps/
+sidebar_expanded_urls:
+- /saint-kitts-and-nevis/
+nav_short_title: Sky Traps
+title: Why Island Skies Can Trick UFO Witnesses
+title_full: Why Island Skies Can Trick UFO Witnesses | Kitts UFOs
+display_title_short: Sky Traps
+display_title: Sky Traps
+heading_title: Why Island Skies Can Trick UFO Witnesses
+page_heading_title: Why Island Skies Can Trick UFO Witnesses
+source_count: 32
+infographic_count: 3
+planned_sections:
+- Harbour lights and coastal viewpoints
+- Airport traffic and approach paths
+- Drones, satellites and distant lights
+focal_unit_type: population_context
+topic_lens: critique_risk
+topic_granularity: theme_cluster
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+parent_title: Kitts UFOs
+parent_permalink: /saint-kitts-and-nevis/
+parent_nav_short_title: Kitts UFOs
+parent_heading_title: What Really Happened in the Kitts UFO Reports?
+ancestor_links:
+- basename: Saint_Kitts_and_Nevi_a66de5
+  title: Kitts UFOs
+  permalink: /saint-kitts-and-nevis/
+  short_title: Kitts UFOs
+breadcrumb_links:
+- basename: Saint_Kitts_and_Nevi_a66de5
+  title: Kitts UFOs
+  permalink: /saint-kitts-and-nevis/
+  short_title: Kitts UFOs
+sibling_links:
+- basename: Saint_Kitts_and_Nevi_a66de5_basseterre_reports_50f288
+  title: Basseterre Cases | What Really Happened in the Kitts UFO Reports?
+  permalink: /basseterre-cases/
+  short_title: Basseterre Cases
+  heading_title: How Strong Are the Basseterre UFO Reports?
+- basename: Saint_Kitts_and_Nevi_a66de5_official_records_gap_43c6bb
+  title: Records Gap | What Really Happened in the Kitts UFO Reports?
+  permalink: /records-gap-91f6ec/
+  short_title: Records Gap
+  heading_title: Where Would a Real UFO Inquiry Start?
+- basename: Saint_Kitts_and_Nevi_a66de5_rocket_plumes_0fc132
+  title: Rocket Plumes | What Really Happened in the Kitts UFO Reports?
+  permalink: /rocket-plumes/
+  short_title: Rocket Plumes
+  heading_title: When Rocket Plumes Look Like UFOs
+up_link:
+  basename: Saint_Kitts_and_Nevi_a66de5
+  title: Kitts UFOs
+  permalink: /saint-kitts-and-nevis/
+  short_title: Kitts UFOs
+prev_link:
+  basename: Saint_Kitts_and_Nevi_a66de5_rocket_plumes_0fc132
+  title: Rocket Plumes | What Really Happened in the Kitts UFO Reports?
+  permalink: /rocket-plumes/
+  short_title: Rocket Plumes
+  heading_title: When Rocket Plumes Look Like UFOs
+date: '2026-05-31 04:29:25 '
+header:
+  og_image: /assets/images/Saint_Kitts_and_Nevi_a66de5_island_sky_misidenti_8c4df0-Illustration-1-social.jpg
+  preview_image: /assets/images/Saint_Kitts_and_Nevi_a66de5_island_sky_misidenti_8c4df0-Illustration-1.webp
+image: /assets/images/Saint_Kitts_and_Nevi_a66de5_island_sky_misidenti_8c4df0-Illustration-1-social.jpg
+---
+
+## Introduction
+
+[Saint Kitts and Nevis]({{ 'saint-kitts-and-nevis/' | relative_url }}) produces a particular kind of UFO report: distant lights over water, glowing objects near the horizon, unusual aerial movement seen from beaches or harbours, and bright trails crossing the night sky. The pattern is not accidental. The federation’s geography creates ideal conditions for visual misidentification. Long sea horizons remove many of the distance cues that people normally use to judge size, speed and altitude, while airport traffic, marine navigation lights and occasional rocket launches can appear strange when viewed from the coast.
+
+
+<img src="{{ "/assets/images/Saint_Kitts_and_Nevi_a66de5_island_sky_misidenti_8c4df0-Illustration-1-light.svg" | relative_url }}" alt="Sky Traps illustration 1" data-theme-src-dark="{{ "/assets/images/Saint_Kitts_and_Nevi_a66de5_island_sky_misidenti_8c4df0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Saint_Kitts_and_Nevi_a66de5_island_sky_misidenti_8c4df0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+This does not mean every sighting is automatically explained. It means that many reports from Saint Kitts and Nevis emerge from an environment where ordinary objects can look extraordinary. Understanding those visual traps helps explain why some of the country's best-known public UFO reports involve lights, glowing objects and apparent motion rather than close-range encounters or physical evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://associatestimes.com/saint-kitts-nevis/spacex-launch-misinterpreted-as-ufo-by-locals-in-st-kitts-and-nevis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: associatestimes.com">[associatestimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">associatestimes.com</span><span class="citation-popover-title">Space X launch misinterpreted as UFO by locals in St Kitts</span><span class="citation-popover-snippet">SpaceX launch misinterpreted as UFO by locals in St Kitts...November 20, 2024 — 20 Nov 2024 — The launch of the SpaceX Starship rocket w...</span><span class="citation-popover-meta">Published: November 20, 2024</span></span></span>
+
+## Why Island Skies Can Trick UFO Witnesses
+
+Unlike observers in large inland countries, residents of Saint Kitts and Nevis often look out across uninterrupted sea horizons. Over water, there are few buildings, hills, trees or other landmarks that help the eye estimate distance.
+
+A bright object close to the horizon can therefore appear much larger or farther away than it really is. A vessel several kilometres offshore may seem suspended in the sky. A distant aircraft approaching from over the sea can appear stationary for long periods before suddenly seeming to move. Atmospheric haze can further distort colours and brightness, especially during humid Caribbean evenings.
+
+These conditions are important because many UFO reports depend on witness estimates of speed, altitude and size. When those estimates come from horizon viewing rather than nearby reference points, the margin for error increases dramatically. The observer may honestly report a fast-moving or hovering object while unknowingly watching a distant aircraft, ship or atmospheric effect.
+
+The issue is especially relevant around Basseterre, where urban lighting, harbour activity and airport operations all occupy the same visual space. From many coastal viewpoints, lights from aircraft, ships and shoreline infrastructure can overlap against the dark sea and sky, creating ambiguous observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Robert_L._Bradshaw_International_Airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robert L. Bradshaw International Airport</span><span class="citation-popover-snippet">Robert L. Bradshaw International Airport</span></span></span>
+
+## Harbour Lights and Coastal Viewpoints
+
+### Why vessels can appear airborne
+
+Basseterre harbour is one of the busiest visual environments in the federation. Ferries, cargo vessels, yachts and cruise ships all carry navigation lights that remain visible at considerable distances.
+
+At night, an observer may see only isolated lights rather than the outline of the vessel itself. When the sea surface disappears into darkness, those lights can seem detached from any physical object. A slowly moving ship viewed head-on may even appear stationary for extended periods because its lateral movement is difficult to perceive.
+
+Witnesses often interpret unusual brightness as evidence that an object is closer than it actually is. Over water, that assumption can be misleading. A powerful ship light or illuminated cruise vessel can remain visible long after the vessel itself is impossible to distinguish.
+
+### The horizon illusion
+
+One of the most common coastal perception errors involves the horizon line itself.
+
+When atmospheric conditions blur the boundary between sea and sky, lights near the horizon can appear to rise, descend or hover. Slight changes in weather, cloud cover or viewing angle may make a distant object seem to change position dramatically. A witness may interpret these shifts as intelligent manoeuvres when they are actually the result of perspective and atmospheric distortion.
+
+This matters because several public Caribbean UFO accounts, including reports from Saint Kitts and neighbouring islands, describe lights apparently hovering over the sea before disappearing. Such descriptions fit a category of sightings that investigators often treat cautiously because the viewing geometry makes reliable distance estimation difficult.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iennvrKaAzQ" title="Optical illusion creates ‘UFO mirage&#x27; over sea in Alaska" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iennvrKaAzQ" target="_blank" rel="noopener noreferrer">Optical illusion creates ‘UFO mirage&#x27; over sea in Alaska</a></p><p class="youtube-embed-meta">Channel: The Independent &middot; Views: 37.7K &middot; Uploaded: August 2021 &middot; Length: 49 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iennvrKaAzQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iennvrKaAzQ">Open on YouTube</a></p></div></div></div>
+
+## Airport Traffic and Approach Paths
+
+### Aircraft often approach over water
+
+The main international gateway, Robert L. Bradshaw International Airport, sits immediately northeast of Basseterre and serves regional and international traffic. Aircraft arriving or departing frequently appear over open water from the perspective of coastal observers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Shag Harbour UFO incident</span><span class="citation-popover-snippet">Shag Harbour UFO incidentThe Shag Harbour UFO incident was the reported impact of an unknown large object into waters near Shag Harbou...</span></span></span>
+
+This creates a classic UFO-reporting scenario. A plane flying directly toward an observer can seem almost motionless because its forward movement produces little sideways visual change. Only its lights may be visible. After several minutes, the aircraft may suddenly appear to accelerate or turn when its angle relative to the observer changes.
+
+Witnesses unfamiliar with approach patterns sometimes interpret this behaviour as impossible hovering or abrupt manoeuvring.
+
+### Landing lights can look far brighter than expected
+
+Modern aircraft landing lights are extremely bright. Under clear Caribbean conditions they can be visible from long distances over the sea.
+
+To an observer who cannot see the aircraft body, the light may resemble a glowing orb rather than a conventional aeroplane. Changes in cloud cover or humidity can create halos around the light source, making it appear larger or more diffuse. In some cases, witnesses report a luminous object with a surrounding haze, a description that overlaps with several civilian UFO reports worldwide.
+
+Saint Kitts and Nevis presents an especially favourable setting for such confusion because the airport, coastline and populated viewing areas sit close together. An observer looking seaward may be watching routine aviation traffic without immediately recognising it as such. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Robert_L._Bradshaw_International_Airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robert L. Bradshaw International Airport</span><span class="citation-popover-snippet">Robert L. Bradshaw International Airport</span></span></span>
+
+
+<img src="{{ "/assets/images/Saint_Kitts_and_Nevi_a66de5_island_sky_misidenti_8c4df0-Illustration-2-light.svg" | relative_url }}" alt="Sky Traps illustration 2" data-theme-src-dark="{{ "/assets/images/Saint_Kitts_and_Nevi_a66de5_island_sky_misidenti_8c4df0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Saint_Kitts_and_Nevi_a66de5_island_sky_misidenti_8c4df0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+### Small-island scale can distort perception
+
+The federation's compact geography can also encourage mistaken assumptions about distance.
+
+Observers frequently know local landmarks well. When a light appears beyond those familiar points, the brain may unconsciously place the object within the local landscape rather than tens of kilometres away. This can lead witnesses to overestimate an object's size or underestimate its distance.
+
+The result is a recurring pattern in UFO reporting: a light perceived as large, low and nearby later proves consistent with an aircraft operating much farther away than initially assumed.
+
+## Drones, Satellites and Distant Lights
+
+### Consumer drones add a new layer of confusion
+
+Although Saint Kitts and Nevis has not produced a large public archive of drone-related UFO reports, drones create conditions that fit many contemporary sighting descriptions.
+
+A drone carrying bright LEDs can hover, change direction rapidly and operate quietly at a distance. Over water at night, depth perception becomes weak, making it difficult to estimate altitude or size. A small drone may appear larger and farther away than it actually is.
+
+For witnesses who expect conventional aircraft behaviour, a hovering light that suddenly shifts direction can seem highly unusual even when it has a straightforward explanation.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/R-Lacu0VG3Y" title="Is This Boat Floating In Mid-Air? No! But Here&#x27;s Why It Looks That Way" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=R-Lacu0VG3Y" target="_blank" rel="noopener noreferrer">Is This Boat Floating In Mid-Air? No! But Here&#x27;s Why It Looks That Way</a></p><p class="youtube-embed-meta">Channel: Science Channel &middot; Views: 265.8K &middot; Uploaded: April 2017 &middot; Length: 1 minute 55 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=R-Lacu0VG3Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=R-Lacu0VG3Y">Open on YouTube</a></p></div></div></div>
+
+### Satellites and Starlink trains
+
+Satellite visibility has changed noticeably during the past decade.
+
+Groups of satellites travelling in formation, particularly shortly after deployment, have generated UFO reports across many countries. A line of evenly spaced lights moving silently across the sky can appear unfamiliar to observers who have never seen satellite trains before.
+
+Because Saint Kitts and Nevis enjoys relatively dark viewing conditions outside its urban centres, satellites are often easier to spot than in heavily light-polluted regions. That improves sky visibility but also increases opportunities for misidentification.
+
+### Rocket launches visible from the Caribbean
+
+The strongest recent example of large-scale misidentification involved SpaceX activity.
+
+In November 2024, residents across Saint Kitts and Nevis discussed bright moving lights that some initially interpreted as a UFO. Local reporting later identified the object as a SpaceX Starship launch from Texas. The event was visible across parts of the Caribbean because of the rocket's altitude and the lighting conditions at upper atmospheric levels. <span class="citation-chip-wrap"><a class="citation-chip" href="https://associatestimes.com/saint-kitts-nevis/spacex-launch-misinterpreted-as-ufo-by-locals-in-st-kitts-and-nevis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: associatestimes.com">[associatestimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">associatestimes.com</span><span class="citation-popover-title">Space X launch misinterpreted as UFO by locals in St Kitts</span><span class="citation-popover-snippet">SpaceX launch misinterpreted as UFO by locals in St Kitts...November 20, 2024 — 20 Nov 2024 — The launch of the SpaceX Starship rocket w...</span><span class="citation-popover-meta">Published: November 20, 2024</span></span></span> Facebook This incident closely matches a broader pattern seen throughout the region. Rocket launches can produce glowing plumes <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/100064818425624/posts/reports-are-emerging-across-trinidad-and-tobago-after-a-strange-and-unusual-obje/1462105905960010/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Reports are emerging across Trinidad and Tobago after a...It&#x27;s actually the SpaceX rocket launch from Texas that is visible across parts...</span></span></span>, expanding clouds and unusual motion unlike normal aircraft. To observers who are unaware of launch schedules, the spectacle can appear genuinely anomalous.
+
+The significance of the 2024 event is not merely that it was explained. It demonstrates how a highly visible aerospace event can rapidly generate UFO discussion across multiple islands even when the source is thousands of kilometres away. <span class="citation-chip-wrap"><a class="citation-chip" href="https://associatestimes.com/saint-kitts-nevis/spacex-launch-misinterpreted-as-ufo-by-locals-in-st-kitts-and-nevis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: associatestimes.com">[associatestimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">associatestimes.com</span><span class="citation-popover-title">Space X launch misinterpreted as UFO by locals in St Kitts</span><span class="citation-popover-snippet">SpaceX launch misinterpreted as UFO by locals in St Kitts...November 20, 2024 — 20 Nov 2024 — The launch of the SpaceX Starship rocket w...</span><span class="citation-popover-meta">Published: November 20, 2024</span></span></span>
+
+
+<img src="{{ "/assets/images/Saint_Kitts_and_Nevi_a66de5_island_sky_misidenti_8c4df0-Illustration-3-light.svg" | relative_url }}" alt="Sky Traps illustration 3" data-theme-src-dark="{{ "/assets/images/Saint_Kitts_and_Nevi_a66de5_island_sky_misidenti_8c4df0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Saint_Kitts_and_Nevi_a66de5_island_sky_misidenti_8c4df0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## What Investigators Look For Before Calling Something Unidentified
+
+When evaluating a sighting from Saint Kitts and Nevis, investigators typically focus on several practical questions before considering extraordinary explanations:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* Was the object seen over water or against the horizon?
+* Was Robert L. Bradshaw International Airport or a known flight corridor in the viewing direction?
+* Were ferries, yachts, cargo ships or cruise vessels present offshore?
+* Did the event coincide with a known rocket launch, satellite pass or astronomical event?
+* Did multiple witnesses observe the same object from different locations?
+* Are photographs, videos or timing information available?
+
+</div>
+
+These questions matter because the strongest public cases from Saint Kitts and Nevis generally involve distant lights rather than close-range encounters. The 2023 Basseterre harbour report that was later classified by NUFORC as a probable rocket and the widespread 2024 Starship misidentification both illustrate how unusual-looking aerial phenomena can emerge from ordinary aerospace activity when viewed from island coastlines. <span class="citation-chip-wrap"><a class="citation-chip" href="https://associatestimes.com/saint-kitts-nevis/spacex-launch-misinterpreted-as-ufo-by-locals-in-st-kitts-and-nevis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: associatestimes.com">[associatestimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">associatestimes.com</span><span class="citation-popover-title">Space X launch misinterpreted as UFO by locals in St Kitts</span><span class="citation-popover-snippet">SpaceX launch misinterpreted as UFO by locals in St Kitts...November 20, 2024 — 20 Nov 2024 — The launch of the SpaceX Starship rocket w...</span><span class="citation-popover-meta">Published: November 20, 2024</span></span></span>
+
+## Why Misidentification Risks Matter More in Saint Kitts and Nevis Than in Many Larger Countries
+
+The federation's UFO record is small, but its geography makes it unusually useful for understanding perception errors.
+
+Harbours, open sea horizons, international air traffic and occasional visibility of distant rocket launches all converge within a compact area. Witnesses often observe strange lights from beaches, marinas, coastal roads or hillside viewpoints where depth perception is naturally limited. In such settings, brightness can be mistaken for proximity, apparent hovering can be created by approach geometry, and unusual colours can result from atmospheric conditions rather than exotic technology.
+
+That does not eliminate the possibility of genuinely unexplained observations. It does, however, explain why many of the most discussed sightings in Saint Kitts and Nevis involve lights, glowing objects and distant movement rather than evidence that can be independently verified. For anyone assessing reports from the islands, the harbour, the airport and the horizon are often the first places to look before looking for something extraordinary.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jmppoOFBggM" title="Fata Morgana: The Optical Illusion Behind Ghost Ships &amp; UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jmppoOFBggM" target="_blank" rel="noopener noreferrer">Fata Morgana: The Optical Illusion Behind Ghost Ships &amp; UFOs</a></p><p class="youtube-embed-meta">Channel: EverCreate Studio &middot; Views: 183 &middot; Uploaded: October 2024 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jmppoOFBggM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jmppoOFBggM">Open on YouTube</a></p></div></div></div>
+
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Island Skies Can Trick UFO Witnesses. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+        </h4>
+        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        
+        <p class="fr-book-desc">Covers misidentifications, observation limits and witness interpretation.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+        </h4>
+        <p class="fr-book-author">By Leslie Kean</p>
+        
+        <p class="fr-book-desc">Provides comparison with cases supported by stronger evidence than distant lights.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+        </h4>
+        <p class="fr-book-author">By Michael Shermer</p>
+        
+        <p class="fr-book-desc">Directly relates to how people misread patterns, lights and ambiguous events.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience, A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
+        </h4>
+        <p class="fr-book-author">By J. Allen Hynek</p>
+        
+        <p class="fr-book-desc">First published 1972.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: associatestimes.com  
+   Title: Space X launch misinterpreted as UFO by locals in St Kitts  
+   Link: [https://associatestimes.com/saint-kitts-nevis/spacex-launch-misinterpreted-as-ufo-by-locals-in-st-kitts-and-nevis](https://associatestimes.com/saint-kitts-nevis/spacex-launch-misinterpreted-as-ufo-by-locals-in-st-kitts-and-nevis)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX launch misinterpreted as UFO by locals in St Kitts...November 20, 2024 — 20 Nov 2024 — The launch of the SpaceX Starship rocket w...</p></details>
+   Published: November 20, 2024  
+
+2. <a id="endnote-2"></a>
+   Source: Wikipedia  
+   Title: Robert L. Bradshaw International Airport  
+   Link: [https://en.wikipedia.org/wiki/Robert_L._Bradshaw_International_Airport](https://en.wikipedia.org/wiki/Robert_L._Bradshaw_International_Airport)  
+
+3. <a id="endnote-3"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/100064818425624/posts/reports-are-emerging-across-trinidad-and-tobago-after-a-strange-and-unusual-obje/1462105905960010/](https://www.facebook.com/100064818425624/posts/reports-are-emerging-across-trinidad-and-tobago-after-a-strange-and-unusual-obje/1462105905960010/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reports are emerging across Trinidad and Tobago after a...It&#x27;s actually the SpaceX rocket launch from Texas that is visible across parts...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/jonathanmoratt/posts/-many-residents-across-trinidad-tobago-and-the-wider-caribbean-were-surprised-la/2037054683856603/](https://www.facebook.com/jonathanmoratt/posts/-many-residents-across-trinidad-tobago-and-the-wider-caribbean-were-surprised-la/2037054683856603/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Jonathan MoraThe launch was visible across parts of the Caribbean because the rocket travelled at an extremely high altitude after liftof...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/firstpostin/videos/spacex-starship-lights-up-caribbean-sky-during-test-flight-12residents-across-th/1462892082540932/](https://www.facebook.com/firstpostin/videos/spacex-starship-lights-up-caribbean-sky-during-test-flight-12residents-across-th/1462892082540932/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>12 reactions | SpaceX Starship Lights Up Caribbean Sky...SpaceX Starship Lights Up Caribbean Sky During Test Flight 12 Residents across...</p></details>
+
+6. <a id="endnote-6"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/groups/176530020440/posts/10171522808310441/](https://www.facebook.com/groups/176530020440/posts/10171522808310441/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ight light, turning all 23 Soviet soldiers to stone. Only...Read more...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/Onenewssvg/posts/trending_now-campden-park-residents-report-strange-light-in-the-night-skies-toni/997531282390564/](https://www.facebook.com/Onenewssvg/posts/trending_now-campden-park-residents-report-strange-light-in-the-night-skies-toni/997531282390564/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>CAMPDEN PARK RESIDENTS REPORT STRANGE LIGHT...Residents think it might be a meteorite. According to CNN, Spacex kicked off the sixth Sta...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/SKNTimes/posts/-1000-pm-question-for-the-authorities-publicits-1000-pm-and-robert-l-bradshaw-in/1408758074594369/](https://www.facebook.com/SKNTimes/posts/-1000-pm-question-for-the-authorities-publicits-1000-pm-and-robert-l-bradshaw-in/1408758074594369/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>10:00 PM | QUESTION FOR THE AUTHORITIES &amp; PUBLIC...224/2019 St Kitts&#x27; Robert Bradshaw Airport runway damaged; reportedly closed to traff...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/groups/828178678983076/posts/1023765419424400/](https://www.facebook.com/groups/828178678983076/posts/1023765419424400/)  
+
+10. <a id="endnote-10"></a>
+   Source: facebook.com  
+   Title: st kitts and nevis closed out 2025 with a powerful and visible statement of glob  
+   Link: [https://www.facebook.com/WICNews/posts/st-kitts-and-nevis-closed-out-2025-with-a-powerful-and-visible-statement-of-glob/1729529801831776/](https://www.facebook.com/WICNews/posts/st-kitts-and-nevis-closed-out-2025-with-a-powerful-and-visible-statement-of-glob/1729529801831776/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bradshaw International Airport in Basseterre, St. Kitts &amp; Nevis. This is the third time in...Read more...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: Wikipedia  
+   Title: Shag Harbour UFO incident  
+   Link: [https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident](https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shag Harbour UFO incidentThe Shag Harbour UFO incident was the reported impact of an unknown large object into waters near Shag Harbou...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: flyvictor.com  
+   Title: Robert L  
+   Link: [https://www.flyvictor.com/en-us/private-jet-airports/robert-l-bradshaw-international-airport-skb/](https://www.flyvictor.com/en-us/private-jet-airports/robert-l-bradshaw-international-airport-skb/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bradshaw International Airport (SKB), (St Kitts Is.)...Robert L. Bradshaw International Airport is an international private jet airport...</p></details>
+
+### Additional References
+
+13. <a id="endnote-13"></a>
+   Source: kupi.com  
+   Link: [https://www.kupi.com/en-ae/explore/saint-kitts-and-nevis/basseterre/robert-l-bradshaw-international-airport](https://www.kupi.com/en-ae/explore/saint-kitts-and-nevis/basseterre/robert-l-bradshaw-international-airport)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Robert L. Bradshaw Airport (SKB) – St. Kitts GuideFind essential info for Robert L. Bradshaw airport, including terminals, transport to B...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: instagram.com  
+   Link: [https://www.instagram.com/reel/DYrcOwjE__I/](https://www.instagram.com/reel/DYrcOwjE__I/)  
+
+15. <a id="endnote-15"></a>
+   Source: acukwik.com  
+   Link: [https://acukwik.com/Airport-Info/TKPK](https://acukwik.com/Airport-Info/TKPK)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ICAO - TKPK, IATA - SKB. Weather... Airport Light Intensity. MEDIUM. Airport of Entry. Yes. Airport of Entry...Read more...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: yourexpertwitness.co.uk  
+   Link: [https://www.yourexpertwitness.co.uk/expert-witness-home/legal-news/15-expert-witness-legal-news/154-files-detailing-mysterious-sightings-of-ufos-are-released-by-mod](https://www.yourexpertwitness.co.uk/expert-witness-home/legal-news/15-expert-witness-legal-news/154-files-detailing-mysterious-sightings-of-ufos-are-released-by-mod)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The drawing of a mystery object in 1995 is just one of a host of sightings made public today.Read more...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=086CYwpX5Fc](https://www.youtube.com/watch?v=086CYwpX5Fc)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>How optical illusions create UFO sightings horizon Optical illusion creates ‘UFO mirage&#x27; over sea in Alaska The Independent...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: manchestersfinest.com  
+   Title: unsolved mysteries the curious near miss of flight ba5061  
+   Link: [https://www.manchestersfinest.com/long-reads/unsolved-mysteries-the-curious-near-miss-of-flight-ba5061/](https://www.manchestersfinest.com/long-reads/unsolved-mysteries-the-curious-near-miss-of-flight-ba5061/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pennines UFO &#x27;Near Miss&#x27; of Flight BA50618 May 2022 — During their approach to Manchester Airport, the pilot and first officer descri...</p></details>
+   Published: May 2022  
+
+19. <a id="endnote-19"></a>
+   Source: mapy.com  
+   Link: [https://mapy.com/en/?id=17498690&source=osm](https://mapy.com/en/?id=17498690&source=osm)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>t hub: Basseterre; elevation above sea level: 4 m.Read more...</p></details>
+
+20. <a id="endnote-20"></a>
+   Source: instagram.com  
+   Link: [https://www.instagram.com/reel/DRAUjP1jKoo/?hl=en](https://www.instagram.com/reel/DRAUjP1jKoo/?hl=en)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>presence against the night sky. The Pentagon has confirmed...</p></details>
+
+21. <a id="endnote-21"></a>
+   Source: expedia.co.uk  
+   Title: Cheap Flights from Robert L  
+   Link: [https://www.expedia.co.uk/lp/airports/skb/flights-from-robert-l-bradshaw-intl-airport](https://www.expedia.co.uk/lp/airports/skb/flights-from-robert-l-bradshaw-intl-airport)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bradshaw Intl. Airport (SKB)How to find cheap flights from SKB with Expedia? The best price for a flight from Basseterre (SKB-Robert L. B...</p></details>
+
+22. <a id="endnote-22"></a>
+   Source: essex.police.uk  
+   Title: ufo reports 2014 to 2024  
+   Link: [https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/](https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Essex Police can report the following information regarding recorded UFO incidents between 2014 and 2024 from previous FOI disclosures.Re...</p></details>

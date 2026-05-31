@@ -1,0 +1,517 @@
+---
+level: 2
+basename: Saudi_Arabia_8bf7f8_medina_reentry_sight_ce446a
+parent_basename: Saudi_Arabia_8bf7f8
+child_basenames: []
+sibling_basenames:
+- Saudi_Arabia_8bf7f8_jizan_southern_sky_60d40f
+- Saudi_Arabia_8bf7f8_saudi_ufo_evidence_s_8cc49f
+- Saudi_Arabia_8bf7f8_saudi_ufo_records_ga_db06bb
+tags:
+- saudi-arabia
+- medina-lights
+keywords:
+- saudi-arabia
+- medina-lights
+affiliate_category: saudi-arabia
+show_ads: true
+description: The Medina light reports show how rocket re-entries can look mysterious when seen over crowded sacred-city skies.
+hero_summary: The Medina light reports show how rocket re-entries can look mysterious when seen over crowded sacred-city skies.
+layout: default
+permalink: /medina-lights/
+sidebar_expanded_urls:
+- /what-really-explains-saudi-arabias-ufo/
+nav_short_title: Medina Lights
+title: Was The Medina UFO Really Space Debris?
+title_full: Was The Medina UFO Really Space Debris? | Saudi UFOs
+display_title_short: Medina Lights
+display_title: Medina Lights
+heading_title: Was The Medina UFO Really Space Debris?
+page_heading_title: Was The Medina UFO Really Space Debris?
+source_count: 21
+infographic_count: 3
+planned_sections:
+- The 2014 Medina video claim
+- Rocket re entry clues
+- Why sacred city sightings spread fast
+focal_unit_type: event_time_window
+topic_lens: mechanism
+topic_granularity: pillar
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+parent_title: Saudi UFOs
+parent_permalink: /what-really-explains-saudi-arabias-ufo/
+parent_nav_short_title: Saudi UFOs
+parent_heading_title: What Really Explains Saudi Arabia's UFO Reports?
+ancestor_links:
+- basename: Saudi_Arabia_8bf7f8
+  title: Saudi UFOs
+  permalink: /what-really-explains-saudi-arabias-ufo/
+  short_title: Saudi UFOs
+breadcrumb_links:
+- basename: Saudi_Arabia_8bf7f8
+  title: Saudi UFOs
+  permalink: /what-really-explains-saudi-arabias-ufo/
+  short_title: Saudi UFOs
+sibling_links:
+- basename: Saudi_Arabia_8bf7f8_saudi_ufo_evidence_s_8cc49f
+  title: Evidence Split | What Really Explains Saudi Arabia's UFO Reports?
+  permalink: /evidence-split-c0ac2a/
+  short_title: Evidence Split
+  heading_title: Which Saudi UFO Cases Actually Hold Up?
+- basename: Saudi_Arabia_8bf7f8_jizan_southern_sky_60d40f
+  title: Jizan Sky | What Really Explains Saudi Arabia's UFO Reports?
+  permalink: /jizan-sky/
+  short_title: Jizan Sky
+  heading_title: Why Southern Saudi Sightings Are Hard To Read
+- basename: Saudi_Arabia_8bf7f8_saudi_ufo_records_ga_db06bb
+  title: Records Gap | What Really Explains Saudi Arabia's UFO Reports?
+  permalink: /records-gap-d1601a/
+  short_title: Records Gap
+  heading_title: Where Are Saudi Arabia's UFO Records?
+up_link:
+  basename: Saudi_Arabia_8bf7f8
+  title: Saudi UFOs
+  permalink: /what-really-explains-saudi-arabias-ufo/
+  short_title: Saudi UFOs
+prev_link:
+  basename: Saudi_Arabia_8bf7f8_jizan_southern_sky_60d40f
+  title: Jizan Sky | What Really Explains Saudi Arabia's UFO Reports?
+  permalink: /jizan-sky/
+  short_title: Jizan Sky
+  heading_title: Why Southern Saudi Sightings Are Hard To Read
+next_link:
+  basename: Saudi_Arabia_8bf7f8_saudi_ufo_records_ga_db06bb
+  title: Records Gap | What Really Explains Saudi Arabia's UFO Reports?
+  permalink: /records-gap-d1601a/
+  short_title: Records Gap
+  heading_title: Where Are Saudi Arabia's UFO Records?
+date: '2026-05-31 04:30:25 '
+header:
+  og_image: /assets/images/Saudi_Arabia_8bf7f8_medina_reentry_sight_ce446a-Illustration-1-social.jpg
+  preview_image: /assets/images/Saudi_Arabia_8bf7f8_medina_reentry_sight_ce446a-Illustration-1.webp
+image: /assets/images/Saudi_Arabia_8bf7f8_medina_reentry_sight_ce446a-Illustration-1-social.jpg
+---
+
+## Introduction
+
+The most widely shared Saudi Arabian “UFO” video of 2014 was probably not a UFO in the extraterrestrial sense at all. The Medina light filmed above one of Islam’s holiest cities appears to fit a much more familiar pattern: a high-altitude space-debris re-entry seen under dramatic viewing conditions. What made the event memorable was not only the bright object itself, but the setting. A luminous streak crossing the sky above Medina, near the Prophet’s Mosque, was witnessed and recorded in a densely populated sacred city where unusual events attract immediate attention and rapid discussion. Reports spread quickly, and early media coverage framed the object as an unidentified flying object before astronomers offered a more conventional explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emirates247.com/news/region/was-this-a-ufo-sighted-over-saudi-arabia-2014-01-17-1.535068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emirates247.com">[Emirates 24|7]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emirates247.com</span><span class="citation-popover-title">Emirates 24|7Was this a &#x27;UFO&#x27; sighted over Saudi Arabia?</span><span class="citation-popover-snippet">January 17, 2014 — 16 Jan 2014 — A Saudi newspaper on Friday published a film showing what it described as an unidentified flying object...</span><span class="citation-popover-meta">Published: January 17, 2014</span></span></span>
+
+
+<img src="{{ "/assets/images/Saudi_Arabia_8bf7f8_medina_reentry_sight_ce446a-Illustration-1-light.svg" | relative_url }}" alt="Medina Lights illustration 1" data-theme-src-dark="{{ "/assets/images/Saudi_Arabia_8bf7f8_medina_reentry_sight_ce446a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Saudi_Arabia_8bf7f8_medina_reentry_sight_ce446a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+The Medina case is important because it shows how rocket debris can generate classic UFO narratives. The object appeared suddenly, was bright enough to draw crowds, lacked an obvious aircraft profile, and was seen at night against a dark sky. Those are exactly the conditions under which space re-entries have repeatedly been mistaken for mysterious craft around the world. In the Saudi context, the incident also highlights how viral videos, religious symbolism and limited technical information can combine to produce a lasting UFO story even when a plausible aerospace explanation exists. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emirates247.com/news/region/was-this-a-ufo-sighted-over-saudi-arabia-2014-01-17-1.535068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emirates247.com">[Emirates 24|7]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emirates247.com</span><span class="citation-popover-title">Emirates 24|7Was this a &#x27;UFO&#x27; sighted over Saudi Arabia?</span><span class="citation-popover-snippet">January 17, 2014 — 16 Jan 2014 — A Saudi newspaper on Friday published a film showing what it described as an unidentified flying object...</span><span class="citation-popover-meta">Published: January 17, 2014</span></span></span>
+
+## The 2014 Medina Video Claim
+
+In mid-January 2014, Saudi and regional media circulated footage showing a bright object moving across the night sky above Medina. Reports stated that the video had been captured near the Prophet’s Mosque at around 9 pm local time and described the object as a possible UFO. The footage was republished across regional news sites and UFO-focused websites, where it was often presented without technical analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emirates247.com/news/region/was-this-a-ufo-sighted-over-saudi-arabia-2014-01-17-1.535068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emirates247.com">[Emirates 24|7]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emirates247.com</span><span class="citation-popover-title">Emirates 24|7Was this a &#x27;UFO&#x27; sighted over Saudi Arabia?</span><span class="citation-popover-snippet">January 17, 2014 — 16 Jan 2014 — A Saudi newspaper on Friday published a film showing what it described as an unidentified flying object...</span><span class="citation-popover-meta">Published: January 17, 2014</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latest-ufo-sightings.net/2014/01/strange-ufo-activity-medina-saudi.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latest-ufo-sightings.net">[Latest UFO Sightings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latest-ufo-sightings.net</span><span class="citation-popover-title">Latest UFO Sightings Strange UFO activity Medina, Saudi Arabia</span><span class="citation-popover-snippet">Strange UFO activity Medina, Saudi Arabia - January 2014Strange UFO activity Medina, Saudi Arabia – January 2014 · Not Alien (1) · Fake (...</span><span class="citation-popover-meta">Published: January 2014</span></span></span>
+
+Part of the video's impact came from its location. Medina is not simply another Saudi city; it is one of the most important religious centres in the Islamic world. A strange aerial light seen above such a setting naturally attracts more attention than the same event over a remote desert area. Witnesses frequently interpret unusual sky phenomena through local cultural and religious frames, especially when the object appears unexpectedly and remains unidentified in the first hours after observation.
+
+The available footage did not provide the kind of information needed for a strong anomalous claim. Public reports lacked precise trajectory data, camera metadata, multiple synchronised observation points, radar information or independent astronomical measurements. As a result, the event entered the familiar UFO category of a visually dramatic sighting supported mainly by short video clips and witness reactions rather than by a detailed evidential record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emirates247.com/news/region/was-this-a-ufo-sighted-over-saudi-arabia-2014-01-17-1.535068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emirates247.com">[Emirates 24|7]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emirates247.com</span><span class="citation-popover-title">Emirates 24|7Was this a &#x27;UFO&#x27; sighted over Saudi Arabia?</span><span class="citation-popover-snippet">January 17, 2014 — 16 Jan 2014 — A Saudi newspaper on Friday published a film showing what it described as an unidentified flying object...</span><span class="citation-popover-meta">Published: January 17, 2014</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YMeRWG5YnQ8" title="UFO over Arabia - JAN 17, 2014" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YMeRWG5YnQ8" target="_blank" rel="noopener noreferrer">UFO over Arabia - JAN 17, 2014</a></p><p class="youtube-embed-meta">Channel: Neighbourhood UFO Watch &middot; Views: 7.0K &middot; Uploaded: January 2014 &middot; Length: 28 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YMeRWG5YnQ8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YMeRWG5YnQ8">Open on YouTube</a></p></div></div></div>
+
+## Why Astronomers Pointed To Rocket Debris
+
+Within days of the sighting, Saudi astronomer Mansour Al Mazroui reportedly argued that the Medina object was not a meteor and not an unknown craft, but debris from a Chinese rocket launched years earlier. According to his explanation, the re-entry had been anticipated and its atmospheric return was expected on the same night the Medina sightings occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emirates247.com/news/region/was-this-a-ufo-sighted-over-saudi-arabia-2014-01-17-1.535068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emirates247.com">[Emirates 24|7]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emirates247.com</span><span class="citation-popover-title">Emirates 24|7Was this a &#x27;UFO&#x27; sighted over Saudi Arabia?</span><span class="citation-popover-snippet">January 17, 2014 — 16 Jan 2014 — A Saudi newspaper on Friday published a film showing what it described as an unidentified flying object...</span><span class="citation-popover-meta">Published: January 17, 2014</span></span></span>
+
+Several features of the reported observation match known re-entry behaviour:
+
+* **Sustained brightness:** Re-entering rocket bodies often remain visible for much longer than ordinary meteors.
+* **Slow apparent movement:** Objects descending from orbit can appear slower than typical shooting stars because they travel across a large section of the sky.
+* **Fragmentation effects:** Space debris frequently breaks into multiple glowing pieces, creating unusual visual patterns.
+* **Colour changes and glowing trails:** Atmospheric heating can produce bright white, orange or bluish light that observers interpret as propulsion or manoeuvring.
+* **Large geographic visibility:** A single re-entry can be observed across hundreds of kilometres, producing many simultaneous witness reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emirates247.com/news/region/was-this-a-ufo-sighted-over-saudi-arabia-2014-01-17-1.535068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emirates247.com">[Emirates 24|7]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emirates247.com</span><span class="citation-popover-title">Emirates 24|7Was this a &#x27;UFO&#x27; sighted over Saudi Arabia?</span><span class="citation-popover-snippet">January 17, 2014 — 16 Jan 2014 — A Saudi newspaper on Friday published a film showing what it described as an unidentified flying object...</span><span class="citation-popover-meta">Published: January 17, 2014</span></span></span>
+
+These characteristics have generated UFO reports for decades. Historical catalogues of satellite and rocket re-entries document numerous cases in which large groups of observers initially believed they had witnessed extraordinary aerial objects before aerospace tracking data identified the source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[satobs.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-title">Visually Observed Natural Re entries latest draft</span><span class="citation-popover-snippet">Observed re-entries #22.xlsx26 Aug 2014 — Ballester Olmos, FOTOCAT: Worldwide Catalogue Of UFO Photographs, 2014.... Fowler, &quot;UFOs of Ma...</span></span></span>
+
+The Medina event therefore fits an established category: a visually striking atmospheric phenomenon that appears mysterious to ground observers but resembles known orbital debris behaviour when viewed through the lens of spaceflight tracking.
+
+## What Makes Re-Entry Events Look So Unusual?
+
+Many people imagine space debris as a small object dropping vertically from the sky. Actual re-entries look very different.
+
+A rocket stage or satellite fragment enters the atmosphere at enormous speed while still travelling along a shallow orbital path. From the ground, the object may appear to glide horizontally across the sky. As it encounters denser air, heat builds rapidly around the structure. Pieces break away, creating clusters of glowing fragments that can resemble a formation of lights rather than a single object. Depending on viewing angle, observers may even perceive apparent changes in direction or speed that are really perspective effects.
+
+This mechanism helps explain why re-entries repeatedly generate UFO reports. Witnesses often expect meteors to appear as brief flashes lasting only a few seconds. When a luminous object remains visible for tens of seconds or longer, crosses a large section of sky, or appears to split into multiple lights, many people conclude they are seeing something fundamentally different. Historical re-entry records contain examples from Europe, North America, Asia and Australia where thousands of witnesses reported UFOs before satellite tracking data resolved the mystery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[satobs.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-title">Visually Observed Natural Re entries latest draft</span><span class="citation-popover-snippet">Observed re-entries #22.xlsx26 Aug 2014 — Ballester Olmos, FOTOCAT: Worldwide Catalogue Of UFO Photographs, 2014.... Fowler, &quot;UFOs of Ma...</span></span></span>
+
+Saudi Arabia is particularly well positioned for such sightings. Large areas of open terrain provide long sightlines, while major cities offer large populations of observers with smartphones. A bright orbital re-entry over western Saudi Arabia can therefore produce exactly the combination of visibility and public attention that fuels UFO narratives.
+
+
+<img src="{{ "/assets/images/Saudi_Arabia_8bf7f8_medina_reentry_sight_ce446a-Illustration-2-light.svg" | relative_url }}" alt="Medina Lights illustration 2" data-theme-src-dark="{{ "/assets/images/Saudi_Arabia_8bf7f8_medina_reentry_sight_ce446a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Saudi_Arabia_8bf7f8_medina_reentry_sight_ce446a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Why Sacred-City Sightings Spread Faster
+
+The Medina case also demonstrates how social context influences UFO reporting.
+
+When an unusual light appears above a location carrying religious significance, public interpretation often becomes more emotionally charged. Witnesses may connect the event to spiritual ideas, unusual omens or broader narratives circulating online. Even people who do not adopt supernatural explanations may treat the event as inherently more important because of where it occurred.
+
+By 2014, smartphone video sharing and social media distribution had already transformed the way unusual sky events spread through Saudi Arabia and the wider Middle East. A bright object over Medina could move from local observation to regional news within hours. Early headlines emphasising a “UFO” naturally attracted attention before technical explanations had time to circulate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emirates247.com/news/region/was-this-a-ufo-sighted-over-saudi-arabia-2014-01-17-1.535068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emirates247.com">[Emirates 24|7]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emirates247.com</span><span class="citation-popover-title">Emirates 24|7Was this a &#x27;UFO&#x27; sighted over Saudi Arabia?</span><span class="citation-popover-snippet">January 17, 2014 — 16 Jan 2014 — A Saudi newspaper on Friday published a film showing what it described as an unidentified flying object...</span><span class="citation-popover-meta">Published: January 17, 2014</span></span></span>
+
+This pattern is common in UFO history. The first explanation reaching the public is often the most dramatic one. Later corrections from astronomers, aerospace specialists or satellite observers may receive far less attention even when they fit the evidence more closely.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CimX3gM7Rzc" title="Chinese Rocket CRASHES in Indian Ocean After Uncontrolled Re-Entry" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CimX3gM7Rzc" target="_blank" rel="noopener noreferrer">Chinese Rocket CRASHES in Indian Ocean After Uncontrolled Re-Entry</a></p><p class="youtube-embed-meta">Channel: Onlooker &middot; Views: 173.5K &middot; Uploaded: May 2021 &middot; Length: 1 minute 40 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CimX3gM7Rzc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CimX3gM7Rzc">Open on YouTube</a></p></div></div></div>
+
+## The Limits Of The Available Evidence
+
+The strongest argument against an extraordinary interpretation is not that every detail of the Medina sighting is fully documented. Rather, it is that the available evidence is too limited to support a more exotic conclusion.
+
+Publicly available material consists primarily of short videos, witness descriptions and media reports. There is no known public release of radar data, military tracking information, high-resolution imagery or a detailed investigative file. Without such information, claims that the object represented unknown technology remain speculative.
+
+At the same time, the conventional explanation has several advantages. It matches the timing reported by local astronomers, aligns with known re-entry behaviour and requires no new assumptions about advanced craft or unexplained aerospace phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emirates247.com/news/region/was-this-a-ufo-sighted-over-saudi-arabia-2014-01-17-1.535068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emirates247.com">[Emirates 24|7]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emirates247.com</span><span class="citation-popover-title">Emirates 24|7Was this a &#x27;UFO&#x27; sighted over Saudi Arabia?</span><span class="citation-popover-snippet">January 17, 2014 — 16 Jan 2014 — A Saudi newspaper on Friday published a film showing what it described as an unidentified flying object...</span><span class="citation-popover-meta">Published: January 17, 2014</span></span></span>
+
+That does not mean every detail can be reconstructed with certainty. It means that among the available explanations, atmospheric re-entry from space debris is the one most consistent with the evidence that entered the public record.
+
+
+<img src="{{ "/assets/images/Saudi_Arabia_8bf7f8_medina_reentry_sight_ce446a-Illustration-3-light.svg" | relative_url }}" alt="Medina Lights illustration 3" data-theme-src-dark="{{ "/assets/images/Saudi_Arabia_8bf7f8_medina_reentry_sight_ce446a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Saudi_Arabia_8bf7f8_medina_reentry_sight_ce446a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## What The Medina Case Reveals About Saudi UFO Reports
+
+The Medina lights remain one of the most recognisable Saudi UFO stories because they combine dramatic imagery, a sacred location and a rapid media cycle. Yet the case is arguably more valuable as an example of mistaken identification than as evidence of an unexplained craft.
+
+For researchers examining Saudi Arabian UFO reports, the incident illustrates several recurring themes:
+
+* Bright aerial events often occur in regions with excellent sky visibility.
+* Early reports frequently emerge before technical verification.
+* Viral videos can amplify uncertainty faster than scientific explanations.
+* Space-debris re-entries remain one of the most important conventional explanations for large-scale UFO sightings.
+* Cultural and religious settings can influence how witnesses interpret unusual aerial phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emirates247.com/news/region/was-this-a-ufo-sighted-over-saudi-arabia-2014-01-17-1.535068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emirates247.com">[Emirates 24|7]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emirates247.com</span><span class="citation-popover-title">Emirates 24|7Was this a &#x27;UFO&#x27; sighted over Saudi Arabia?</span><span class="citation-popover-snippet">January 17, 2014 — 16 Jan 2014 — A Saudi newspaper on Friday published a film showing what it described as an unidentified flying object...</span><span class="citation-popover-meta">Published: January 17, 2014</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[2satobs.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-title">Visually Observed Natural Re entries latest draft</span><span class="citation-popover-snippet">Observed re-entries #22.xlsx26 Aug 2014 — Ballester Olmos, FOTOCAT: Worldwide Catalogue Of UFO Photographs, 2014.... Fowler, &quot;UFOs of Ma...</span></span></span>
+
+Viewed in that broader national context, the Medina sighting stands as a reminder that some of the most dramatic UFO reports in Saudi Arabia may ultimately say more about orbital debris, public perception and the speed of modern information sharing than about unknown objects in the sky.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XS0i3j8zkRM" title="ROCKET REENTRY | Lights up night sky! (Chang Zheng 7 Rocket)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XS0i3j8zkRM" target="_blank" rel="noopener noreferrer">ROCKET REENTRY | Lights up night sky! (Chang Zheng 7 Rocket)</a></p><p class="youtube-embed-meta">Channel: Killworthy Gaming &middot; Views: 41.9K &middot; Uploaded: July 2016 &middot; Length: 1 minute 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XS0i3j8zkRM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XS0i3j8zkRM">Open on YouTube</a></p></div></div></div>
+
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Was The Medina UFO Really Space Debris?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+        </h4>
+        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        
+        <p class="fr-book-desc">Examines observational errors and interpretation challenges.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
+        </h4>
+        <p class="fr-book-author">By David Clarke</p>
+        
+        <p class="fr-book-desc">Explains why dramatic sky events rapidly become UFO stories.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+        </h4>
+        <p class="fr-book-author">By Leslie Kean</p>
+        
+        <p class="fr-book-desc">Contrasts well-documented cases with likely conventional explanations.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Showers and their Parent Comets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=14zKCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteor Showers and their Parent Comets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
+        </h4>
+        <p class="fr-book-author">By Peter Jenniskens</p>
+        
+        <p class="fr-book-desc">Helps explain how bright atmospheric objects can be misidentified.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: emirates247.com  
+   Title: Emirates 24|7Was this a 'UFO' sighted over Saudi Arabia?  
+   Link: [https://www.emirates247.com/news/region/was-this-a-ufo-sighted-over-saudi-arabia-2014-01-17-1.535068](https://www.emirates247.com/news/region/was-this-a-ufo-sighted-over-saudi-arabia-2014-01-17-1.535068)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>January 17, 2014 — 16 Jan 2014 — A Saudi newspaper on Friday published a film showing what it described as an unidentified flying object...</p></details>
+   Published: January 17, 2014  
+
+2. <a id="endnote-2"></a>
+   Source: emirates247.com  
+   Title: ufo over saudi was chinese rocket debris 2014 01 20 1.535357  
+   Link: [https://www.emirates247.com/news/region/ufo-over-saudi-was-chinese-rocket-debris-2014-01-20-1.535357](https://www.emirates247.com/news/region/ufo-over-saudi-was-chinese-rocket-debris-2014-01-20-1.535357)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Emirates 24|7&#x27;UFO&#x27; over Saudi was Chinese rocket debris19 Jan 2014 — &#x27;UFO&#x27; over Saudi was Chinese rocket debris. By StaffPublished: Sunda...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: satobs.org  
+   Title: Visually Observed Natural Re entries latest draft  
+   Link: [https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf](https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Observed re-entries #22.xlsx26 Aug 2014 — Ballester Olmos, FOTOCAT: Worldwide Catalogue Of UFO Photographs, 2014.... Fowler, &quot;UFOs of Ma...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: latest-ufo-sightings.net  
+   Title: Latest UFO Sightings Strange UFO activity Medina, Saudi Arabia  
+   Link: [https://www.latest-ufo-sightings.net/2014/01/strange-ufo-activity-medina-saudi.html](https://www.latest-ufo-sightings.net/2014/01/strange-ufo-activity-medina-saudi.html)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange UFO activity Medina, Saudi Arabia - January 2014Strange UFO activity Medina, Saudi Arabia – January 2014 · Not Alien (1) · Fake (...</p></details>
+   Published: January 2014  
+
+### Additional References
+
+5. <a id="endnote-5"></a>
+   Source: nasa.gov  
+   Link: [https://www.nasa.gov/image-article/city-lights-of-medina-saudi-arabia/](https://www.nasa.gov/image-article/city-lights-of-medina-saudi-arabia/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The city lights of Medina, Saudi ArabiaThe city lights of Medina are pictured during an orbital nightime pass from the International Spac...</p></details>
+
+6. <a id="endnote-6"></a>
+   Source: sweetstudy.com  
+   Link: [https://www.sweetstudy.com/files/ufo-sightings-large-csv-8453183](https://www.sweetstudy.com/files/ufo-sightings-large-csv-8453183)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ufo sighting data explorationDescription of possible UFO sighting and the UFO is still present. 6/14... video footage of ufo recorded in...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: facebook.com  
+   Title: 11 april 2024 bi turns back 3 alien sex offenders at naia the bureau of immigrat  
+   Link: [https://www.facebook.com/officialbureauofimmigration/posts/11-april-2024-bi-turns-back-3-alien-sex-offenders-at-naia-the-bureau-of-immigrat/827496929418081/](https://www.facebook.com/officialbureauofimmigration/posts/11-april-2024-bi-turns-back-3-alien-sex-offenders-at-naia-the-bureau-of-immigrat/827496929418081/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>11 April 2024 BI TURNS BACK 3 ALIEN SEX OFFENDERS...Under the immigration act, aliens convicted of crimes involving moral turpitude are...</p></details>
+   Published: april 2024  
+
+8. <a id="endnote-8"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/UFOs/comments/1eqbrrz/pilots_flying_from_saudi_arabia_to_nigeria_in_a/](https://www.reddit.com/r/UFOs/comments/1eqbrrz/pilots_flying_from_saudi_arabia_to_nigeria_in_a/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>0:49. 230. 77. CMV: Aliens are not the most likely explanation for UFO sightings &amp;middot; r/changemyview. • 5y...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: greenprophet.com  
+   Title: why we might be missing messages from aliens  
+   Link: [https://www.greenprophet.com/2026/03/why-we-might-be-missing-messages-from-aliens/](https://www.greenprophet.com/2026/03/why-we-might-be-missing-messages-from-aliens/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>7 Mar 2026 — Alien signals might be getting scrambled near their own stars before they reach Earth, so scientists searching for perfectly...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: science.nasa.gov  
+   Title: medina saudi arabia 91953  
+   Link: [https://science.nasa.gov/earth/earth-observatory/medina-saudi-arabia-91953/](https://science.nasa.gov/earth/earth-observatory/medina-saudi-arabia-91953/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govMedina, Saudi ArabiaAn astronaut aboard the International Space Station focused a high-resolution lens on the city of Medina (Mad...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: abc.net.au  
+   Title: human body parts 27fall from sky27 in saudi  
+   Link: [https://www.abc.net.au/news/2014-01-06/human-body-parts-27fall-from-sky27-in-saudi/5185676](https://www.abc.net.au/news/2014-01-06/human-body-parts-27fall-from-sky27-in-saudi/5185676)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Human body parts &#x27;fall from sky&#x27; over Saudi Arabian city of...5 Jan 2014 — Human body parts fell from the sky in the Saudi Arabian city...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: openminds.tv  
+   Title: ufo videos show ufo saudi arabia  
+   Link: [https://openminds.tv/ufo-videos-show-ufo-saudi-arabia/](https://openminds.tv/ufo-videos-show-ufo-saudi-arabia/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO videos show a fireball over Saudi Arabia17 Jan 2014 — Fireball UFOs over... fireball Saudi Arabia UFO ufo video ufos · Photo of Jaso...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: Wikipedia  
+   Title: Unusual articles  
+   Link: [https://en.wikipedia.org/wiki/Wikipedia%3AUnusual_articles](https://en.wikipedia.org/wiki/Wikipedia%3AUnusual_articles)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikipedia:Unusual articles... UFO videos, Yes, they&#x27;re official. Philadelphia Experiment, An alleged experiment in 1943 involving elec...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: pauldmaley.com  
+   Title: HISTOR Y OF SPACE DEBRIS RECOVERIES  
+   Link: [https://pauldmaley.com/sd1/](https://pauldmaley.com/sd1/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>“Residents in the Heilongjiang province in China reported seeing three UFOs darting across the sky and...Read more...</p></details>

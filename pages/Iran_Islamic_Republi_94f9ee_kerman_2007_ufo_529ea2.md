@@ -1,0 +1,552 @@
+---
+level: 2
+basename: Iran_Islamic_Republi_94f9ee_kerman_2007_ufo_529ea2
+parent_basename: Iran_Islamic_Republi_94f9ee
+child_basenames: []
+sibling_basenames:
+- Iran_Islamic_Republi_94f9ee_iran_2004_2007_wave_5129cc
+- Iran_Islamic_Republi_94f9ee_iran_military_ufo_co_32e257
+- Iran_Islamic_Republi_94f9ee_tehran_1976_ufo_3c95d8
+tags:
+- iran-islamic-republic-of
+- kerman-2007
+keywords:
+- iran-islamic-republic-of
+- kerman-2007
+affiliate_category: iran-islamic-republic-of
+show_ads: true
+description: Focuses on reported bright objects, alleged crashes, and absence of verifiable follow-up in Kerman.
+hero_summary: Focuses on reported bright objects, alleged crashes, and absence of verifiable follow-up in Kerman.
+layout: default
+permalink: /kerman-2007/
+sidebar_expanded_urls:
+- /iran-islamic-republic-of/
+nav_short_title: Kerman 2007
+title: The 2007 Kerman UFO Reports Examined
+title_full: The 2007 Kerman UFO Reports Examined | Iran UFOs
+display_title_short: Kerman 2007
+display_title: Kerman 2007
+heading_title: The 2007 Kerman UFO Reports Examined
+page_heading_title: The 2007 Kerman UFO Reports Examined
+source_count: 22
+infographic_count: 3
+planned_sections:
+- Eyewitness accounts and bright objects
+- Alleged crash claims
+- Meteor and conventional explanations
+focal_unit_type: event_time_window
+topic_lens: critique_risk
+topic_granularity: pillar
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+parent_title: Iran UFOs
+parent_permalink: /iran-islamic-republic-of/
+parent_nav_short_title: Iran UFOs
+parent_heading_title: What Really Happened in Iran’s UFO Encounters?
+ancestor_links:
+- basename: Iran_Islamic_Republi_94f9ee
+  title: Iran UFOs
+  permalink: /iran-islamic-republic-of/
+  short_title: Iran UFOs
+breadcrumb_links:
+- basename: Iran_Islamic_Republi_94f9ee
+  title: Iran UFOs
+  permalink: /iran-islamic-republic-of/
+  short_title: Iran UFOs
+sibling_links:
+- basename: Iran_Islamic_Republi_94f9ee_iran_2004_2007_wave_5129cc
+  title: 2004 2007 Wave | What Really Happened in Iran’s UFO Encounters?
+  permalink: /2004-2007-wave/
+  short_title: 2004 2007 Wave
+  heading_title: Iran’s UFO Sighting Wave
+- basename: Iran_Islamic_Republi_94f9ee_iran_military_ufo_co_32e257
+  title: Military Context | What Really Happened in Iran’s UFO Encounters?
+  permalink: /military-context/
+  short_title: Military Context
+  heading_title: How Iran’s Air Defence Shapes UFO Reports
+- basename: Iran_Islamic_Republi_94f9ee_tehran_1976_ufo_3c95d8
+  title: Tehran 1976 | What Really Happened in Iran’s UFO Encounters?
+  permalink: /tehran-1976/
+  short_title: Tehran 1976
+  heading_title: Inside the 1976 Tehran UFO Mystery
+up_link:
+  basename: Iran_Islamic_Republi_94f9ee
+  title: Iran UFOs
+  permalink: /iran-islamic-republic-of/
+  short_title: Iran UFOs
+prev_link:
+  basename: Iran_Islamic_Republi_94f9ee_iran_2004_2007_wave_5129cc
+  title: 2004 2007 Wave | What Really Happened in Iran’s UFO Encounters?
+  permalink: /2004-2007-wave/
+  short_title: 2004 2007 Wave
+  heading_title: Iran’s UFO Sighting Wave
+next_link:
+  basename: Iran_Islamic_Republi_94f9ee_iran_military_ufo_co_32e257
+  title: Military Context | What Really Happened in Iran’s UFO Encounters?
+  permalink: /military-context/
+  short_title: Military Context
+  heading_title: How Iran’s Air Defence Shapes UFO Reports
+date: '2026-05-31 04:18:13 '
+header:
+  og_image: /assets/images/Iran_Islamic_Republi_94f9ee_kerman_2007_ufo_529ea2-Illustration-1-social.jpg
+  preview_image: /assets/images/Iran_Islamic_Republi_94f9ee_kerman_2007_ufo_529ea2-Illustration-1.webp
+image: /assets/images/Iran_Islamic_Republi_94f9ee_kerman_2007_ufo_529ea2-Illustration-1-social.jpg
+---
+
+## Introduction
+
+In early **2007**, a set of vivid reports circulated from **Kerman province in southeastern Iran** claiming an unidentified aerial object had crashed in the **Barez Mountains**, followed by an explosion and smoke visible across several towns. These accounts briefly gained attention in Iranian state‑linked media and on UFO reporting aggregators, but **the available evidence remains limited and ambiguous**, with no confirmed physical recovery, official investigation results, radar data, or scientific assessment released in the public domain. This article evaluates the core claims, the sources behind them, and the notable **evidence gaps** that leave the 2007 Kerman reports unresolved within Iran’s broader catalogue of aerial phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Iran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Iran</span><span class="citation-popover-snippet">UFO sightings in Iran</span></span></span>
+
+
+<img src="{{ "/assets/images/Iran_Islamic_Republi_94f9ee_kerman_2007_ufo_529ea2-Illustration-1-light.svg" | relative_url }}" alt="Kerman 2007 illustration 1" data-theme-src-dark="{{ "/assets/images/Iran_Islamic_Republi_94f9ee_kerman_2007_ufo_529ea2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iran_Islamic_Republi_94f9ee_kerman_2007_ufo_529ea2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+## Eyewitness Accounts and Bright Object Claims
+
+Early January 2007 eyewitness reporting was based largely on **Fars News Agency (FNA) dispatches**, one of Iran’s semi‑official domestic news agencies. According to these reports, residents in and around the **Barez Mountain region of Kerman** described a **radiant unidentified flying object** that crashed on a Wednesday morning, followed by an **explosion and a thick column of smoke** visible from multiple surrounding towns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikinews.org/wiki/Iranian_news_agency_reports_UFO_has_crashed_in_Kerman_province" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikinews.org">[Wikinews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikinews.org</span><span class="citation-popover-title">Iranian news agency reports UFO has crashed in Kerman province</span><span class="citation-popover-snippet">WikinewsIranian news agency reports UFO has crashed in Kerman province - Wikinews, the free news source...</span></span></span>
+
+Officials quoted in these articles, such as **Abulghassem Nasrollahi**, then the Deputy Governor General of Kerman province, stated that **all known aircraft in the region were accounted for**, seemingly ruling out a conventional helicopter or airplane mishap, but did **not categorically rule out a meteor**. Some eyewitness sources were quoted suggesting the object was “on fire” before impact, with dense smoke that they interpreted as inconsistent with a typical meteor trail. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikinews.org/wiki/Iranian_news_agency_reports_UFO_has_crashed_in_Kerman_province" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikinews.org">[Wikinews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikinews.org</span><span class="citation-popover-title">Iranian news agency reports UFO has crashed in Kerman province</span><span class="citation-popover-snippet">WikinewsIranian news agency reports UFO has crashed in Kerman province - Wikinews, the free news source...</span></span></span>
+
+Despite these vivid descriptors — bright lights, fire, smoke and a reported explosion — there is **no independently verified radar track, footage, photographic record, or corroborated instrument data** tied directly to the event. The bulk of these accounts derive from a **single news agency relay**, not from scientific observation networks or space/meteor surveillance systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Iran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Iran</span><span class="citation-popover-snippet">UFO sightings in Iran</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qbH9OZupWOg" title="Iran Military Intercepts Alien UFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qbH9OZupWOg" target="_blank" rel="noopener noreferrer">Iran Military Intercepts Alien UFO</a></p><p class="youtube-embed-meta">Channel: The Infographics Show &middot; Views: 4.0M &middot; Uploaded: May 2020 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qbH9OZupWOg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qbH9OZupWOg">Open on YouTube</a></p></div></div></div>
+
+## Alleged Crash Claims and Official Responses
+
+The narrative that “a UFO crashed” derived from a combination of witness testimony and official remarks on the absence of conventional air traffic. Deputy Governor Nasrollahi’s comments were widely reprinted in international spoof or enthusiast forums because of their ostensibly unusual nature, but in context they appear to be **official uncertainty rather than confirmation of extraterrestrial craft**. The officials acknowledged that meteors might explain the sighting, even if some eyewitnesses contested that explanation based on their impressions of smoke. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://eurasia.ro/2007/04/13/ufo-observed-in-western-iran-3/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eurasia.ro">[Eurasia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eurasia.ro</span><span class="citation-popover-title">UFO Observed in Western Iran – Eurasia</span><span class="citation-popover-snippet">EurasiaUFO Observed in Western Iran – EurasiaApril 13, 2007...</span><span class="citation-popover-meta">Published: April 13, 2007</span></span></span>
+
+Subsequent press interpretations and global reprints leaned toward sensational characterisations — such as claims of “UFO mega‑blasts” — but these reinterpretations often lack additional source verification and do not introduce new evidence beyond the initial FNA account. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thegatewaypundit.com/2007/01/another-ufo-spotted-in-western-iran/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thegatewaypundit.com">[The Gateway Pundit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thegatewaypundit.com</span><span class="citation-popover-title">Another UFO Spotted in Western Iran!!</span><span class="citation-popover-snippet">| The Gateway Pundit | by Jim HoftJanuary 16, 2007 — ANOTHER UFO SPOTTED IN WESTERN IRAN!! by Jim Hoft Aug. 2, 2018 4:55 amJan. 16, 2007...</span><span class="citation-popover-meta">Published: January 16, 2007</span></span></span>
+
+**Key evidence gaps** in this part of the story include:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* **No verified recovery of debris or wreckage footprints** from the crash site has been documented in independent or scientific media.
+* **No confirmed meteor tracking** linked to the event by astronomical observatories or meteor networks.
+* **No official air defence radar logs or military reports** have been released to the public to substantiate or contradict the eyewitness testimony.
+* **No photographic or video evidence** of the bright object or its descent is documented in reputable archives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Iran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Iran</span><span class="citation-popover-snippet">UFO sightings in Iran</span></span></span>
+
+</div>
+
+
+<img src="{{ "/assets/images/Iran_Islamic_Republi_94f9ee_kerman_2007_ufo_529ea2-Illustration-2-light.svg" | relative_url }}" alt="Kerman 2007 illustration 2" data-theme-src-dark="{{ "/assets/images/Iran_Islamic_Republi_94f9ee_kerman_2007_ufo_529ea2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iran_Islamic_Republi_94f9ee_kerman_2007_ufo_529ea2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Meteor and Conventional Explanations
+
+Across Iran in **2007**, several unrelated UFO‑related reports appeared in the press and on witness reporting websites, including bright or unusual lights in the sky. Meteor events, atmospheric re‑entry of space debris, and optical atmospheric conditions are known to produce **fireball‑like sightings** that can be misinterpreted as crashes or anomalies — especially when seen at dawn or dusk or over remote terrain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Iran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Iran</span><span class="citation-popover-snippet">UFO sightings in Iran</span></span></span>
+
+Meteors typically produce bright incandescence as they enter the atmosphere and may leave smoke trails, although observers sometimes misinterpret the nature of these trails. Iranian officials cited this as a possible explanation but also reported a lack of conclusive testimony to affirm it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikinews.org/wiki/Iranian_news_agency_reports_UFO_has_crashed_in_Kerman_province" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikinews.org">[Wikinews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikinews.org</span><span class="citation-popover-title">Iranian news agency reports UFO has crashed in Kerman province</span><span class="citation-popover-snippet">WikinewsIranian news agency reports UFO has crashed in Kerman province - Wikinews, the free news source...</span></span></span>
+
+Without detailed sensor data, geological survey results, or specialist examination of any purported impact site, **natural explanations remain plausible and unrefuted**. The region’s mention of similar incidents reported just days earlier in nearby **Rafsanjan** by witnesses further complicates a singular event hypothesis — suggesting that multiple unrelated aerial phenomena or terrestrial misunderstandings might have been conflated into a single narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://eurasia.ro/2007/01/19/ufo-observed-in-western-iran-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eurasia.ro">[Eurasia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eurasia.ro</span><span class="citation-popover-title">UF O Observed in Western Iran – Eurasia</span><span class="citation-popover-snippet">UFO Observed in Western Iran – EurasiaJanuary 19, 2007 — UFO OBSERVED IN WESTERN IRAN Image: A02328907.jpgTEHRAN (Fars News Agency)- A ra...</span><span class="citation-popover-meta">Published: January 19, 2007</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6QuF7F-Xnio" title="UFO Files Released as Iran Strike Shakes Strait of Hormuz" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6QuF7F-Xnio" target="_blank" rel="noopener noreferrer">UFO Files Released as Iran Strike Shakes Strait of Hormuz</a></p><p class="youtube-embed-meta">Channel: Haqeeqat TV - Science &amp; Health &middot; Views: 87.5K &middot; Uploaded: May 2026 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6QuF7F-Xnio" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6QuF7F-Xnio">Open on YouTube</a></p></div></div></div>
+
+## Persistent Evidence Gaps and Unresolved Questions
+
+Despite the initial flurry of reports, the **2007 Kerman province story remains unresolved due to a lack of verifiable data**. Important unresolved questions include:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* **Was an impact site ever formally surveyed by geologists, astronomers, or military specialists?** No public record or scientific report confirms such investigation.
+* **Are there independent records of atmospheric entry (meteor) activity for that date over Iran?** Composite global meteor datasets do not currently list a confirmed large impact in that region for the period in question.
+* **Why are no official Iranian air defence sensor logs, if they exist, made available?** Transparency in this area would be critical to distinguishing between a meteor, a misidentified conventional object, or another atmospheric event.
+
+</div>
+
+In short, although the local reports describe vivid phenomena, they do not provide **objective measurement or documented physical evidence** that would elevate the 2007 Kerman incident from witness reports to an unidentified aerial phenomenon with confirmed anomalous character. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Iran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Iran</span><span class="citation-popover-snippet">UFO sightings in Iran</span></span></span>
+
+
+<img src="{{ "/assets/images/Iran_Islamic_Republi_94f9ee_kerman_2007_ufo_529ea2-Illustration-3-light.svg" | relative_url }}" alt="Kerman 2007 illustration 3" data-theme-src-dark="{{ "/assets/images/Iran_Islamic_Republi_94f9ee_kerman_2007_ufo_529ea2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iran_Islamic_Republi_94f9ee_kerman_2007_ufo_529ea2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Broader Context within Iran’s UFO Record
+
+Within Iran’s broader history of aerial anomaly reporting, the 2007 Kerman account sits among the many **civilian sightings and local reports** that lack the institutional corroboration seen in other cases, such as military engagements (e.g., the well‑documented **[Tehran 1976]({{ 'tehran-1976/' | relative_url }}) incident**). The Kerman reports illustrate how **news‑agency relay of eyewitness claims can generate a UFO narrative in the absence of supporting empirical evidence**, and highlight the need for caution in interpreting isolated field reports without corroborating data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Iran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Iran</span><span class="citation-popover-snippet">UFO sightings in Iran</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Wf2ZKmk6Wrc" title="The Tehran Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Wf2ZKmk6Wrc" target="_blank" rel="noopener noreferrer">The Tehran Incident</a></p><p class="youtube-embed-meta">Channel: Earth and the Cosmos &middot; Views: 65 &middot; Uploaded: April 2025 &middot; Length: 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Wf2ZKmk6Wrc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Wf2ZKmk6Wrc">Open on YouTube</a></p></div></div></div>
+
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to The 2007 Kerman UFO Reports Examined. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
+        </h4>
+        <p class="fr-book-author">By Peter A. Sturrock</p>
+        
+        <p class="fr-book-desc">Useful for evaluating uncertain reports with limited evidence.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+        </h4>
+        <p class="fr-book-author">By Leslie Kean</p>
+        
+        <p class="fr-book-desc">Covers serious case investigations and official reporting.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+        </h4>
+        <p class="fr-book-author">By Carl Sagan</p>
+        
+        <p class="fr-book-desc">Encourages careful examination of extraordinary reports.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Showers and their Parent Comets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=14zKCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteor Showers and their Parent Comets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
+        </h4>
+        <p class="fr-book-author">By Peter Jenniskens</p>
+        
+        <p class="fr-book-desc">Relevant because meteor explanations feature prominently in discussion of the case.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Enigma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Enigma</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: Wikipedia  
+   Title: UFO sightings in Iran  
+   Link: [https://en.wikipedia.org/wiki/UFO_sightings_in_Iran](https://en.wikipedia.org/wiki/UFO_sightings_in_Iran)  
+
+2. <a id="endnote-2"></a>
+   Source: en.wikinews.org  
+   Title: Iranian news agency reports UFO has crashed in Kerman province  
+   Link: [https://en.wikinews.org/wiki/Iranian_news_agency_reports_UFO_has_crashed_in_Kerman_province](https://en.wikinews.org/wiki/Iranian_news_agency_reports_UFO_has_crashed_in_Kerman_province)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>WikinewsIranian news agency reports UFO has crashed in Kerman province - Wikinews, the free news source...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: eurasia.ro  
+   Title: UFO Observed in Western Iran – Eurasia  
+   Link: [https://eurasia.ro/2007/04/13/ufo-observed-in-western-iran-3/](https://eurasia.ro/2007/04/13/ufo-observed-in-western-iran-3/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>EurasiaUFO Observed in Western Iran – EurasiaApril 13, 2007...</p></details>
+   Published: April 13, 2007  
+
+4. <a id="endnote-4"></a>
+   Source: eurasia.ro  
+   Title: UF O Observed in Western Iran – Eurasia  
+   Link: [https://eurasia.ro/2007/01/19/ufo-observed-in-western-iran-2/](https://eurasia.ro/2007/01/19/ufo-observed-in-western-iran-2/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Observed in Western Iran – EurasiaJanuary 19, 2007 — UFO OBSERVED IN WESTERN IRAN Image: A02328907.jpgTEHRAN (Fars News Agency)- A ra...</p></details>
+   Published: January 19, 2007  
+
+5. <a id="endnote-5"></a>
+   Source: eurasia.ro  
+   Title: UF O Observed in Western Iran – Eurasia  
+   Link: [https://eurasia.ro/2007/01/17/ufo-observed-in-western-iran/](https://eurasia.ro/2007/01/17/ufo-observed-in-western-iran/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Observed in Western Iran – EurasiaJanuary 17, 2007 — EURASIA PRESS &amp; NEWS Home/Iran/UFO Observed in Western Iran UFO OBSERVED IN WEST...</p></details>
+   Published: January 17, 2007  
+
+6. <a id="endnote-6"></a>
+   Source: eurasia.ro  
+   Title: Deputy Governor G  
+   Link: [https://eurasia.ro/2007/01/10/ufo-crash-in-central-iran/](https://eurasia.ro/2007/01/10/ufo-crash-in-central-iran/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Crash in Central Iran – EurasiaJanuary 10, 2007 — UFO CRASH IN CENTRAL IRAN Image: A02574264.jpgTEHRAN (Fars News Agency)- An Unident...</p></details>
+   Published: January 10, 2007  
+
+7. <a id="endnote-7"></a>
+   Source: thegatewaypundit.com  
+   Link: [https://www.thegatewaypundit.com/2007/01/more-on-the-iranian-ufo-mega-blast/](https://www.thegatewaypundit.com/2007/01/more-on-the-iranian-ufo-mega-blast/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Gateway PunditMore on the... &quot;Iranian UFO Mega-Blast&quot; | The Gateway Pundit | by Jim HoftJanuary 12, 2007...</p></details>
+   Published: January 12, 2007  
+
+8. <a id="endnote-8"></a>
+   Source: thegatewaypundit.com  
+   Title: Another Day  
+   Link: [https://www.thegatewaypundit.com/2007/04/another-day-another-ufo-is-reported-in-western-iran/](https://www.thegatewaypundit.com/2007/04/another-day-another-ufo-is-reported-in-western-iran/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Another UFO Is Reported in Western Iran | The Gateway Pundit | by Jim HoftApril 12, 2007 — ANOTHER DAY… ANOTHER UFO IS REPORTED IN WESTER...</p></details>
+   Published: April 12, 2007  
+
+9. <a id="endnote-9"></a>
+   Source: thegatewaypundit.com  
+   Title: Another UFO Spotted in Western Iran!!  
+   Link: [https://www.thegatewaypundit.com/2007/01/another-ufo-spotted-in-western-iran/](https://www.thegatewaypundit.com/2007/01/another-ufo-spotted-in-western-iran/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>| The Gateway Pundit | by Jim HoftJanuary 16, 2007 — ANOTHER UFO SPOTTED IN WESTERN IRAN!! by Jim Hoft Aug. 2, 2018 4:55 amJan. 16, 2007...</p></details>
+   Published: January 16, 2007  
+
+10. <a id="endnote-10"></a>
+   Source: ufo-hunters.com  
+   Link: [https://www.ufo-hunters.com/sightings/search/51439bf40ad2e1e9be454961/UFOSightinginIranonWednesday10January2007](https://www.ufo-hunters.com/sightings/search/51439bf40ad2e1e9be454961/UFOSightinginIranonWednesday10January2007)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>and growing IRAN Sighted on Wednesday 10. January 2007 Reported on Saturday 13. January 2007 Shape...</p></details>
+   Published: January 2007  
+
+11. <a id="endnote-11"></a>
+   Source: thephenomenon.app  
+   Link: [https://thephenomenon.app/iran/](https://thephenomenon.app/iran/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Phenomenon | IranReported: 2019-09-29 14:56 Pacific Duration: No of observers: 1 Location: kerman, Iran,, Iran Shape: Flash Charact...</p></details>
+   Published: September 29, 2019  
+
+### Additional References
+
+12. <a id="endnote-12"></a>
+   Source: ufo-hunters.com  
+   Title: and growing TEHRAN (MAZANDARAN PROVINCE) (IRAN) Sighted on Friday 24. Au  
+   Link: [https://www.ufo-hunters.com/sightings/search/51439c300ad2e1e9be4557e3/UFO%20Sighting%20in%20Tehran%20%28Mazandaran%20Province%29%20%28Iran%29%20on%20Friday%2024%20August%202007](https://www.ufo-hunters.com/sightings/search/51439c300ad2e1e9be4557e3/UFO%20Sighting%20in%20Tehran%20%28Mazandaran%20Province%29%20%28Iran%29%20on%20Friday%2024%20August%202007)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighting in Tehran (Mazandaran Province) (Iran) on Friday 24 August 2007 - UFO HuntersSeptember 26, 2007 — UFO Sighting in Tehran (Ma...</p></details>
+   Published: September 26, 2007  
+
+13. <a id="endnote-13"></a>
+   Source: mehrnews.com  
+   Title: اشیاء پرنده در کرمان و تحلیل 2 کیهان شناس/ مشاهده اشیاءپرنده علمی نیست  
+   Link: [https://www.mehrnews.com/news/1376302/%D8%A7%D8%B4%DB%8C%D8%A7%D8%A1-%D9%BE%D8%B1%D9%86%D8%AF%D9%87-%D8%AF%D8%B1-%DA%A9%D8%B1%D9%85%D8%A7%D9%86-%D9%88-%D8%AA%D8%AD%D9%84%DB%8C%D9%84-2-%DA%A9%DB%8C%D9%87%D8%A7%D9%86-%D8%B4%D9%86%D8%A7%D8%B3-%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D9%87-%D8%A7%D8%B4%DB%8C%D8%A7%D8%A1%D9%BE%D8%B1%D9%86%D8%AF%D9%87](https://www.mehrnews.com/news/1376302/%D8%A7%D8%B4%DB%8C%D8%A7%D8%A1-%D9%BE%D8%B1%D9%86%D8%AF%D9%87-%D8%AF%D8%B1-%DA%A9%D8%B1%D9%85%D8%A7%D9%86-%D9%88-%D8%AA%D8%AD%D9%84%DB%8C%D9%84-2-%DA%A9%DB%8C%D9%87%D8%A7%D9%86-%D8%B4%D9%86%D8%A7%D8%B3-%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D9%87-%D8%A7%D8%B4%DB%8C%D8%A7%D8%A1%D9%BE%D8%B1%D9%86%D8%AF%D9%87)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>خبرگزاری مهر | اخبار ایران و جهان | Mehr News AgencyAugust 6, 2011 — ۱۵ مرداد ۱۳۹۰، ۱۱:۳۲ گزارش خبری مهر/ اشیاء پرنده در کرمان و تحلیل 2...</p></details>
+   Published: August 6, 2011  
+
+14. <a id="endnote-14"></a>
+   Source: cryptoworld.co.uk  
+   Title: UF O not Nuclear test in Iran?  
+   Link: [https://cryptoworld.co.uk/ufo-not-nuclear-test-in-iran/](https://cryptoworld.co.uk/ufo-not-nuclear-test-in-iran/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>– CryptoworldJanuary 12, 2007 — UFO NOT NUCLEAR TEST IN IRAN? * CW Staff * 12th January 2007 * UFOs * Iran, UFO A Strange story indeed th...</p></details>
+   Published: January 12, 2007  
+
+15. <a id="endnote-15"></a>
+   Source: armenpress.am  
+   Title: UF O CRASHES IN CENTRAL IRAN  
+   Link: [https://armenpress.am/en/article/519085](https://armenpress.am/en/article/519085)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO CRASHES IN CENTRAL IRAN - ARMENPRESS Armenian News AgencyJanuary 10, 2007 — Society00:00, 10 January 2007 UFO CRASHES IN CENTRAL IRAN...</p></details>
+   Published: January 10, 2007  
+
+16. <a id="endnote-16"></a>
+   Source: gadgetnews.net  
+   Title: یوفو در پاوه شی ناشناس پرنده  
+   Link: [https://gadgetnews.net/156300/%DB%8C%D9%88%D9%81%D9%88-%D8%AF%D8%B1-%D9%BE%D8%A7%D9%88%D9%87-%D8%B4%DB%8C-%D9%86%D8%A7%D8%B4%D9%86%D8%A7%D8%B3-%D9%BE%D8%B1%D9%86%D8%AF%D9%87/](https://gadgetnews.net/156300/%DB%8C%D9%88%D9%81%D9%88-%D8%AF%D8%B1-%D9%BE%D8%A7%D9%88%D9%87-%D8%B4%DB%8C-%D9%86%D8%A7%D8%B4%D9%86%D8%A7%D8%B3-%D9%BE%D8%B1%D9%86%D8%AF%D9%87/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>یوفو در پاوه: ویدیویی از یک شی ناشناس پرنده در آسمان شهرستان پاوه استان کرمانشاه (آپدیت شد) | گجت نیوزFebruary 19, 2017 — یوفو در پاوه...</p></details>
+   Published: February 19, 2017  
+
+17. <a id="endnote-17"></a>
+   Source: gempak.com  
+   Title: Do You Believe In Aliens?  
+   Link: [https://gempak.com/rojakdaily/lifestyle/do-you-believe-aliens-here-are-5-bizarre-ufo-sightings-around-asia-60995](https://gempak.com/rojakdaily/lifestyle/do-you-believe-aliens-here-are-5-bizarre-ufo-sightings-around-asia-60995)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here Are 5 Bizarre UFO Sightings Around Asia | Rojak DailyFebruary 18, 2019 — #2 IRAN Back in 2007, a local news network Fars News Agency...</p></details>
+   Published: February 18, 2019  
+
+18. <a id="endnote-18"></a>
+   Source: youtube.com  
+   Title: UFO Files Released as Iran Strike Shakes Strait of Hormuz  
+   Link: [https://www.youtube.com/watch?v=6QuF7F-Xnio](https://www.youtube.com/watch?v=6QuF7F-Xnio)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 How Military Sensors Proved UFO Craft Were Physically Real | WION Podcast...</p></details>
+
+19. <a id="endnote-19"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=_NU5VbysFJE](https://www.youtube.com/watch?v=_NU5VbysFJE)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Iran Military Intercepts Alien UFO...</p></details>
+
+20. <a id="endnote-20"></a>
+   Source: youtube.com  
+   Title: The Tehran Incident  
+   Link: [https://www.youtube.com/watch?v=Wf2ZKmk6Wrc](https://www.youtube.com/watch?v=Wf2ZKmk6Wrc)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Pentagon UFO files REVEAL mysterious UAP formations over Iran, CENTCOM captures video | WATCH...</p></details>
+
+21. <a id="endnote-21"></a>
+   Source: youtube.com  
+   Title: Iran Military Intercepts Alien UFO  
+   Link: [https://www.youtube.com/watch?v=qbH9OZupWOg](https://www.youtube.com/watch?v=qbH9OZupWOg)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 UFO Files Released as Iran Strike Shakes Strait of Hormuz...</p></details>

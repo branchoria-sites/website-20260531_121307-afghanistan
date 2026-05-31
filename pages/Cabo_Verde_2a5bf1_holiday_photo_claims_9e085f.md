@@ -1,0 +1,616 @@
+---
+level: 2
+basename: Cabo_Verde_2a5bf1_holiday_photo_claims_9e085f
+parent_basename: Cabo_Verde_2a5bf1
+child_basenames: []
+sibling_basenames:
+- Cabo_Verde_2a5bf1_official_records_9b05ad
+- Cabo_Verde_2a5bf1_sao_vicente_lights_9cd235
+- Cabo_Verde_2a5bf1_sky_conditions_633a03
+tags:
+- cabo-verde
+- photo-claims
+keywords:
+- cabo-verde
+- photo-claims
+affiliate_category: cabo-verde
+show_ads: true
+description: The 2017 metallic-blue object claim shows why vacation photos can create intriguing but weak UFO evidence.
+hero_summary: The 2017 metallic-blue object claim shows why vacation photos can create intriguing but weak UFO evidence.
+layout: default
+permalink: /photo-claims/
+sidebar_expanded_urls:
+- /what-ufo-reports-survive-cabo-verde/
+nav_short_title: Photo Claims
+title: Can a Holiday Photo Prove a UFO?
+title_full: Can a Holiday Photo Prove a UFO? | Cabo Verde UFOs
+display_title_short: Photo Claims
+display_title: Photo Claims
+heading_title: Can a Holiday Photo Prove a UFO?
+page_heading_title: Can a Holiday Photo Prove a UFO?
+source_count: 30
+infographic_count: 3
+planned_sections:
+- The 2017 coast photo claim
+- Why after the fact images mislead
+- Metadata and sequence checks that matter
+focal_unit_type: dataset_evidence
+topic_lens: critique_risk
+topic_granularity: theme_cluster
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+parent_title: Cabo Verde UFOs
+parent_permalink: /what-ufo-reports-survive-cabo-verde/
+parent_nav_short_title: Cabo Verde UFOs
+parent_heading_title: What UFO Reports Survive Cabo Verde?
+ancestor_links:
+- basename: Cabo_Verde_2a5bf1
+  title: Cabo Verde UFOs
+  permalink: /what-ufo-reports-survive-cabo-verde/
+  short_title: Cabo Verde UFOs
+breadcrumb_links:
+- basename: Cabo_Verde_2a5bf1
+  title: Cabo Verde UFOs
+  permalink: /what-ufo-reports-survive-cabo-verde/
+  short_title: Cabo Verde UFOs
+sibling_links:
+- basename: Cabo_Verde_2a5bf1_official_records_9b05ad
+  title: Official Records | What UFO Reports Survive Cabo Verde?
+  permalink: /official-records-1eded5/
+  short_title: Official Records
+  heading_title: Where Would a Cabo Verde UFO Report Go?
+- basename: Cabo_Verde_2a5bf1_sky_conditions_633a03
+  title: Sky Conditions | What UFO Reports Survive Cabo Verde?
+  permalink: /sky-conditions/
+  short_title: Sky Conditions
+  heading_title: Why Cabo Verde's Skies Can Fool Witnesses
+- basename: Cabo_Verde_2a5bf1_sao_vicente_lights_9cd235
+  title: São Vicente | What UFO Reports Survive Cabo Verde?
+  permalink: /são-vicente/
+  short_title: São Vicente
+  heading_title: What Did São Vicente's 2011 Lights Show?
+up_link:
+  basename: Cabo_Verde_2a5bf1
+  title: Cabo Verde UFOs
+  permalink: /what-ufo-reports-survive-cabo-verde/
+  short_title: Cabo Verde UFOs
+prev_link:
+  basename: Cabo_Verde_2a5bf1_official_records_9b05ad
+  title: Official Records | What UFO Reports Survive Cabo Verde?
+  permalink: /official-records-1eded5/
+  short_title: Official Records
+  heading_title: Where Would a Cabo Verde UFO Report Go?
+next_link:
+  basename: Cabo_Verde_2a5bf1_sky_conditions_633a03
+  title: Sky Conditions | What UFO Reports Survive Cabo Verde?
+  permalink: /sky-conditions/
+  short_title: Sky Conditions
+  heading_title: Why Cabo Verde's Skies Can Fool Witnesses
+date: '2026-05-31 04:09:26 '
+header:
+  og_image: /assets/images/Cabo_Verde_2a5bf1_holiday_photo_claims_9e085f-Illustration-1-social.jpg
+  preview_image: /assets/images/Cabo_Verde_2a5bf1_holiday_photo_claims_9e085f-Illustration-1.webp
+image: /assets/images/Cabo_Verde_2a5bf1_holiday_photo_claims_9e085f-Illustration-1-social.jpg
+---
+
+## Introduction
+
+The best-known [Cabo Verde]({{ 'what-ufo-reports-survive-cabo-verde/' | relative_url }}) “UFO” photograph is not a radar case, a pilot encounter, or a military file. It is a holiday image reportedly examined only after the travellers returned home. That detail matters more than the object itself. The 2017 metallic-blue object claim became notable precisely because it follows one of the most common patterns in modern UFO reporting: an unusual shape appears in a photograph that nobody noticed at the time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latest-ufo-sightings.net/tag/cape-verde" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latest-ufo-sightings.net">[Latest UFO Sightings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latest-ufo-sightings.net</span><span class="citation-popover-title">Latest UFO Sightings Cape Verde Archives</span><span class="citation-popover-snippet">A British couple has released fantastic photos that baffled them much.Read more...</span></span></span>
+
+
+<img src="{{ "/assets/images/Cabo_Verde_2a5bf1_holiday_photo_claims_9e085f-Illustration-1-light.svg" | relative_url }}" alt="Photo Claims illustration 1" data-theme-src-dark="{{ "/assets/images/Cabo_Verde_2a5bf1_holiday_photo_claims_9e085f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cabo_Verde_2a5bf1_holiday_photo_claims_9e085f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+Cabo Verde is especially vulnerable to this kind of claim. The islands are heavily photographed by tourists, cruise passengers and drone hobbyists. Long coastlines, bright reflected sunlight, haze, sea spray and fast-moving birds create conditions where tiny visual anomalies can appear dramatic once enlarged on a screen. A photograph can look mysterious while still containing very little usable evidence. The key question is not whether the image looks strange, but whether investigators can reconstruct what actually happened when the picture was taken. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tui.co.uk/discover/7-photos-to-get-in-cape-verde" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tui.co.uk">[TUI.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tui.co.uk</span><span class="citation-popover-title">7 photos to get in cape verde</span><span class="citation-popover-snippet">7 photos you have to get in Cape Verde | Discover29 Jun 2016 — Looking for breathtaking photos that capture the essence of Cape Verde? Lo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.capeverde.co.uk/blog/photos-which-will-make-you-want-to-visit-cape-verde" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: capeverde.co.uk">[Cape Verde Experience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">capeverde.co.uk</span><span class="citation-popover-title">photos which will make you want to visit cape verde</span><span class="citation-popover-snippet">Cape Verde ExperiencePhotos which will make you want to visit Cape Verde30 Apr 2021 — Here&#x27;s a collection of our favourite images from th...</span></span></span>
+
+## The 2017 coast-photo claim
+
+The most widely repeated Cabo Verde holiday-photo story appeared in 2017 on UFO enthusiast sites. According to the circulating account, a British couple later noticed a metallic-blue object in photographs taken near the Cape Verde coast during a holiday. The object reportedly had not been seen with the naked eye at the time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latest-ufo-sightings.net/tag/cape-verde" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latest-ufo-sightings.net">[Latest UFO Sightings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latest-ufo-sightings.net</span><span class="citation-popover-title">Latest UFO Sightings Cape Verde Archives</span><span class="citation-popover-snippet">A British couple has released fantastic photos that baffled them much.Read more...</span></span></span>
+
+That immediately places the case in a lower-evidence category than a real-time sighting. In stronger UFO reports, witnesses usually describe motion, duration, sound, direction, changing appearance, weather conditions and reactions from other observers. In after-the-fact photo discoveries, nearly all of that information is absent. The image becomes detached from direct observation.
+
+The publicly available versions of the Cabo Verde claim also appear to suffer from several common weaknesses:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* No widely available original image files with intact metadata.
+* No confirmed burst sequence or neighbouring frames from the same camera session.
+* No independently documented location geometry.
+* No calibrated size or distance reference.
+* No evidence of multiple synchronized cameras.
+* No known professional forensic analysis published alongside the claim.
+
+</div>
+
+Without those elements, almost any interpretation remains speculative. A small nearby object can mimic a distant structured craft. A reflection can resemble metallic surfaces. Compression artefacts can sharpen edges unnaturally after zooming and reposting online. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bufora.org.uk/sightings/analysis-of-ufo-photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bufora.org.uk">[BUFORA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bufora.org.uk</span><span class="citation-popover-snippet">ally means “Unidentified Flying Object”. It does not...</span></span></span>
+
+The “metallic blue” description itself is also less informative than it first appears. Coastal photography around Cabo Verde often contains intense blue colour spill from sea reflection and sky saturation, especially in bright tropical conditions. Consumer phone cameras and travel compact cameras aggressively process colour and contrast, sometimes creating vivid edges around moving or reflective objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tui.co.uk/discover/7-photos-to-get-in-cape-verde" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tui.co.uk">[TUI.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tui.co.uk</span><span class="citation-popover-title">7 photos to get in cape verde</span><span class="citation-popover-snippet">7 photos you have to get in Cape Verde | Discover29 Jun 2016 — Looking for breathtaking photos that capture the essence of Cape Verde? Lo...</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OkTukKgXfaw" title="The Most Credible UFO Photo Ever Taken Is Finally Public" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OkTukKgXfaw" target="_blank" rel="noopener noreferrer">The Most Credible UFO Photo Ever Taken Is Finally Public</a></p><p class="youtube-embed-meta">Channel: Thoughty2 &middot; Views: 1.5M &middot; Uploaded: October 2025 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OkTukKgXfaw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OkTukKgXfaw">Open on YouTube</a></p></div></div></div>
+
+## Why after-the-fact images mislead so easily
+
+A photograph feels objective because a camera recorded it. In practice, isolated UFO photographs are often harder to interpret than direct eyewitness reports.
+
+The central problem is scale ambiguity. A tiny nearby object can appear enormous if the background horizon provides no reliable depth cues. Cabo Verde’s coastal landscapes are full of exactly those conditions: open ocean, bright sky and uncluttered horizons. A bird crossing close to the lens can resemble a distant structured object once frozen in a single frame.
+
+Several recurring mechanisms explain why holiday photos generate false UFO impressions:
+
+**Insects near the lens**
+
+Fast insects often become blurred geometric streaks or metallic-looking shapes. Because they are extremely close to the camera, depth perception disappears. Small wing reflections can look like structured surfaces.
+
+**Birds caught mid-frame**
+
+Birds photographed during wing transitions can create symmetrical forms that resemble classic saucer or boomerang silhouettes. Motion blur may remove recognisable features such as feathers or beaks.
+
+**Lens flare and internal reflections**
+
+Strong tropical sunlight reflecting off water is notorious for producing floating coloured artefacts. These sometimes appear detached from obvious light sources.
+
+**Digital sharpening and compression**
+
+Holiday photographs are commonly resized, filtered and reposted through social media platforms. Compression can introduce artificial edges and textures that make ordinary objects appear mechanical.
+
+**Selective attention after the trip**
+
+People examining hundreds of holiday images often zoom into backgrounds searching for unusual details. Once an object is framed as a possible UFO, viewers tend to interpret ambiguity in the most dramatic direction.
+
+This last effect is especially important. Investigators sometimes call it retrospective anomaly discovery: the object becomes significant only after repeated viewing. The witness memory then changes around the photograph rather than around a live event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://comparativemedia.columbia.edu/sites/default/files/pdfs/UFO_Photography.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: comparativemedia.columbia.edu">[Center for Comparative Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">comparativemedia.columbia.edu</span><span class="citation-popover-snippet">Center for Comparative MediaUFO PhotographyIf such epistemological ambiguity outlasts the act of judgment itself, it is because UFO photo...</span></span></span>
+
+## Why Cabo Verde produces this kind of case
+
+Cabo Verde’s tourism profile creates ideal conditions for accidental anomaly photography.
+
+The islands attract visitors specifically for beaches, coastlines, sunsets and open-air excursions. That means huge numbers of sky-facing images are taken every year. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tui.co.uk/discover/7-photos-to-get-in-cape-verde" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tui.co.uk">[TUI.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tui.co.uk</span><span class="citation-popover-title">7 photos to get in cape verde</span><span class="citation-popover-snippet">7 photos you have to get in Cape Verde | Discover29 Jun 2016 — Looking for breathtaking photos that capture the essence of Cape Verde? Lo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.capeverde.co.uk/blog/photos-which-will-make-you-want-to-visit-cape-verde" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: capeverde.co.uk">[Cape Verde Experience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">capeverde.co.uk</span><span class="citation-popover-title">photos which will make you want to visit cape verde</span><span class="citation-popover-snippet">Cape Verde ExperiencePhotos which will make you want to visit Cape Verde30 Apr 2021 — Here&#x27;s a collection of our favourite images from th...</span></span></span>
+
+Several local conditions increase the chance of misleading aerial photographs:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* Strong Atlantic glare and reflection.
+* Saharan dust haze affecting contrast and colour.
+* Migratory seabirds crossing coastal camera views.
+* Fast-changing light near sunset.
+* Wide uncluttered horizons with poor depth reference.
+* Consumer drone activity around resorts and beaches.
+* Heavy use of smartphone cameras with computational image processing.
+
+</div>
+
+The islands of Sal and Boa Vista are especially relevant because tourism photography dominates much of the visible online imagery from those locations. A strange object against empty sea or sky naturally attracts attention because there are few nearby landmarks to stabilise perspective. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.shutterstock.com/search/boa-vista-cape-verde" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shutterstock.com">[Shutterstock]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shutterstock.com</span><span class="citation-popover-title">boa vista cape verde</span><span class="citation-popover-snippet">ShutterstockBoa Vista Cape Verde royalty-free imagesFind 3512 Boa Vista Cape Verde stock images in HD and millions of other royalty-free...</span></span></span>
+
+This helps explain why Cabo Verde’s UFO record contains more image-based claims than documented investigative cases. The environment produces photographs first and narratives second.
+
+
+<img src="{{ "/assets/images/Cabo_Verde_2a5bf1_holiday_photo_claims_9e085f-Illustration-2-light.svg" | relative_url }}" alt="Photo Claims illustration 2" data-theme-src-dark="{{ "/assets/images/Cabo_Verde_2a5bf1_holiday_photo_claims_9e085f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cabo_Verde_2a5bf1_holiday_photo_claims_9e085f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Metadata and sequence checks that actually matter
+
+Most online discussions about UFO photographs focus on appearance: shape, colour or apparent movement. Investigators usually focus somewhere else entirely.
+
+The strongest way to test a holiday-photo UFO claim is not to stare at the object. It is to reconstruct the image history.
+
+### The original file matters more than the screenshot
+
+A reposted image is often nearly useless for serious analysis. Investigators need the original camera file because metadata can reveal:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* Exact capture time.
+* Camera model and lens settings.
+* Exposure length.
+* GPS coordinates if enabled.
+* Whether the image was edited.
+* Whether multiple shots were taken seconds apart.
+
+</div>
+
+Missing metadata does not prove deception, but it dramatically limits confidence.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1zRWi_r3HRM" title="&quot;100,000 UFOs Are Surrounding Earth!&quot; ft. Top Astronomer Beatriz Villarroel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1zRWi_r3HRM" target="_blank" rel="noopener noreferrer">&quot;100,000 UFOs Are Surrounding Earth!&quot; ft. Top Astronomer Beatriz Villarroel</a></p><p class="youtube-embed-meta">Channel: Jesse Michels</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1zRWi_r3HRM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1zRWi_r3HRM">Open on YouTube</a></p></div></div></div>
+
+### Sequence frames are often decisive
+
+One isolated frame encourages imagination. A full image sequence often collapses the mystery.
+
+If ten photographs were taken within a few seconds, investigators can check whether:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* The object changes shape consistently.
+* The object appears only once.
+* Nearby birds or insects are visible in adjacent frames.
+* Camera movement explains the anomaly.
+* Light reflections shift with lens angle.
+
+</div>
+
+Many famous UFO photographs weaken once neighbouring frames become available. A single dramatic image can turn out to be one odd moment within an otherwise ordinary sequence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bufora.org.uk/sightings/analysis-of-ufo-photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bufora.org.uk">[BUFORA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bufora.org.uk</span><span class="citation-popover-snippet">ally means “Unidentified Flying Object”. It does not...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tustinhistory.com">[Tustin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tustinhistory.com</span><span class="citation-popover-title">Reanalysis of the 1965 Heflin UFO Photos Society for Scientific</span><span class="citation-popover-snippet">Tustin Area Historical SocietyReanalysis of the 1965 Heflin UFO Photosby ANN DRUFFEL · 2000 · Cited by 3 — To him, the government&#x27;s appar...</span></span></span>
+
+
+<img src="{{ "/assets/images/Cabo_Verde_2a5bf1_holiday_photo_claims_9e085f-Illustration-3-light.svg" | relative_url }}" alt="Photo Claims illustration 3" data-theme-src-dark="{{ "/assets/images/Cabo_Verde_2a5bf1_holiday_photo_claims_9e085f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cabo_Verde_2a5bf1_holiday_photo_claims_9e085f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+### Compression history can distort the object
+
+Modern social media platforms repeatedly resize and recompress images. This matters because UFO claims frequently depend on tiny details near the edge of visibility.
+
+Repeated compression can:
+
+
+<div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
+
+* Artificially sharpen outlines.
+* Remove motion blur clues.
+* Introduce block-like geometry.
+* Alter colour gradients.
+* Create false “surface texture”.
+
+</div>
+
+A heavily reposted Cabo Verde holiday image may therefore tell investigators more about image processing than about the original scene.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kT1RZuRcPnw" title="🔥Beasts Attack, He Can Infinitely Evolve His SSS Mecha Goddess Army, Sweeping Across Everything！" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kT1RZuRcPnw" target="_blank" rel="noopener noreferrer">🔥Beasts Attack, He Can Infinitely Evolve His SSS Mecha Goddess Army, Sweeping Across Everything！</a></p><p class="youtube-embed-meta">Channel: Blue Whale Comics Review</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kT1RZuRcPnw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kT1RZuRcPnw">Open on YouTube</a></p></div></div></div>
+
+## Why these cases remain intriguing anyway
+
+Weak evidence does not automatically mean dishonest witnesses.
+
+Most holiday-photo UFO claims probably reflect genuine surprise. People really do discover odd objects in their pictures after returning home. The problem is that surprise is not the same thing as reliable identification.
+
+The 2017 Cabo Verde claim remains interesting mainly as a textbook example of how modern UFO narratives now emerge. Instead of dramatic public sightings, many contemporary cases begin privately on phones and laptops during photo review sessions. The mystery is born in digital hindsight.
+
+That shift changes the balance of evidence. Older UFO cases often depended on testimony and duration. Newer ones increasingly depend on isolated pixels detached from context. The result is a large number of visually intriguing but analytically fragile reports.
+
+For Cabo Verde specifically, this pattern probably says more about tourism, photography habits and online sharing culture than about a concentrated cluster of unexplained aerial phenomena. The islands produce enormous numbers of atmospheric coastal images, but very few cases survive rigorous verification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latest-ufo-sightings.net/tag/cape-verde" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latest-ufo-sightings.net">[Latest UFO Sightings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latest-ufo-sightings.net</span><span class="citation-popover-title">Latest UFO Sightings Cape Verde Archives</span><span class="citation-popover-snippet">A British couple has released fantastic photos that baffled them much.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bufora.org.uk/sightings/analysis-of-ufo-photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bufora.org.uk">[BUFORA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bufora.org.uk</span><span class="citation-popover-snippet">ally means “Unidentified Flying Object”. It does not...</span></span></span>
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Can a Holiday Photo Prove a UFO?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+        </h4>
+        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        
+        <p class="fr-book-desc">Examines witness reports, evidence categories, and investigative methodology.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+        </h4>
+        <p class="fr-book-author">By Leslie Kean</p>
+        
+        <p class="fr-book-desc">Focuses on evaluating evidence quality and separating stronger cases from weak photographic claims.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+        </h4>
+        <p class="fr-book-author">By Ross Coulthart</p>
+        
+        <p class="fr-book-desc">Explores how UFO claims are assessed and why evidence standards matter.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Caught+on+Film+by+B+J+Booth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs Caught on Film on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kynJDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs Caught on Film" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+Caught+on+Film+by+B+J+Booth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs Caught on Film">UFOs Caught on Film</a>
+        </h4>
+        <p class="fr-book-author">By B J Booth</p>
+        
+        <p class="fr-book-desc">Centres on UFO imagery and the interpretation of unusual photographs.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+Caught+on+Film+by+B+J+Booth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: latest-ufo-sightings.net  
+   Title: Latest UFO Sightings Cape Verde Archives  
+   Link: [https://www.latest-ufo-sightings.net/tag/cape-verde](https://www.latest-ufo-sightings.net/tag/cape-verde)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A British couple has released fantastic photos that baffled them much.Read more...</p></details>
+
+2. <a id="endnote-2"></a>
+   Source: bufora.org.uk  
+   Link: [https://www.bufora.org.uk/sightings/analysis-of-ufo-photographs](https://www.bufora.org.uk/sightings/analysis-of-ufo-photographs)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ally means “Unidentified Flying Object”. It does not...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: tui.co.uk  
+   Title: 7 photos to get in cape verde  
+   Link: [https://www.tui.co.uk/discover/7-photos-to-get-in-cape-verde](https://www.tui.co.uk/discover/7-photos-to-get-in-cape-verde)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>7 photos you have to get in Cape Verde | Discover29 Jun 2016 — Looking for breathtaking photos that capture the essence of Cape Verde? Lo...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: shutterstock.com  
+   Title: boa vista cape verde  
+   Link: [https://www.shutterstock.com/search/boa-vista-cape-verde](https://www.shutterstock.com/search/boa-vista-cape-verde)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ShutterstockBoa Vista Cape Verde royalty-free imagesFind 3512 Boa Vista Cape Verde stock images in HD and millions of other royalty-free...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: capeverde.co.uk  
+   Title: photos which will make you want to visit cape verde  
+   Link: [https://www.capeverde.co.uk/blog/photos-which-will-make-you-want-to-visit-cape-verde](https://www.capeverde.co.uk/blog/photos-which-will-make-you-want-to-visit-cape-verde)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cape Verde ExperiencePhotos which will make you want to visit Cape Verde30 Apr 2021 — Here&#x27;s a collection of our favourite images from th...</p></details>
+
+6. <a id="endnote-6"></a>
+   Source: gettyimages.co.uk  
+   Title: cape verde  
+   Link: [https://www.gettyimages.co.uk/photos/cape-verde](https://www.gettyimages.co.uk/photos/cape-verde)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>18073 Cape Verde Stock Photos, High-Res Pictures, and...Browse 18,073 authentic cape verde stock photos, high-res images, and pictures...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: comparativemedia.columbia.edu  
+   Link: [https://comparativemedia.columbia.edu/sites/default/files/pdfs/UFO_Photography.pdf](https://comparativemedia.columbia.edu/sites/default/files/pdfs/UFO_Photography.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for Comparative MediaUFO PhotographyIf such epistemological ambiguity outlasts the act of judgment itself, it is because UFO photo...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: tustinhistory.com  
+   Title: Reanalysis of the 1965 Heflin UFO Photos Society for Scientific  
+   Link: [https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf](https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tustin Area Historical SocietyReanalysis of the 1965 Heflin UFO Photosby ANN DRUFFEL · 2000 · Cited by 3 — To him, the government&#x27;s appar...</p></details>
+
+### Additional References
+
+9. <a id="endnote-9"></a>
+   Source: nationalparksatnight.com  
+   Link: [https://www.nationalparksatnight.com/blog/tag/Big%2BBend%2BNational%2BPark](https://www.nationalparksatnight.com/blog/tag/Big%2BBend%2BNational%2BPark)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Big Bend National Park — Night Photography BlogMy favorite photo of the year is from our Lassen Volcanic National Park workshop, at the C...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/easyJet/posts/nothing-beats-the-colours-of-a-cape-verde-camera-roll-ahonori0/1387318263423112/](https://www.facebook.com/easyJet/posts/nothing-beats-the-colours-of-a-cape-verde-camera-roll-ahonori0/1387318263423112/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nothing beats the colours of a Cape Verde camera rollA few shots from my holiday to Cape Verde, such a beautiful place and wonderful peop...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/groups/spacemansluck/posts/2146724955567547/](https://www.facebook.com/groups/spacemansluck/posts/2146724955567547/)  
+
+12. <a id="endnote-12"></a>
+   Source: facebook.com  
+   Title: Museum of Science, Boston NEW UFO LAW, ALIENS EXIST BUT REMAIN ON THE SIDELINES  
+   Link: [https://www.facebook.com/museumofscience/posts/the-government-just-dropped-classified-ufo-documents-and-the-internet-is-losing-/1462267272609864/](https://www.facebook.com/museumofscience/posts/the-government-just-dropped-classified-ufo-documents-and-the-internet-is-losing-/1462267272609864/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Museum of Science, BostonNEW UFO LAW, ALIENS EXIST BUT REMAIN ON THE SIDELINES - YET IT&#x27;S ALL ABOUT MONEY Joe Biden has signed into law a...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=OkTukKgXfaw&vl=en](https://www.youtube.com/watch?v=OkTukKgXfaw&vl=en)  
+
+14. <a id="endnote-14"></a>
+   Source: clickstay.com  
+   Title: 9 photos that will inspire you to visit cape verde  
+   Link: [https://www.clickstay.com/blog/9-photos-that-will-inspire-you-to-visit-cape-verde](https://www.clickstay.com/blog/9-photos-that-will-inspire-you-to-visit-cape-verde)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Mar 2020 — With it&#x27;s unbelievably clear waters and breathtaking natural allures, Cape Verde should definitely be on your bucket list...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/UFOs/comments/ujxdze/new_and_extremely_clear_high_res_scan_of_the/](https://www.reddit.com/r/UFOs/comments/ujxdze/new_and_extremely_clear_high_res_scan_of_the/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>historic 1971...New high resolution scan of one of the best UFO photos in history - 1971 Lake Cote UFO. Link to download full res versio...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: widgety-assets.s3.amazonaws.com  
+   Title: PO Cruises September 2016 to October 2018  
+   Link: [https://widgety-assets.s3.amazonaws.com/2017/02/07/04/18/40/269/PO_Cruises_September_2016_to_October_2018.pdf](https://widgety-assets.s3.amazonaws.com/2017/02/07/04/18/40/269/PO_Cruises_September_2016_to_October_2018.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>September 2016 - October 20182 Sept 2016 — Of course, behind the scenes it&#x27;s all a little less spontaneous (some might say meticulously p...</p></details>
+   Published: September 2016  
+
+17. <a id="endnote-17"></a>
+   Source: newyorker.com  
+   Title: the enticing mysteries of ufo photography  
+   Link: [https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography](https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The New YorkerThe Enticing Mysteries of U.F.O. Photography3 Aug 2023 — Chris Wiley on photos of U.F.O.s and the debate surrounding their...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: instagram.com  
+   Link: [https://www.instagram.com/p/CzJkSn5LE2D/](https://www.instagram.com/p/CzJkSn5LE2D/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>apture UFOs near US military testing sites and...</p></details>

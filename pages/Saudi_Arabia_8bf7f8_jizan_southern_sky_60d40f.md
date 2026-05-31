@@ -1,0 +1,650 @@
+---
+level: 2
+basename: Saudi_Arabia_8bf7f8_jizan_southern_sky_60d40f
+parent_basename: Saudi_Arabia_8bf7f8
+child_basenames: []
+sibling_basenames:
+- Saudi_Arabia_8bf7f8_medina_reentry_sight_ce446a
+- Saudi_Arabia_8bf7f8_saudi_ufo_evidence_s_8cc49f
+- Saudi_Arabia_8bf7f8_saudi_ufo_records_ga_db06bb
+tags:
+- saudi-arabia
+- jizan-sky
+keywords:
+- saudi-arabia
+- jizan-sky
+affiliate_category: saudi-arabia
+show_ads: true
+description: Reports from Jizan and nearby regions sit against a real background of drones, missiles and difficult public verification.
+hero_summary: Reports from Jizan and nearby regions sit against a real background of drones, missiles and difficult public verification.
+layout: default
+permalink: /jizan-sky/
+sidebar_expanded_urls:
+- /what-really-explains-saudi-arabias-ufo/
+nav_short_title: Jizan Sky
+title: Why Southern Saudi Sightings Are Hard To Read
+title_full: Why Southern Saudi Sightings Are Hard To Read | Saudi UFOs
+display_title_short: Jizan Sky
+display_title: Jizan Sky
+heading_title: Why Southern Saudi Sightings Are Hard To Read
+page_heading_title: Why Southern Saudi Sightings Are Hard To Read
+source_count: 30
+infographic_count: 3
+planned_sections:
+- The 2003 Jizan fall report
+- Drones and missiles in the south west
+- How conflict changes sighting evidence
+focal_unit_type: population_context
+topic_lens: critique_risk
+topic_granularity: case_family
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+parent_title: Saudi UFOs
+parent_permalink: /what-really-explains-saudi-arabias-ufo/
+parent_nav_short_title: Saudi UFOs
+parent_heading_title: What Really Explains Saudi Arabia's UFO Reports?
+ancestor_links:
+- basename: Saudi_Arabia_8bf7f8
+  title: Saudi UFOs
+  permalink: /what-really-explains-saudi-arabias-ufo/
+  short_title: Saudi UFOs
+breadcrumb_links:
+- basename: Saudi_Arabia_8bf7f8
+  title: Saudi UFOs
+  permalink: /what-really-explains-saudi-arabias-ufo/
+  short_title: Saudi UFOs
+sibling_links:
+- basename: Saudi_Arabia_8bf7f8_saudi_ufo_evidence_s_8cc49f
+  title: Evidence Split | What Really Explains Saudi Arabia's UFO Reports?
+  permalink: /evidence-split-c0ac2a/
+  short_title: Evidence Split
+  heading_title: Which Saudi UFO Cases Actually Hold Up?
+- basename: Saudi_Arabia_8bf7f8_medina_reentry_sight_ce446a
+  title: Medina Lights | What Really Explains Saudi Arabia's UFO Reports?
+  permalink: /medina-lights/
+  short_title: Medina Lights
+  heading_title: Was The Medina UFO Really Space Debris?
+- basename: Saudi_Arabia_8bf7f8_saudi_ufo_records_ga_db06bb
+  title: Records Gap | What Really Explains Saudi Arabia's UFO Reports?
+  permalink: /records-gap-d1601a/
+  short_title: Records Gap
+  heading_title: Where Are Saudi Arabia's UFO Records?
+up_link:
+  basename: Saudi_Arabia_8bf7f8
+  title: Saudi UFOs
+  permalink: /what-really-explains-saudi-arabias-ufo/
+  short_title: Saudi UFOs
+prev_link:
+  basename: Saudi_Arabia_8bf7f8_saudi_ufo_evidence_s_8cc49f
+  title: Evidence Split | What Really Explains Saudi Arabia's UFO Reports?
+  permalink: /evidence-split-c0ac2a/
+  short_title: Evidence Split
+  heading_title: Which Saudi UFO Cases Actually Hold Up?
+next_link:
+  basename: Saudi_Arabia_8bf7f8_medina_reentry_sight_ce446a
+  title: Medina Lights | What Really Explains Saudi Arabia's UFO Reports?
+  permalink: /medina-lights/
+  short_title: Medina Lights
+  heading_title: Was The Medina UFO Really Space Debris?
+date: '2026-05-31 04:30:23 '
+header:
+  og_image: /assets/images/Saudi_Arabia_8bf7f8_jizan_southern_sky_60d40f-Illustration-1-social.jpg
+  preview_image: /assets/images/Saudi_Arabia_8bf7f8_jizan_southern_sky_60d40f-Illustration-1.webp
+image: /assets/images/Saudi_Arabia_8bf7f8_jizan_southern_sky_60d40f-Illustration-1-social.jpg
+---
+
+## Introduction
+
+Southern [Saudi Arabia]({{ 'what-really-explains-saudi-arabias-ufo/' | relative_url }}) is one of the hardest places in the country to interpret unusual aerial reports. Around Jizan and the wider south-western border region, observers are looking into skies that have, at different times, contained military aircraft, missile interceptions, drones, rocket debris, surveillance systems and genuine atmospheric events. That reality matters when assessing UFO claims. A strange light above Riyadh may raise one set of questions; a strange light above Jizan raises another, because the region sits beside one of the Middle East’s most active conflict zones.
+
+
+<img src="{{ "/assets/images/Saudi_Arabia_8bf7f8_jizan_southern_sky_60d40f-Illustration-1-light.svg" | relative_url }}" alt="Jizan Sky illustration 1" data-theme-src-dark="{{ "/assets/images/Saudi_Arabia_8bf7f8_jizan_southern_sky_60d40f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Saudi_Arabia_8bf7f8_jizan_southern_sky_60d40f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+The result is a recurring problem in Saudi UFO reporting. Some sightings are sincere and widely witnessed. Some involve real objects falling from the sky. Yet the same environment that produces dramatic observations also makes verification unusually difficult. The most useful way to understand Jizan’s place in Saudi Arabia’s UFO history is not as a hotspot of confirmed anomalies, but as a region where conflict, geography and incomplete public information constantly blur the line between mystery and explanation.
+
+## The 2003 Jizan fall report
+
+The most frequently cited Jizan-area UFO case remains a reported object fall near Arraith in June 2003. According to contemporary reporting, witnesses described a luminous object flying at low altitude before descending to the ground in the Wadi Amoud area. Local residents reportedly fled from the object, while officials visited the site after reports spread through the region. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.arabnews.com/node/232664" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arabnews.com">[Arab News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arabnews.com</span><span class="citation-popover-title">Arab News&#x27;UFO&#x27; Falls in Jizan Region</span><span class="citation-popover-snippet">June 9, 2003 — 9 Jun 2003 — Witnesses told Al-Watan daily that the object looked like a flying saucer and radiated light. A number of peo...</span><span class="citation-popover-meta">Published: June 9, 2003</span></span></span>
+
+What makes the incident notable is not the strength of the evidence but the fact that it involved an alleged crash or landing rather than a distant light in the sky. Witnesses told newspapers that the object resembled a flying saucer and emitted light, while local officials acknowledged public concern and confirmed that security personnel inspected the location. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.arabnews.com/node/232664" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arabnews.com">[Arab News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arabnews.com</span><span class="citation-popover-title">Arab News&#x27;UFO&#x27; Falls in Jizan Region</span><span class="citation-popover-snippet">June 9, 2003 — 9 Jun 2003 — Witnesses told Al-Watan daily that the object looked like a flying saucer and radiated light. A number of peo...</span><span class="citation-popover-meta">Published: June 9, 2003</span></span></span>
+
+The problem is what happened next. Publicly available reporting never developed into a documented technical investigation. No widely accessible photographs, debris analyses, aviation reports or official findings entered the public record. The original article itself treated conventional explanations as plausible, mentioning the possibility that the object could have been some form of surveillance aircraft rather than an unknown phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.arabnews.com/node/232664" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arabnews.com">[Arab News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arabnews.com</span><span class="citation-popover-title">Arab News&#x27;UFO&#x27; Falls in Jizan Region</span><span class="citation-popover-snippet">June 9, 2003 — 9 Jun 2003 — Witnesses told Al-Watan daily that the object looked like a flying saucer and radiated light. A number of peo...</span><span class="citation-popover-meta">Published: June 9, 2003</span></span></span>
+
+Because of that evidential gap, the case occupies an unusual position in Saudi UFO discussions:
+
+* It was reported by mainstream media rather than emerging purely from rumour.
+* It involved claims of a physical object reaching the ground.
+* Officials reportedly examined the site.
+* No public investigation appears to have produced a definitive explanation.
+* No publicly available evidence establishes an extraordinary explanation either. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.arabnews.com/node/232664" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arabnews.com">[Arab News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arabnews.com</span><span class="citation-popover-title">Arab News&#x27;UFO&#x27; Falls in Jizan Region</span><span class="citation-popover-snippet">June 9, 2003 — 9 Jun 2003 — Witnesses told Al-Watan daily that the object looked like a flying saucer and radiated light. A number of peo...</span><span class="citation-popover-meta">Published: June 9, 2003</span></span></span>
+
+For researchers, the lesson is less about what the object was and more about the limits of the available record. The case remains contested because the evidence trail effectively ends where public curiosity begins.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZC3SLN207rI" title="Saudi Arabia Intercepts &amp; Downs 2 Drones | Drones Shot Down in Eastern Region | WION BREAKING" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZC3SLN207rI" target="_blank" rel="noopener noreferrer">Saudi Arabia Intercepts &amp; Downs 2 Drones | Drones Shot Down in Eastern Region | WION BREAKING</a></p><p class="youtube-embed-meta">Channel: WION &middot; Views: 2.0K &middot; Uploaded: March 2026 &middot; Length: 2 minutes 14 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZC3SLN207rI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZC3SLN207rI">Open on YouTube</a></p></div></div></div>
+
+## Why the south-west sky is different
+
+Many Saudi UFO discussions focus on cities such as Riyadh, Jeddah or Medina. Jizan operates under a different set of conditions.
+
+The province borders Yemen and sits close to areas that have experienced years of cross-border military activity. Since the escalation of the Yemen conflict in 2015, the region has repeatedly appeared in reports involving missiles, drones and air-defence interceptions. Saudi authorities, coalition forces, international media organisations and conflict-monitoring groups have all documented attacks directed toward Jizan and neighbouring southern provinces. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.voanews.com/a/middle-east_yemeni-houthis-say-they-hit-saudi-oil-facility-drone-missile-attack/6192671.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: voanews.com">[Voice of America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">voanews.com</span><span class="citation-popover-snippet">Yemeni Houthis Say They Hit Saudi Oil Facility in Drone, Missile AttackJuly 13, 2020 — Yemeni Houthi forces hit a large oil facility in t...</span><span class="citation-popover-meta">Published: July 13, 2020</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://acleddata.com/report/beyond-riyadh-houthi-cross-border-aerial-warfare-2015-2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acleddata.com">[ACLED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acleddata.com</span><span class="citation-popover-title">beyond riyadh houthi cross border aerial warfare 2015 2022</span><span class="citation-popover-snippet">ACLEDBeyond Riyadh: Houthi Cross-Border Aerial Warfare (2015-2022)January 17, 2023 — The interception rate for drones reached 77%, while...</span><span class="citation-popover-meta">Published: January 17, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aljazeera.com/news/2019/6/30/saudi-arabia-intercepts-two-houthi-drones-launched-into-kingdom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aljazeera.com">[Al Jazeera]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aljazeera.com</span><span class="citation-popover-snippet">Al JazeeraSaudi Arabia intercepts two Houthi drones launched into kingdomSaudi-led coalition spokesperson says drone attacks on provinces...</span></span></span>
+
+That changes how aerial reports should be interpreted.
+
+In many countries, a bright object moving unexpectedly across the night sky might first be compared with astronomical phenomena, aircraft or satellites. In Jizan, additional possibilities immediately enter the picture:
+
+
+<div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
+
+* Interceptor missiles.
+* Explosive drones.
+* Reconnaissance UAVs.
+* Missile fragments.
+* Air-defence detonations.
+* Military flares.
+* Radar-tracked but publicly undisclosed operations.
+
+</div>
+
+The existence of these possibilities does not automatically explain every report. It does, however, raise the threshold for claiming that an observation was genuinely anomalous.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xHd0q_dhxqQ" title="Saudi-led coalition intercepts missiles over Riyadh, Jizan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xHd0q_dhxqQ" target="_blank" rel="noopener noreferrer">Saudi-led coalition intercepts missiles over Riyadh, Jizan</a></p><p class="youtube-embed-meta">Channel: Al Jazeera English &middot; Views: 143.5K &middot; Uploaded: March 2020 &middot; Length: 2 minutes 46 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xHd0q_dhxqQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xHd0q_dhxqQ">Open on YouTube</a></p></div></div></div>
+
+## Drones and missiles in the south-west
+
+The Yemen conflict transformed the aerial environment above southern Saudi Arabia.
+
+From 2015 onward, Jizan became one of the most frequently mentioned Saudi regions in reports of incoming drones and missiles. Coalition statements and international reporting repeatedly described interceptions over Jizan or attacks directed toward infrastructure, airports and industrial facilities in the area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mei.edu/publication/iranian-backed-houthi-rebels-yemen-fire-ballistic-missiles-riyadh/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mei.edu">[Middle East Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mei.edu</span><span class="citation-popover-snippet">The Houthi rebels claimed they had launched the drone to target a Saudi Aramco facility. There were no...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.trtworld.com/article/13106959" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trtworld.com">[TRT World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trtworld.com</span><span class="citation-popover-title">TRT World Missiles, drones from Yemen &#x27;intercepted&#x27; over Saudi Arabia</span><span class="citation-popover-snippet">TRT WorldMissiles, drones from Yemen &#x27;intercepted&#x27; over Saudi ArabiaApril 11, 2018 — Saudi Arabia&#x27;s missile interceptions came hours afte...</span><span class="citation-popover-meta">Published: April 11, 2018</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aljazeera.com/news/2019/6/30/saudi-arabia-intercepts-two-houthi-drones-launched-into-kingdom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aljazeera.com">[Al Jazeera]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aljazeera.com</span><span class="citation-popover-snippet">Al JazeeraSaudi Arabia intercepts two Houthi drones launched into kingdomSaudi-led coalition spokesperson says drone attacks on provinces...</span></span></span>
+
+Several episodes illustrate the scale of the problem:
+
+* In 2018, Saudi authorities reported missile attacks affecting multiple Saudi cities, including Jizan, with interceptions producing visible explosions and falling debris. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2018/mar/26/saudis-shoot-down-seven-missiles-fired-on-cities-by-yemens-houthi-rebels" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The attack, which coincided with the third anniversary of the Saudi military intervention in Yemen, resulted in the death of an Egyptian...</span></span></span>
+* In 2019, coalition statements said drones targeted Jizan and nearby provinces. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aljazeera.com/news/2019/6/30/saudi-arabia-intercepts-two-houthi-drones-launched-into-kingdom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aljazeera.com">[Al Jazeera]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aljazeera.com</span><span class="citation-popover-snippet">Al JazeeraSaudi Arabia intercepts two Houthi drones launched into kingdomSaudi-led coalition spokesperson says drone attacks on provinces...</span></span></span>
+* In 2021, Saudi civil-defence officials reported a projectile falling in a border village in Jazan province, causing damage but no casualties. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.arabnews.com/node/232664" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arabnews.com">[Arab News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arabnews.com</span><span class="citation-popover-title">Arab News&#x27;UFO&#x27; Falls in Jizan Region</span><span class="citation-popover-snippet">June 9, 2003 — 9 Jun 2003 — Witnesses told Al-Watan daily that the object looked like a flying saucer and radiated light. A number of peo...</span><span class="citation-popover-meta">Published: June 9, 2003</span></span></span>
+* In 2022, attacks reportedly struck facilities in the Jizan area, including energy infrastructure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/middle-east/saudi-led-coalition-says-four-houthi-attacks-hit-targets-kingdom-no-casualties-2022-03-19/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Yemen Houthis attack Saudi energy facilities, refinery output hit</span><span class="citation-popover-snippet">ReutersYemen Houthis attack Saudi energy facilities, refinery output hitMarch 20, 2022 — Yemen&#x27;s Iran-aligned Houthi group fired missiles...</span><span class="citation-popover-meta">Published: March 20, 2022</span></span></span>
+* Maritime security reports in the Red Sea west of Jizan have also documented suspicious drone activity around commercial shipping. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/middle-east/vessel-suspiciously-approached-by-drones-west-saudi-arabias-jizan-ship-crew-safe-2024-02-19/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">The drones followed the ship for approximately 30 minutes, flying at an altitude of about 100 meters above the vessel. Eventually, the dr...</span></span></span>
+
+Some of the systems used in the conflict are themselves capable of creating unusual visual impressions. Long-range drones can appear as silent lights. Missile interceptions can create sudden flashes, fragmentation trails and glowing debris. Falling remnants may descend slowly enough to look unlike conventional aircraft accidents. Reports of Houthi drone families such as the Samad series and short-range missile systems intended for strikes against border regions demonstrate how complex the regional airspace became during the conflict years. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Samad_%28UAV%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Samad (UAV</span><span class="citation-popover-snippet">Samad (UAV</span></span></span>
+
+For witnesses without access to military information, an interception event may look every bit as strange as a classic UFO sighting.
+
+## How conflict changes sighting evidence
+
+Conflict does not only create unusual objects in the sky. It also changes how information about those objects reaches the public.
+
+
+<img src="{{ "/assets/images/Saudi_Arabia_8bf7f8_jizan_southern_sky_60d40f-Illustration-2-light.svg" | relative_url }}" alt="Jizan Sky illustration 2" data-theme-src-dark="{{ "/assets/images/Saudi_Arabia_8bf7f8_jizan_southern_sky_60d40f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Saudi_Arabia_8bf7f8_jizan_southern_sky_60d40f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+### Limited public disclosure
+
+Military authorities rarely publish complete operational details in real time. Radar tracks, interception data, sensor records and intelligence assessments are often classified.
+
+This creates a familiar pattern in southern Saudi reports:
+
+
+<div class="content-enhancement content-enhancement--step-flow" markdown="1">
+
+1. Witnesses see something unusual.
+2. Videos appear online.
+3. Rumours spread rapidly.
+4. Official information arrives later, partially, or not at all.
+
+</div>
+
+When documentation is incomplete, speculation expands into the gap.
+
+### Bright explosions create misleading impressions
+
+Many UFO reports rely heavily on visual surprise. A missile interception at night can produce exactly the kind of spectacle that encourages extraordinary interpretations.
+
+Witnesses may observe:
+
+
+<div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
+
+* Multiple lights separating.
+* Abrupt changes in direction.
+* Sudden disappearance.
+* Falling glowing fragments.
+* Repeated flashes.
+
+</div>
+
+Yet these same features can result from interceptor systems engaging incoming threats. Several Saudi missile-interception incidents have generated public videos showing dramatic lights and explosions above populated areas. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.middleeastmonitor.com/20200329-saudi-missiles-intercepted-above-riyadh-and-city-of-jazan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: middleeastmonitor.com">[Middle East Monitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">middleeastmonitor.com</span><span class="citation-popover-title">20200329 saudi missiles intercepted above riyadh and city of jazan</span><span class="citation-popover-snippet">Middle East MonitorSaudi: Missiles intercepted above Riyadh and city of Jizan29 Mar 2020 — Ballistic missiles were intercepted on Saturda...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2018/mar/26/saudis-shoot-down-seven-missiles-fired-on-cities-by-yemens-houthi-rebels" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The attack, which coincided with the third anniversary of the Saudi military intervention in Yemen, resulted in the death of an Egyptian...</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kF8SVerirIw" title="Saudi Arabia Intercepts Three Drones, Middle East Tensions Escalate | WION World DNA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kF8SVerirIw" target="_blank" rel="noopener noreferrer">Saudi Arabia Intercepts Three Drones, Middle East Tensions Escalate | WION World DNA</a></p><p class="youtube-embed-meta">Channel: WION &middot; Views: 7.2K &middot; Uploaded: May 2026 &middot; Length: 2 minutes 27 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kF8SVerirIw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kF8SVerirIw">Open on YouTube</a></p></div></div></div>
+
+### Social media fragments the event record
+
+A second problem is that videos often capture only the most dramatic seconds of an event.
+
+A thirty-second clip may show an unexplained flash without revealing:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* What happened before it.
+* Whether air-defence sirens sounded.
+* Whether authorities announced an interception.
+* Whether similar footage exists from other angles.
+
+</div>
+
+The shorter the clip, the easier it becomes for competing interpretations to survive.
+
+## The reliability problem in southern Saudi UFO claims
+
+The strongest conclusion emerging from Jizan-related reports is not that they prove unknown technology, nor that every sighting is solved. Instead, the region demonstrates how difficult it can be to separate genuine anomalies from incomplete information.
+
+The 2003 fall report remains interesting because it involved claims of a landed object and official site visits, yet lacks the evidence needed for a strong conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.arabnews.com/node/232664" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arabnews.com">[Arab News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arabnews.com</span><span class="citation-popover-title">Arab News&#x27;UFO&#x27; Falls in Jizan Region</span><span class="citation-popover-snippet">June 9, 2003 — 9 Jun 2003 — Witnesses told Al-Watan daily that the object looked like a flying saucer and radiated light. A number of peo...</span><span class="citation-popover-meta">Published: June 9, 2003</span></span></span>
+
+More recent reports face a different challenge. The existence of documented drone warfare, missile launches and interception operations means that an unusual aerial sighting now enters a crowded explanatory environment. Researchers evaluating a Jizan report must ask questions that may be less important elsewhere in Saudi Arabia:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* Was a cross-border attack reported that day?
+* Were air-defence systems active?
+* Were military flights operating nearby?
+* Could debris have been falling from an interception?
+* Was maritime security activity occurring in the Red Sea corridor?
+
+</div>
+
+Without answers to those questions, classification remains uncertain.
+
+
+<img src="{{ "/assets/images/Saudi_Arabia_8bf7f8_jizan_southern_sky_60d40f-Illustration-3-light.svg" | relative_url }}" alt="Jizan Sky illustration 3" data-theme-src-dark="{{ "/assets/images/Saudi_Arabia_8bf7f8_jizan_southern_sky_60d40f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Saudi_Arabia_8bf7f8_jizan_southern_sky_60d40f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## What Jizan contributes to the wider Saudi UFO picture
+
+Jizan occupies a unique position within Saudi Arabia’s broader UFO record because it demonstrates how context can matter more than the sighting itself.
+
+A luminous object over a quiet desert area might primarily invite astronomical or atmospheric explanations. A luminous object over the Jizan border region could involve those same possibilities, but it must also be evaluated against a documented history of missile launches, drone incursions and military responses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.voanews.com/a/middle-east_yemeni-houthis-say-they-hit-saudi-oil-facility-drone-missile-attack/6192671.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: voanews.com">[Voice of America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">voanews.com</span><span class="citation-popover-snippet">Yemeni Houthis Say They Hit Saudi Oil Facility in Drone, Missile AttackJuly 13, 2020 — Yemeni Houthi forces hit a large oil facility in t...</span><span class="citation-popover-meta">Published: July 13, 2020</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://acleddata.com/report/beyond-riyadh-houthi-cross-border-aerial-warfare-2015-2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acleddata.com">[ACLED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acleddata.com</span><span class="citation-popover-title">beyond riyadh houthi cross border aerial warfare 2015 2022</span><span class="citation-popover-snippet">ACLEDBeyond Riyadh: Houthi Cross-Border Aerial Warfare (2015-2022)January 17, 2023 — The interception rate for drones reached 77%, while...</span><span class="citation-popover-meta">Published: January 17, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.trtworld.com/article/13106959" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trtworld.com">[TRT World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trtworld.com</span><span class="citation-popover-title">TRT World Missiles, drones from Yemen &#x27;intercepted&#x27; over Saudi Arabia</span><span class="citation-popover-snippet">TRT WorldMissiles, drones from Yemen &#x27;intercepted&#x27; over Saudi ArabiaApril 11, 2018 — Saudi Arabia&#x27;s missile interceptions came hours afte...</span><span class="citation-popover-meta">Published: April 11, 2018</span></span></span>
+
+That makes the region valuable as a case study in evidence assessment. The south-western sky produces genuine unusual observations, but it also contains more known sources of aerial confusion than almost any other part of Saudi Arabia. The challenge is not simply identifying what witnesses saw. It is determining which mysteries are truly unexplained after the realities of a conflict-zone airspace have been accounted for.
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Southern Saudi Sightings Are Hard To Read. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
+        </h4>
+        <p class="fr-book-author">By David Clarke</p>
+        
+        <p class="fr-book-desc">Explores how sightings become enduring stories despite uncertain evidence.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+        </h4>
+        <p class="fr-book-author">By Leslie Kean</p>
+        
+        <p class="fr-book-desc">Focuses on evidence quality and official reporting, matching the article&#x27;s emphasis on difficult-to-verify sightings.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+        </h4>
+        <p class="fr-book-author">By Edward J. Ruppelt</p>
+        
+        <p class="fr-book-desc">Shows how official investigators handled ambiguous aerial incidents.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+        </h4>
+        <p class="fr-book-author">By Garrett M. Graff</p>
+        
+        <p class="fr-book-desc">Examines how governments evaluate unexplained aerial reports and evidence.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: acleddata.com  
+   Title: beyond riyadh houthi cross border aerial warfare 2015 2022  
+   Link: [https://acleddata.com/report/beyond-riyadh-houthi-cross-border-aerial-warfare-2015-2022](https://acleddata.com/report/beyond-riyadh-houthi-cross-border-aerial-warfare-2015-2022)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ACLEDBeyond Riyadh: Houthi Cross-Border Aerial Warfare (2015-2022)January 17, 2023 — The interception rate for drones reached 77%, while...</p></details>
+   Published: January 17, 2023  
+
+2. <a id="endnote-2"></a>
+   Source: reuters.com  
+   Title: Yemen Houthis attack Saudi energy facilities, refinery output hit  
+   Link: [https://www.reuters.com/world/middle-east/saudi-led-coalition-says-four-houthi-attacks-hit-targets-kingdom-no-casualties-2022-03-19/](https://www.reuters.com/world/middle-east/saudi-led-coalition-says-four-houthi-attacks-hit-targets-kingdom-no-casualties-2022-03-19/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ReutersYemen Houthis attack Saudi energy facilities, refinery output hitMarch 20, 2022 — Yemen&#x27;s Iran-aligned Houthi group fired missiles...</p></details>
+   Published: March 20, 2022  
+
+3. <a id="endnote-3"></a>
+   Source: reuters.com  
+   Link: [https://www.reuters.com/world/middle-east/vessel-suspiciously-approached-by-drones-west-saudi-arabias-jizan-ship-crew-safe-2024-02-19/](https://www.reuters.com/world/middle-east/vessel-suspiciously-approached-by-drones-west-saudi-arabias-jizan-ship-crew-safe-2024-02-19/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The drones followed the ship for approximately 30 minutes, flying at an altitude of about 100 meters above the vessel. Eventually, the dr...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: Wikipedia  
+   Title: Samad (UAV)  
+   Link: [https://en.wikipedia.org/wiki/Samad_%28UAV%29](https://en.wikipedia.org/wiki/Samad_%28UAV%29)  
+
+5. <a id="endnote-5"></a>
+   Source: Wikipedia  
+   Title: Al-Najm al-Thaqib  
+   Link: [https://en.wikipedia.org/wiki/Al-Najm_al-Thaqib](https://en.wikipedia.org/wiki/Al-Najm_al-Thaqib)  
+
+6. <a id="endnote-6"></a>
+   Source: arabnews.com  
+   Title: Arab News'UFO' Falls in Jizan Region  
+   Link: [https://www.arabnews.com/node/232664](https://www.arabnews.com/node/232664)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>June 9, 2003 — 9 Jun 2003 — Witnesses told Al-Watan daily that the object looked like a flying saucer and radiated light. A number of peo...</p></details>
+   Published: June 9, 2003  
+
+7. <a id="endnote-7"></a>
+   Source: aljazeera.com  
+   Link: [https://www.aljazeera.com/news/2019/6/30/saudi-arabia-intercepts-two-houthi-drones-launched-into-kingdom](https://www.aljazeera.com/news/2019/6/30/saudi-arabia-intercepts-two-houthi-drones-launched-into-kingdom)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Al JazeeraSaudi Arabia intercepts two Houthi drones launched into kingdomSaudi-led coalition spokesperson says drone attacks on provinces...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: middleeastmonitor.com  
+   Title: 20200329 saudi missiles intercepted above riyadh and city of jazan  
+   Link: [https://www.middleeastmonitor.com/20200329-saudi-missiles-intercepted-above-riyadh-and-city-of-jazan/](https://www.middleeastmonitor.com/20200329-saudi-missiles-intercepted-above-riyadh-and-city-of-jazan/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Middle East MonitorSaudi: Missiles intercepted above Riyadh and city of Jizan29 Mar 2020 — Ballistic missiles were intercepted on Saturda...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: voanews.com  
+   Link: [https://www.voanews.com/a/middle-east_yemeni-houthis-say-they-hit-saudi-oil-facility-drone-missile-attack/6192671.html](https://www.voanews.com/a/middle-east_yemeni-houthis-say-they-hit-saudi-oil-facility-drone-missile-attack/6192671.html)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Yemeni Houthis Say They Hit Saudi Oil Facility in Drone, Missile AttackJuly 13, 2020 — Yemeni Houthi forces hit a large oil facility in t...</p></details>
+   Published: July 13, 2020  
+
+10. <a id="endnote-10"></a>
+   Source: trtworld.com  
+   Title: TRT World Missiles, drones from Yemen 'intercepted' over Saudi Arabia  
+   Link: [https://www.trtworld.com/article/13106959](https://www.trtworld.com/article/13106959)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>TRT WorldMissiles, drones from Yemen &#x27;intercepted&#x27; over Saudi ArabiaApril 11, 2018 — Saudi Arabia&#x27;s missile interceptions came hours afte...</p></details>
+   Published: April 11, 2018  
+
+11. <a id="endnote-11"></a>
+   Source: mei.edu  
+   Link: [https://mei.edu/publication/iranian-backed-houthi-rebels-yemen-fire-ballistic-missiles-riyadh/](https://mei.edu/publication/iranian-backed-houthi-rebels-yemen-fire-ballistic-missiles-riyadh/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Houthi rebels claimed they had launched the drone to target a Saudi Aramco facility. There were no...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: theguardian.com  
+   Link: [https://www.theguardian.com/world/2018/mar/26/saudis-shoot-down-seven-missiles-fired-on-cities-by-yemens-houthi-rebels](https://www.theguardian.com/world/2018/mar/26/saudis-shoot-down-seven-missiles-fired-on-cities-by-yemens-houthi-rebels)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The attack, which coincided with the third anniversary of the Saudi military intervention in Yemen, resulted in the death of an Egyptian...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: arabnews.jp  
+   Title: article 45921  
+   Link: [https://www.arabnews.jp/en/saudi-arabia/article_45921/](https://www.arabnews.jp/en/saudi-arabia/article_45921/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Arab NewsSaudi civil defense reports some damage after Houthi...11 May 2021 — CAIRO: Saudi Arabia&#x27;s civil defense said on Twitter early...</p></details>
+   Published: May 2021  
+
+14. <a id="endnote-14"></a>
+   Source: arabnews.jp  
+   Title: 10 people injured in foiled Houthi drone attack on Saudi Arabia's  
+   Link: [https://www.arabnews.jp/en/saudi-arabia/article_56918/](https://www.arabnews.jp/en/saudi-arabia/article_56918/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 9, 2021 — RIYADH: Ten people were injured on Friday during a drone attack by Iran-backed Houthi militia on the King Abdulaziz Air...</p></details>
+   Published: October 9, 2021  
+
+### Additional References
+
+15. <a id="endnote-15"></a>
+   Source: 8am.media  
+   Link: [https://8am.media/eng/ministry-of-defense-of-saudi-arabia-announces-the-interception-of-four-drones-and-one-ballistic-missile/](https://8am.media/eng/ministry-of-defense-of-saudi-arabia-announces-the-interception-of-four-drones-and-one-ballistic-missile/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ministry of Defense of Saudi Arabia Announces The...23 Mar 2026 — The Ministry of Defense of Saudi Arabia has announced that the country...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/SaudiGazette/posts/saudi-arabias-ministry-of-defense-has-launched-a-new-service-on-the-national-taw/1261837542790319/](https://www.facebook.com/SaudiGazette/posts/saudi-arabias-ministry-of-defense-has-launched-a-new-service-on-the-national-taw/1261837542790319/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 15, 2026 — Saudi air defenses intercepted and destroyed three ballistic missiles and three drones launched towards the eastern regi...</p></details>
+   Published: March 15, 2026  
+
+17. <a id="endnote-17"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/SaudiGazette/posts/frontpage-saudi-air-defenses-intercept-21-drones-7-ballistic-missiles-across-kin/1258524146454992/](https://www.facebook.com/SaudiGazette/posts/frontpage-saudi-air-defenses-intercept-21-drones-7-ballistic-missiles-across-kin/1258524146454992/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>es which had been launched by Iran -led &amp; UN/UK-backed Houthis and...Read more...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: aa.com.tr  
+   Title: saudi arabia intercepts 4 drones ballistic missile  
+   Link: [https://www.aa.com.tr/en/middle-east/saudi-arabia-intercepts-4-drones-ballistic-missile/3875297](https://www.aa.com.tr/en/middle-east/saudi-arabia-intercepts-4-drones-ballistic-missile/3875297)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Saudi Arabia intercepts 4 drones, ballistic missile23 Mar 2026 — Saudi Arabia intercepted four drones and a ballistic missile across seve...</p></details>
+
+19. <a id="endnote-19"></a>
+   Source: youtube.com  
+   Title: You Tube Saudi-led coalition intercepts missiles over Riyadh, Jizan  
+   Link: [https://www.youtube.com/watch?v=xHd0q_dhxqQ](https://www.youtube.com/watch?v=xHd0q_dhxqQ)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Saudi-led coalition intercepts missiles over Riyadh, Jizan - YouTubeThe Saudi-led coalition fighting Houthi rebels in Yemen says t...</p></details>
+
+20. <a id="endnote-20"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/firstpostin/posts/fpreels-saudi-air-defences-intercept-iranian-drones-over-kingdom-saudi-arabias-d/1437038155123834/](https://www.facebook.com/firstpostin/posts/fpreels-saudi-air-defences-intercept-iranian-drones-over-kingdom-saudi-arabias-d/1437038155123834/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>hich had been launched by Iran -led &amp; UN/UK-backed Houthis and...Read more...</p></details>
+
+21. <a id="endnote-21"></a>
+   Source: timesofisrael.com  
+   Link: [https://www.timesofisrael.com/liveblog_entry/saudi-arabia-reports-interception-of-2-cruise-missiles-near-riyadh-downing-of-drones/](https://www.timesofisrael.com/liveblog_entry/saudi-arabia-reports-interception-of-2-cruise-missiles-near-riyadh-downing-of-drones/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>an area south of the capital Riyadh, and state media reports a...Read more...</p></details>
+
+22. <a id="endnote-22"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=ZC3SLN207rI](https://www.youtube.com/watch?v=ZC3SLN207rI)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Saudi Deploys Massive Air Defences Around Hajj Amid Gulf Tensions | Firstpost Live | 4K...</p></details>
+
+23. <a id="endnote-23"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=kF8SVerirIw](https://www.youtube.com/watch?v=kF8SVerirIw)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Saudi Arabia Intercepts &amp; Downs 2 Drones | Drones Shot Down in Eastern Region | WION BREAKING...</p></details>
+
+24. <a id="endnote-24"></a>
+   Source: saudigazette.com.sa  
+   Link: [https://saudigazette.com.sa/article/660056](https://saudigazette.com.sa/article/660056)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Saudi Arabia warns against sharing missile interception...28 Mar 2026 — Earlier, Ministry of Defense launched a service through the nati...</p></details>

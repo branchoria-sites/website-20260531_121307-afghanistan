@@ -1,0 +1,708 @@
+---
+level: 2
+basename: Comoros_e5bb59_comoros_ufo_chronolo_ffe260
+parent_basename: Comoros_e5bb59
+child_basenames: []
+sibling_basenames:
+- Comoros_e5bb59_comoros_aviation_met_686173
+- Comoros_e5bb59_comoros_natural_expl_4e0027
+- Comoros_e5bb59_documented_comoros_s_e026a5
+tags:
+- comoros
+- incident-chronology
+keywords:
+- comoros
+- incident-chronology
+affiliate_category: comoros
+show_ads: true
+description: A timeline highlighting unverified and disputed UFO reports within the Comoros archipelago.
+hero_summary: A timeline highlighting unverified and disputed UFO reports within the Comoros archipelago.
+layout: default
+permalink: /incident-chronology/
+sidebar_expanded_urls:
+- /have-ufos-really-been-seen-over-comoros/
+nav_short_title: Incident Chronology
+title: Which UFO Reports in Comoros Are Contested or Unverified?
+title_full: Which UFO Reports in Comoros Are Contested or Unverified? | ComorosUFOs
+display_title_short: Incident Chronology
+display_title: Incident Chronology
+heading_title: Which UFO Reports in Comoros Are Contested or Unverified?
+page_heading_title: Which UFO Reports in Comoros Are Contested or Unverified?
+source_count: 60
+infographic_count: 3
+planned_sections:
+- Timeline of claimed sightings
+- Sources and credibility
+- Comparison with regional patterns
+focal_unit_type: event_time_window
+topic_lens: historical_comparative
+topic_granularity: pillar
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+parent_title: ComorosUFOs
+parent_permalink: /have-ufos-really-been-seen-over-comoros/
+parent_nav_short_title: ComorosUFOs
+parent_heading_title: Have UFOs Really Been Seen Over Comoros?
+ancestor_links:
+- basename: Comoros_e5bb59
+  title: ComorosUFOs
+  permalink: /have-ufos-really-been-seen-over-comoros/
+  short_title: ComorosUFOs
+breadcrumb_links:
+- basename: Comoros_e5bb59
+  title: ComorosUFOs
+  permalink: /have-ufos-really-been-seen-over-comoros/
+  short_title: ComorosUFOs
+sibling_links:
+- basename: Comoros_e5bb59_comoros_aviation_met_686173
+  title: Aviation Records | Have UFOs Really Been Seen Over Comoros?
+  permalink: /aviation-records/
+  short_title: Aviation Records
+  heading_title: How Comoros Flight and Weather Systems Track Unusual Aerial Objects
+- basename: Comoros_e5bb59_documented_comoros_s_e026a5
+  title: Confirmed Reports | Have UFOs Really Been Seen Over Comoros?
+  permalink: /confirmed-reports/
+  short_title: Confirmed Reports
+  heading_title: What UFO Sightings in Comoros Are Actually Documented?
+- basename: Comoros_e5bb59_comoros_natural_expl_4e0027
+  title: Natural Explanations | Have UFOs Really Been Seen Over Comoros?
+  permalink: /natural-explanations/
+  short_title: Natural Explanations
+  heading_title: Could Comoros UFOs Be Meteors or Satellites?
+up_link:
+  basename: Comoros_e5bb59
+  title: ComorosUFOs
+  permalink: /have-ufos-really-been-seen-over-comoros/
+  short_title: ComorosUFOs
+prev_link:
+  basename: Comoros_e5bb59_documented_comoros_s_e026a5
+  title: Confirmed Reports | Have UFOs Really Been Seen Over Comoros?
+  permalink: /confirmed-reports/
+  short_title: Confirmed Reports
+  heading_title: What UFO Sightings in Comoros Are Actually Documented?
+next_link:
+  basename: Comoros_e5bb59_comoros_natural_expl_4e0027
+  title: Natural Explanations | Have UFOs Really Been Seen Over Comoros?
+  permalink: /natural-explanations/
+  short_title: Natural Explanations
+  heading_title: Could Comoros UFOs Be Meteors or Satellites?
+date: '2026-05-31 04:16:57 '
+header:
+  og_image: /assets/images/Comoros_e5bb59_comoros_ufo_chronolo_ffe260-Illustration-1-social.jpg
+  preview_image: /assets/images/Comoros_e5bb59_comoros_ufo_chronolo_ffe260-Illustration-1.webp
+image: /assets/images/Comoros_e5bb59_comoros_ufo_chronolo_ffe260-Illustration-1-social.jpg
+---
+
+## Introduction
+
+There is no strong, well-documented UFO case history for the Union of the [Comoros]({{ 'have-ufos-really-been-seen-over-comoros/' | relative_url }}) comparable to the heavily investigated incidents associated with the United States, France, Brazil, or southern Africa. The available record is instead defined by absence, fragmentary claims, and later internet-era aggregation sites that imply sightings without supplying verifiable evidence. That makes the chronology of alleged UFO incidents in Comoros less a story of famous encounters than a case study in weak documentation, disputed reporting standards, and the difficulty of reconstructing local oral accounts from a small island state with limited archival visibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/comoros-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[UFO Information Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-snippet">UFO Information CenterGlobal UFOs: Comoros UFO Sightings &amp; ReportsBrowse or report Comoros UFO UAP or USO sightings and other strange par...</span></span></span>
+
+
+<img src="{{ "/assets/images/Comoros_e5bb59_comoros_ufo_chronolo_ffe260-Illustration-1-light.svg" | relative_url }}" alt="Incident Chronology illustration 1" data-theme-src-dark="{{ "/assets/images/Comoros_e5bb59_comoros_ufo_chronolo_ffe260-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Comoros_e5bb59_comoros_ufo_chronolo_ffe260-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+The most important fact in any chronology of Comorian UFO claims is therefore methodological: almost every publicly accessible report is either unverified, lacking witness detail, duplicated from generic databases, or impossible to trace to a contemporary local source. No publicly released military file, aviation investigation, or authenticated scientific study currently confirms a major unidentified aerial phenomenon event in the Comoros archipelago. That does not prove no unusual sightings occurred. It means the evidentiary chain is unusually thin.
+
+## Timeline of Claimed Sightings and Disputed Reports
+
+### Pre-internet era: no verified national case archive
+
+Searchable public UFO chronologies contain almost no clearly documented Comorian entries before the internet era. Large catalogue projects such as the National UFO Reporting Center (NUFORC) and international UFO summary lists either omit Comoros entirely or provide no detailed incident record linked to the islands. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location NUFORC Reports by Location; USA</span><span class="citation-popover-snippet">NUFORCNUFORC Reports by LocationNUFORC Reports by Location; USA - Alabama, 1529; USA - Arkansas, 1366; USA - Arizona, 5348; USA - Cal...</span></span></span>
+
+This absence is notable because nearby regions of Africa and the western Indian Ocean do appear in broader UFO literature. Southern Africa, especially Zimbabwe and South Africa, generated periods of UFO publicity during the twentieth century, sometimes linked to meteor events or mass media attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</span></span></span> By contrast, Comoros remained largely absent from internationally circulated UFO case files.
+
+Several explanations are more plausible than a literal absence of sightings:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* Limited newspaper digitisation in Comoros.
+* Weak preservation of local broadcast archives.
+* Reliance on oral retelling rather than formal reporting systems.
+* Low participation in international civilian UFO organisations.
+* Language fragmentation between French, Comorian languages, Arabic-influenced religious discourse, and English-language UFO databases.
+
+</div>
+
+The result is a historical gap rather than a confirmed “quiet zone”.
+
+### 1970s-1990s: scattered anecdotal references without traceable evidence
+
+A small number of secondary UFO discussion forums and later compilation websites have referred vaguely to lights seen over the Mozambique Channel or unusual aerial objects near Indian Ocean shipping routes during the late twentieth century. However, these references almost never provide dates, named witnesses, coordinates, photographs, or original reporting sources.
+
+No surviving public evidence currently supports claims of:
+
+* radar-confirmed intrusions,
+* pilot encounters over Comorian airspace,
+* military interceptions,
+* recovered debris,
+* or official government investigations.
+
+This matters because many global UFO catalogues contain contamination from retellings, copied summaries, folklore additions, and unattributed reposting. A repeated online claim is not necessarily an independent incident.
+
+The lack of contemporaneous Comorian press coverage also weakens later retellings. Even in countries with limited infrastructure, genuinely dramatic sightings often leave secondary traces through aviation notices, regional newspapers, church commentary, or maritime reporting. Comparable supporting material has not emerged for Comoros.
+
+### Regional fireball events occasionally folded into UFO narratives
+
+Some claimed “UFO” observations in the western Indian Ocean region appear consistent with meteor or fireball events rather than structured craft. This pattern mirrors other African UFO waves in which bright atmospheric phenomena later became embedded in extraterrestrial narratives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Africa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Africa</span><span class="citation-popover-snippet">September 29, 2025 — Marcus Lowth, The Algerian War Incident – UFO Sighting Over The Foreign Legion, Ufoinsight.com, 12 April 2019 · G, N...</span><span class="citation-popover-meta">Published: September 29, 2025</span></span></span>
+
+The geography of Comoros makes such confusion understandable:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* the islands have large dark-sky coastal areas,
+* sea-horizon observations distort apparent scale and speed,
+* volcanic haze and humidity can affect visibility,
+* and bright meteors crossing the Mozambique Channel may appear unusually low over water.
+
+</div>
+
+International astronomy reporting has repeatedly shown that dramatic fireballs over Africa can generate local speculation before scientific identification catches up. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/41106-meteorites-from-botswana-fireball-found-asteroid-2018-la.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">41106 meteorites from botswana fireball found asteroid 2018 la</span><span class="citation-popover-snippet">SpacePieces of &#x27;Fireball&#x27; Meteor Found in Botswana9 Jul 2018 — Now known as 2018 LA, the asteroid broke into several pieces after smackin...</span></span></span>
+
+Because no detailed Comorian UFO case file includes calibrated measurements, instrument data, or recovered physical evidence, ordinary atmospheric explanations remain more strongly supported than extraordinary ones.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/m5mKCEFjDxo" title="Meteor that crashed off Australian coast may have been a UFO | Sunrise" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=m5mKCEFjDxo" target="_blank" rel="noopener noreferrer">Meteor that crashed off Australian coast may have been a UFO | Sunrise</a></p><p class="youtube-embed-meta">Channel: 7NEWS Australia &middot; Views: 166.9K &middot; Uploaded: November 2022 &middot; Length: 3 minutes 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=m5mKCEFjDxo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=m5mKCEFjDxo">Open on YouTube</a></p></div></div></div>
+
+### 2000s: internet-era database inflation
+
+The expansion of online UFO reporting websites created a new phase in the Comoros chronology: the appearance of implied sightings without corresponding case documentation.
+
+Some international UFO portals began listing Comoros among countries with “reported sightings”, but the underlying material often amounted to:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* empty placeholders,
+* submission portals,
+* or generic country pages awaiting future reports.
+
+</div>
+
+The distinction is important because readers sometimes mistake a country database page for evidence that documented cases already exist.
+
+One of the clearest examples is the United States UFO Information and Research Center page for Comoros. The page states that reports are being collected and that Comoros sightings exist, but it provides almost no incident-specific evidentiary detail. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/comoros-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[UFO Information Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-snippet">UFO Information CenterGlobal UFOs: Comoros UFO Sightings &amp; ReportsBrowse or report Comoros UFO UAP or USO sightings and other strange par...</span></span></span>
+
+The available entry associated with March 2025 does not describe a witnessed aerial event at all. Instead, it references the launch of a disclosure-oriented database effort. No independently verifiable witness account accompanies the listing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/comoros-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[UFO Information Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-snippet">UFO Information CenterGlobal UFOs: Comoros UFO Sightings &amp; ReportsBrowse or report Comoros UFO UAP or USO sightings and other strange par...</span></span></span>
+
+In practical terms, this means the chronology contains a reporting infrastructure milestone rather than a confirmed UFO incident.
+
+### 2020s: renewed attention after global UAP publicity
+
+International attention to “UAP” — the newer term for unidentified anomalous phenomena — increased after United States military disclosures and NASA reviews in the early 2020s. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Director of National IntelligencePreliminary Assessment: Unidentified Aerial Phenomena...June 25, 2021 — 25 Jun 2021 — This report provi...</span><span class="citation-popover-meta">Published: June 25, 2021</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.intelligence.gov/publics-daily-brief/publics-daily-brief-articles/unidentified-aerial-phenomena-preliminary-intelligence-assessment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intelligence.gov">[Intelligence.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intelligence.gov</span><span class="citation-popover-snippet">Unidentified Aerial PhenomenaThe Office of the Director of National Intelligence submitted to Congress a preliminary report regarding Uni...</span></span></span>
+
+That global shift appears to have indirectly affected countries with previously minimal UFO discussion, including Comoros. More online searches, social-media reposts, and speculative map projects began treating nearly every country as part of a worldwide UFO geography.
+
+However, the evidence threshold did not improve proportionally. No major authenticated Comorian case emerged during this renewed interest cycle.
+
+The modern phase of the chronology is therefore characterised by:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* growing online visibility,
+* increasing inclusion in worldwide UFO maps,
+* but continuing absence of strong primary evidence.
+
+</div>
+
+
+<img src="{{ "/assets/images/Comoros_e5bb59_comoros_ufo_chronolo_ffe260-Illustration-2-light.svg" | relative_url }}" alt="Incident Chronology illustration 2" data-theme-src-dark="{{ "/assets/images/Comoros_e5bb59_comoros_ufo_chronolo_ffe260-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Comoros_e5bb59_comoros_ufo_chronolo_ffe260-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Why Most Comoros UFO Claims Remain Contested
+
+### The core problem is evidentiary weakness
+
+The strongest reason Comorian UFO incidents remain disputed is simple: almost none satisfy the minimum standards normally used in aviation investigation or serious anomalous-case analysis.
+
+Reliable UFO/UAP investigations generally seek at least some combination of:
+
+
+<div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
+
+* multiple independent witnesses,
+* precise timing,
+* environmental conditions,
+* photographs or video,
+* radar correlation,
+* pilot testimony,
+* physical traces,
+* or official records.
+
+</div>
+
+Publicly accessible Comorian cases rarely contain any of these elements together.
+
+Instead, most references fall into one of four weak categories:
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1LCoQ52plOI" title="¿OVNI camuflado se posó sobre Comodoro Rivadavia?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1LCoQ52plOI" target="_blank" rel="noopener noreferrer">¿OVNI camuflado se posó sobre Comodoro Rivadavia?</a></p><p class="youtube-embed-meta">Channel: Crónica TV &middot; Views: 18.8K &middot; Uploaded: April 2023 &middot; Length: 3 minutes 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1LCoQ52plOI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1LCoQ52plOI">Open on YouTube</a></p></div></div></div>
+
+
+<div class="content-enhancement content-enhancement--step-flow" markdown="1">
+
+1. Generic “lights in the sky” claims.
+2. Database placeholders.
+3. Repeated unsourced internet summaries.
+4. Retrospective anecdotal storytelling.
+
+</div>
+
+That makes rigorous verification nearly impossible.
+
+### Small-state archival limitations matter
+
+The absence of evidence should not automatically be interpreted as proof that reports never occurred. Comoros faces several structural limitations that affect historical preservation:
+
+* limited digitised media archives,
+* low international research attention,
+* restricted academic infrastructure,
+* and modest aviation reporting visibility compared with larger states.
+
+This can create a paradox. Genuine unusual sightings may disappear from the historical record because they were never formally documented, while weak internet claims survive because they are continuously copied online.
+
+For historians of anomalous claims, Comoros is therefore a cautionary example of archive asymmetry: the least reliable material is often the easiest to find.
+
+
+<img src="{{ "/assets/images/Comoros_e5bb59_comoros_ufo_chronolo_ffe260-Illustration-3-light.svg" | relative_url }}" alt="Incident Chronology illustration 3" data-theme-src-dark="{{ "/assets/images/Comoros_e5bb59_comoros_ufo_chronolo_ffe260-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Comoros_e5bb59_comoros_ufo_chronolo_ffe260-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+### No public state investigation programme
+
+Unlike France’s GEIPAN programme or recent American UAP review structures, no known public Comorian government body maintains a dedicated archive for anomalous aerial reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</span></span></span>
+
+That institutional absence has several consequences:
+
+* no standardised intake process,
+* no publicly searchable historical files,
+* no official classification system,
+* and no technical follow-up accessible to researchers.
+
+As a result, alleged incidents tend to remain at the level of folklore or isolated anecdote.
+
+## How Comoros Fits Regional UFO Patterns
+
+### The western Indian Ocean produces frequent sky ambiguities
+
+Comoros shares several environmental characteristics with other island and coastal regions where UFO claims periodically emerge:
+
+* large maritime horizons,
+* intense night-sky visibility,
+* changing atmospheric conditions,
+* satellite reflections,
+* and limited light pollution outside urban areas.
+
+These settings often generate sincere but difficult-to-verify observations.
+
+Aircraft moving toward or away from observers across open water can also appear stationary or behave strangely because of perspective effects. The same applies to bright planets near the horizon, meteor trails, re-entering space debris, and fishing-vessel lighting.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/u4v6rSzXPjU" title="Ariel School&#x27;s UFO Incident That Refuses to Fade! | Expedition Unknown S1 E3 | Discovery Channel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=u4v6rSzXPjU" target="_blank" rel="noopener noreferrer">Ariel School&#x27;s UFO Incident That Refuses to Fade! | Expedition Unknown S1 E3 | Discovery Channel</a></p><p class="youtube-embed-meta">Channel: DiscoveryChannelInd &middot; Views: 23.8K &middot; Uploaded: January 2026 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=u4v6rSzXPjU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=u4v6rSzXPjU">Open on YouTube</a></p></div></div></div>
+
+### Comparison with southern African UFO waves
+
+Southern Africa experienced several more visible UFO waves during the twentieth century, especially after highly publicised fireball events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ariel_School_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Ariel School UFO incidentAlthough some witnesses interpreted the fireball as a comet or meteor, it resulted in a wave of UFO mania in Zim...</span></span></span> In some cases, excitement spread faster than reliable verification.
+
+Comoros differs in one crucial respect: there is no equivalent landmark case around which a national mythology formed. No Comorian counterpart exists for:
+
+* the Ariel School incident in Zimbabwe, <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ariel_School_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Ariel School UFO incidentAlthough some witnesses interpreted the fireball as a comet or meteor, it resulted in a wave of UFO mania in Zim...</span></span></span>
+* pilot encounter narratives,
+* or major military disclosure stories.
+
+Instead, the Comorian pattern is diffuse and low-information.
+
+### Modern UAP language changed interpretation more than evidence
+
+Recent international interest in “UAP” terminology has altered how unidentified sightings are discussed globally, including in countries with little historical UFO infrastructure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Director of National IntelligencePreliminary Assessment: Unidentified Aerial Phenomena...June 25, 2021 — 25 Jun 2021 — This report provi...</span><span class="citation-popover-meta">Published: June 25, 2021</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</span></span></span>
+
+In Comoros, this shift mainly affected interpretation rather than documentation. Older “mysterious light” stories and internet rumours became easier to reframe as part of a worldwide UAP conversation, even though the underlying evidence remained unchanged.
+
+That distinction is essential when reading modern online chronologies. Increased discussion does not necessarily indicate stronger evidence.
+
+## What the Chronology Actually Shows
+
+The available chronology of claimed and contested UFO incidents in Comoros ultimately reveals more about documentation limits than about confirmed anomalous craft.
+
+Three conclusions stand out:
+
+* No publicly verified flagship UFO incident from Comoros has entered the international evidentiary canon.
+* Most alleged sightings are weakly sourced, duplicated, or impossible to authenticate.
+* Environmental and archival conditions make misidentification and historical uncertainty especially likely.
+
+For researchers, Comoros is therefore best understood not as a hotspot of unexplained aerial phenomena, but as a thin-record environment where folklore, isolated observation, internet amplification, and missing archival context overlap.
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Which UFO Reports in Comoros Are Contested or Unverified?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+        </h4>
+        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        
+        <p class="fr-book-desc">Addresses how reports are collected, assessed, and categorised.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+        </h4>
+        <p class="fr-book-author">By Leslie Kean</p>
+        
+        <p class="fr-book-desc">Highlights the importance of evidence quality and documentation.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+        </h4>
+        <p class="fr-book-author">By Jacques Vallee</p>
+        
+        <p class="fr-book-desc">Useful for understanding recurring patterns in weakly documented reports.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Strong fit for pages discussing case chronologies and disputed reports.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: nuforc.org  
+   Title: Reports by Location NUFORC Reports by Location; USA  
+   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC Reports by LocationNUFORC Reports by Location; USA - Alabama, 1529; USA - Arkansas, 1366; USA - Arizona, 5348; USA - Cal...</p></details>
+
+2. <a id="endnote-2"></a>
+   Source: Wikipedia  
+   Title: List of reported UFO sightings  
+   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: Wikipedia  
+   Title: UFO sightings in Africa  
+   Link: [https://en.wikipedia.org/wiki/UFO_sightings_in_Africa](https://en.wikipedia.org/wiki/UFO_sightings_in_Africa)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>September 29, 2025 — Marcus Lowth, The Algerian War Incident – UFO Sighting Over The Foreign Legion, Ufoinsight.com, 12 April 2019 · G, N...</p></details>
+   Published: September 29, 2025  
+
+4. <a id="endnote-4"></a>
+   Source: Wikipedia  
+   Link: [https://en.wikipedia.org/wiki/Ariel_School_UFO_incident](https://en.wikipedia.org/wiki/Ariel_School_UFO_incident)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ariel School UFO incidentAlthough some witnesses interpreted the fireball as a comet or meteor, it resulted in a wave of UFO mania in Zim...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: space.com  
+   Title: 41106 meteorites from botswana fireball found asteroid 2018 la  
+   Link: [https://www.space.com/41106-meteorites-from-botswana-fireball-found-asteroid-2018-la.html](https://www.space.com/41106-meteorites-from-botswana-fireball-found-asteroid-2018-la.html)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpacePieces of &#x27;Fireball&#x27; Meteor Found in Botswana9 Jul 2018 — Now known as 2018 LA, the asteroid broke into several pieces after smackin...</p></details>
+
+6. <a id="endnote-6"></a>
+   Source: intelligence.gov  
+   Link: [https://www.intelligence.gov/publics-daily-brief/publics-daily-brief-articles/unidentified-aerial-phenomena-preliminary-intelligence-assessment](https://www.intelligence.gov/publics-daily-brief/publics-daily-brief-articles/unidentified-aerial-phenomena-preliminary-intelligence-assessment)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Aerial PhenomenaThe Office of the Director of National Intelligence submitted to Congress a preliminary report regarding Uni...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: science.nasa.gov  
+   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: Wikipedia  
+   Title: Maury Island incident  
+   Link: [https://en.wikipedia.org/wiki/Maury_Island_incident](https://en.wikipedia.org/wiki/Maury_Island_incident)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Maury Island incidentThe incident is widely regarded as a hoax, even by believers of flying saucers and UFOs. Artist impression of the...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: Wikipedia  
+   Title: UFO Report (U.S. Intelligence)  
+   Link: [https://en.wikipedia.org/wiki/UFO_Report_%28U.S._Intelligence%29](https://en.wikipedia.org/wiki/UFO_Report_%28U.S._Intelligence%29)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Report (U.S. Intelligence)The report was supposed to give &quot;detailed analysis of unidentified aerial phenomena data and intelligenc...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: space.com  
+   Link: [https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on](https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball sightings are surging across the US27 Mar 2026 — Why are fireball sightings increasing across the US? Experts explain the recent...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: usufocenter.com  
+   Link: [https://www.usufocenter.com/ufo-sighting-reports/worldwide/comoros-ufo-sightings.html](https://www.usufocenter.com/ufo-sighting-reports/worldwide/comoros-ufo-sightings.html)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Information CenterGlobal UFOs: Comoros UFO Sightings &amp; ReportsBrowse or report Comoros UFO UAP or USO sightings and other strange par...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: dni.gov  
+   Link: [https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf](https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Director of National IntelligencePreliminary Assessment: Unidentified Aerial Phenomena...June 25, 2021 — 25 Jun 2021 — This report provi...</p></details>
+   Published: June 25, 2021  
+
+13. <a id="endnote-13"></a>
+   Source: reddit.com  
+   Title: this is a map of all reported ufo sightings  
+   Link: [https://www.reddit.com/r/MapPorn/comments/odqjef/this_is_a_map_of_all_reported_ufo_sightings/](https://www.reddit.com/r/MapPorn/comments/odqjef/this_is_a_map_of_all_reported_ufo_sightings/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs - Free tool to explore 614,505 UFO sighting records from 5 major databases. 0:39. 304. 39. Finding Patterns in 152,000 UFO/UAP Sight...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: corgis-edu.github.io  
+   Title: ufo sightings  
+   Link: [https://corgis-edu.github.io/corgis/csv/ufo_sightings/](https://corgis-edu.github.io/corgis/csv/ufo_sightings/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>CSV File28 Oct 2022 — This data includes &gt;80,000 recorded UFO “sightings” around the world, including the UFO shape, lat/long and state/c...</p></details>
+
+### Additional References
+
+15. <a id="endnote-15"></a>
+   Source: war.gov  
+   Title: department of defense releases the annual report on unidentified anomalous phen  
+   Link: [https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/](https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDepartment of Defense Releases the Annual Report on...14 Nov 2024 — You can find the unclassified version of the annual...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: portugalresident.com  
+   Link: [https://www.portugalresident.com/sv/air-force-alert-for-ufo/](https://www.portugalresident.com/sv/air-force-alert-for-ufo/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force alert for &#x27;UFO&#x27; – Portugal ResidentA strange object passed over the Portuguese night skies last week, causing many who saw it t...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: usufocenter.com  
+   Link: [https://www.usufocenter.com/ufo-sighting-reports/worldwide/nauru-ufo-sightings.html](https://www.usufocenter.com/ufo-sighting-reports/worldwide/nauru-ufo-sightings.html)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nauru UFO Sightings and Experience ReportsBrowse or report Nauru UFO UAP or USO sightings and other strange paranormal experiences to the...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: spyscape.com  
+   Link: [https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings](https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Mysterious UFO Sightings That Still Haunt WitnessesTop 10 Mysterious UFO Sightings That Still Haunt Witnesses. By. SPYSCAPE. 5 min...</p></details>
+
+19. <a id="endnote-19"></a>
+   Source: dkiapcss.edu  
+   Link: [https://dkiapcss.edu/nexus_articles/a-comparative-survey-of-security-approaches-toward-unexplained-aerial-phenomena-across-the-indo-pacific/](https://dkiapcss.edu/nexus_articles/a-comparative-survey-of-security-approaches-toward-unexplained-aerial-phenomena-across-the-indo-pacific/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Comparative Survey of Security Approaches Toward...by JE Reiss · 2023 · Cited by 3 — The number of Unidentified Aerial Phenomena (UAP)...</p></details>
+
+20. <a id="endnote-20"></a>
+   Source: instagram.com  
+   Link: [https://www.instagram.com/p/C7ISTDruB4j/?hl=en-gb](https://www.instagram.com/p/C7ISTDruB4j/?hl=en-gb)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>meteor/fireball flashes across night sky over portugal just nowA meteor entered Earth&#x27;s atmosphere above Portugal, creating a bright blue...</p></details>
+
+21. <a id="endnote-21"></a>
+   Source: phenomena.org.uk  
+   Link: [https://www.phenomena.org.uk/features/UFO%20Natural%20History/ufo.html](https://www.phenomena.org.uk/features/UFO%20Natural%20History/ufo.html)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs: A Natural HistoryAny fireball seen under a cloud, or in front of a cloud, is not a meteor. The flight speed of meteors varies, but...</p></details>
+
+22. <a id="endnote-22"></a>
+   Source: wfmu.org  
+   Link: [https://wfmu.org/artistkeywords.php/JJ](https://wfmu.org/artistkeywords.php/JJ)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>WFMU&#x27;s The Frow Show: Artists playedAcid Mothers Temple &amp; The Melting Paradiso U.F.O.. Acid Mothers Temple &amp; The... Os Ovni Os Rebeldes...</p></details>
+
+23. <a id="endnote-23"></a>
+   Source: iflscience.com  
+   Link: [https://www.iflscience.com/the-many-march-fireballs-appear-more-numerous-than-usual-coming-from-the-same-vast-place-heres-what-to-know-83011](https://www.iflscience.com/the-many-march-fireballs-appear-more-numerous-than-usual-coming-from-the-same-vast-place-heres-what-to-know-83011)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Many March Fireballs Appear More Numerous Than...27 Mar 2026 — This is a famous time for an increase in fireball activity, but some...</p></details>
+
+24. <a id="endnote-24"></a>
+   Source: openaccessgovernment.org  
+   Link: [https://www.openaccessgovernment.org/examining-a-meteor-fireball-research-challenges-claims-of-alien-materials-found-in-ocean/174445/](https://www.openaccessgovernment.org/examining-a-meteor-fireball-research-challenges-claims-of-alien-materials-found-in-ocean/174445/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Examining a meteor fireball: Research challenges claims...8 Mar 2024 — Researchers have found evidence to question the 2014 meteor fireb...</p></details>

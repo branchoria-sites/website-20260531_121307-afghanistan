@@ -1,0 +1,612 @@
+---
+level: 2
+basename: Central_African_Repu_358788_november_2022_strike_86eb74
+parent_basename: Central_African_Repu_358788
+child_basenames: []
+sibling_basenames:
+- Central_African_Repu_358788_aaro_africa_clips_c199ba
+- Central_African_Repu_358788_bangui_magnetic_anom_ae8e0c
+- Central_African_Repu_358788_scarce_ufo_records_3b71d5
+tags:
+- central-african-republic
+- 2022-strike
+keywords:
+- central-african-republic
+- 2022-strike
+affiliate_category: central-african-republic
+show_ads: true
+description: The 2022 bombing north of Bangui is the strongest aerial case in public records, but it points to conflict aviation, not exotic craft.
+hero_summary: The 2022 bombing north of Bangui is the strongest aerial case in public records, but it points to conflict aviation, not exotic craft.
+layout: default
+permalink: /2022-strike/
+sidebar_expanded_urls:
+- /central-african-republic/
+nav_short_title: 2022 Strike
+title: Was the 2022 Strike a UFO Case?
+title_full: Was the 2022 Strike a UFO Case? | CAR UFOs
+display_title_short: 2022 Strike
+display_title: 2022 Strike
+heading_title: Was the 2022 Strike a UFO Case?
+page_heading_title: Was the 2022 Strike a UFO Case?
+source_count: 29
+infographic_count: 3
+planned_sections:
+- What public records actually say
+- Why unidentified does not mean anomalous
+- How conflict aviation changes the evidence
+focal_unit_type: event_time_window
+topic_lens: evidence
+topic_granularity: case_family
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+parent_title: CAR UFOs
+parent_permalink: /central-african-republic/
+parent_nav_short_title: CAR UFOs
+parent_heading_title: What Counts as a UFO in CAR?
+ancestor_links:
+- basename: Central_African_Repu_358788
+  title: CAR UFOs
+  permalink: /central-african-republic/
+  short_title: CAR UFOs
+breadcrumb_links:
+- basename: Central_African_Repu_358788
+  title: CAR UFOs
+  permalink: /central-african-republic/
+  short_title: CAR UFOs
+sibling_links:
+- basename: Central_African_Repu_358788_aaro_africa_clips_c199ba
+  title: AARO Clips | What Counts as a UFO in CAR?
+  permalink: /aaro-clips/
+  short_title: AARO Clips
+  heading_title: Do AARO's Africa Clips Point to CAR?
+- basename: Central_African_Repu_358788_bangui_magnetic_anom_ae8e0c
+  title: Bangui Anomaly | What Counts as a UFO in CAR?
+  permalink: /bangui-anomaly/
+  short_title: Bangui Anomaly
+  heading_title: Why the Bangui Anomaly Attracts UFO Myths
+- basename: Central_African_Repu_358788_scarce_ufo_records_3b71d5
+  title: Missing Records | What Counts as a UFO in CAR?
+  permalink: /missing-records/
+  short_title: Missing Records
+  heading_title: Why Are CAR UFO Records So Thin?
+up_link:
+  basename: Central_African_Repu_358788
+  title: CAR UFOs
+  permalink: /central-african-republic/
+  short_title: CAR UFOs
+next_link:
+  basename: Central_African_Repu_358788_aaro_africa_clips_c199ba
+  title: AARO Clips | What Counts as a UFO in CAR?
+  permalink: /aaro-clips/
+  short_title: AARO Clips
+  heading_title: Do AARO's Africa Clips Point to CAR?
+date: '2026-05-31 04:10:06 '
+header:
+  og_image: /assets/images/Central_African_Repu_358788_november_2022_strike_86eb74-Illustration-1-social.jpg
+  preview_image: /assets/images/Central_African_Repu_358788_november_2022_strike_86eb74-Illustration-1.webp
+image: /assets/images/Central_African_Repu_358788_november_2022_strike_86eb74-Illustration-1-social.jpg
+---
+
+## Introduction
+
+The November 2022 airstrike north of Bangui is often described as [Central African Republic]({{ 'central-african-republic/' | relative_url }})’s closest modern equivalent to a “UFO incident”. That label is misleading. The event was genuinely unidentified at the time, but the uncertainty concerned who operated the aircraft, not whether the object itself behaved in an anomalous way.
+
+
+<img src="{{ "/assets/images/Central_African_Repu_358788_november_2022_strike_86eb74-Illustration-1-light.svg" | relative_url }}" alt="2022 Strike illustration 1" data-theme-src-dark="{{ "/assets/images/Central_African_Repu_358788_november_2022_strike_86eb74-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Central_African_Repu_358788_november_2022_strike_86eb74-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+Public reporting from late November 2022 describes a low-flying military aircraft carrying out a bombing raid against a site linked to Central African armed forces and Wagner Group personnel near Bossangoa. Early reports struggled to identify the attacking state or unit, which allowed rumours and online speculation to spread. In UFO discussions, the case is sometimes detached from its military context and retold as a mysterious aircraft episode. The available evidence points in a much narrower direction: a conflict-zone strike involving conventional aviation under conditions of weak public visibility, regional tensions, and incomplete information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.military.africa/2022/12/chadian-air-force-likely-behind-airstrike-against-wagner-in-car/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: military.africa">[Military Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">military.africa</span><span class="citation-popover-snippet">Chadian Air Force likely behind airstrike against Wagner in...December 16, 2022 — 16 Dec 2022 — The airstrike carried out in the middle...</span><span class="citation-popover-meta">Published: December 16, 2022</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://safeairspace.net/central-african-republic/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safeairspace.net">[Safe Airspace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safeairspace.net</span><span class="citation-popover-title">Safe Airspace Central African Republic</span><span class="citation-popover-snippet">Safe AirspaceCentral African Republic - Safe Airspace...</span></span></span>
+
+## What public records actually say
+
+The clearest publicly accessible summary comes from the aviation risk-monitoring platform Safe Airspace. Its Central African Republic risk page records that in November 2022 “an unidentified aircraft dropped bombs targeting a militant group” roughly 150 nautical miles north of Bangui, after which the targeted group responded with small-arms fire. The site framed the event as an aviation-security issue inside a conflict environment rather than a mystery-objects case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://safeairspace.net/central-african-republic/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safeairspace.net">[Safe Airspace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safeairspace.net</span><span class="citation-popover-title">Safe Airspace Central African Republic</span><span class="citation-popover-snippet">Safe AirspaceCentral African Republic - Safe Airspace...</span></span></span>
+
+News reporting and regional conflict monitoring added more detail in the days after the strike. Multiple outlets described explosions near a base in Bossangoa used by Central African armed forces and Wagner-linked personnel. Reports stated that the aircraft crossed into the area at night, dropped explosives, and then departed northward. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.military.africa/2022/12/chadian-air-force-likely-behind-airstrike-against-wagner-in-car/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: military.africa">[Military Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">military.africa</span><span class="citation-popover-snippet">Chadian Air Force likely behind airstrike against Wagner in...December 16, 2022 — 16 Dec 2022 — The airstrike carried out in the middle...</span><span class="citation-popover-meta">Published: December 16, 2022</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.africanews.com/2022/11/29/central-africa-says-border-nation-bombed-its-troops-and-russian-allies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: africanews.com">[africanews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">africanews.com</span><span class="citation-popover-title">central africa says border nation bombed its troops and russian allies</span><span class="citation-popover-snippet">Central Africa says border nation bombed its troops and...13 Aug 2024 — The Central African government said a plane that flew back to a...</span></span></span> The incident gained wider attention because of the Wagner connection. By late 2022, Wagner personnel were heavily embedded in Central African Republic security operations and had become a major regional actor. Any strike against a Wagner-linked position immediately carried geopolitical implications beyond a local battlefield event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.trtworld.com/article/12771779" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trtworld.com">[TRT World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trtworld.com</span><span class="citation-popover-title">TRT World CAR military training suspended over Russian mercenaries</span><span class="citation-popover-snippet">TRT WorldCAR military training suspended over Russian mercenariesDecember 15, 2021 — United Nations experts have said that Wagner members...</span><span class="citation-popover-meta">Published: December 15, 2021</span></span></span> Wikipedia Conflict databases also recorded the event in straightforward military terms. ACLED’s regional overview referred to an airstrike hitting Cent <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Wagner_Group_activities_in_Africa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Wagner Group activities in AfricaThe Wagner Group has been active in the Central African Republic, Sudan, Libya, Mali, Niger and Mozam...</span></span></span> ral African troops and Wagner personnel by an “unidentified” aircraft. Chronologies of the civil war similarly listed the attack as a strike by an unknown aircraft against a Russian-linked base in Bossangoa. <span class="citation-chip-wrap"><a class="citation-chip" href="https://reliefweb.int/report/burkina-faso/acled-regional-overview-africa-26-november-2-december-2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reliefweb.int">[ReliefWeb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reliefweb.int</span><span class="citation-popover-title">acled regional overview africa 26 november 2 december 2022</span><span class="citation-popover-snippet">ReliefWebACLED Regional Overview: Africa (26 November-2...7 Dec 2022 — In the Central African Republic, army troops and Wagner Group mer...</span><span class="citation-popover-meta">Published: december 2022</span></span></span>
+
+What is notable is what the records do not contain. There were no public reports of:
+
+
+<div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
+
+* impossible manoeuvres;
+* silent hovering;
+* sudden accelerations;
+* radar-defying behaviour;
+* structured luminous phenomena;
+* multiple independent civilian sighting waves;
+* recovered debris associated with unknown technology.
+
+</div>
+
+The aircraft was unidentified politically, not physically.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_LwLbPDvM-c" title="Why the Wagner Group Started a Brewery in Africa | WSJ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_LwLbPDvM-c" target="_blank" rel="noopener noreferrer">Why the Wagner Group Started a Brewery in Africa | WSJ</a></p><p class="youtube-embed-meta">Channel: The Wall Street Journal &middot; Views: 188.0K &middot; Uploaded: September 2023 &middot; Length: 4 minutes 38 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_LwLbPDvM-c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_LwLbPDvM-c">Open on YouTube</a></p></div></div></div>
+
+## Why unidentified does not mean anomalous
+
+The central confusion around the case comes from the word “unidentified”. In military and aviation reporting, unidentified simply means the operator has not been publicly confirmed. That is very different from saying the aircraft displayed extraordinary characteristics.
+
+Several factors made immediate identification difficult:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* the strike happened in an active conflict zone;
+* night-time conditions limited observation;
+* the aircraft reportedly entered and exited quickly;
+* Central African Republic has limited air-surveillance transparency; <span class="citation-chip-wrap"><a class="citation-chip" href="https://safeairspace.net/central-african-republic/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safeairspace.net">[safeairspace.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safeairspace.net</span><span class="citation-popover-title">Safe Airspace Central African Republic</span><span class="citation-popover-snippet">Safe AirspaceCentral African Republic - Safe Airspace...</span></span></span>
+* multiple regional actors had potential motives;
+* official statements remained cautious and incomplete.
+
+</div>
+
+Those conditions naturally produce uncertainty. They do not automatically create a UFO case.
+
+Some online retellings transformed the event into a “mysterious aircraft” narrative detached from the local war. That shift is common in weak-information environments. Once a story leaves its original context, “unknown aircraft” can gradually become “mysterious craft”, especially on social media or speculative forums. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UnresolvedMysteries/comments/1hqi00q/central_african_republic_car_hit_by_anonymous/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">The strike was precision-based and targeted a military base housing FACA and Wagner Group.Read more...</span></span></span>
+
+The distinction matters because Central African Republic has relatively few archived civilian UFO reports. As a result, this 2022 strike is repeatedly recycled in UFO discussions despite originating from a military-security incident rather than from unexplained aerospace observations.
+
+
+<img src="{{ "/assets/images/Central_African_Repu_358788_november_2022_strike_86eb74-Illustration-2-light.svg" | relative_url }}" alt="2022 Strike illustration 2" data-theme-src-dark="{{ "/assets/images/Central_African_Repu_358788_november_2022_strike_86eb74-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Central_African_Repu_358788_november_2022_strike_86eb74-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## The Chad theory and competing explanations
+
+Soon after the bombing, analysts began pointing toward Chad as the most likely source of the aircraft. Defence reporting from Military Africa argued that the Chadian air force was a plausible candidate based on geography, regional tensions, and the aircraft’s reported flight path. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.military.africa/2022/12/chadian-air-force-likely-behind-airstrike-against-wagner-in-car/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: military.africa">[Military Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">military.africa</span><span class="citation-popover-snippet">Chadian Air Force likely behind airstrike against Wagner in...December 16, 2022 — 16 Dec 2022 — The airstrike carried out in the middle...</span><span class="citation-popover-meta">Published: December 16, 2022</span></span></span>
+
+This interpretation emerged within a wider deterioration in relations around the Chad–Central African Republic border. During 2022 and 2023, both governments accused each other of supporting destabilising activities and armed groups near frontier regions. Wagner expansion in Central African Republic also increased regional tensions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.voanews.com/a/car-chad-conduct-separate-military-operations-amid-border-security-concerns/7299958.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: voanews.com">[Voice of America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">voanews.com</span><span class="citation-popover-title">Voice of America CAR, Chad Conduct Separate Military Operations Amid</span><span class="citation-popover-snippet">Voice of AmericaCAR, Chad Conduct Separate Military Operations Amid...October 6, 2023 — 6 Oct 2023 — The Central African Republic (CAR)...</span><span class="citation-popover-meta">Published: October 6, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsj.com/articles/u-s-intelligence-points-to-wagner-plot-against-key-western-ally-in-africa-29867547" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-title">Wall Street Journal U.S</span><span class="citation-popover-snippet">Intelligence Points to Wagner Plot Against Key...23 Feb 2023 — The Central African Republic&#x27;s government and a Wagner representative in...</span></span></span>
+
+Still, publicly available evidence never produced a definitive attribution accepted by all sides. That gap helped sustain speculation. In UFO-oriented retellings, the lack of a final public identification sometimes becomes the story itself.
+
+But incomplete attribution is normal in irregular warfare. Air operations in unstable regions are often murky for weeks or months because governments may avoid direct acknowledgement, intelligence evidence may remain classified, and local witnesses rarely have the technical ability to identify aircraft types accurately at night.
+
+Nothing in the known reporting suggests investigators confronted an aircraft whose performance exceeded ordinary military aviation.
+
+## How conflict aviation changes the evidence
+
+The Bossangoa strike demonstrates why conflict zones are especially poor environments for reliable UFO interpretation.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LFswmAii4rw" title="The Most Convincing UFO Story From South Africa: The Kalahari Event" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LFswmAii4rw" target="_blank" rel="noopener noreferrer">The Most Convincing UFO Story From South Africa: The Kalahari Event</a></p><p class="youtube-embed-meta">Channel: Motech &middot; Views: 122.5K &middot; Uploaded: July 2025 &middot; Length: 44 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LFswmAii4rw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LFswmAii4rw">Open on YouTube</a></p></div></div></div>
+
+### Witness accounts are fragmented
+
+Most available descriptions came from frightened residents, military-linked sources, or journalists operating remotely. Witnesses heard explosions, saw a low-flying aircraft, or observed tracer fire afterward. In war conditions, observation quality degrades quickly because people are sheltering, visibility is poor, and rumours spread rapidly.
+
+The result is a patchwork information environment where dramatic interpretations can outrun verifiable details.
+
+### Military secrecy distorts public understanding
+
+Military actors often deliberately obscure responsibility for strikes. Aircraft may fly without clear markings, transponders may be absent, and governments may avoid public confirmation for diplomatic reasons.
+
+That secrecy can accidentally mimic the structure of a classic UFO story:
+
+
+<div class="content-enhancement content-enhancement--caution" markdown="1">
+
+* an object appears unexpectedly;
+* witnesses cannot identify it;
+* officials avoid clear answers;
+* rumours multiply;
+* later explanations remain partial.
+
+</div>
+
+But the mechanism is geopolitical opacity, not unexplained technology.
+
+
+<img src="{{ "/assets/images/Central_African_Repu_358788_november_2022_strike_86eb74-Illustration-3-light.svg" | relative_url }}" alt="2022 Strike illustration 3" data-theme-src-dark="{{ "/assets/images/Central_African_Repu_358788_november_2022_strike_86eb74-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Central_African_Repu_358788_november_2022_strike_86eb74-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+### Central African Republic has limited public aerospace documentation
+
+Countries with extensive civilian aviation communities, amateur skywatchers, and transparent radar systems generate more traceable evidence during unusual aerial events. Central African Republic does not have that level of public monitoring infrastructure.
+
+This matters because the absence of identification data is sometimes misread as evidence of something extraordinary. In reality, it often reflects weak documentation systems in unstable environments.
+
+## Why the case still matters in Central African Republic UFO discussions
+
+Even though the evidence points toward conventional conflict aviation, the November 2022 strike remains important within any serious overview of Central African Republic aerial mysteries for three reasons.
+
+First, it is unusually well documented compared with most alleged aerial incidents in the country. Multiple independent reporting streams acknowledged that an unidentified aircraft conducted a real strike. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.military.africa/2022/12/chadian-air-force-likely-behind-airstrike-against-wagner-in-car/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: military.africa">[Military Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">military.africa</span><span class="citation-popover-snippet">Chadian Air Force likely behind airstrike against Wagner in...December 16, 2022 — 16 Dec 2022 — The airstrike carried out in the middle...</span><span class="citation-popover-meta">Published: December 16, 2022</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://safeairspace.net/summary/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safeairspace.net">[Safe Airspace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safeairspace.net</span><span class="citation-popover-title">Safe Airspace Risk</span><span class="citation-popover-snippet">Risk Summary 27 May 2026Nov 2022: An unidentified aircraft dropped bombs targeting a militant group 150nm north of the capital Bangui. Th...</span></span></span>
+
+Second, it shows how quickly military ambiguity can become UFO folklore when events are stripped of political and operational context.
+
+Third, the incident illustrates a broader pattern visible across conflict regions worldwide: “unidentified” aerial events often become explainable once regional military dynamics, border tensions, and security actors are examined carefully.
+
+For Central African Republic specifically, the Bossangoa strike is therefore more valuable as a lesson in evidence assessment than as evidence for anomalous craft. It demonstrates how fragile information systems, armed conflict, and online speculation can produce a UFO narrative even when the underlying event strongly resembles a conventional air operation.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Zrtdq2iwj7A" title="Bossangoa - Catholic bishop" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Zrtdq2iwj7A" target="_blank" rel="noopener noreferrer">Bossangoa - Catholic bishop</a></p><p class="youtube-embed-meta">Channel: The New Humanitarian &middot; Views: 923 &middot; Uploaded: December 2013 &middot; Length: 2 minutes 6 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Zrtdq2iwj7A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Zrtdq2iwj7A">Open on YouTube</a></p></div></div></div>
+
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Was the 2022 Strike a UFO Case?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+        </h4>
+        <p class="fr-book-author">By Edward J. Ruppelt</p>
+        
+        <p class="fr-book-desc">Shows how uncertain military observations are assessed before conclusions are drawn.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+        </h4>
+        <p class="fr-book-author">By Ross Coulthart</p>
+        
+        <p class="fr-book-desc">Examines how military incidents become UFO narratives when information is incomplete.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+        </h4>
+        <p class="fr-book-author">By Leslie Kean</p>
+        
+        <p class="fr-book-desc">Focuses on aviation evidence and official reporting standards.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+        </h4>
+        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+        
+        <p class="fr-book-desc">Helps readers understand how unusual aircraft reports can emerge around military operations.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: military.africa  
+   Link: [https://www.military.africa/2022/12/chadian-air-force-likely-behind-airstrike-against-wagner-in-car/](https://www.military.africa/2022/12/chadian-air-force-likely-behind-airstrike-against-wagner-in-car/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chadian Air Force likely behind airstrike against Wagner in...December 16, 2022 — 16 Dec 2022 — The airstrike carried out in the middle...</p></details>
+   Published: December 16, 2022  
+
+2. <a id="endnote-2"></a>
+   Source: africanews.com  
+   Title: central africa says border nation bombed its troops and russian allies  
+   Link: [https://www.africanews.com/2022/11/29/central-africa-says-border-nation-bombed-its-troops-and-russian-allies/](https://www.africanews.com/2022/11/29/central-africa-says-border-nation-bombed-its-troops-and-russian-allies/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Central Africa says border nation bombed its troops and...13 Aug 2024 — The Central African government said a plane that flew back to a...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: Wikipedia  
+   Link: [https://en.wikipedia.org/wiki/Wagner_Group_activities_in_Africa](https://en.wikipedia.org/wiki/Wagner_Group_activities_in_Africa)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wagner Group activities in AfricaThe Wagner Group has been active in the Central African Republic, Sudan, Libya, Mali, Niger and Mozam...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: Wikipedia  
+   Title: Wagner Group activities in the Central African Republic  
+   Link: [https://en.wikipedia.org/wiki/Wagner_Group_activities_in_the_Central_African_Republic](https://en.wikipedia.org/wiki/Wagner_Group_activities_in_the_Central_African_Republic)  
+
+5. <a id="endnote-5"></a>
+   Source: reliefweb.int  
+   Title: acled regional overview africa 26 november 2 december 2022  
+   Link: [https://reliefweb.int/report/burkina-faso/acled-regional-overview-africa-26-november-2-december-2022](https://reliefweb.int/report/burkina-faso/acled-regional-overview-africa-26-november-2-december-2022)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ReliefWebACLED Regional Overview: Africa (26 November-2...7 Dec 2022 — In the Central African Republic, army troops and Wagner Group mer...</p></details>
+   Published: december 2022  
+
+6. <a id="endnote-6"></a>
+   Source: Wikipedia  
+   Title: Timeline of the Central African Republic Civil War  
+   Link: [https://en.wikipedia.org/wiki/Timeline_of_the_Central_African_Republic_Civil_War](https://en.wikipedia.org/wiki/Timeline_of_the_Central_African_Republic_Civil_War)  
+
+7. <a id="endnote-7"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/UnresolvedMysteries/comments/1hqi00q/central_african_republic_car_hit_by_anonymous/](https://www.reddit.com/r/UnresolvedMysteries/comments/1hqi00q/central_african_republic_car_hit_by_anonymous/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The strike was precision-based and targeted a military base housing FACA and Wagner Group.Read more...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: reliefweb.int  
+   Title: acled regional overview africa january 2023  
+   Link: [https://reliefweb.int/report/central-african-republic/acled-regional-overview-africa-january-2023](https://reliefweb.int/report/central-african-republic/acled-regional-overview-africa-january-2023)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>airstrikes against bandits and Islamist militants since August 2022.... 10 Another airstrike from an alleged military drone allegedly ki...</p></details>
+   Published: january 2023  
+
+9. <a id="endnote-9"></a>
+   Source: youtube.com  
+   Title: The Most Convincing UFO Story From South Africa: The Kalahari Event  
+   Link: [https://www.youtube.com/watch?v=LFswmAii4rw](https://www.youtube.com/watch?v=LFswmAii4rw)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bossangoa - Catholic bishop...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=Zrtdq2iwj7A](https://www.youtube.com/watch?v=Zrtdq2iwj7A)  
+
+11. <a id="endnote-11"></a>
+   Source: safeairspace.net  
+   Title: Safe Airspace Central African Republic  
+   Link: [https://safeairspace.net/central-african-republic/](https://safeairspace.net/central-african-republic/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Safe AirspaceCentral African Republic - Safe Airspace...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: safeairspace.net  
+   Title: Safe Airspace Risk  
+   Link: [https://safeairspace.net/summary/](https://safeairspace.net/summary/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Risk Summary 27 May 2026Nov 2022: An unidentified aircraft dropped bombs targeting a militant group 150nm north of the capital Bangui. Th...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: trtworld.com  
+   Title: TRT World CAR military training suspended over Russian mercenaries  
+   Link: [https://www.trtworld.com/article/12771779](https://www.trtworld.com/article/12771779)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>TRT WorldCAR military training suspended over Russian mercenariesDecember 15, 2021 — United Nations experts have said that Wagner members...</p></details>
+   Published: December 15, 2021  
+
+14. <a id="endnote-14"></a>
+   Source: voanews.com  
+   Title: Voice of America CAR, Chad Conduct Separate Military Operations Amid  
+   Link: [https://www.voanews.com/a/car-chad-conduct-separate-military-operations-amid-border-security-concerns/7299958.html](https://www.voanews.com/a/car-chad-conduct-separate-military-operations-amid-border-security-concerns/7299958.html)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Voice of AmericaCAR, Chad Conduct Separate Military Operations Amid...October 6, 2023 — 6 Oct 2023 — The Central African Republic (CAR)...</p></details>
+   Published: October 6, 2023  
+
+15. <a id="endnote-15"></a>
+   Source: wsj.com  
+   Title: Wall Street Journal U.S  
+   Link: [https://www.wsj.com/articles/u-s-intelligence-points-to-wagner-plot-against-key-western-ally-in-africa-29867547](https://www.wsj.com/articles/u-s-intelligence-points-to-wagner-plot-against-key-western-ally-in-africa-29867547)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligence Points to Wagner Plot Against Key...23 Feb 2023 — The Central African Republic&#x27;s government and a Wagner representative in...</p></details>
+
+### Additional References
+
+16. <a id="endnote-16"></a>
+   Source: globalinitiative.net  
+   Link: [https://globalinitiative.net/wp-content/uploads/2025/02/After-the-fall-Russian-modes-of-influence-in-Africa-post-Wagner-GI-TOC-February-2025.v3.pdf](https://globalinitiative.net/wp-content/uploads/2025/02/After-the-fall-Russian-modes-of-influence-in-Africa-post-Wagner-GI-TOC-February-2025.v3.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>After-the-fall-Russian-modes-of-influence-in-Africa-post-...1 Feb 2025 — 48 Judicael Yongo, Wagner troops arrive in [Central African Repu](&amp;#123;&amp;#123; &#x27;central-african-republic/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Published: February 2025  
+
+17. <a id="endnote-17"></a>
+   Source: arise.tv  
+   Title: unknown aircraft bombs russian mercenaries base in central african republic  
+   Link: [https://www.arise.tv/unknown-aircraft-bombs-russian-mercenaries-base-in-central-african-republic/](https://www.arise.tv/unknown-aircraft-bombs-russian-mercenaries-base-in-central-african-republic/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unknown Aircraft Bombs Russian Mercenaries&#x27; Base in...30 Nov 2022 — A low-flying fighter jet dropped bombs close to a base for Russian m...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: agenzianova.com  
+   Title: repubblica centrafricana aereo straniero bombarda base wagner  
+   Link: [https://www.agenzianova.com/en/news/repubblica-centrafricana-aereo-straniero-bombarda-base-wagner/](https://www.agenzianova.com/en/news/repubblica-centrafricana-aereo-straniero-bombarda-base-wagner/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Foreign&quot; plane bombs a Wagner base in the Central...29 Nov 2022 — According to reports from the Bangui government, the plane first flew...</p></details>
+
+19. <a id="endnote-19"></a>
+   Source: acleddata.com  
+   Title: Moving Out of the Shadows: Shifts in Wagner Group  
+   Link: [https://acleddata.com/report/moving-out-shadows-shifts-wagner-group-operations-around-world](https://acleddata.com/report/moving-out-shadows-shifts-wagner-group-operations-around-world)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wagner camp at an unspecified location in Ukraine with artillery and airstrikes. However, the strikes may have been staged. Prigozhin fur...</p></details>
+
+20. <a id="endnote-20"></a>
+   Source: facebook.com  
+   Title: wings of peace slafs 9th aviation unit takes flight to central african republic  
+   Link: [https://www.facebook.com/SriLankaAirForceGuardiansoftheSkies/posts/wings-of-peace-slafs-9th-aviation-unit-takes-flight-to-central-african-republic-/786141520224085/](https://www.facebook.com/SriLankaAirForceGuardiansoftheSkies/posts/wings-of-peace-slafs-9th-aviation-unit-takes-flight-to-central-african-republic-/786141520224085/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Only three SLAF pilots were qualified to drop laser guided bombs during the...Read more...</p></details>
+
+21. <a id="endnote-21"></a>
+   Source: adf-magazine.com  
+   Title: wagner group targets chad for sahel expansion  
+   Link: [https://adf-magazine.com/2023/03/wagner-group-targets-chad-for-sahel-expansion/](https://adf-magazine.com/2023/03/wagner-group-targets-chad-for-sahel-expansion/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>28 Mar 2023 — Russia&#x27;s Wagner Group appears to be targeting Chad for its next expansion with some warning of a plan to overthrow the gove...</p></details>
+
+22. <a id="endnote-22"></a>
+   Source: militantwire.com  
+   Title: airstrike targets central african  
+   Link: [https://www.militantwire.com/p/airstrike-targets-central-african](https://www.militantwire.com/p/airstrike-targets-central-african)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Republic Base and...12 Dec 2022 — Airstrike Targets Central African Republic Base and Russian Wagner Forces Amidst Tensions with Neighbo...</p></details>
+
+23. <a id="endnote-23"></a>
+   Source: businessinsider.com  
+   Link: [https://www.businessinsider.com/mysterious-aircraft-bombed-near-russia-linked-wagner-group-mercenaries-base-2022-11](https://www.businessinsider.com/mysterious-aircraft-bombed-near-russia-linked-wagner-group-mercenaries-base-2022-11)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>It was unclear who targeted the Russia-linked...Read more...</p></details>
+
+24. <a id="endnote-24"></a>
+   Source: securitycouncilreport.org  
+   Link: [https://www.securitycouncilreport.org/atf/cf/%7B65BFCF9B-6D27-4E9C-8CD3-CF6E4FF96FF9%7D/S_2023_87.pdf](https://www.securitycouncilreport.org/atf/cf/%7B65BFCF9B-6D27-4E9C-8CD3-CF6E4FF96FF9%7D/S_2023_87.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>S/2023/8710 Feb 2023 — On 29 July 2022, the Security Council adopted resolution 2648 (2022), by which it extended the arms embargo, trave...</p></details>
+   Published: July 2022  
+
+25. <a id="endnote-25"></a>
+   Source: youtube.com  
+   Title: UAP FILES  
+   Link: [https://www.youtube.com/watch?v=rhP8VdCIz9A](https://www.youtube.com/watch?v=rhP8VdCIz9A)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dozens of fighters disarm in Central African Republic...</p></details>

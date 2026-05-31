@@ -1,0 +1,1557 @@
+---
+level: 1
+basename: Switzerland_77dcd8
+child_basenames:
+- Switzerland_77dcd8_basel_sky_battle_95c393
+- Switzerland_77dcd8_index
+- Switzerland_77dcd8_swiss_air_force_file_862770
+- Switzerland_77dcd8_swiss_ufo_hoaxes_d07325
+- Switzerland_77dcd8_zwischbergen_photo_564316
+sibling_basenames:
+- Afghanistan_c69153
+- Albania_79b9d2
+- Algeria_bd6acc
+- Andorra_9d3bd1
+- Angola_a42522
+- Antigua_and_Barbuda_0f8518
+- Argentina_354bf9
+- Armenia_5f4599
+- Australia_ceafb5
+- Austria_593905
+- Azerbaijan_213598
+- Bahrain_3ae11c
+- Bangladesh_fa6c37
+- Barbados_93409a
+- Belarus_027a12
+- Belgium_5cb4c9
+- Belize_42ab0c
+- Benin_373616
+- Bhutan_bb2254
+- Bolivia_Plurinationa_9e2db7
+- Bosnia_and_Herzegovi_552c9f
+- Botswana_180c89
+- Brazil_37497a
+- Brunei_Darussalam_eab94a
+- Bulgaria_5c7772
+- Burkina_Faso_f61e5f
+- Burundi_461758
+- Cabo_Verde_2a5bf1
+- Cambodia_314ccd
+- Cameroon_73a7dd
+- Canada_cd6a7b
+- Central_African_Repu_358788
+- Chad_6c6b1b
+- Chile_349507
+- China_d2eaf2
+- Colombia_2f7373
+- Comoros_e5bb59
+- Congo_77f256
+- Costa_Rica_fe586b
+- Cote_d_Ivoire_f8cb1a
+- Croatia_d7e045
+- Cuba_c484b1
+- Cyprus_852add
+- Czechia_045e2f
+- Democratic_People_s_808714
+- Democratic_Republic_679868
+- Denmark_89da12
+- Djibouti_60a8b0
+- Dominica_bc1cd4
+- Dominican_Republic_dba665
+- Ecuador_09f199
+- Egypt_1c39ab
+- El_Salvador_9b83b7
+- Equatorial_Guinea_ae2c01
+- Eritrea_18740a
+- Estonia_f0a96d
+- Eswatini_16cc7f
+- Ethiopia_3d91f7
+- Fiji_bbb7ef
+- Finland_c909b1
+- France_e3772a
+- Gabon_a06dcd
+- Gambia_7c3997
+- Georgia_9113c6
+- Germany_17d53e
+- Ghana_317dba
+- Greece_4902a4
+- Grenada_dbf2a2
+- Guatemala_11760e
+- Guinea-Bissau_b07cb9
+- Guinea_b47b54
+- Guyana_bc88a2
+- Haiti_a4842f
+- Honduras_5aa588
+- Hungary_f14e46
+- Iceland_b3c92e
+- India_967ce3
+- Indonesia_35536a
+- Iran_Islamic_Republi_94f9ee
+- Iraq_1aed9e
+- Ireland_eb2131
+- Israel_4c197d
+- Italy_ad79ef
+- Jamaica_5eedd6
+- Japan_fcf29f
+- Jordan_674027
+- Kazakhstan_2f36b6
+- Kenya_a84f56
+- Kiribati_3f57ad
+- Kuwait_93295b
+- Kyrgyzstan_c78791
+- Lao_People_s_Democra_44f2bd
+- Latvia_c5f5bb
+- Lebanon_5caa7f
+- Lesotho_93b12b
+- Liberia_1ed5dd
+- Libya_55949d
+- Liechtenstein_b0ddce
+- Lithuania_74a788
+- Luxembourg_507672
+- Madagascar_f92bcb
+- Malawi_0ce65b
+- Malaysia_ff3ea3
+- Maldives_213cb2
+- Mali_daa6a4
+- Malta_1a591a
+- Marshall_Islands_ccbdc0
+- Mauritania_85fa35
+- Mauritius_26160d
+- Mexico_41937b
+- Micronesia_Federated_30e9e8
+- Monaco_35ab1c
+- Mongolia_f54da3
+- Montenegro_479fb3
+- Morocco_32e087
+- Mozambique_a40a9b
+- Myanmar_928b7c
+- Namibia_bfe79d
+- Nauru_f648c7
+- Nepal_0e1d58
+- Netherlands_Kingdom_d6d70a
+- New_Zealand_3d3336
+- Nicaragua_481264
+- Niger_6687e1
+- Nigeria_9742d0
+- North_Macedonia_cece1d
+- Norway_988455
+- Oman_c14c36
+- Pakistan_82d220
+- Palau_e5e0b6
+- Panama_1e36b3
+- Papua_New_Guinea_90e80c
+- Paraguay_71a452
+- Peru_36c572
+- Philippines_806736
+- Poland_5ff03b
+- Portugal_a49519
+- Qatar_83ef3e
+- Republic_of_Korea_8d9deb
+- Republic_of_Moldova_a6ad94
+- Romania_d6b897
+- Russian_Federation_87c89a
+- Rwanda_7266a1
+- Saint_Kitts_and_Nevi_a66de5
+- Saint_Lucia_85ac35
+- Saint_Vincent_and_th_3bce2a
+- Samoa_f56806
+- San_Marino_8ff2c5
+- Sao_Tome_and_Princip_3437b2
+- Saudi_Arabia_8bf7f8
+- Senegal_d8973b
+- Serbia_6d31bf
+- Seychelles_3d2d7b
+- Sierra_Leone_817b0d
+- Singapore_20c0b7
+- Slovakia_b6c149
+- Slovenia_d1aa05
+- Solomon_Islands_6f943d
+- Somalia_4dfdf1
+- South_Africa_3b27c8
+- South_Sudan_80ac9c
+- Spain_20a8df
+- Sri_Lanka_db33ad
+- Sudan_1193ba
+- Suriname_b17fc6
+- Sweden_72ddd2
+- Syrian_Arab_Republic_099887
+- Tajikistan_279c77
+- Thailand_a2b7c1
+- The_Bahamas_f765dc
+- Timor-Leste_2d79f6
+- Togo_30949d
+- Tonga_e8a123
+- Trinidad_and_Tobago_a73120
+- Tunisia_edf404
+- Turkiye_c8c5d5
+- Turkmenistan_1f8dc1
+- Tuvalu_9a2248
+- Uganda_e92904
+- Ukraine_c951ec
+- United_Arab_Emirates_c92b89
+- United_Kingdom_d25561
+- United_Republic_of_T_f850a5
+- United_States_f5f19f
+- Uruguay_66b989
+- Uzbekistan_db800e
+- Vanuatu_d16ad2
+- Venezuela_Bolivarian_3dc4c3
+- Viet_Nam_82ecdd
+- Yemen_ac33d6
+- Zambia_dcf25e
+- Zimbabwe_5922f5
+tags:
+- switzerland
+keywords:
+- switzerland
+affiliate_category: switzerland
+show_ads: true
+description: Switzerland has a richer UFO record than its quiet public reputation suggests, but the evidence is uneven.
+hero_summary: Switzerland has a richer UFO record than its quiet public reputation suggests, but the evidence is uneven.
+layout: default
+permalink: /what-is-switzerlands-ufo-record-really/
+nav_short_title: What Is Switzerland's UFO Record Really Worth?
+title: What Is Switzerland's UFO Record Really Worth?
+title_full: What Is Switzerland's UFO Record Really Worth?
+display_title_short: What Is Switzerland's UFO Record Really Worth?
+display_title: What Is Switzerland's UFO Record Really Worth?
+heading_title: What Is Switzerland's UFO Record Really Worth?
+page_heading_title: What Is Switzerland's UFO Record Really Worth?
+source_count: 106
+infographic_count: 3
+page_website_name: Swiss UFOs
+page_banner_line: Evidence-led routes through Switzerland's sightings, archives, hoaxes, and unresolved aerial reports.
+site_website_name: Swiss UFOs
+site_banner_line: Evidence-led routes through Switzerland's sightings, archives, hoaxes, and unresolved aerial reports.
+site_image_description: A quiet Swiss mountain valley at dusk with a small group of observers looking toward an unexplained bright point above distant...
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+sibling_links:
+- basename: Afghanistan_c69153
+  title: Afghanistan UAP
+  permalink: /afghanistan/
+  short_title: Afghanistan UAP
+- basename: Albania_79b9d2
+  title: AlbanianUFOs
+  permalink: /albania/
+  short_title: AlbanianUFOs
+- basename: Algeria_bd6acc
+  title: Algeria UFOs
+  permalink: /algeria/
+  short_title: Algeria UFOs
+- basename: Antigua_and_Barbuda_0f8518
+  title: Antigua UFOs
+  permalink: /antigua-and-barbuda/
+  short_title: Antigua UFOs
+- basename: Monaco_35ab1c
+  title: Monaco UFOs
+  permalink: /are-monaco-ufo-sightings-really/
+  short_title: Monaco UFOs
+- basename: Mali_daa6a4
+  title: Mali UFOs
+  permalink: /are-there-any-real-mali-ufo-cases/
+  short_title: Mali UFOs
+- basename: Montenegro_479fb3
+  title: MontenegroUFOs
+  permalink: /are-ufos-really-seen-over-montenegro/
+  short_title: MontenegroUFOs
+- basename: Argentina_354bf9
+  title: Argentina OVNI
+  permalink: /argentinas-ufo-stories-records-and/
+  short_title: Argentina OVNI
+- basename: Bangladesh_fa6c37
+  title: Bangladesh UFOs
+  permalink: /bangladesh/
+  short_title: Bangladesh UFOs
+- basename: Bolivia_Plurinationa_9e2db7
+  title: Bolivia UFOs
+  permalink: /bolivia-plurinational-state-of/
+  short_title: Bolivia UFOs
+- basename: Bosnia_and_Herzegovi_552c9f
+  title: BosniaUFOs
+  permalink: /bosnia-and-herzegovina/
+  short_title: BosniaUFOs
+- basename: Brunei_Darussalam_eab94a
+  title: Brunei UAP
+  permalink: /brunei-darussalam/
+  short_title: Brunei UAP
+- basename: Burkina_Faso_f61e5f
+  title: BurkinaUFO
+  permalink: /burkina-faso/
+  short_title: BurkinaUFO
+- basename: Central_African_Repu_358788
+  title: CAR UFOs
+  permalink: /central-african-republic/
+  short_title: CAR UFOs
+- basename: Cote_d_Ivoire_f8cb1a
+  title: Ivoire UFOs
+  permalink: /cote-d-ivoire/
+  short_title: Ivoire UFOs
+- basename: Czechia_045e2f
+  title: CzechUFOs
+  permalink: /czechia/
+  short_title: CzechUFOs
+- basename: Democratic_People_s_808714
+  title: DPRKUFOs
+  permalink: /democratic-people-s-republic-of-korea/
+  short_title: DPRKUFOs
+- basename: Democratic_Republic_679868
+  title: DRC UFOs
+  permalink: /democratic-republic-of-the-congo/
+  short_title: DRC UFOs
+- basename: Djibouti_60a8b0
+  title: DjiboutiUAP
+  permalink: /djibouti/
+  short_title: DjiboutiUAP
+- basename: Dominica_bc1cd4
+  title: Dominica UAP
+  permalink: /does-dominica-have-real-ufo-cases/
+  short_title: Dominica UAP
+- basename: Iceland_b3c92e
+  title: Iceland UFOs
+  permalink: /does-iceland-have-a-real-ufo-record/
+  short_title: Iceland UFOs
+- basename: Dominican_Republic_dba665
+  title: Dominican UAP
+  permalink: /dominican-republic/
+  short_title: Dominican UAP
+- basename: Equatorial_Guinea_ae2c01
+  title: EquatorialGuineaUFOs
+  permalink: /equatorial-guinea/
+  short_title: EquatorialGuineaUFOs
+- basename: Fiji_bbb7ef
+  title: Fiji UFOs
+  permalink: /fiji/
+  short_title: Fiji UFOs
+- basename: Finland_c909b1
+  title: Finland UFOs
+  permalink: /finland/
+  short_title: Finland UFOs
+- basename: Ghana_317dba
+  title: GhanaUFOs
+  permalink: /ghana/
+  short_title: GhanaUFOs
+- basename: Comoros_e5bb59
+  title: ComorosUFOs
+  permalink: /have-ufos-really-been-seen-over-comoros/
+  short_title: ComorosUFOs
+- basename: Chile_349507
+  title: ChileUFOs
+  permalink: /how-chile-investigates-ufos-and-aerial/
+  short_title: ChileUFOs
+- basename: France_e3772a
+  title: FranceUFOs
+  permalink: /how-france-investigates-and-archives-ufo/
+  short_title: FranceUFOs
+- basename: Iran_Islamic_Republi_94f9ee
+  title: Iran UFOs
+  permalink: /iran-islamic-republic-of/
+  short_title: Iran UFOs
+- basename: Iraq_1aed9e
+  title: Iraq UAP
+  permalink: /iraq/
+  short_title: Iraq UAP
+- basename: Lao_People_s_Democra_44f2bd
+  title: Laos UFOs
+  permalink: /lao-people-s-democratic-republic/
+  short_title: Laos UFOs
+- basename: Madagascar_f92bcb
+  title: Madagascar UFOs
+  permalink: /madagascars-ufo-record-famous-case-thin/
+  short_title: Madagascar UFOs
+- basename: Maldives_213cb2
+  title: MaldivesUFOs
+  permalink: /maldives/
+  short_title: MaldivesUFOs
+- basename: Micronesia_Federated_30e9e8
+  title: Micronesia UFOs
+  permalink: /micronesia-federated-states-of/
+  short_title: Micronesia UFOs
+- basename: Morocco_32e087
+  title: Morocco UFOs
+  permalink: /moroccos-ufo-mystery-and-its-best/
+  short_title: Morocco UFOs
+- basename: Netherlands_Kingdom_d6d70a
+  title: Dutch UFOs
+  permalink: /netherlands-kingdom-of-the/
+  short_title: Dutch UFOs
+- basename: Papua_New_Guinea_90e80c
+  title: PNG UFOs
+  permalink: /papua-new-guinea/
+  short_title: PNG UFOs
+- basename: Philippines_806736
+  title: Philippines UFOs
+  permalink: /philippines/
+  short_title: Philippines UFOs
+- basename: Portugal_a49519
+  title: Portugal UFOs
+  permalink: /portugals-ufo-files-mystery-memory-and/
+  short_title: Portugal UFOs
+- basename: Republic_of_Korea_8d9deb
+  title: Korea UFOs
+  permalink: /republic-of-korea/
+  short_title: Korea UFOs
+- basename: Republic_of_Moldova_a6ad94
+  title: Moldova UAP
+  permalink: /republic-of-moldova/
+  short_title: Moldova UAP
+- basename: Russian_Federation_87c89a
+  title: Russian UFOs
+  permalink: /russian-federation/
+  short_title: Russian UFOs
+- basename: Saint_Kitts_and_Nevi_a66de5
+  title: Kitts UFOs
+  permalink: /saint-kitts-and-nevis/
+  short_title: Kitts UFOs
+- basename: Saint_Vincent_and_th_3bce2a
+  title: SVG UFOs
+  permalink: /saint-vincent-and-the-grenadines/
+  short_title: SVG UFOs
+- basename: Sao_Tome_and_Princip_3437b2
+  title: Sao Tome UFOs
+  permalink: /sao-tome-and-principe/
+  short_title: Sao Tome UFOs
+- basename: Spain_20a8df
+  title: Spain UFOs
+  permalink: /spains-ufo-files-mystery-evidence-and/
+  short_title: Spain UFOs
+- basename: Syrian_Arab_Republic_099887
+  title: Syrian UAP
+  permalink: /syrian-arab-republic/
+  short_title: Syrian UAP
+- basename: Thailand_a2b7c1
+  title: Thailand UFOs
+  permalink: /thailand/
+  short_title: Thailand UFOs
+- basename: The_Bahamas_f765dc
+  title: Bahamas UFOs
+  permalink: /the-bahamas/
+  short_title: Bahamas UFOs
+- basename: Trinidad_and_Tobago_a73120
+  title: Trinidad UFOs
+  permalink: /trinidad-and-tobago/
+  short_title: Trinidad UFOs
+- basename: Turkiye_c8c5d5
+  title: Türkiye UFOs
+  permalink: /turkiye/
+  short_title: Türkiye UFOs
+- basename: Luxembourg_507672
+  title: LuxUFO
+  permalink: /uncovering-ufo-activity-across/
+  short_title: LuxUFO
+- basename: Israel_4c197d
+  title: Israel UFOs
+  permalink: /uncovering-ufo-phenomena-across-israel/
+  short_title: Israel UFOs
+- basename: United_Arab_Emirates_c92b89
+  title: UAE UFOs
+  permalink: /united-arab-emirates/
+  short_title: UAE UFOs
+- basename: United_Kingdom_d25561
+  title: UK UFOs
+  permalink: /united-kingdom/
+  short_title: UK UFOs
+- basename: United_Republic_of_T_f850a5
+  title: Tanzania UFOs
+  permalink: /united-republic-of-tanzania/
+  short_title: Tanzania UFOs
+- basename: United_States_f5f19f
+  title: US UFOs
+  permalink: /united-states/
+  short_title: US UFOs
+- basename: Venezuela_Bolivarian_3dc4c3
+  title: Venezuela UFOs
+  permalink: /venezuela-bolivarian-republic-of/
+  short_title: Venezuela UFOs
+- basename: Malawi_0ce65b
+  title: MalawiUFOs
+  permalink: /what-are-malawis-documented-ufos-and-sky/
+  short_title: MalawiUFOs
+- basename: Belarus_027a12
+  title: Belarus UFOs
+  permalink: /what-belarus-ufo-reports-really-show/
+  short_title: Belarus UFOs
+- basename: Brazil_37497a
+  title: BrazilUFOs
+  permalink: /what-brazils-ufo-records-reveal-about/
+  short_title: BrazilUFOs
+- basename: Angola_a42522
+  title: Angola UFOs
+  permalink: /what-can-angolas-ufo-record-really-prove/
+  short_title: Angola UFOs
+- basename: Benin_373616
+  title: Benin UFOs
+  permalink: /what-can-really-be-said-about-benin-ufos/
+  short_title: Benin UFOs
+- basename: Serbia_6d31bf
+  title: Serbia UFOs
+  permalink: /what-can-serbias-ufo-record-really-show/
+  short_title: Serbia UFOs
+- basename: Tuvalu_9a2248
+  title: Tuvalu UFOs
+  permalink: /what-can-tuvalus-ufo-record-really-show/
+  short_title: Tuvalu UFOs
+- basename: Canada_cd6a7b
+  title: Canada UAP
+  permalink: /what-canada-ufo-reports-really-show/
+  short_title: Canada UAP
+- basename: China_d2eaf2
+  title: China UFOs
+  permalink: /what-chinas-ufo-cases-really-show/
+  short_title: China UFOs
+- basename: South_Sudan_80ac9c
+  title: South Sudan UFOs
+  permalink: /what-counts-as-a-south-sudan-ufo-case/
+  short_title: South Sudan UFOs
+- basename: Jordan_674027
+  title: Jordan UFOs
+  permalink: /what-counts-as-a-ufo-in-jordan/
+  short_title: Jordan UFOs
+- basename: Croatia_d7e045
+  title: Croatia UFOs
+  permalink: /what-croatias-ufo-records-reveal-about/
+  short_title: Croatia UFOs
+- basename: Bahrain_3ae11c
+  title: Bahrain UFOs
+  permalink: /what-did-bahrains-ufo-sightings-really/
+  short_title: Bahrain UFOs
+- basename: Viet_Nam_82ecdd
+  title: Viet Nam UFOs
+  permalink: /what-did-viet-nams-ufo-reports-really/
+  short_title: Viet Nam UFOs
+- basename: Austria_593905
+  title: Austria UFOs
+  permalink: /what-do-austrias-ufo-reports-really-show/
+  short_title: Austria UFOs
+- basename: Belize_42ab0c
+  title: Belize UAP
+  permalink: /what-do-belize-ufo-reports-really-show/
+  short_title: Belize UAP
+- basename: Cameroon_73a7dd
+  title: Cameroon UFOs
+  permalink: /what-do-cameroons-ufo-stories-really/
+  short_title: Cameroon UFOs
+- basename: Cuba_c484b1
+  title: Cuba UFOs
+  permalink: /what-do-cubas-ufo-sightings-reveal-about/
+  short_title: Cuba UFOs
+- basename: Gabon_a06dcd
+  title: Gabon UFOs
+  permalink: /what-do-gabons-ufo-stories-really-show/
+  short_title: Gabon UFOs
+- basename: Guinea-Bissau_b07cb9
+  title: Guinea Bissau UFOs
+  permalink: /what-do-guinea-bissaus-ufo-reports/
+  short_title: Guinea Bissau UFOs
+- basename: Honduras_5aa588
+  title: Honduras UFOs
+  permalink: /what-do-honduras-ufo-reports-really-show/
+  short_title: Honduras UFOs
+- basename: Hungary_f14e46
+  title: Hungary UFOs
+  permalink: /what-do-hungarys-ufo-stories-really-show/
+  short_title: Hungary UFOs
+- basename: India_967ce3
+  title: India UAP
+  permalink: /what-do-indias-ufo-reports-really-show/
+  short_title: India UAP
+- basename: Lebanon_5caa7f
+  title: Lebanon UFOs
+  permalink: /what-do-lebanons-ufo-reports-really-show/
+  short_title: Lebanon UFOs
+- basename: Libya_55949d
+  title: Libya UFOs
+  permalink: /what-do-libyas-ufo-reports-really-show/
+  short_title: Libya UFOs
+- basename: Malaysia_ff3ea3
+  title: Malaysia UFOs
+  permalink: /what-do-malaysias-ufo-stories-really/
+  short_title: Malaysia UFOs
+- basename: Mongolia_f54da3
+  title: Mongolia UFOs
+  permalink: /what-do-mongolias-ufo-reports-really/
+  short_title: Mongolia UFOs
+- basename: Nauru_f648c7
+  title: Nauru UFOs
+  permalink: /what-do-nauru-ufo-reports-really-show/
+  short_title: Nauru UFOs
+- basename: Nigeria_9742d0
+  title: Nigeria UFOs
+  permalink: /what-do-nigerias-ufo-reports-really-show/
+  short_title: Nigeria UFOs
+- basename: Pakistan_82d220
+  title: Pakistan UFOs
+  permalink: /what-do-pakistans-ufo-cases-really-show/
+  short_title: Pakistan UFOs
+- basename: Panama_1e36b3
+  title: Panama UFOs
+  permalink: /what-do-panama-ufo-reports-really-show/
+  short_title: Panama UFOs
+- basename: Qatar_83ef3e
+  title: Qatar UFOs
+  permalink: /what-do-qatars-ufo-reports-really-show/
+  short_title: Qatar UFOs
+- basename: Seychelles_3d2d7b
+  title: Seychelles UFOs
+  permalink: /what-do-seychelles-ufo-reports-really/
+  short_title: Seychelles UFOs
+- basename: Sierra_Leone_817b0d
+  title: Sierra Leone UAP
+  permalink: /what-do-sierra-leones-ufo-reports-really/
+  short_title: Sierra Leone UAP
+- basename: Somalia_4dfdf1
+  title: Somalia UFOs
+  permalink: /what-do-somalias-ufo-reports-really-show/
+  short_title: Somalia UFOs
+- basename: Tajikistan_279c77
+  title: Tajikistan UFOs
+  permalink: /what-do-tajikistans-ufo-reports-really/
+  short_title: Tajikistan UFOs
+- basename: Timor-Leste_2d79f6
+  title: Timor Leste UFOs
+  permalink: /what-do-timor-leste-ufo-reports-really/
+  short_title: Timor Leste UFOs
+- basename: Guinea_b47b54
+  title: Guinea UFOs
+  permalink: /what-do-ufo-reports-in-guinea-really/
+  short_title: Guinea UFOs
+- basename: Bhutan_bb2254
+  title: BhutanUFOs
+  permalink: /what-do-ufo-sightings-in-bhutan-really/
+  short_title: BhutanUFOs
+- basename: Botswana_180c89
+  title: Botswana UFOs
+  permalink: /what-does-botswanas-ufo-record-really/
+  short_title: Botswana UFOs
+- basename: Ecuador_09f199
+  title: EcuadorUFOs
+  permalink: /what-evidence-exists-for-ufos-in-ecuador/
+  short_title: EcuadorUFOs
+- basename: Georgia_9113c6
+  title: Georgia UFOs
+  permalink: /what-georgias-ufo-reports-reveal-about/
+  short_title: Georgia UFOs
+- basename: Germany_17d53e
+  title: Germany UFOs
+  permalink: /what-germanys-ufo-record-really-shows/
+  short_title: Germany UFOs
+- basename: Greece_4902a4
+  title: Greece UFOs
+  permalink: /what-greeces-ufo-records-reveal-about/
+  short_title: Greece UFOs
+- basename: Guatemala_11760e
+  title: GuatemalaUFOs
+  permalink: /what-guatemalas-ufo-reports-really/
+  short_title: GuatemalaUFOs
+- basename: Latvia_c5f5bb
+  title: Latvia UFOs
+  permalink: /what-has-latvia-really-seen-in-the-sky/
+  short_title: Latvia UFOs
+- basename: Malta_1a591a
+  title: Malta UFOs
+  permalink: /what-has-malta-really-seen-in-the-sky/
+  short_title: Malta UFOs
+- basename: Saint_Lucia_85ac35
+  title: Saint Lucia UFOs
+  permalink: /what-has-saint-lucia-really-reported/
+  short_title: Saint Lucia UFOs
+- basename: Samoa_f56806
+  title: Samoa UFOs
+  permalink: /what-has-samoa-really-seen-in-the-sky/
+  short_title: Samoa UFOs
+- basename: Zambia_dcf25e
+  title: Zambia UFOs
+  permalink: /what-has-zambia-really-seen-in-the-sky/
+  short_title: Zambia UFOs
+- basename: Indonesia_35536a
+  title: Indonesia UFOs
+  permalink: /what-indonesias-ufo-record-really-shows/
+  short_title: Indonesia UFOs
+- basename: Andorra_9d3bd1
+  title: Andorra UFOs
+  permalink: /what-is-actually-known-about-andorra/
+  short_title: Andorra UFOs
+- basename: Azerbaijan_213598
+  title: Azerbaijan UAP
+  permalink: /what-is-behind-azerbaijans-ufo-reports/
+  short_title: Azerbaijan UAP
+- basename: Liberia_1ed5dd
+  title: Liberia UFOs
+  permalink: /what-is-known-about-ufos-in-liberia/
+  short_title: Liberia UFOs
+- basename: Chad_6c6b1b
+  title: Chad UFOs
+  permalink: /what-is-really-behind-chads-ufo-reports/
+  short_title: Chad UFOs
+- basename: Gambia_7c3997
+  title: Gambia UFOs
+  permalink: /what-is-really-behind-gambias-ufo/
+  short_title: Gambia UFOs
+- basename: Myanmar_928b7c
+  title: Myanmar UFOs
+  permalink: /what-is-really-behind-myanmar-ufo/
+  short_title: Myanmar UFOs
+- basename: Namibia_bfe79d
+  title: Namibia UFOs
+  permalink: /what-is-really-behind-namibias-ufo/
+  short_title: Namibia UFOs
+- basename: Slovakia_b6c149
+  title: Slovak UFOs
+  permalink: /what-is-really-behind-slovakias-ufo/
+  short_title: Slovak UFOs
+- basename: Eswatini_16cc7f
+  title: Eswatini UFOs
+  permalink: /what-is-really-in-eswatinis-ufo-record/
+  short_title: Eswatini UFOs
+- basename: Jamaica_5eedd6
+  title: Jamaica UFOs
+  permalink: /what-is-really-in-jamaicas-ufo-record/
+  short_title: Jamaica UFOs
+- basename: North_Macedonia_cece1d
+  title: North Macedonia UFOs
+  permalink: /what-is-really-in-north-macedonias-ufo/
+  short_title: North Macedonia UFOs
+- basename: Uzbekistan_db800e
+  title: Uzbekistan UFOs
+  permalink: /what-is-really-in-uzbekistans-ufo-record/
+  short_title: Uzbekistan UFOs
+- basename: Yemen_ac33d6
+  title: Yemen UFOs
+  permalink: /what-is-really-in-yemens-ufo-record/
+  short_title: Yemen UFOs
+- basename: Burundi_461758
+  title: Burundi UFOs
+  permalink: /what-is-really-known-about-burundi-ufos/
+  short_title: Burundi UFOs
+- basename: Colombia_2f7373
+  title: Colombia UAP
+  permalink: /what-is-really-known-about-colombias-ufo/
+  short_title: Colombia UAP
+- basename: Kiribati_3f57ad
+  title: Kiribati UFOs
+  permalink: /what-is-really-known-about-kiribati-ufos/
+  short_title: Kiribati UFOs
+- basename: Lesotho_93b12b
+  title: Lesotho UAP
+  permalink: /what-is-really-known-about-lesotho-ufos/
+  short_title: Lesotho UAP
+- basename: Niger_6687e1
+  title: Niger UFOs
+  permalink: /what-is-really-known-about-niger-ufos/
+  short_title: Niger UFOs
+- basename: Palau_e5e0b6
+  title: Palau UAP
+  permalink: /what-is-really-known-about-palau-ufos/
+  short_title: Palau UAP
+- basename: Turkmenistan_1f8dc1
+  title: Turkmenistan UFOs
+  permalink: /what-is-really-known-about-turkmenistan/
+  short_title: Turkmenistan UFOs
+- basename: Ireland_eb2131
+  title: Irish UAP
+  permalink: /what-is-really-seen-over-ireland/
+  short_title: Irish UAP
+- basename: Kazakhstan_2f36b6
+  title: Kazakhstan UFOs
+  permalink: /what-is-really-seen-over-kazakhstan/
+  short_title: Kazakhstan UFOs
+- basename: Ukraine_c951ec
+  title: Ukraine UFOs
+  permalink: /what-is-really-seen-over-ukraine/
+  short_title: Ukraine UFOs
+- basename: Rwanda_7266a1
+  title: Rwanda UFOs
+  permalink: /what-is-rwandas-real-ufo-record/
+  short_title: Rwanda UFOs
+- basename: Sri_Lanka_db33ad
+  title: Sri Lanka UFOs
+  permalink: /what-is-sri-lankas-ufo-record-really/
+  short_title: Sri Lanka UFOs
+- basename: Lithuania_74a788
+  title: Lithuania UFOs
+  permalink: /what-lithuanias-ufo-reports-really-show/
+  short_title: Lithuania UFOs
+- basename: Egypt_1c39ab
+  title: EgyptUFOs
+  permalink: /what-makes-egypt-a-hotspot-for-ufo/
+  short_title: EgyptUFOs
+- basename: Italy_ad79ef
+  title: Italy UFOs
+  permalink: /what-makes-italys-ufo-record-unique-and/
+  short_title: Italy UFOs
+- basename: Japan_fcf29f
+  title: Japan UFOs
+  permalink: /what-makes-japans-ufo-record-so-unusual/
+  short_title: Japan UFOs
+- basename: Liechtenstein_b0ddce
+  title: Liechtenstein UFOs
+  permalink: /what-makes-liechtensteins-ufo-story/
+  short_title: Liechtenstein UFOs
+- basename: Norway_988455
+  title: Norway UFOs
+  permalink: /what-makes-norways-ufo-record-different/
+  short_title: Norway UFOs
+- basename: Peru_36c572
+  title: Peru UFOs
+  permalink: /what-makes-perus-ufo-story-so/
+  short_title: Peru UFOs
+- basename: Sweden_72ddd2
+  title: Swedish UFOs
+  permalink: /what-makes-swedens-ufo-record-different/
+  short_title: Swedish UFOs
+- basename: New_Zealand_3d3336
+  title: NZ UFOs
+  permalink: /what-new-zealands-ufo-files-really-show/
+  short_title: NZ UFOs
+- basename: Sudan_1193ba
+  title: Sudan UFOs
+  permalink: /what-really-appeared-over-sudan/
+  short_title: Sudan UFOs
+- basename: Congo_77f256
+  title: Congo UFOs
+  permalink: /what-really-counts-as-a-congo-ufo/
+  short_title: Congo UFOs
+- basename: Oman_c14c36
+  title: Oman UFOs
+  permalink: /what-really-counts-as-an-oman-ufo/
+  short_title: Oman UFOs
+- basename: Ethiopia_3d91f7
+  title: Ethiopia UFOs
+  permalink: /what-really-counts-as-ethiopias-ufo/
+  short_title: Ethiopia UFOs
+- basename: Tonga_e8a123
+  title: Tonga UFOs
+  permalink: /what-really-exists-in-tongas-ufo-record/
+  short_title: Tonga UFOs
+- basename: Armenia_5f4599
+  title: Armenia UFOs
+  permalink: /what-really-explains-armenias-ufo/
+  short_title: Armenia UFOs
+- basename: Bulgaria_5c7772
+  title: Bulgaria UFOs
+  permalink: /what-really-explains-bulgarias-ufo/
+  short_title: Bulgaria UFOs
+- basename: Kyrgyzstan_c78791
+  title: Kyrgyzstan UFOs
+  permalink: /what-really-explains-kyrgyzstans-ufo/
+  short_title: Kyrgyzstan UFOs
+- basename: Marshall_Islands_ccbdc0
+  title: Marshall UFOs
+  permalink: /what-really-explains-marshall-islands/
+  short_title: Marshall UFOs
+- basename: Saudi_Arabia_8bf7f8
+  title: Saudi UFOs
+  permalink: /what-really-explains-saudi-arabias-ufo/
+  short_title: Saudi UFOs
+- basename: Vanuatu_d16ad2
+  title: Vanuatu UAP
+  permalink: /what-really-explains-vanuatus-strange/
+  short_title: Vanuatu UAP
+- basename: Kenya_a84f56
+  title: Kenya UFOs
+  permalink: /what-really-fell-from-kenyas-skies/
+  short_title: Kenya UFOs
+- basename: El_Salvador_9b83b7
+  title: El Salvador UFOs
+  permalink: /what-really-flies-over-el-salvador/
+  short_title: El Salvador UFOs
+- basename: Belgium_5cb4c9
+  title: Belgium
+  permalink: /what-really-happened-during-belgiums/
+  short_title: Belgium
+- basename: Australia_ceafb5
+  title: Australia UFOs
+  permalink: /what-really-happened-in-australias-ufo/
+  short_title: Australia UFOs
+- basename: Barbados_93409a
+  title: Barbados UFOs
+  permalink: /what-really-happened-in-barbados-skies/
+  short_title: Barbados UFOs
+- basename: Cambodia_314ccd
+  title: Cambodia UFOs
+  permalink: /what-really-happened-in-cambodias-ufo/
+  short_title: Cambodia UFOs
+- basename: Costa_Rica_fe586b
+  title: Costa Rica UFOs
+  permalink: /what-really-happened-in-costa-ricas-ufo/
+  short_title: Costa Rica UFOs
+- basename: Haiti_a4842f
+  title: Haiti UFOs
+  permalink: /what-really-happened-in-haitis-ufo/
+  short_title: Haiti UFOs
+- basename: Kuwait_93295b
+  title: Kuwait UAP
+  permalink: /what-really-happened-in-kuwaits-ufo/
+  short_title: Kuwait UAP
+- basename: Mauritius_26160d
+  title: Mauritius UFOs
+  permalink: /what-really-happened-in-mauritius-sky/
+  short_title: Mauritius UFOs
+- basename: Mexico_41937b
+  title: Mexico UFOs
+  permalink: /what-really-happened-in-mexicos-ufo/
+  short_title: Mexico UFOs
+- basename: Nepal_0e1d58
+  title: Nepal UFOs
+  permalink: /what-really-happened-in-nepals-ufo/
+  short_title: Nepal UFOs
+- basename: Nicaragua_481264
+  title: Nicaragua UFOs
+  permalink: /what-really-happened-in-nicaraguas-ufo/
+  short_title: Nicaragua UFOs
+- basename: Paraguay_71a452
+  title: Paraguay UFOs
+  permalink: /what-really-happened-in-paraguays-ufo/
+  short_title: Paraguay UFOs
+- basename: Poland_5ff03b
+  title: Poland UFOs
+  permalink: /what-really-happened-in-polands-ufo/
+  short_title: Poland UFOs
+- basename: Solomon_Islands_6f943d
+  title: Solomon UFOs
+  permalink: /what-really-happened-in-solomon/
+  short_title: Solomon UFOs
+- basename: Togo_30949d
+  title: Togo UFOs
+  permalink: /what-really-happened-in-togos-ufo-files/
+  short_title: Togo UFOs
+- basename: Tunisia_edf404
+  title: Tunisia UFOs
+  permalink: /what-really-happened-in-tunisias-ufo/
+  short_title: Tunisia UFOs
+- basename: Uganda_e92904
+  title: Uganda UFOs
+  permalink: /what-really-happened-in-ugandas-ufo/
+  short_title: Uganda UFOs
+- basename: Zimbabwe_5922f5
+  title: Zimbabwe UFOs
+  permalink: /what-really-happened-in-zimbabwes-ufo/
+  short_title: Zimbabwe UFOs
+- basename: Estonia_f0a96d
+  title: Estonia UFOs
+  permalink: /what-really-shapes-estonias-ufo-record/
+  short_title: Estonia UFOs
+- basename: Slovenia_d1aa05
+  title: Slovenia UFOs
+  permalink: /what-really-stands-out-in-slovenias-ufo/
+  short_title: Slovenia UFOs
+- basename: South_Africa_3b27c8
+  title: South Africa UFOs
+  permalink: /what-really-stands-out-in-south/
+  short_title: South Africa UFOs
+- basename: Mozambique_a40a9b
+  title: Mozambique UFOs
+  permalink: /what-really-survives-in-mozambiques-ufo/
+  short_title: Mozambique UFOs
+- basename: Romania_d6b897
+  title: Romania UFOs
+  permalink: /what-romanias-ufo-record-really-shows/
+  short_title: Romania UFOs
+- basename: Singapore_20c0b7
+  title: Singapore UFOs
+  permalink: /what-singapore-ufo-sightings-really-show/
+  short_title: Singapore UFOs
+- basename: Suriname_b17fc6
+  title: Suriname UFOs
+  permalink: /what-surinames-ufo-stories-really-show/
+  short_title: Suriname UFOs
+- basename: Senegal_d8973b
+  title: Senegal UFOs
+  permalink: /what-survives-in-senegals-ufo-record/
+  short_title: Senegal UFOs
+- basename: Cabo_Verde_2a5bf1
+  title: Cabo Verde UFOs
+  permalink: /what-ufo-reports-survive-cabo-verde/
+  short_title: Cabo Verde UFOs
+- basename: Cyprus_852add
+  title: CyprusUFOs
+  permalink: /what-ufo-sightings-have-shaped-cyprus/
+  short_title: CyprusUFOs
+- basename: Eritrea_18740a
+  title: Eritrea UFOs
+  permalink: /what-ufos-have-been-reported-in/
+  short_title: Eritrea UFOs
+- basename: Uruguay_66b989
+  title: Uruguay UFOs
+  permalink: /what-uruguays-ufo-files-really-show/
+  short_title: Uruguay UFOs
+- basename: Denmark_89da12
+  title: Denmark UFOs
+  permalink: /what-we-know-about-ufo-phenomena-in/
+  short_title: Denmark UFOs
+- basename: Guyana_bc88a2
+  title: Guyana UFOs
+  permalink: /what-we-know-about-ufo-sightings-in/
+  short_title: Guyana UFOs
+- basename: Mauritania_85fa35
+  title: Mauritania UAP
+  permalink: /why-are-mauritanias-ufo-records-so/
+  short_title: Mauritania UAP
+- basename: Grenada_dbf2a2
+  title: Grenada UFOs
+  permalink: /why-grenada-became-a-ufo-footnote/
+  short_title: Grenada UFOs
+- basename: San_Marino_8ff2c5
+  title: San Marino UFOs
+  permalink: /why-san-marino-became-a-ufo-meeting/
+  short_title: San Marino UFOs
+child_links:
+- basename: Switzerland_77dcd8_swiss_air_force_file_862770
+  title: Air Force Files | What Is Switzerland's UFO Record Really...
+  permalink: /air-force-files-970a6c/
+  short_title: Air Force Files
+  heading_title: What Do Swiss UFO Files Actually Prove?
+- basename: Switzerland_77dcd8_basel_sky_battle_95c393
+  title: Basel 1566 | What Is Switzerland's UFO Record Really...
+  permalink: /basel-1566/
+  short_title: Basel 1566
+  heading_title: Was Basel's Sky Battle Really a UFO?
+- basename: Switzerland_77dcd8_swiss_ufo_hoaxes_d07325
+  title: Hoaxes | What Is Switzerland's UFO Record Really...
+  permalink: /hoaxes/
+  short_title: Hoaxes
+  heading_title: When Swiss UFO Stories Were Staged
+- basename: Switzerland_77dcd8_zwischbergen_photo_564316
+  title: Zwischbergen | What Is Switzerland's UFO Record Really...
+  permalink: /zwischbergen/
+  short_title: Zwischbergen
+  heading_title: Can Switzerland's Famous UFO Photo Hold Up?
+prev_link:
+  basename: Sri_Lanka_db33ad
+  title: Sri Lanka UFOs
+  permalink: /what-is-sri-lankas-ufo-record-really/
+  short_title: Sri Lanka UFOs
+next_link:
+  basename: Lithuania_74a788
+  title: Lithuania UFOs
+  permalink: /what-lithuanias-ufo-reports-really-show/
+  short_title: Lithuania UFOs
+date: '2026-05-31 04:33:18 '
+header:
+  og_image: /assets/images/Switzerland_77dcd8-overview-social.jpg
+  preview_image: /assets/images/Switzerland_77dcd8-overview.webp
+image: /assets/images/Switzerland_77dcd8-overview-social.jpg
+---
+
+## Why Switzerland Has More UFO Material Than Many Readers Expect
+
+Switzerland’s UFO history is often overshadowed by larger national programmes in the United States, France or Britain, yet Swiss material has three distinctive features. First, the country’s mountainous terrain, military aviation corridors, border airspace and clear-sky tourist regions create many plausible settings for unusual aerial observations. Second, its federal structure means that reports can appear in different places: army files, cantonal police material, broadcaster archives, local newspapers and private ufology collections. Third, Switzerland has produced both serious reporting and famous myth-making, including the much-disputed Billy Meier contactee claims and the 1971 broadcast hoax at Aire-la-Ville. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-diaspora/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rts.ch/archives/grands-formats/2024/grand-format/alerte-aux-ovnis-quand-la-rts-ose-le-canular-28550731.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rts.ch">[RTS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rts.ch</span><span class="citation-popover-title">alerte aux ovnis quand la rts ose le canular 28550731</span><span class="citation-popover-snippet">alerte aux ovnis quand la rts ose le canular 28550731</span></span></span>
+
+
+<img src="{{ "/assets/images/Switzerland_77dcd8-overview.webp" | relative_url }}" alt="Overview image for What Is Switzerland&#x27;s UFO Record Really..." loading="eager" decoding="sync" fetchpriority="high">
+The clearest official anchor is the material reported by Swiss public television RTS and summarised by SWI swissinfo.ch in 2024. The Swiss Federal Archives in Bern hold UFO-related records produced by the army, cantonal police and Swiss embassies, with many documents digitised through the federal archive system. Among the [Air Force files]({{ 'air-force-files-970a6c/' | relative_url }}) are folders labelled “flying saucer”, including file E5465B from 1954, which gave pilots and officials instructions for reporting unidentified objects. The wording is important: the task was not to identify extraterrestrial origins, but to record such reports “systematically”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-diaspora/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+That distinction matters throughout the Swiss record. A report being in an official file does not mean the state endorsed an extraordinary explanation. It usually means the observation had potential relevance to air safety, airspace violation, intelligence, pilot debriefing or public correspondence. This makes Switzerland useful for UFO research, but also frustrating: the documentation can show that something was reported without proving what the object was. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-diaspora/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+## A Swiss Chronology: From Basel’s Sky Battle to Modern UAP Apps
+
+The Swiss chronology starts long before the term UFO existed, but early cases should be handled carefully. A 1566 Basel broadsheet described strange red sunrises, a lunar eclipse and black or fiery round objects apparently fighting in the sky. Modern UFO writers often treat the image as a proto-UFO event, but the Swiss National Museum places it in the culture of early modern omens: broadsheets commonly interpreted unusual natural phenomena as divine warnings during a period of religious and political anxiety. Possible natural explanations include meteors, aurorae, optical effects, atmospheric dust or other rare astronomical events, but the exact cause remains uncertain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.nationalmuseum.ch/en/2024/07/the-celestial-event-over-basel-in-1566/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.nationalmuseum.ch">[Swiss National Museum Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.nationalmuseum.ch</span><span class="citation-popover-title">the celestial event over basel in 1566</span><span class="citation-popover-snippet">the celestial event over basel in 1566</span></span></span>
+
+The modern Swiss UFO pattern becomes much clearer after the flying-saucer wave of the 1950s. The 1954 Air Force file shows a bureaucratic response: report forms, structured questions and an attempt to collect consistent details such as direction, elevation, apparent size, propulsion, shape and speed. Former Swiss army pilots later told RTS that such forms were used into the 1990s, although only a small portion appears to have survived in archives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-diaspora/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+A compact Swiss chronology looks like this:
+
+PeriodSwiss exampleBest current reading1566Basel celestial broadsheetHistorically important, but best read as an omen text built around unusual sky phenomena, not a modern UFO report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.nationalmuseum.ch/en/2024/07/the-celestial-event-over-basel-in-1566/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.nationalmuseum.ch">[Swiss National Museum Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.nationalmuseum.ch</span><span class="citation-popover-title">the celestial event over basel in 1566</span><span class="citation-popover-snippet">the celestial event over basel in 1566</span></span></span> 1950sSwiss Air Force reporting instructionsOfficial evidence of systematic collection, not proof of exotic craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-diaspora/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> 1971Mirage III pilot reports over Interlaken and WinterthurStrong official-document interest, but incomplete records and no settled explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-diaspora/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> 1971Aire-la-Ville “landing” broadcastA confirmed RTS/TSR media hoax that shows how UFO language could grip Swiss public attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rts.ch/info/suisse/2024/article/quand-les-soucoupes-volantes-s-invitent-dans-les-dossiers-militaires-suisses-28672629.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rts.ch">[RTS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rts.ch</span><span class="citation-popover-snippet">Open source on rts.ch.</span></span></span> 1975Zwischbergen/Saas-Fee photographOne of the most famous Swiss UFO photos; visually strong but seriously contested. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caelestia.be/article03.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caelestia.be">[Caelestia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caelestia.be</span><span class="citation-popover-title">The Zwischbergen &#x27;Saas Fee&#x27; photo</span><span class="citation-popover-snippet">The Zwischbergen &#x27;Saas Fee&#x27; photo</span></span></span> 1970s onwardBilly Meier photographs and contact claimsCulturally famous but widely treated by sceptics and many ufologists as fraudulent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Billy_Meier" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Billy Meier</span><span class="citation-popover-snippet">Billy Meier</span></span></span> 2015Lausanne/Vaud light-and-residue caseDocumented witness, video and samples, but unresolved and not independently confirmed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/silicon-valley-technologists-interested-in-swiss-ufo-case/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">The Debrief Silicon Valley Technologists Interested In Swiss UFO Case</span><span class="citation-popover-snippet">The Debrief Silicon Valley Technologists Interested In Swiss UFO Case</span></span></span> 2019Rossfeld/Sierre luminous objectLocal viral mystery later reported as a marketing operation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lenouvelliste.ch/valais/valais-central/sierre-district/sierre-le-mysterieux-ovni-de-rossfeld-etait-un-coup-marketing-a-lapproche-de-la-foire-866427" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lenouvelliste.ch">[Le Nouvelliste]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lenouvelliste.ch</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> 2020sEnigma Labs Switzerland reportsUseful as a public reporting database, but not equivalent to official verification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/explore/ch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs | Report a UFO sighting UFO Sightings in Switzerland | Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sighting UFO Sightings in Switzerland | Enigma Labs</span></span></span> | Report a UFO sighting
+
+This timeline shows a repeated pattern: Swiss cases become valuable when they include documents, multiple witnesses, original photographs, formal reports or clear later resolution. They become weak when they depend on lore, repeated online summaries, missing originals or dramatic interpretation without independent checks.
+
+
+<img src="{{ "/assets/images/Switzerland_77dcd8-Illustration-1-light.svg" | relative_url }}" alt="What Is Switzerland&#x27;s UFO Record Really... illustration 1" data-theme-src-dark="{{ "/assets/images/Switzerland_77dcd8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Switzerland_77dcd8-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## What the Official Files Actually Show
+
+The Swiss Air Force material is the most important evidence base because it is not merely folklore. RTS reported that Swiss military files include faded green folders labelled as flying-saucer material, with file E5465B from 1954 setting out how pilots and officials should record unidentified-object observations. The forms asked for concrete observational details rather than belief statements: position, direction, elevation, apparent size compared with the Moon, apparent propulsion, shape and speed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-diaspora/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+The most notable archived military case reported by RTS dates from February 1971. Two officers in a Mirage III saw a bright point of light moving unusually over Interlaken during a night flight. Another report described a related sighting over Winterthur, and a further Mirage III pilot observed the same or similar object three days later, at first mistaking it for aircraft landing lights before concluding that it was stationary and unusual. The case is significant because it involved trained military observers and appeared in more than one document, but it is weakened by the disappearance of original documents and the anonymisation of surviving copies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-diaspora/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+The official Swiss position also limits overinterpretation. A defence ministry spokesperson told RTS that the Swiss Armed Forces had no specific mission to collect UFO information; the files should be understood in the context of flight debriefings and later categorisation of reports. In other words, the archive demonstrates institutional handling of anomalous reports, not a secret Swiss conclusion that alien craft were present. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-diaspora/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+The files also show ordinary explanations at work. Some archived material concerns foreign aircraft accidentally entering Swiss airspace, Cold War suspicions about spy planes, weather balloons, radiosondes and other prosaic sources. This is crucial for evidence quality: an unresolved label can mean incomplete data, missing records or insufficient investigation, not necessarily an extraordinary object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-diaspora/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ifyrqSjaEgE" title="Last Man Standing | Ep. 5: My Encounter with the UFO Phenomenon in the alps" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ifyrqSjaEgE" target="_blank" rel="noopener noreferrer">Last Man Standing | Ep. 5: My Encounter with the UFO Phenomenon in the alps</a></p><p class="youtube-embed-meta">Channel: Summitic &middot; Views: 524 &middot; Uploaded: March 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ifyrqSjaEgE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ifyrqSjaEgE">Open on YouTube</a></p></div></div></div>
+
+## Three Swiss Cases That Define the Debate
+
+### The 1975 Zwischbergen photograph
+
+The photograph often called the “Saas-Fee” UFO is one of Switzerland’s best-known cases, though the image was actually taken near [Zwischbergen]({{ 'zwischbergen/' | relative_url }}), close to the better-known resort. According to the case account summarised by CAELESTIA, three Dutch hikers reported seeing a dull grey, circular, metallic-looking object on 26 July 1975, and one witness took a colour slide before the object allegedly moved behind trees. The image became famous because it looks like a classic 1970s flying saucer and because prominent UFO investigator J. Allen Hynek reportedly regarded it as one of the better UFO photographs of its era. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caelestia.be/pdlc.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caelestia.be">[Caelestia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caelestia.be</span><span class="citation-popover-snippet">Open source on caelestia.be.</span></span></span>
+
+The case remains contested rather than confirmed. CAELESTIA’s follow-up investigation found that the image did show a three-dimensional object, leaving two broad possibilities: a large unknown craft or a small model. The same investigation raised doubts, including the absence of several slides from the sequence around the UFO image and criticism of earlier image analysis based on later-generation copies rather than the original slide. This makes the Zwischbergen photograph important but not decisive: it is a strong visual artefact, not a closed case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caelestia.be/publications.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caelestia.be">[Caelestia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caelestia.be</span><span class="citation-popover-snippet">Open source on caelestia.be.</span></span></span>
+
+### Billy Meier and the Swiss contactee problem
+
+No Swiss UFO topic has travelled farther globally than the Billy Meier material. Eduard “Billy” Meier, based in Switzerland, claimed contact with extraterrestrial beings and produced photographs and films of alleged craft in the 1970s. His imagery later became culturally famous, including through associations with the “I want to believe” aesthetic of UFO pop culture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightings</span></span></span>
+
+For evidence assessment, the Meier material belongs in the contested-to-debunked category. Sceptical analyses and many ufologists have long argued that the images were made with models; one sceptical summary of photo analysis describes evidence of a support structure above a craft in an image attributed to Meier. Accounts also cite claims from Meier’s former wife that some photographs involved homemade models. The case remains culturally relevant because it shaped international UFO imagery, but it is not a reliable foundation for claims about Swiss airspace phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://articles.skeptics.nz/2022/02/07/ufos-the-camera-doesnt-lie/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: articles.skeptics.nz">[NZ Skeptics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">articles.skeptics.nz</span><span class="citation-popover-title">ufos the camera doesnt lie</span><span class="citation-popover-snippet">ufos the camera doesnt lie</span></span></span>
+
+
+<img src="{{ "/assets/images/Switzerland_77dcd8-Illustration-2-light.svg" | relative_url }}" alt="What Is Switzerland&#x27;s UFO Record Really... illustration 2" data-theme-src-dark="{{ "/assets/images/Switzerland_77dcd8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Switzerland_77dcd8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+### The Lausanne/Vaud light-and-residue case
+
+The most interesting recent Swiss case is the 18 November 2015 Lausanne-area report described by The Debrief. A witness using a pseudonym filmed lights in a pinkish cloud from her balcony and later reported residue on shutters and indoor surfaces. Regional researcher Bruno Mancusi collected the account and sought laboratory interest; the University of Lausanne, EPFL and the Vaud environmental office reportedly declined to take on the analysis, suggesting private laboratories instead. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/silicon-valley-technologists-interested-in-swiss-ufo-case/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">The Debrief Silicon Valley Technologists Interested In Swiss UFO Case</span><span class="citation-popover-snippet">The Debrief Silicon Valley Technologists Interested In Swiss UFO Case</span></span></span>
+
+The case became more notable because Jacques Vallée, a long-time UFO researcher, received samples through Mancusi and visited the witness. Vallée stated that he had no doubt the reports were sincere and did not then have a natural explanation, but he also stressed that the site and local environment needed more investigation and that the residue alone could not establish whether the event was man-made. Possible explanations discussed by scientists included reflections, optical illusion, ball lightning and a superior mirage, while MeteoSwiss reportedly had no regional inversion data for that morning. The case therefore sits in the unresolved category: unusual, documented, but not independently proven. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/silicon-valley-technologists-interested-in-swiss-ufo-case/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">The Debrief Silicon Valley Technologists Interested In Swiss UFO Case</span><span class="citation-popover-snippet">The Debrief Silicon Valley Technologists Interested In Swiss UFO Case</span></span></span>
+
+## Confirmed, Contested and Debunked: How to Read Swiss UFO Evidence
+
+The most reliable Swiss UFO page should not treat every case as equal. A sensible evidence split is more useful than a dramatic ranking.
+
+**Confirmed as real-world events:** The Basel broadsheet existed; the 1954 Air Force reporting instructions existed; the 1971 Swiss military reports were preserved at least in copy form; the 1971 Aire-la-Ville broadcast hoax happened; and the Rossfeld/Sierre viral object was later reported locally as a marketing stunt. These are confirmed events in the historical or media record, even when the original sighting interpretation is not confirmed. Le Nouvelliste 3Swiss National Museum Blog <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-diaspora/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+**Contested but worth examining:** The Zwischbergen photograph and the Lausanne/Vaud case are the strongest examples. Both involve more than a casual verbal claim: one has a famous slide with later analysis; the other has video, witness testimony and alleged material samples. Yet both have major limitations: missing contextual evidence in the photograph case, and lack of independent local corroboration or completed public laboratory results in the Lausanne case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caelestia.be/article03.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caelestia.be">[Caelestia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caelestia.be</span><span class="citation-popover-title">The Zwischbergen &#x27;Saas Fee&#x27; photo</span><span class="citation-popover-snippet">The Zwischbergen &#x27;Saas Fee&#x27; photo</span></span></span>
+
+**Debunked or best treated as unreliable:** The Aire-la-Ville “landing” was a broadcaster hoax, while the Billy Meier material is widely treated as fraudulent or model-based despite its lasting cultural influence. Rossfeld/Sierre appears to belong with modern viral publicity cases rather than unexplained aerial evidence. RTS <span class="citation-chip-wrap"><a class="citation-chip" href="https://articles.skeptics.nz/2022/02/07/ufos-the-camera-doesnt-lie/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: articles.skeptics.nz">[NZ Skeptics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">articles.skeptics.nz</span><span class="citation-popover-title">ufos the camera doesnt lie</span><span class="citation-popover-snippet">ufos the camera doesnt lie</span></span></span>
+
+This split also helps explain why official archives are both valuable and limited. They preserve what people reported and what agencies did with those reports, but they do not automatically convert unknowns into extraordinary claims. In Switzerland, as in sibling country branches such as France, Belgium or the United Kingdom, the best cases tend to be those with dated documents, traceable witnesses, independent corroboration and a clear chain of custody for photographs or samples.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/o_ikYfacHNY" title="The Real-Life Mysterious Celestial Phenomenon 1566 Over Basel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=o_ikYfacHNY" target="_blank" rel="noopener noreferrer">The Real-Life Mysterious Celestial Phenomenon 1566 Over Basel</a></p><p class="youtube-embed-meta">Channel: AH DOCUMENTARY &middot; Views: 2.6K &middot; Uploaded: August 2024 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=o_ikYfacHNY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=o_ikYfacHNY">Open on YouTube</a></p></div></div></div>
+
+## Regional Patterns: Alps, Air Corridors and Media Centres
+
+Swiss UFO reports are not evenly meaningful across the map. Alpine and pre-Alpine regions generate visually striking cases because mountains create unusual sightlines, weather transitions, reflections and tourist photography. The Zwischbergen/Saas-Fee photograph is a perfect example: its power comes from a dramatic Alpine setting, but the terrain also complicates distance, scale and object-size estimates. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caelestia.be/pdlc.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caelestia.be">[Caelestia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caelestia.be</span><span class="citation-popover-snippet">Open source on caelestia.be.</span></span></span>
+
+Central and northern Switzerland appear in the official military narrative through Interlaken and Winterthur, where pilot reports in 1971 were tied to Mirage III operations and night-flight observation. These cases differ from tourist photographs because the witnesses were trained aviators, but training does not eliminate ambiguity when the source may be astronomical, atmospheric, military or a distant aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-diaspora/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+French-speaking Switzerland has a distinctive media and research footprint. Geneva appears through the Aire-la-Ville hoax, Vaud through the Lausanne case and long-running regional ufology networks, and Valais through both Alpine sightings and the Rossfeld/Sierre viral incident. This does not mean the west of Switzerland is more anomalous; it means the region has strong local media visibility, active investigators and memorable public cases. RTS <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/silicon-valley-technologists-interested-in-swiss-ufo-case/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">The Debrief Silicon Valley Technologists Interested In Swiss UFO Case</span><span class="citation-popover-snippet">The Debrief Silicon Valley Technologists Interested In Swiss UFO Case</span></span></span>
+
+Modern public databases add another layer. Enigma Labs lists 146 Switzerland sightings submitted directly to its platform and 407 Switzerland sightings including third-party sources. Such databases are useful for mapping public reporting patterns, but they should be treated as report aggregators rather than verified case catalogues. They can show where people say they saw something; they do not by themselves establish what was seen. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/explore/ch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs | Report a UFO sighting UFO Sightings in Switzerland | Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sighting UFO Sightings in Switzerland | Enigma Labs</span></span></span> | Report a UFO sighting
+
+
+<img src="{{ "/assets/images/Switzerland_77dcd8-Illustration-3-light.svg" | relative_url }}" alt="What Is Switzerland&#x27;s UFO Record Really... illustration 3" data-theme-src-dark="{{ "/assets/images/Switzerland_77dcd8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Switzerland_77dcd8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Why Swiss UFO Claims Often Remain Unresolved
+
+Many Swiss cases remain unresolved for practical rather than mysterious reasons. Original material is missing, witness names are anonymised, image sequences are incomplete, or public agencies were never tasked with scientific investigation. The 1971 Mirage reports are a good example: they are interesting because several trained pilots reported unusual observations, but the loss of originals and the absence of a full technical reconstruction limit what can be concluded. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-diaspora/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+The Lausanne case shows a modern version of the same problem. Alleged physical samples sound promising, but without a published laboratory result, a robust chain of custody, environmental sampling, independent witnesses and site investigation, “residue” cannot carry the weight of proof. Vallée’s own caution is the key point: the case may be sincere and unexplained while still needing local, ordinary possibilities checked first. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/silicon-valley-technologists-interested-in-swiss-ufo-case/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">The Debrief Silicon Valley Technologists Interested In Swiss UFO Case</span><span class="citation-popover-snippet">The Debrief Silicon Valley Technologists Interested In Swiss UFO Case</span></span></span>
+
+Switzerland also has a strong media-hoax tradition within its UFO record. The 1971 Aire-la-Ville broadcast showed how convincing a staged UFO event could become when framed through authoritative media language. The Rossfeld/Sierre object decades later shows a social-media-era version of the same problem: dramatic footage can circulate before context catches up, and the explanation may be promotional rather than paranormal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rts.ch/play/tv/edition-archives/video/alerte-aux-ovnis-quand-la-tsr-ose-le-canular?urn=urn%3Arts%3Avideo%3A15013150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rts.ch">[RTS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rts.ch</span><span class="citation-popover-title">Alerte aux ovnis: quand la TSR ose le canular</span><span class="citation-popover-snippet">Alerte aux ovnis: quand la TSR ose le canular</span></span></span>
+
+The result is a sober but interesting conclusion: Switzerland has no publicly confirmed extraterrestrial UFO case, but it does have a meaningful archive of unexplained reports, disputed photographs, witness-led investigations and debunked media events. Its value for the wider country-by-country UFO project is as a compact case study in evidence sorting: official records are not proof, famous images are not automatically reliable, and unresolved cases deserve neither ridicule nor exaggeration.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dc1QUbSN9uo" title="Erich von Däniken&#x27;s BIGGEST Alien Claims | Ancient Aliens | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dc1QUbSN9uo" target="_blank" rel="noopener noreferrer">Erich von Däniken&#x27;s BIGGEST Alien Claims | Ancient Aliens | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 233.8K &middot; Uploaded: February 2025 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dc1QUbSN9uo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dc1QUbSN9uo">Open on YouTube</a></p></div></div></div>
+
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to What Is Switzerland&#x27;s UFO Record Really Worth?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+        </h4>
+        <p class="fr-book-author">By Leslie Kean</p>
+        
+        <p class="fr-book-desc">Fits a national overview page focused on evidence quality and official records.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+        </h4>
+        <p class="fr-book-author">By David Clarke</p>
+        
+        <p class="fr-book-desc">Supports discussion of documented European UFO cases and files.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+        </h4>
+        <p class="fr-book-author">By Jacques Vallee</p>
+        
+        <p class="fr-book-desc">Useful for interpreting Swiss cases that blend folklore and observation.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Provides historical context for European and Swiss reports.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: swissinfo.ch  
+   Link: [https://www.swissinfo.ch/eng/swiss-diaspora/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501](https://www.swissinfo.ch/eng/swiss-diaspora/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501)  
+
+2. <a id="endnote-2"></a>
+   Source: caelestia.be  
+   Title: The Zwischbergen 'Saas Fee' photo  
+   Link: [https://www.caelestia.be/article03.html](https://www.caelestia.be/article03.html)  
+
+3. <a id="endnote-3"></a>
+   Source: rts.ch  
+   Title: alerte aux ovnis quand la rts ose le canular 28550731  
+   Link: [https://www.rts.ch/archives/grands-formats/2024/grand-format/alerte-aux-ovnis-quand-la-rts-ose-le-canular-28550731.html](https://www.rts.ch/archives/grands-formats/2024/grand-format/alerte-aux-ovnis-quand-la-rts-ose-le-canular-28550731.html)  
+
+4. <a id="endnote-4"></a>
+   Source: Wikipedia  
+   Title: Billy Meier  
+   Link: [https://en.wikipedia.org/wiki/Billy_Meier](https://en.wikipedia.org/wiki/Billy_Meier)  
+
+5. <a id="endnote-5"></a>
+   Source: articles.skeptics.nz  
+   Title: ufos the camera doesnt lie  
+   Link: [https://articles.skeptics.nz/2022/02/07/ufos-the-camera-doesnt-lie/](https://articles.skeptics.nz/2022/02/07/ufos-the-camera-doesnt-lie/)  
+
+6. <a id="endnote-6"></a>
+   Source: enigmalabs.io  
+   Title: Enigma Labs | Report a UFO sighting UFO Sightings in Switzerland | Enigma Labs  
+   Link: [https://enigmalabs.io/explore/ch](https://enigmalabs.io/explore/ch)  
+
+7. <a id="endnote-7"></a>
+   Source: swissinfo.ch  
+   Title: als die fliegenden teller in militärakten einzug hielten  
+   Link: [https://www.swissinfo.ch/ger/swiss-abroad/als-die-fliegenden-teller-in-milit%C3%A4rakten-einzug-hielten/87881334](https://www.swissinfo.ch/ger/swiss-abroad/als-die-fliegenden-teller-in-milit%C3%A4rakten-einzug-hielten/87881334)  
+
+8. <a id="endnote-8"></a>
+   Source: swissinfo.ch  
+   Title: quand les soucoupes volantes sinvitent dans les dossiers militaires suisses  
+   Link: [https://www.swissinfo.ch/fre/cinquieme-suisse/quand-les-soucoupes-volantes-sinvitent-dans-les-dossiers-militaires-suisses/87850585](https://www.swissinfo.ch/fre/cinquieme-suisse/quand-les-soucoupes-volantes-sinvitent-dans-les-dossiers-militaires-suisses/87850585)  
+
+9. <a id="endnote-9"></a>
+   Source: swissinfo.ch  
+   Title: как швейцария за нло охотилась  
+   Link: [https://www.swissinfo.ch/rus/%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F/%D0%BA%D0%B0%D0%BA-%D1%88%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D1%8F-%D0%B7%D0%B0-%D0%BD%D0%BB%D0%BE-%D0%BE%D1%85%D0%BE%D1%82%D0%B8%D0%BB%D0%B0%D1%81%D1%8C/87880768](https://www.swissinfo.ch/rus/%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F/%D0%BA%D0%B0%D0%BA-%D1%88%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D1%8F-%D0%B7%D0%B0-%D0%BD%D0%BB%D0%BE-%D0%BE%D1%85%D0%BE%D1%82%D0%B8%D0%BB%D0%B0%D1%81%D1%8C/87880768)  
+
+10. <a id="endnote-10"></a>
+   Source: swissinfo.ch  
+   Title: quando i dischi volanti facevano capolino nei dossier militari svizzeri  
+   Link: [https://www.swissinfo.ch/ita/quinta-svizzera/quando-i-dischi-volanti-facevano-capolino-nei-dossier-militari-svizzeri/87853172](https://www.swissinfo.ch/ita/quinta-svizzera/quando-i-dischi-volanti-facevano-capolino-nei-dossier-militari-svizzeri/87853172)  
+
+11. <a id="endnote-11"></a>
+   Source: caelestia.be  
+   Link: [https://www.caelestia.be/pdlc.html](https://www.caelestia.be/pdlc.html)  
+
+12. <a id="endnote-12"></a>
+   Source: caelestia.be  
+   Link: [https://www.caelestia.be/publications.html](https://www.caelestia.be/publications.html)  
+
+13. <a id="endnote-13"></a>
+   Source: Wikipedia  
+   Title: List of reported UFO sightings  
+   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+
+14. <a id="endnote-14"></a>
+   Source: Wikipedia  
+   Title: UFO photographs  
+   Link: [https://en.wikipedia.org/wiki/UFO_photographs](https://en.wikipedia.org/wiki/UFO_photographs)  
+
+15. <a id="endnote-15"></a>
+   Source: Wikipedia  
+   Title: Observations d'ovnis en Suisse  
+   Link: [https://fr.wikipedia.org/wiki/Observations_d%27ovnis_en_Suisse](https://fr.wikipedia.org/wiki/Observations_d%27ovnis_en_Suisse)  
+
+16. <a id="endnote-16"></a>
+   Source: Wikipedia  
+   Title: 1566 celestial phenomenon over Basel  
+   Link: [https://en.wikipedia.org/wiki/1566_celestial_phenomenon_over_Basel](https://en.wikipedia.org/wiki/1566_celestial_phenomenon_over_Basel)  
+
+17. <a id="endnote-17"></a>
+   Source: Wikipedia  
+   Title: Basler Flugblatt von 1566  
+   Link: [https://de.wikipedia.org/wiki/Basler_Flugblatt_von_1566](https://de.wikipedia.org/wiki/Basler_Flugblatt_von_1566)  
+
+18. <a id="endnote-18"></a>
+   Source: Wikipedia  
+   Title: 1561 celestial phenomenon over Nuremberg  
+   Link: [https://en.wikipedia.org/wiki/1561_celestial_phenomenon_over_Nuremberg](https://en.wikipedia.org/wiki/1561_celestial_phenomenon_over_Nuremberg)  
+
+19. <a id="endnote-19"></a>
+   Source: rts.ch  
+   Link: [https://www.rts.ch/info/suisse/2024/article/quand-les-soucoupes-volantes-s-invitent-dans-les-dossiers-militaires-suisses-28672629.html](https://www.rts.ch/info/suisse/2024/article/quand-les-soucoupes-volantes-s-invitent-dans-les-dossiers-militaires-suisses-28672629.html)  
+
+20. <a id="endnote-20"></a>
+   Source: rts.ch  
+   Title: Alerte aux ovnis: quand la TSR ose le canular  
+   Link: [https://www.rts.ch/play/tv/edition-archives/video/alerte-aux-ovnis-quand-la-tsr-ose-le-canular?urn=urn%3Arts%3Avideo%3A15013150](https://www.rts.ch/play/tv/edition-archives/video/alerte-aux-ovnis-quand-la-tsr-ose-le-canular?urn=urn%3Arts%3Avideo%3A15013150)  
+
+21. <a id="endnote-21"></a>
+   Source: rts.ch  
+   Link: [https://www.rts.ch/play/tv/edition-archives/video/alerte-aux-ovnis-quand-la-tsr-ose-le-canular?urn=urn%3Arts%3Avideo%3A15014165](https://www.rts.ch/play/tv/edition-archives/video/alerte-aux-ovnis-quand-la-tsr-ose-le-canular?urn=urn%3Arts%3Avideo%3A15014165)  
+
+22. <a id="endnote-22"></a>
+   Source: rts.ch  
+   Title: rael a rencontre les extraterrestres 28779719  
+   Link: [https://www.rts.ch/archives/1977/video/rael-a-rencontre-les-extraterrestres-28779719.html](https://www.rts.ch/archives/1977/video/rael-a-rencontre-les-extraterrestres-28779719.html)  
+
+23. <a id="endnote-23"></a>
+   Source: archive.org  
+   Link: [https://archive.org/download/terrestrialceles01stevuoft/terrestrialceles01stevuoft.pdf](https://archive.org/download/terrestrialceles01stevuoft/terrestrialceles01stevuoft.pdf)  
+
+24. <a id="endnote-24"></a>
+   Source: blog.nationalmuseum.ch  
+   Title: the celestial event over basel in 1566  
+   Link: [https://blog.nationalmuseum.ch/en/2024/07/the-celestial-event-over-basel-in-1566/](https://blog.nationalmuseum.ch/en/2024/07/the-celestial-event-over-basel-in-1566/)  
+
+25. <a id="endnote-25"></a>
+   Source: thedebrief.org  
+   Title: The Debrief Silicon Valley Technologists Interested In Swiss UFO Case  
+   Link: [https://thedebrief.org/silicon-valley-technologists-interested-in-swiss-ufo-case/](https://thedebrief.org/silicon-valley-technologists-interested-in-swiss-ufo-case/)  
+
+26. <a id="endnote-26"></a>
+   Source: lenouvelliste.ch  
+   Link: [https://www.lenouvelliste.ch/valais/valais-central/sierre-district/sierre-le-mysterieux-ovni-de-rossfeld-etait-un-coup-marketing-a-lapproche-de-la-foire-866427](https://www.lenouvelliste.ch/valais/valais-central/sierre-district/sierre-le-mysterieux-ovni-de-rossfeld-etait-un-coup-marketing-a-lapproche-de-la-foire-866427)  
+
+27. <a id="endnote-27"></a>
+   Source: lenouvelliste.ch  
+   Title: sierre le mysterieux ovni de rossfeld une operation de communication 865781  
+   Link: [https://www.lenouvelliste.ch/valais/valais-central/sion-district/sierre-le-mysterieux-ovni-de-rossfeld-une-operation-de-communication-865781](https://www.lenouvelliste.ch/valais/valais-central/sion-district/sierre-le-mysterieux-ovni-de-rossfeld-une-operation-de-communication-865781)  
+
+28. <a id="endnote-28"></a>
+   Source: unil.academia.edu  
+   Link: [https://unil.academia.edu/Departments/Facult%C3%A9_des_Sciences/Documents](https://unil.academia.edu/Departments/Facult%C3%A9_des_Sciences/Documents)  
+
+### Additional References
+
+29. <a id="endnote-29"></a>
+   Source: youtube.com  
+   Title: Last Man Standing | Ep. 5: My Encounter with the UFO Phenomenon in the alps  
+   Link: [https://www.youtube.com/watch?v=ifyrqSjaEgE](https://www.youtube.com/watch?v=ifyrqSjaEgE)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Erich von Däniken&#x27;s BIGGEST Alien Claims | Ancient Aliens...</p></details>
+
+30. <a id="endnote-30"></a>
+   Source: researchgate.net  
+   Link: [https://www.researchgate.net/publication/341176637_Hey_I_Told_You_Flying_Saucers_Are_Real_An_investigation_of_the_truth_value_of_UFO_photographs_within_contemporary_art](https://www.researchgate.net/publication/341176637_Hey_I_Told_You_Flying_Saucers_Are_Real_An_investigation_of_the_truth_value_of_UFO_photographs_within_contemporary_art)  
+
+31. <a id="endnote-31"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/groups/theskyovercorona/posts/1083620669734426/](https://www.facebook.com/groups/theskyovercorona/posts/1083620669734426/)  
+
+32. <a id="endnote-32"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/TheDailyMoJo/posts/billy-meier-a-one-armed-swiss-farmer-with-limited-formal-education-captured-thes/1509214823905477/](https://www.facebook.com/TheDailyMoJo/posts/billy-meier-a-one-armed-swiss-farmer-with-limited-formal-education-captured-thes/1509214823905477/)  
+
+33. <a id="endnote-33"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/clubufosuisse/?locale=fr_FR](https://www.facebook.com/clubufosuisse/?locale=fr_FR)  
+
+34. <a id="endnote-34"></a>
+   Source: instagram.com  
+   Link: [https://www.instagram.com/p/DN0DFXVUFJv/](https://www.instagram.com/p/DN0DFXVUFJv/)  
+
+35. <a id="endnote-35"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/HistoryExtra/posts/did-billy-meier-really-capture-photographs-of-ufos-flying-over-the-swiss-country/757356713091767/](https://www.facebook.com/HistoryExtra/posts/did-billy-meier-really-capture-photographs-of-ufos-flying-over-the-swiss-country/757356713091767/)  
+
+36. <a id="endnote-36"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/HiddenFactsss/posts/disc-shaped-ufo-seen-over-swiss-alps-moving-toward-glowing-portal-in-sky-as-air-/1608061051320528/](https://www.facebook.com/HiddenFactsss/posts/disc-shaped-ufo-seen-over-swiss-alps-moving-toward-glowing-portal-in-sky-as-air-/1608061051320528/)  
+
+37. <a id="endnote-37"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/RTSArchives/videos/la-v%C3%A9rit%C3%A9-est-ailleurs/919872758063400/](https://www.facebook.com/RTSArchives/videos/la-v%C3%A9rit%C3%A9-est-ailleurs/919872758063400/)  
+
+38. <a id="endnote-38"></a>
+   Source: afu.se  
+   Link: [https://www.afu.se/exchange-with-swiss-author-luc-burgin/](https://www.afu.se/exchange-with-swiss-author-luc-burgin/)  

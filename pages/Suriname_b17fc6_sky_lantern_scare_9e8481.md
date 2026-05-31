@@ -1,0 +1,495 @@
+---
+level: 2
+basename: Suriname_b17fc6_sky_lantern_scare_9e8481
+parent_basename: Suriname_b17fc6
+child_basenames: []
+sibling_basenames:
+- Suriname_b17fc6_paramaribo_coastal_r_af3e81
+- Suriname_b17fc6_suriname_ufo_reporti_ae54e6
+- Suriname_b17fc6_ufo_belief_culture_c9f523
+tags:
+- suriname
+- lantern-scare
+keywords:
+- suriname
+- lantern-scare
+affiliate_category: suriname
+show_ads: true
+description: The Paramaribo-Noord sky-lantern case shows how a dramatic UFO scare can become clearer after local follow-up.
+hero_summary: The Paramaribo-Noord sky-lantern case shows how a dramatic UFO scare can become clearer after local follow-up.
+layout: default
+permalink: /lantern-scare/
+sidebar_expanded_urls:
+- /what-surinames-ufo-stories-really-show/
+nav_short_title: Lantern Scare
+title: When Flying Saucers Became Sky Lanterns
+title_full: When Flying Saucers Became Sky Lanterns | Suriname UFOs
+display_title_short: Lantern Scare
+display_title: Lantern Scare
+heading_title: When Flying Saucers Became Sky Lanterns
+page_heading_title: When Flying Saucers Became Sky Lanterns
+source_count: 13
+infographic_count: 3
+planned_sections:
+- What witnesses reported in Paramaribo Noord
+- How the birthday party explanation fit
+- Why explained cases still matter
+focal_unit_type: event_time_window
+topic_lens: evidence
+topic_granularity: case_family
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+parent_title: Suriname UFOs
+parent_permalink: /what-surinames-ufo-stories-really-show/
+parent_nav_short_title: Suriname UFOs
+parent_heading_title: What Suriname's UFO Stories Really Show
+ancestor_links:
+- basename: Suriname_b17fc6
+  title: Suriname UFOs
+  permalink: /what-surinames-ufo-stories-really-show/
+  short_title: Suriname UFOs
+breadcrumb_links:
+- basename: Suriname_b17fc6
+  title: Suriname UFOs
+  permalink: /what-surinames-ufo-stories-really-show/
+  short_title: Suriname UFOs
+sibling_links:
+- basename: Suriname_b17fc6_ufo_belief_culture_c9f523
+  title: Belief | What Suriname's UFO Stories Really Show
+  permalink: /belief/
+  short_title: Belief
+  heading_title: How UFO Mythology Traveled Into Suriname
+- basename: Suriname_b17fc6_paramaribo_coastal_r_af3e81
+  title: Paramaribo | What Suriname's UFO Stories Really Show
+  permalink: /paramaribo/
+  short_title: Paramaribo
+  heading_title: Why Paramaribo Dominates Suriname UFO Reports
+- basename: Suriname_b17fc6_suriname_ufo_reporti_ae54e6
+  title: Suriname UFO reporting | What Suriname's UFO Stories Really Show
+  permalink: /suriname-ufo-reporting/
+  short_title: Suriname UFO reporting
+  heading_title: How Reliable Are Suriname UFO Sources?
+up_link:
+  basename: Suriname_b17fc6
+  title: Suriname UFOs
+  permalink: /what-surinames-ufo-stories-really-show/
+  short_title: Suriname UFOs
+prev_link:
+  basename: Suriname_b17fc6_ufo_belief_culture_c9f523
+  title: Belief | What Suriname's UFO Stories Really Show
+  permalink: /belief/
+  short_title: Belief
+  heading_title: How UFO Mythology Traveled Into Suriname
+next_link:
+  basename: Suriname_b17fc6_paramaribo_coastal_r_af3e81
+  title: Paramaribo | What Suriname's UFO Stories Really Show
+  permalink: /paramaribo/
+  short_title: Paramaribo
+  heading_title: Why Paramaribo Dominates Suriname UFO Reports
+date: '2026-05-31 04:32:59 '
+header:
+  og_image: /assets/images/Suriname_b17fc6_sky_lantern_scare_9e8481-Illustration-1-social.jpg
+  preview_image: /assets/images/Suriname_b17fc6_sky_lantern_scare_9e8481-Illustration-1.webp
+image: /assets/images/Suriname_b17fc6_sky_lantern_scare_9e8481-Illustration-1-social.jpg
+---
+
+## Introduction
+
+The most revealing UFO incident in [Suriname]({{ 'what-surinames-ufo-stories-really-show/' | relative_url }}) may be one that stopped being a mystery almost immediately. On the evening of 18 March 2012, residents of Elisabethshof, also known as Flamingo Park, in [Paramaribo]({{ 'paramaribo/' | relative_url }})-Noord began reporting glowing objects drifting across the sky. Several witnesses believed they were watching flying saucers. Calls reached the national UFO reporting centre in quick succession, and some residents reportedly feared that something extraordinary, even an alien arrival, was unfolding above their neighbourhood. Yet within days the episode had a mundane explanation: the lights were sky lanterns released during a birthday celebration elsewhere in the district. The case remains important not because it produced evidence of unknown craft, but because it showed how investigation, witness interviews and local follow-up can turn a dramatic UFO scare into a documented example of misidentification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hindorama.com/ufos-boven-suriname-h-ramsoedh/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hindorama.com">[Hindorama]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hindorama.com</span><span class="citation-popover-title">UFO&#x27;s boven Suriname</span><span class="citation-popover-snippet">HindoramaUFO&#x27;s boven Suriname - H. RamsoedhJanuary 17, 2020 — Op de avond van 18 maart 2012 belde een jonge vrouw paniekerig naar het ufo...</span><span class="citation-popover-meta">Published: January 17, 2020</span></span></span>
+
+
+<img src="{{ "/assets/images/Suriname_b17fc6_sky_lantern_scare_9e8481-Illustration-1-light.svg" | relative_url }}" alt="Lantern Scare illustration 1" data-theme-src-dark="{{ "/assets/images/Suriname_b17fc6_sky_lantern_scare_9e8481-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Suriname_b17fc6_sky_lantern_scare_9e8481-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+## What witnesses reported in Paramaribo-Noord
+
+The reports originated from the middle-class residential area of Elisabethshof in Paramaribo-Noord. According to accounts later published by researcher and journalist Tanya Wijngaarde, the Surinamese UFO reporting centre received a panicked call from a young woman who claimed that “flying saucers” were moving over her house. The phone rang repeatedly afterwards as other residents from the same neighbourhood reported similar sightings. Witnesses described numerous glowing spheres moving slowly through the night sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pure.uva.nl/ws/files/42674404/Proefschrift.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uva.nl">[Pure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uva.nl</span><span class="citation-popover-title">Pure Proefschrift</span><span class="citation-popover-snippet">Suriname heeft officieel UFO-meldpunt. De Ware ...Read more</span></span></span>
+
+The scene illustrates how quickly an unusual aerial display can generate collective alarm. Wijngaarde's account describes people standing in the streets pointing at the lights, drivers stopping their vehicles and residents discussing what they were seeing in real time. Some interpreted the objects as extraterrestrial craft. Others were simply confused by the sight of multiple illuminated objects moving together across the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pure.uva.nl/ws/files/42674404/Proefschrift.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uva.nl">[Pure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uva.nl</span><span class="citation-popover-title">Pure Proefschrift</span><span class="citation-popover-snippet">Suriname heeft officieel UFO-meldpunt. De Ware ...Read more</span></span></span>
+
+Several features of the reports are noteworthy:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* Witnesses were concentrated in one neighbourhood rather than scattered across the country.
+* The objects appeared as glowing balls of light rather than structured craft.
+* Reports arrived within minutes of each other, suggesting a shared observation rather than independent events.
+* The sighting occurred at night, when distance, altitude and scale are especially difficult to judge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pure.uva.nl/ws/files/42674404/Proefschrift.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uva.nl">[Pure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uva.nl</span><span class="citation-popover-title">Pure Proefschrift</span><span class="citation-popover-snippet">Suriname heeft officieel UFO-meldpunt. De Ware ...Read more</span></span></span>
+
+</div>
+
+These details later became important because they matched the behaviour expected from sky lanterns released in a group.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IBLyLAGH9Bs" title="How To Prepare and Launch Sky Lanterns | Chinese Sky Lantern" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IBLyLAGH9Bs" target="_blank" rel="noopener noreferrer">How To Prepare and Launch Sky Lanterns | Chinese Sky Lantern</a></p><p class="youtube-embed-meta">Channel: Tom Glander &middot; Views: 4.0M &middot; Uploaded: January 2014 &middot; Length: 3 minutes 56 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IBLyLAGH9Bs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IBLyLAGH9Bs">Open on YouTube</a></p></div></div></div>
+
+## How the birthday-party explanation fit
+
+The Surinamese UFO reporting centre, known as MUST (Meldpunt UFO's boven Surinaams Territorium), did not leave the case as an unexplained sighting. According to both Wijngaarde's doctoral research and later discussions of the event, investigators followed up through interviews, examination of the location and review of available photographs. Their conclusion was that the glowing objects were wish lanterns or sky lanterns: lightweight paper lanterns containing a small burner that allows them to float upward and drift with the wind. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pure.uva.nl/ws/files/42674404/Proefschrift.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uva.nl">[Pure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uva.nl</span><span class="citation-popover-title">Pure Proefschrift</span><span class="citation-popover-snippet">Suriname heeft officieel UFO-meldpunt. De Ware ...Read more</span></span></span>
+
+The explanation fit the observations unusually well.
+
+### Multiple lights moving together
+
+Witnesses reported numerous glowing objects rather than a single craft. Sky lanterns are commonly released in groups during celebrations, creating precisely the kind of clustered display that can appear mysterious when viewed from a distance. The investigation found that lanterns had been released during a birthday party elsewhere in the neighbourhood. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hindorama.com/ufos-boven-suriname-h-ramsoedh/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hindorama.com">[Hindorama]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hindorama.com</span><span class="citation-popover-title">UFO&#x27;s boven Suriname</span><span class="citation-popover-snippet">HindoramaUFO&#x27;s boven Suriname - H. RamsoedhJanuary 17, 2020 — Op de avond van 18 maart 2012 belde een jonge vrouw paniekerig naar het ufo...</span><span class="citation-popover-meta">Published: January 17, 2020</span></span></span>
+
+### Silent movement
+
+Reports focused on visible lights rather than noise. Lanterns drift silently, especially when viewed from hundreds of metres away. For observers expecting aircraft or helicopters, the absence of sound can make the objects seem stranger rather than more ordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pure.uva.nl/ws/files/42674404/Proefschrift.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uva.nl">[Pure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uva.nl</span><span class="citation-popover-title">Pure Proefschrift</span><span class="citation-popover-snippet">Suriname heeft officieel UFO-meldpunt. De Ware ...Read more</span></span></span>
+
+
+<img src="{{ "/assets/images/Suriname_b17fc6_sky_lantern_scare_9e8481-Illustration-2-light.svg" | relative_url }}" alt="Lantern Scare illustration 2" data-theme-src-dark="{{ "/assets/images/Suriname_b17fc6_sky_lantern_scare_9e8481-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Suriname_b17fc6_sky_lantern_scare_9e8481-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+### Apparent hovering and slow travel
+
+Many UFO reports worldwide involve lights that seem to hover, pause or move slowly. Sky lanterns can produce exactly this impression because their speed is governed by wind currents rather than powered flight. Viewed against a dark sky with few reference points, their motion can be difficult to judge accurately. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pure.uva.nl/ws/files/42674404/Proefschrift.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uva.nl">[Pure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uva.nl</span><span class="citation-popover-title">Pure Proefschrift</span><span class="citation-popover-snippet">Suriname heeft officieel UFO-meldpunt. De Ware ...Read more</span></span></span>
+
+### Localised reports
+
+The concentration of sightings in one residential area also matched a nearby launch point. If the lights had represented a genuinely unusual aerial phenomenon crossing large distances, reports might have emerged from a much broader area. Instead, the cluster of calls pointed investigators toward a local source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hindorama.com/ufos-boven-suriname-h-ramsoedh/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hindorama.com">[Hindorama]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hindorama.com</span><span class="citation-popover-title">UFO&#x27;s boven Suriname</span><span class="citation-popover-snippet">HindoramaUFO&#x27;s boven Suriname - H. RamsoedhJanuary 17, 2020 — Op de avond van 18 maart 2012 belde een jonge vrouw paniekerig naar het ufo...</span><span class="citation-popover-meta">Published: January 17, 2020</span></span></span>
+
+## Why the scare felt convincing at the time
+
+The 2012 incident demonstrates an important feature of UFO reporting: sincere witnesses can describe something extraordinary without fabricating anything.
+
+Residents were not reporting a story they had read later online. They were reacting to an unexpected visual event unfolding above them. The objects were real. The confusion concerned what those objects actually were. As Wijngaarde later noted, the incident showed that UFO and alien narratives had already become part of the local cultural imagination in Suriname. When unfamiliar lights appeared, some observers reached immediately for the language of flying saucers and extraterrestrials. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pure.uva.nl/ws/files/42674404/Proefschrift.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uva.nl">[Pure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uva.nl</span><span class="citation-popover-title">Pure Proefschrift</span><span class="citation-popover-snippet">Suriname heeft officieel UFO-meldpunt. De Ware ...Read more</span></span></span>
+
+The timing is also significant. The Surinamese UFO reporting centre had been established only a few years earlier after earlier sightings attracted media attention. By 2012 there was already a small but active community interested in UFO reports, public lectures and discussion of extraterrestrial possibilities. The existence of that network meant unusual sightings were more likely to be reported and interpreted through a UFO framework. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pure.uva.nl/ws/files/42674404/Proefschrift.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uva.nl">[Pure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uva.nl</span><span class="citation-popover-title">Pure Proefschrift</span><span class="citation-popover-snippet">Suriname heeft officieel UFO-meldpunt. De Ware ...Read more</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zmBtaeTYvmE" title="UFO Sighting Christmas Eve 2013 Belgium - Multiple Orange Glowing Lights Invasion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zmBtaeTYvmE" target="_blank" rel="noopener noreferrer">UFO Sighting Christmas Eve 2013 Belgium - Multiple Orange Glowing Lights Invasion</a></p><p class="youtube-embed-meta">Channel: Dolph C. Volker &middot; Views: 34.0K &middot; Uploaded: December 2013 &middot; Length: 2 minutes 55 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zmBtaeTYvmE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zmBtaeTYvmE">Open on YouTube</a></p></div></div></div>
+
+## Why explained cases still matter
+
+Within Suriname's UFO history, the Paramaribo-Noord lantern incident is arguably more valuable than many unresolved reports because investigators were able to trace the event from initial alarm to a plausible explanation.
+
+The case highlights several lessons:
+
+**Investigation matters more than first impressions.** Initial witness reactions suggested an extraordinary event. Follow-up inquiries produced a much simpler answer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hindorama.com/ufos-boven-suriname-h-ramsoedh/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hindorama.com">[Hindorama]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hindorama.com</span><span class="citation-popover-title">UFO&#x27;s boven Suriname</span><span class="citation-popover-snippet">HindoramaUFO&#x27;s boven Suriname - H. RamsoedhJanuary 17, 2020 — Op de avond van 18 maart 2012 belde een jonge vrouw paniekerig naar het ufo...</span><span class="citation-popover-meta">Published: January 17, 2020</span></span></span>
+
+**A UFO report is not the same thing as an alien encounter.** The term UFO literally describes something unidentified at the moment it is observed. The 2012 lights qualified as unidentified objects initially, but not after investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pure.uva.nl/ws/files/42674404/Proefschrift.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uva.nl">[Pure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uva.nl</span><span class="citation-popover-title">Pure Proefschrift</span><span class="citation-popover-snippet">Suriname heeft officieel UFO-meldpunt. De Ware ...Read more</span></span></span>
+
+**Misidentifications can be socially contagious.** Once several people in the same area interpret lights as unusual, others may adopt similar interpretations, especially when the objects are genuinely unfamiliar. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pure.uva.nl/ws/files/42674404/Proefschrift.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uva.nl">[Pure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uva.nl</span><span class="citation-popover-title">Pure Proefschrift</span><span class="citation-popover-snippet">Suriname heeft officieel UFO-meldpunt. De Ware ...Read more</span></span></span>
+
+**A reporting system gains credibility when it explains cases.** MUST did not simply collect dramatic stories. According to Wijngaarde's account, investigators attempted to determine whether sightings had ordinary causes. The lantern case became one of the clearer examples of that approach. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pure.uva.nl/ws/files/42674404/Proefschrift.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uva.nl">[Pure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uva.nl</span><span class="citation-popover-title">Pure Proefschrift</span><span class="citation-popover-snippet">Suriname heeft officieel UFO-meldpunt. De Ware ...Read more</span></span></span>
+
+
+<img src="{{ "/assets/images/Suriname_b17fc6_sky_lantern_scare_9e8481-Illustration-3-light.svg" | relative_url }}" alt="Lantern Scare illustration 3" data-theme-src-dark="{{ "/assets/images/Suriname_b17fc6_sky_lantern_scare_9e8481-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Suriname_b17fc6_sky_lantern_scare_9e8481-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## A small case with a larger place in Suriname's UFO record
+
+Suriname's documented UFO history is relatively modest compared with countries that have decades of military files, radar cases or extensive civilian databases. That makes individual incidents especially important. The 2012 Paramaribo-Noord scare stands out because it is one of the few local cases for which a clear investigative trail is publicly available. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hindorama.com/ufos-boven-suriname-h-ramsoedh/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hindorama.com">[Hindorama]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hindorama.com</span><span class="citation-popover-title">UFO&#x27;s boven Suriname</span><span class="citation-popover-snippet">HindoramaUFO&#x27;s boven Suriname - H. RamsoedhJanuary 17, 2020 — Op de avond van 18 maart 2012 belde een jonge vrouw paniekerig naar het ufo...</span><span class="citation-popover-meta">Published: January 17, 2020</span></span></span>
+
+Rather than supporting claims of unexplained craft, the episode demonstrates how UFO stories develop, spread and sometimes dissolve under closer scrutiny. In the wider chronology of Surinamese UFO reports, it serves as a reminder that some of the most useful cases are not the ones that remain mysterious, but the ones that show exactly how mystery can arise in the first place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hindorama.com/ufos-boven-suriname-h-ramsoedh/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hindorama.com">[Hindorama]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hindorama.com</span><span class="citation-popover-title">UFO&#x27;s boven Suriname</span><span class="citation-popover-snippet">HindoramaUFO&#x27;s boven Suriname - H. RamsoedhJanuary 17, 2020 — Op de avond van 18 maart 2012 belde een jonge vrouw paniekerig naar het ufo...</span><span class="citation-popover-meta">Published: January 17, 2020</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iSArCxSar6Q" title="Darcy Weir on why AARO might be trying to debunk Puerto Rico&#x27;s Aguadilla object | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iSArCxSar6Q" target="_blank" rel="noopener noreferrer">Darcy Weir on why AARO might be trying to debunk Puerto Rico&#x27;s Aguadilla object | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 224.9K &middot; Uploaded: August 2025 &middot; Length: 58 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iSArCxSar6Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iSArCxSar6Q">Open on YouTube</a></p></div></div></div>
+
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to When Flying Saucers Became Sky Lanterns. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+        </h4>
+        <p class="fr-book-author">By Carl Sagan</p>
+        
+        <p class="fr-book-desc">Directly relevant to investigating and explaining dramatic sightings.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+        </h4>
+        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        
+        <p class="fr-book-desc">Strong fit for a page about misidentified aerial phenomena.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+        </h4>
+        <p class="fr-book-author">By Leslie Kean</p>
+        
+        <p class="fr-book-desc">Provides context for distinguishing unexplained reports from resolved cases.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+        </h4>
+        <p class="fr-book-author">By Jacques Vallee</p>
+        
+        <p class="fr-book-desc">Examines how social interpretation can transform ordinary events into UFO stories.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: hindorama.com  
+   Title: UFO's boven Suriname  
+   Link: [https://www.hindorama.com/ufos-boven-suriname-h-ramsoedh/](https://www.hindorama.com/ufos-boven-suriname-h-ramsoedh/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>HindoramaUFO&#x27;s boven Suriname - H. RamsoedhJanuary 17, 2020 — Op de avond van 18 maart 2012 belde een jonge vrouw paniekerig naar het ufo...</p></details>
+   Published: January 17, 2020  
+
+### Additional References
+
+2. <a id="endnote-2"></a>
+   Source: ad-teaching.informatik.uni-freiburg.de  
+   Link: [https://ad-teaching.informatik.uni-freiburg.de/InformationRetrievalWS1213/wikipedia-sentences.vocabulary.txt.WITH_FREQUENCIES](https://ad-teaching.informatik.uni-freiburg.de/InformationRetrievalWS1213/wikipedia-sentences.vocabulary.txt.WITH_FREQUENCIES)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>case 3494 daughter 3488 21 3485 king 3484 related 3482 henry 3481 self 3479... 2012 botanical 2011 1922 2011 bell 2007 swedish 2007 word...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: websail-fe.cs.northwestern.edu  
+   Title: edubiennials Feijo BSDs Villalon woodi woods spiders  
+   Link: [https://websail-fe.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/word_list.txt](https://websail-fe.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/word_list.txt)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lantern Vane two-piece Vang Welle Wella Epicenter Vann self-branded Human-Computer exothermic traditionalist Fredriksen Archibugi traditi...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: mezogazdasagikonyvtar.hu  
+   Link: [https://www.mezogazdasagikonyvtar.hu/assets/digitarchiv/Nemzetkozi-agrartorteneti-bibliografia-1967-68_OCR.pdf](https://www.mezogazdasagikonyvtar.hu/assets/digitarchiv/Nemzetkozi-agrartorteneti-bibliografia-1967-68_OCR.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Magyar Mezőgazdasági Múzeum és Könyvtár 2021From thebeginning, however, we have not considered the form of publication definitive...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=iSArCxSar6Q](https://www.youtube.com/watch?v=iSArCxSar6Q)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighting Christmas Eve 2013 Belgium - Multiple Orange Glowing Lights Invasion...</p></details>
+
+6. <a id="endnote-6"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=zmBtaeTYvmE](https://www.youtube.com/watch?v=zmBtaeTYvmE)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Military Silence Broken | Alien Documentary | The UFOs In Dutch Skies...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: youtube.com  
+   Title: How To Prepare and Launch Sky Lanterns  
+   Link: [https://www.youtube.com/watch?v=IBLyLAGH9Bs](https://www.youtube.com/watch?v=IBLyLAGH9Bs)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Darcy Weir on why AARO might be trying to debunk Puerto Rico&#x27;s Aguadilla object | Reality Check...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: youtube.com  
+   Title: Military Silence Broken | Alien Documentary | The UFOs In Dutch Skies  
+   Link: [https://www.youtube.com/watch?v=WWos6l-X9T0](https://www.youtube.com/watch?v=WWos6l-X9T0)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why This UFO Sighting Was Different | Monstrum...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: downey-n1.cs.northwestern.edu  
+   Title: word list.txt  
+   Link: [https://downey-n1.cs.northwestern.edu/downloads/OTyper_data/mix_data/word_list.txt](https://downey-n1.cs.northwestern.edu/downloads/OTyper_data/mix_data/word_list.txt)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Noord-Holland Fado recipient Martinsen 25511 Mudaliar 22360 Ctesias epicycles mini-kit divinely Voth Dockyards Ballentine Univa Autoharp...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: haeurope.b-cdn.net  
+   Link: [https://haeurope.b-cdn.net/catalog/V187v2.pdf](https://haeurope.b-cdn.net/catalog/V187v2.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>b-cdn.netPDF12 Feb 2026 — Paintings. 1-177. Watercolours, pastels etc. 178-221. Etchings, engravings, screenprints etc. 222-266. Icons. 2...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: facebook.com  
+   Title: must ufo week  
+   Link: [https://www.facebook.com/events/paramaribo-suriname/must-ufo-week/825828090842501/?locale=ga_IE](https://www.facebook.com/events/paramaribo-suriname/must-ufo-week/825828090842501/?locale=ga_IE)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>MUST UFO-weekEvent in Paramaribo, Suriname by MUST UFO-meldpunt Suriname on Dé Domhnaigh, Meitheamh 24 2012...</p></details>

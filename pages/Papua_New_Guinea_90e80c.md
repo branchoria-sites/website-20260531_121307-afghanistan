@@ -1,0 +1,1508 @@
+---
+level: 1
+basename: Papua_New_Guinea_90e80c
+child_basenames:
+- Papua_New_Guinea_90e80c_boianai_explanations_8f9dbc
+- Papua_New_Guinea_90e80c_boianai_sighting_a76379
+- Papua_New_Guinea_90e80c_gill_archives_497ce9
+- Papua_New_Guinea_90e80c_index
+- Papua_New_Guinea_90e80c_wewak_angoram_1985_63a9c2
+sibling_basenames:
+- Afghanistan_c69153
+- Albania_79b9d2
+- Algeria_bd6acc
+- Andorra_9d3bd1
+- Angola_a42522
+- Antigua_and_Barbuda_0f8518
+- Argentina_354bf9
+- Armenia_5f4599
+- Australia_ceafb5
+- Austria_593905
+- Azerbaijan_213598
+- Bahrain_3ae11c
+- Bangladesh_fa6c37
+- Barbados_93409a
+- Belarus_027a12
+- Belgium_5cb4c9
+- Belize_42ab0c
+- Benin_373616
+- Bhutan_bb2254
+- Bolivia_Plurinationa_9e2db7
+- Bosnia_and_Herzegovi_552c9f
+- Botswana_180c89
+- Brazil_37497a
+- Brunei_Darussalam_eab94a
+- Bulgaria_5c7772
+- Burkina_Faso_f61e5f
+- Burundi_461758
+- Cabo_Verde_2a5bf1
+- Cambodia_314ccd
+- Cameroon_73a7dd
+- Canada_cd6a7b
+- Central_African_Repu_358788
+- Chad_6c6b1b
+- Chile_349507
+- China_d2eaf2
+- Colombia_2f7373
+- Comoros_e5bb59
+- Congo_77f256
+- Costa_Rica_fe586b
+- Cote_d_Ivoire_f8cb1a
+- Croatia_d7e045
+- Cuba_c484b1
+- Cyprus_852add
+- Czechia_045e2f
+- Democratic_People_s_808714
+- Democratic_Republic_679868
+- Denmark_89da12
+- Djibouti_60a8b0
+- Dominica_bc1cd4
+- Dominican_Republic_dba665
+- Ecuador_09f199
+- Egypt_1c39ab
+- El_Salvador_9b83b7
+- Equatorial_Guinea_ae2c01
+- Eritrea_18740a
+- Estonia_f0a96d
+- Eswatini_16cc7f
+- Ethiopia_3d91f7
+- Fiji_bbb7ef
+- Finland_c909b1
+- France_e3772a
+- Gabon_a06dcd
+- Gambia_7c3997
+- Georgia_9113c6
+- Germany_17d53e
+- Ghana_317dba
+- Greece_4902a4
+- Grenada_dbf2a2
+- Guatemala_11760e
+- Guinea-Bissau_b07cb9
+- Guinea_b47b54
+- Guyana_bc88a2
+- Haiti_a4842f
+- Honduras_5aa588
+- Hungary_f14e46
+- Iceland_b3c92e
+- India_967ce3
+- Indonesia_35536a
+- Iran_Islamic_Republi_94f9ee
+- Iraq_1aed9e
+- Ireland_eb2131
+- Israel_4c197d
+- Italy_ad79ef
+- Jamaica_5eedd6
+- Japan_fcf29f
+- Jordan_674027
+- Kazakhstan_2f36b6
+- Kenya_a84f56
+- Kiribati_3f57ad
+- Kuwait_93295b
+- Kyrgyzstan_c78791
+- Lao_People_s_Democra_44f2bd
+- Latvia_c5f5bb
+- Lebanon_5caa7f
+- Lesotho_93b12b
+- Liberia_1ed5dd
+- Libya_55949d
+- Liechtenstein_b0ddce
+- Lithuania_74a788
+- Luxembourg_507672
+- Madagascar_f92bcb
+- Malawi_0ce65b
+- Malaysia_ff3ea3
+- Maldives_213cb2
+- Mali_daa6a4
+- Malta_1a591a
+- Marshall_Islands_ccbdc0
+- Mauritania_85fa35
+- Mauritius_26160d
+- Mexico_41937b
+- Micronesia_Federated_30e9e8
+- Monaco_35ab1c
+- Mongolia_f54da3
+- Montenegro_479fb3
+- Morocco_32e087
+- Mozambique_a40a9b
+- Myanmar_928b7c
+- Namibia_bfe79d
+- Nauru_f648c7
+- Nepal_0e1d58
+- Netherlands_Kingdom_d6d70a
+- New_Zealand_3d3336
+- Nicaragua_481264
+- Niger_6687e1
+- Nigeria_9742d0
+- North_Macedonia_cece1d
+- Norway_988455
+- Oman_c14c36
+- Pakistan_82d220
+- Palau_e5e0b6
+- Panama_1e36b3
+- Paraguay_71a452
+- Peru_36c572
+- Philippines_806736
+- Poland_5ff03b
+- Portugal_a49519
+- Qatar_83ef3e
+- Republic_of_Korea_8d9deb
+- Republic_of_Moldova_a6ad94
+- Romania_d6b897
+- Russian_Federation_87c89a
+- Rwanda_7266a1
+- Saint_Kitts_and_Nevi_a66de5
+- Saint_Lucia_85ac35
+- Saint_Vincent_and_th_3bce2a
+- Samoa_f56806
+- San_Marino_8ff2c5
+- Sao_Tome_and_Princip_3437b2
+- Saudi_Arabia_8bf7f8
+- Senegal_d8973b
+- Serbia_6d31bf
+- Seychelles_3d2d7b
+- Sierra_Leone_817b0d
+- Singapore_20c0b7
+- Slovakia_b6c149
+- Slovenia_d1aa05
+- Solomon_Islands_6f943d
+- Somalia_4dfdf1
+- South_Africa_3b27c8
+- South_Sudan_80ac9c
+- Spain_20a8df
+- Sri_Lanka_db33ad
+- Sudan_1193ba
+- Suriname_b17fc6
+- Sweden_72ddd2
+- Switzerland_77dcd8
+- Syrian_Arab_Republic_099887
+- Tajikistan_279c77
+- Thailand_a2b7c1
+- The_Bahamas_f765dc
+- Timor-Leste_2d79f6
+- Togo_30949d
+- Tonga_e8a123
+- Trinidad_and_Tobago_a73120
+- Tunisia_edf404
+- Turkiye_c8c5d5
+- Turkmenistan_1f8dc1
+- Tuvalu_9a2248
+- Uganda_e92904
+- Ukraine_c951ec
+- United_Arab_Emirates_c92b89
+- United_Kingdom_d25561
+- United_Republic_of_T_f850a5
+- United_States_f5f19f
+- Uruguay_66b989
+- Uzbekistan_db800e
+- Vanuatu_d16ad2
+- Venezuela_Bolivarian_3dc4c3
+- Viet_Nam_82ecdd
+- Yemen_ac33d6
+- Zambia_dcf25e
+- Zimbabwe_5922f5
+tags:
+- papua-new-guinea
+keywords:
+- papua-new-guinea
+affiliate_category: papua-new-guinea
+show_ads: true
+description: Papua New Guinea has one famous UFO case and a small number of later, harder-to-classify reports.
+hero_summary: Papua New Guinea has one famous UFO case and a small number of later, harder-to-classify reports.
+layout: default
+permalink: /papua-new-guinea/
+nav_short_title: What Really Happened in PNG's UFO Record?
+title: What Really Happened in PNG's UFO Record?
+title_full: What Really Happened in PNG's UFO Record?
+display_title_short: What Really Happened in PNG's UFO Record?
+display_title: What Really Happened in PNG's UFO Record?
+heading_title: What Really Happened in PNG's UFO Record?
+page_heading_title: What Really Happened in PNG's UFO Record?
+source_count: 81
+infographic_count: 3
+page_website_name: PNG UFOs
+page_banner_line: Careful, evidence-led pages on Papua New Guinea's few major UFO reports.
+site_website_name: PNG UFOs
+site_banner_line: Careful, evidence-led pages on Papua New Guinea's few major UFO reports.
+site_image_description: A coastal Papua New Guinea mission village at dusk with a bright disc-shaped light above the tree line and villagers gathered below.
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+sibling_links:
+- basename: Afghanistan_c69153
+  title: Afghanistan UAP
+  permalink: /afghanistan/
+  short_title: Afghanistan UAP
+- basename: Albania_79b9d2
+  title: AlbanianUFOs
+  permalink: /albania/
+  short_title: AlbanianUFOs
+- basename: Algeria_bd6acc
+  title: Algeria UFOs
+  permalink: /algeria/
+  short_title: Algeria UFOs
+- basename: Antigua_and_Barbuda_0f8518
+  title: Antigua UFOs
+  permalink: /antigua-and-barbuda/
+  short_title: Antigua UFOs
+- basename: Monaco_35ab1c
+  title: Monaco UFOs
+  permalink: /are-monaco-ufo-sightings-really/
+  short_title: Monaco UFOs
+- basename: Mali_daa6a4
+  title: Mali UFOs
+  permalink: /are-there-any-real-mali-ufo-cases/
+  short_title: Mali UFOs
+- basename: Montenegro_479fb3
+  title: MontenegroUFOs
+  permalink: /are-ufos-really-seen-over-montenegro/
+  short_title: MontenegroUFOs
+- basename: Argentina_354bf9
+  title: Argentina OVNI
+  permalink: /argentinas-ufo-stories-records-and/
+  short_title: Argentina OVNI
+- basename: Bangladesh_fa6c37
+  title: Bangladesh UFOs
+  permalink: /bangladesh/
+  short_title: Bangladesh UFOs
+- basename: Bolivia_Plurinationa_9e2db7
+  title: Bolivia UFOs
+  permalink: /bolivia-plurinational-state-of/
+  short_title: Bolivia UFOs
+- basename: Bosnia_and_Herzegovi_552c9f
+  title: BosniaUFOs
+  permalink: /bosnia-and-herzegovina/
+  short_title: BosniaUFOs
+- basename: Brunei_Darussalam_eab94a
+  title: Brunei UAP
+  permalink: /brunei-darussalam/
+  short_title: Brunei UAP
+- basename: Burkina_Faso_f61e5f
+  title: BurkinaUFO
+  permalink: /burkina-faso/
+  short_title: BurkinaUFO
+- basename: Central_African_Repu_358788
+  title: CAR UFOs
+  permalink: /central-african-republic/
+  short_title: CAR UFOs
+- basename: Cote_d_Ivoire_f8cb1a
+  title: Ivoire UFOs
+  permalink: /cote-d-ivoire/
+  short_title: Ivoire UFOs
+- basename: Czechia_045e2f
+  title: CzechUFOs
+  permalink: /czechia/
+  short_title: CzechUFOs
+- basename: Democratic_People_s_808714
+  title: DPRKUFOs
+  permalink: /democratic-people-s-republic-of-korea/
+  short_title: DPRKUFOs
+- basename: Democratic_Republic_679868
+  title: DRC UFOs
+  permalink: /democratic-republic-of-the-congo/
+  short_title: DRC UFOs
+- basename: Djibouti_60a8b0
+  title: DjiboutiUAP
+  permalink: /djibouti/
+  short_title: DjiboutiUAP
+- basename: Dominica_bc1cd4
+  title: Dominica UAP
+  permalink: /does-dominica-have-real-ufo-cases/
+  short_title: Dominica UAP
+- basename: Iceland_b3c92e
+  title: Iceland UFOs
+  permalink: /does-iceland-have-a-real-ufo-record/
+  short_title: Iceland UFOs
+- basename: Dominican_Republic_dba665
+  title: Dominican UAP
+  permalink: /dominican-republic/
+  short_title: Dominican UAP
+- basename: Equatorial_Guinea_ae2c01
+  title: EquatorialGuineaUFOs
+  permalink: /equatorial-guinea/
+  short_title: EquatorialGuineaUFOs
+- basename: Fiji_bbb7ef
+  title: Fiji UFOs
+  permalink: /fiji/
+  short_title: Fiji UFOs
+- basename: Finland_c909b1
+  title: Finland UFOs
+  permalink: /finland/
+  short_title: Finland UFOs
+- basename: Ghana_317dba
+  title: GhanaUFOs
+  permalink: /ghana/
+  short_title: GhanaUFOs
+- basename: Comoros_e5bb59
+  title: ComorosUFOs
+  permalink: /have-ufos-really-been-seen-over-comoros/
+  short_title: ComorosUFOs
+- basename: Chile_349507
+  title: ChileUFOs
+  permalink: /how-chile-investigates-ufos-and-aerial/
+  short_title: ChileUFOs
+- basename: France_e3772a
+  title: FranceUFOs
+  permalink: /how-france-investigates-and-archives-ufo/
+  short_title: FranceUFOs
+- basename: Iran_Islamic_Republi_94f9ee
+  title: Iran UFOs
+  permalink: /iran-islamic-republic-of/
+  short_title: Iran UFOs
+- basename: Iraq_1aed9e
+  title: Iraq UAP
+  permalink: /iraq/
+  short_title: Iraq UAP
+- basename: Lao_People_s_Democra_44f2bd
+  title: Laos UFOs
+  permalink: /lao-people-s-democratic-republic/
+  short_title: Laos UFOs
+- basename: Madagascar_f92bcb
+  title: Madagascar UFOs
+  permalink: /madagascars-ufo-record-famous-case-thin/
+  short_title: Madagascar UFOs
+- basename: Maldives_213cb2
+  title: MaldivesUFOs
+  permalink: /maldives/
+  short_title: MaldivesUFOs
+- basename: Micronesia_Federated_30e9e8
+  title: Micronesia UFOs
+  permalink: /micronesia-federated-states-of/
+  short_title: Micronesia UFOs
+- basename: Morocco_32e087
+  title: Morocco UFOs
+  permalink: /moroccos-ufo-mystery-and-its-best/
+  short_title: Morocco UFOs
+- basename: Netherlands_Kingdom_d6d70a
+  title: Dutch UFOs
+  permalink: /netherlands-kingdom-of-the/
+  short_title: Dutch UFOs
+- basename: Philippines_806736
+  title: Philippines UFOs
+  permalink: /philippines/
+  short_title: Philippines UFOs
+- basename: Portugal_a49519
+  title: Portugal UFOs
+  permalink: /portugals-ufo-files-mystery-memory-and/
+  short_title: Portugal UFOs
+- basename: Republic_of_Korea_8d9deb
+  title: Korea UFOs
+  permalink: /republic-of-korea/
+  short_title: Korea UFOs
+- basename: Republic_of_Moldova_a6ad94
+  title: Moldova UAP
+  permalink: /republic-of-moldova/
+  short_title: Moldova UAP
+- basename: Russian_Federation_87c89a
+  title: Russian UFOs
+  permalink: /russian-federation/
+  short_title: Russian UFOs
+- basename: Saint_Kitts_and_Nevi_a66de5
+  title: Kitts UFOs
+  permalink: /saint-kitts-and-nevis/
+  short_title: Kitts UFOs
+- basename: Saint_Vincent_and_th_3bce2a
+  title: SVG UFOs
+  permalink: /saint-vincent-and-the-grenadines/
+  short_title: SVG UFOs
+- basename: Sao_Tome_and_Princip_3437b2
+  title: Sao Tome UFOs
+  permalink: /sao-tome-and-principe/
+  short_title: Sao Tome UFOs
+- basename: Spain_20a8df
+  title: Spain UFOs
+  permalink: /spains-ufo-files-mystery-evidence-and/
+  short_title: Spain UFOs
+- basename: Syrian_Arab_Republic_099887
+  title: Syrian UAP
+  permalink: /syrian-arab-republic/
+  short_title: Syrian UAP
+- basename: Thailand_a2b7c1
+  title: Thailand UFOs
+  permalink: /thailand/
+  short_title: Thailand UFOs
+- basename: The_Bahamas_f765dc
+  title: Bahamas UFOs
+  permalink: /the-bahamas/
+  short_title: Bahamas UFOs
+- basename: Trinidad_and_Tobago_a73120
+  title: Trinidad UFOs
+  permalink: /trinidad-and-tobago/
+  short_title: Trinidad UFOs
+- basename: Turkiye_c8c5d5
+  title: Türkiye UFOs
+  permalink: /turkiye/
+  short_title: Türkiye UFOs
+- basename: Luxembourg_507672
+  title: LuxUFO
+  permalink: /uncovering-ufo-activity-across/
+  short_title: LuxUFO
+- basename: Israel_4c197d
+  title: Israel UFOs
+  permalink: /uncovering-ufo-phenomena-across-israel/
+  short_title: Israel UFOs
+- basename: United_Arab_Emirates_c92b89
+  title: UAE UFOs
+  permalink: /united-arab-emirates/
+  short_title: UAE UFOs
+- basename: United_Kingdom_d25561
+  title: UK UFOs
+  permalink: /united-kingdom/
+  short_title: UK UFOs
+- basename: United_Republic_of_T_f850a5
+  title: Tanzania UFOs
+  permalink: /united-republic-of-tanzania/
+  short_title: Tanzania UFOs
+- basename: United_States_f5f19f
+  title: US UFOs
+  permalink: /united-states/
+  short_title: US UFOs
+- basename: Venezuela_Bolivarian_3dc4c3
+  title: Venezuela UFOs
+  permalink: /venezuela-bolivarian-republic-of/
+  short_title: Venezuela UFOs
+- basename: Malawi_0ce65b
+  title: MalawiUFOs
+  permalink: /what-are-malawis-documented-ufos-and-sky/
+  short_title: MalawiUFOs
+- basename: Belarus_027a12
+  title: Belarus UFOs
+  permalink: /what-belarus-ufo-reports-really-show/
+  short_title: Belarus UFOs
+- basename: Brazil_37497a
+  title: BrazilUFOs
+  permalink: /what-brazils-ufo-records-reveal-about/
+  short_title: BrazilUFOs
+- basename: Angola_a42522
+  title: Angola UFOs
+  permalink: /what-can-angolas-ufo-record-really-prove/
+  short_title: Angola UFOs
+- basename: Benin_373616
+  title: Benin UFOs
+  permalink: /what-can-really-be-said-about-benin-ufos/
+  short_title: Benin UFOs
+- basename: Serbia_6d31bf
+  title: Serbia UFOs
+  permalink: /what-can-serbias-ufo-record-really-show/
+  short_title: Serbia UFOs
+- basename: Tuvalu_9a2248
+  title: Tuvalu UFOs
+  permalink: /what-can-tuvalus-ufo-record-really-show/
+  short_title: Tuvalu UFOs
+- basename: Canada_cd6a7b
+  title: Canada UAP
+  permalink: /what-canada-ufo-reports-really-show/
+  short_title: Canada UAP
+- basename: China_d2eaf2
+  title: China UFOs
+  permalink: /what-chinas-ufo-cases-really-show/
+  short_title: China UFOs
+- basename: South_Sudan_80ac9c
+  title: South Sudan UFOs
+  permalink: /what-counts-as-a-south-sudan-ufo-case/
+  short_title: South Sudan UFOs
+- basename: Jordan_674027
+  title: Jordan UFOs
+  permalink: /what-counts-as-a-ufo-in-jordan/
+  short_title: Jordan UFOs
+- basename: Croatia_d7e045
+  title: Croatia UFOs
+  permalink: /what-croatias-ufo-records-reveal-about/
+  short_title: Croatia UFOs
+- basename: Bahrain_3ae11c
+  title: Bahrain UFOs
+  permalink: /what-did-bahrains-ufo-sightings-really/
+  short_title: Bahrain UFOs
+- basename: Viet_Nam_82ecdd
+  title: Viet Nam UFOs
+  permalink: /what-did-viet-nams-ufo-reports-really/
+  short_title: Viet Nam UFOs
+- basename: Austria_593905
+  title: Austria UFOs
+  permalink: /what-do-austrias-ufo-reports-really-show/
+  short_title: Austria UFOs
+- basename: Belize_42ab0c
+  title: Belize UAP
+  permalink: /what-do-belize-ufo-reports-really-show/
+  short_title: Belize UAP
+- basename: Cameroon_73a7dd
+  title: Cameroon UFOs
+  permalink: /what-do-cameroons-ufo-stories-really/
+  short_title: Cameroon UFOs
+- basename: Cuba_c484b1
+  title: Cuba UFOs
+  permalink: /what-do-cubas-ufo-sightings-reveal-about/
+  short_title: Cuba UFOs
+- basename: Gabon_a06dcd
+  title: Gabon UFOs
+  permalink: /what-do-gabons-ufo-stories-really-show/
+  short_title: Gabon UFOs
+- basename: Guinea-Bissau_b07cb9
+  title: Guinea Bissau UFOs
+  permalink: /what-do-guinea-bissaus-ufo-reports/
+  short_title: Guinea Bissau UFOs
+- basename: Honduras_5aa588
+  title: Honduras UFOs
+  permalink: /what-do-honduras-ufo-reports-really-show/
+  short_title: Honduras UFOs
+- basename: Hungary_f14e46
+  title: Hungary UFOs
+  permalink: /what-do-hungarys-ufo-stories-really-show/
+  short_title: Hungary UFOs
+- basename: India_967ce3
+  title: India UAP
+  permalink: /what-do-indias-ufo-reports-really-show/
+  short_title: India UAP
+- basename: Lebanon_5caa7f
+  title: Lebanon UFOs
+  permalink: /what-do-lebanons-ufo-reports-really-show/
+  short_title: Lebanon UFOs
+- basename: Libya_55949d
+  title: Libya UFOs
+  permalink: /what-do-libyas-ufo-reports-really-show/
+  short_title: Libya UFOs
+- basename: Malaysia_ff3ea3
+  title: Malaysia UFOs
+  permalink: /what-do-malaysias-ufo-stories-really/
+  short_title: Malaysia UFOs
+- basename: Mongolia_f54da3
+  title: Mongolia UFOs
+  permalink: /what-do-mongolias-ufo-reports-really/
+  short_title: Mongolia UFOs
+- basename: Nauru_f648c7
+  title: Nauru UFOs
+  permalink: /what-do-nauru-ufo-reports-really-show/
+  short_title: Nauru UFOs
+- basename: Nigeria_9742d0
+  title: Nigeria UFOs
+  permalink: /what-do-nigerias-ufo-reports-really-show/
+  short_title: Nigeria UFOs
+- basename: Pakistan_82d220
+  title: Pakistan UFOs
+  permalink: /what-do-pakistans-ufo-cases-really-show/
+  short_title: Pakistan UFOs
+- basename: Panama_1e36b3
+  title: Panama UFOs
+  permalink: /what-do-panama-ufo-reports-really-show/
+  short_title: Panama UFOs
+- basename: Qatar_83ef3e
+  title: Qatar UFOs
+  permalink: /what-do-qatars-ufo-reports-really-show/
+  short_title: Qatar UFOs
+- basename: Seychelles_3d2d7b
+  title: Seychelles UFOs
+  permalink: /what-do-seychelles-ufo-reports-really/
+  short_title: Seychelles UFOs
+- basename: Sierra_Leone_817b0d
+  title: Sierra Leone UAP
+  permalink: /what-do-sierra-leones-ufo-reports-really/
+  short_title: Sierra Leone UAP
+- basename: Somalia_4dfdf1
+  title: Somalia UFOs
+  permalink: /what-do-somalias-ufo-reports-really-show/
+  short_title: Somalia UFOs
+- basename: Tajikistan_279c77
+  title: Tajikistan UFOs
+  permalink: /what-do-tajikistans-ufo-reports-really/
+  short_title: Tajikistan UFOs
+- basename: Timor-Leste_2d79f6
+  title: Timor Leste UFOs
+  permalink: /what-do-timor-leste-ufo-reports-really/
+  short_title: Timor Leste UFOs
+- basename: Guinea_b47b54
+  title: Guinea UFOs
+  permalink: /what-do-ufo-reports-in-guinea-really/
+  short_title: Guinea UFOs
+- basename: Bhutan_bb2254
+  title: BhutanUFOs
+  permalink: /what-do-ufo-sightings-in-bhutan-really/
+  short_title: BhutanUFOs
+- basename: Botswana_180c89
+  title: Botswana UFOs
+  permalink: /what-does-botswanas-ufo-record-really/
+  short_title: Botswana UFOs
+- basename: Ecuador_09f199
+  title: EcuadorUFOs
+  permalink: /what-evidence-exists-for-ufos-in-ecuador/
+  short_title: EcuadorUFOs
+- basename: Georgia_9113c6
+  title: Georgia UFOs
+  permalink: /what-georgias-ufo-reports-reveal-about/
+  short_title: Georgia UFOs
+- basename: Germany_17d53e
+  title: Germany UFOs
+  permalink: /what-germanys-ufo-record-really-shows/
+  short_title: Germany UFOs
+- basename: Greece_4902a4
+  title: Greece UFOs
+  permalink: /what-greeces-ufo-records-reveal-about/
+  short_title: Greece UFOs
+- basename: Guatemala_11760e
+  title: GuatemalaUFOs
+  permalink: /what-guatemalas-ufo-reports-really/
+  short_title: GuatemalaUFOs
+- basename: Latvia_c5f5bb
+  title: Latvia UFOs
+  permalink: /what-has-latvia-really-seen-in-the-sky/
+  short_title: Latvia UFOs
+- basename: Malta_1a591a
+  title: Malta UFOs
+  permalink: /what-has-malta-really-seen-in-the-sky/
+  short_title: Malta UFOs
+- basename: Saint_Lucia_85ac35
+  title: Saint Lucia UFOs
+  permalink: /what-has-saint-lucia-really-reported/
+  short_title: Saint Lucia UFOs
+- basename: Samoa_f56806
+  title: Samoa UFOs
+  permalink: /what-has-samoa-really-seen-in-the-sky/
+  short_title: Samoa UFOs
+- basename: Zambia_dcf25e
+  title: Zambia UFOs
+  permalink: /what-has-zambia-really-seen-in-the-sky/
+  short_title: Zambia UFOs
+- basename: Indonesia_35536a
+  title: Indonesia UFOs
+  permalink: /what-indonesias-ufo-record-really-shows/
+  short_title: Indonesia UFOs
+- basename: Andorra_9d3bd1
+  title: Andorra UFOs
+  permalink: /what-is-actually-known-about-andorra/
+  short_title: Andorra UFOs
+- basename: Azerbaijan_213598
+  title: Azerbaijan UAP
+  permalink: /what-is-behind-azerbaijans-ufo-reports/
+  short_title: Azerbaijan UAP
+- basename: Liberia_1ed5dd
+  title: Liberia UFOs
+  permalink: /what-is-known-about-ufos-in-liberia/
+  short_title: Liberia UFOs
+- basename: Chad_6c6b1b
+  title: Chad UFOs
+  permalink: /what-is-really-behind-chads-ufo-reports/
+  short_title: Chad UFOs
+- basename: Gambia_7c3997
+  title: Gambia UFOs
+  permalink: /what-is-really-behind-gambias-ufo/
+  short_title: Gambia UFOs
+- basename: Myanmar_928b7c
+  title: Myanmar UFOs
+  permalink: /what-is-really-behind-myanmar-ufo/
+  short_title: Myanmar UFOs
+- basename: Namibia_bfe79d
+  title: Namibia UFOs
+  permalink: /what-is-really-behind-namibias-ufo/
+  short_title: Namibia UFOs
+- basename: Slovakia_b6c149
+  title: Slovak UFOs
+  permalink: /what-is-really-behind-slovakias-ufo/
+  short_title: Slovak UFOs
+- basename: Eswatini_16cc7f
+  title: Eswatini UFOs
+  permalink: /what-is-really-in-eswatinis-ufo-record/
+  short_title: Eswatini UFOs
+- basename: Jamaica_5eedd6
+  title: Jamaica UFOs
+  permalink: /what-is-really-in-jamaicas-ufo-record/
+  short_title: Jamaica UFOs
+- basename: North_Macedonia_cece1d
+  title: North Macedonia UFOs
+  permalink: /what-is-really-in-north-macedonias-ufo/
+  short_title: North Macedonia UFOs
+- basename: Uzbekistan_db800e
+  title: Uzbekistan UFOs
+  permalink: /what-is-really-in-uzbekistans-ufo-record/
+  short_title: Uzbekistan UFOs
+- basename: Yemen_ac33d6
+  title: Yemen UFOs
+  permalink: /what-is-really-in-yemens-ufo-record/
+  short_title: Yemen UFOs
+- basename: Burundi_461758
+  title: Burundi UFOs
+  permalink: /what-is-really-known-about-burundi-ufos/
+  short_title: Burundi UFOs
+- basename: Colombia_2f7373
+  title: Colombia UAP
+  permalink: /what-is-really-known-about-colombias-ufo/
+  short_title: Colombia UAP
+- basename: Kiribati_3f57ad
+  title: Kiribati UFOs
+  permalink: /what-is-really-known-about-kiribati-ufos/
+  short_title: Kiribati UFOs
+- basename: Lesotho_93b12b
+  title: Lesotho UAP
+  permalink: /what-is-really-known-about-lesotho-ufos/
+  short_title: Lesotho UAP
+- basename: Niger_6687e1
+  title: Niger UFOs
+  permalink: /what-is-really-known-about-niger-ufos/
+  short_title: Niger UFOs
+- basename: Palau_e5e0b6
+  title: Palau UAP
+  permalink: /what-is-really-known-about-palau-ufos/
+  short_title: Palau UAP
+- basename: Turkmenistan_1f8dc1
+  title: Turkmenistan UFOs
+  permalink: /what-is-really-known-about-turkmenistan/
+  short_title: Turkmenistan UFOs
+- basename: Ireland_eb2131
+  title: Irish UAP
+  permalink: /what-is-really-seen-over-ireland/
+  short_title: Irish UAP
+- basename: Kazakhstan_2f36b6
+  title: Kazakhstan UFOs
+  permalink: /what-is-really-seen-over-kazakhstan/
+  short_title: Kazakhstan UFOs
+- basename: Ukraine_c951ec
+  title: Ukraine UFOs
+  permalink: /what-is-really-seen-over-ukraine/
+  short_title: Ukraine UFOs
+- basename: Rwanda_7266a1
+  title: Rwanda UFOs
+  permalink: /what-is-rwandas-real-ufo-record/
+  short_title: Rwanda UFOs
+- basename: Sri_Lanka_db33ad
+  title: Sri Lanka UFOs
+  permalink: /what-is-sri-lankas-ufo-record-really/
+  short_title: Sri Lanka UFOs
+- basename: Switzerland_77dcd8
+  title: Swiss UFOs
+  permalink: /what-is-switzerlands-ufo-record-really/
+  short_title: Swiss UFOs
+- basename: Lithuania_74a788
+  title: Lithuania UFOs
+  permalink: /what-lithuanias-ufo-reports-really-show/
+  short_title: Lithuania UFOs
+- basename: Egypt_1c39ab
+  title: EgyptUFOs
+  permalink: /what-makes-egypt-a-hotspot-for-ufo/
+  short_title: EgyptUFOs
+- basename: Italy_ad79ef
+  title: Italy UFOs
+  permalink: /what-makes-italys-ufo-record-unique-and/
+  short_title: Italy UFOs
+- basename: Japan_fcf29f
+  title: Japan UFOs
+  permalink: /what-makes-japans-ufo-record-so-unusual/
+  short_title: Japan UFOs
+- basename: Liechtenstein_b0ddce
+  title: Liechtenstein UFOs
+  permalink: /what-makes-liechtensteins-ufo-story/
+  short_title: Liechtenstein UFOs
+- basename: Norway_988455
+  title: Norway UFOs
+  permalink: /what-makes-norways-ufo-record-different/
+  short_title: Norway UFOs
+- basename: Peru_36c572
+  title: Peru UFOs
+  permalink: /what-makes-perus-ufo-story-so/
+  short_title: Peru UFOs
+- basename: Sweden_72ddd2
+  title: Swedish UFOs
+  permalink: /what-makes-swedens-ufo-record-different/
+  short_title: Swedish UFOs
+- basename: New_Zealand_3d3336
+  title: NZ UFOs
+  permalink: /what-new-zealands-ufo-files-really-show/
+  short_title: NZ UFOs
+- basename: Sudan_1193ba
+  title: Sudan UFOs
+  permalink: /what-really-appeared-over-sudan/
+  short_title: Sudan UFOs
+- basename: Congo_77f256
+  title: Congo UFOs
+  permalink: /what-really-counts-as-a-congo-ufo/
+  short_title: Congo UFOs
+- basename: Oman_c14c36
+  title: Oman UFOs
+  permalink: /what-really-counts-as-an-oman-ufo/
+  short_title: Oman UFOs
+- basename: Ethiopia_3d91f7
+  title: Ethiopia UFOs
+  permalink: /what-really-counts-as-ethiopias-ufo/
+  short_title: Ethiopia UFOs
+- basename: Tonga_e8a123
+  title: Tonga UFOs
+  permalink: /what-really-exists-in-tongas-ufo-record/
+  short_title: Tonga UFOs
+- basename: Armenia_5f4599
+  title: Armenia UFOs
+  permalink: /what-really-explains-armenias-ufo/
+  short_title: Armenia UFOs
+- basename: Bulgaria_5c7772
+  title: Bulgaria UFOs
+  permalink: /what-really-explains-bulgarias-ufo/
+  short_title: Bulgaria UFOs
+- basename: Kyrgyzstan_c78791
+  title: Kyrgyzstan UFOs
+  permalink: /what-really-explains-kyrgyzstans-ufo/
+  short_title: Kyrgyzstan UFOs
+- basename: Marshall_Islands_ccbdc0
+  title: Marshall UFOs
+  permalink: /what-really-explains-marshall-islands/
+  short_title: Marshall UFOs
+- basename: Saudi_Arabia_8bf7f8
+  title: Saudi UFOs
+  permalink: /what-really-explains-saudi-arabias-ufo/
+  short_title: Saudi UFOs
+- basename: Vanuatu_d16ad2
+  title: Vanuatu UAP
+  permalink: /what-really-explains-vanuatus-strange/
+  short_title: Vanuatu UAP
+- basename: Kenya_a84f56
+  title: Kenya UFOs
+  permalink: /what-really-fell-from-kenyas-skies/
+  short_title: Kenya UFOs
+- basename: El_Salvador_9b83b7
+  title: El Salvador UFOs
+  permalink: /what-really-flies-over-el-salvador/
+  short_title: El Salvador UFOs
+- basename: Belgium_5cb4c9
+  title: Belgium
+  permalink: /what-really-happened-during-belgiums/
+  short_title: Belgium
+- basename: Australia_ceafb5
+  title: Australia UFOs
+  permalink: /what-really-happened-in-australias-ufo/
+  short_title: Australia UFOs
+- basename: Barbados_93409a
+  title: Barbados UFOs
+  permalink: /what-really-happened-in-barbados-skies/
+  short_title: Barbados UFOs
+- basename: Cambodia_314ccd
+  title: Cambodia UFOs
+  permalink: /what-really-happened-in-cambodias-ufo/
+  short_title: Cambodia UFOs
+- basename: Costa_Rica_fe586b
+  title: Costa Rica UFOs
+  permalink: /what-really-happened-in-costa-ricas-ufo/
+  short_title: Costa Rica UFOs
+- basename: Haiti_a4842f
+  title: Haiti UFOs
+  permalink: /what-really-happened-in-haitis-ufo/
+  short_title: Haiti UFOs
+- basename: Kuwait_93295b
+  title: Kuwait UAP
+  permalink: /what-really-happened-in-kuwaits-ufo/
+  short_title: Kuwait UAP
+- basename: Mauritius_26160d
+  title: Mauritius UFOs
+  permalink: /what-really-happened-in-mauritius-sky/
+  short_title: Mauritius UFOs
+- basename: Mexico_41937b
+  title: Mexico UFOs
+  permalink: /what-really-happened-in-mexicos-ufo/
+  short_title: Mexico UFOs
+- basename: Nepal_0e1d58
+  title: Nepal UFOs
+  permalink: /what-really-happened-in-nepals-ufo/
+  short_title: Nepal UFOs
+- basename: Nicaragua_481264
+  title: Nicaragua UFOs
+  permalink: /what-really-happened-in-nicaraguas-ufo/
+  short_title: Nicaragua UFOs
+- basename: Paraguay_71a452
+  title: Paraguay UFOs
+  permalink: /what-really-happened-in-paraguays-ufo/
+  short_title: Paraguay UFOs
+- basename: Poland_5ff03b
+  title: Poland UFOs
+  permalink: /what-really-happened-in-polands-ufo/
+  short_title: Poland UFOs
+- basename: Solomon_Islands_6f943d
+  title: Solomon UFOs
+  permalink: /what-really-happened-in-solomon/
+  short_title: Solomon UFOs
+- basename: Togo_30949d
+  title: Togo UFOs
+  permalink: /what-really-happened-in-togos-ufo-files/
+  short_title: Togo UFOs
+- basename: Tunisia_edf404
+  title: Tunisia UFOs
+  permalink: /what-really-happened-in-tunisias-ufo/
+  short_title: Tunisia UFOs
+- basename: Uganda_e92904
+  title: Uganda UFOs
+  permalink: /what-really-happened-in-ugandas-ufo/
+  short_title: Uganda UFOs
+- basename: Zimbabwe_5922f5
+  title: Zimbabwe UFOs
+  permalink: /what-really-happened-in-zimbabwes-ufo/
+  short_title: Zimbabwe UFOs
+- basename: Estonia_f0a96d
+  title: Estonia UFOs
+  permalink: /what-really-shapes-estonias-ufo-record/
+  short_title: Estonia UFOs
+- basename: Slovenia_d1aa05
+  title: Slovenia UFOs
+  permalink: /what-really-stands-out-in-slovenias-ufo/
+  short_title: Slovenia UFOs
+- basename: South_Africa_3b27c8
+  title: South Africa UFOs
+  permalink: /what-really-stands-out-in-south/
+  short_title: South Africa UFOs
+- basename: Mozambique_a40a9b
+  title: Mozambique UFOs
+  permalink: /what-really-survives-in-mozambiques-ufo/
+  short_title: Mozambique UFOs
+- basename: Romania_d6b897
+  title: Romania UFOs
+  permalink: /what-romanias-ufo-record-really-shows/
+  short_title: Romania UFOs
+- basename: Singapore_20c0b7
+  title: Singapore UFOs
+  permalink: /what-singapore-ufo-sightings-really-show/
+  short_title: Singapore UFOs
+- basename: Suriname_b17fc6
+  title: Suriname UFOs
+  permalink: /what-surinames-ufo-stories-really-show/
+  short_title: Suriname UFOs
+- basename: Senegal_d8973b
+  title: Senegal UFOs
+  permalink: /what-survives-in-senegals-ufo-record/
+  short_title: Senegal UFOs
+- basename: Cabo_Verde_2a5bf1
+  title: Cabo Verde UFOs
+  permalink: /what-ufo-reports-survive-cabo-verde/
+  short_title: Cabo Verde UFOs
+- basename: Cyprus_852add
+  title: CyprusUFOs
+  permalink: /what-ufo-sightings-have-shaped-cyprus/
+  short_title: CyprusUFOs
+- basename: Eritrea_18740a
+  title: Eritrea UFOs
+  permalink: /what-ufos-have-been-reported-in/
+  short_title: Eritrea UFOs
+- basename: Uruguay_66b989
+  title: Uruguay UFOs
+  permalink: /what-uruguays-ufo-files-really-show/
+  short_title: Uruguay UFOs
+- basename: Denmark_89da12
+  title: Denmark UFOs
+  permalink: /what-we-know-about-ufo-phenomena-in/
+  short_title: Denmark UFOs
+- basename: Guyana_bc88a2
+  title: Guyana UFOs
+  permalink: /what-we-know-about-ufo-sightings-in/
+  short_title: Guyana UFOs
+- basename: Mauritania_85fa35
+  title: Mauritania UAP
+  permalink: /why-are-mauritanias-ufo-records-so/
+  short_title: Mauritania UAP
+- basename: Grenada_dbf2a2
+  title: Grenada UFOs
+  permalink: /why-grenada-became-a-ufo-footnote/
+  short_title: Grenada UFOs
+- basename: San_Marino_8ff2c5
+  title: San Marino UFOs
+  permalink: /why-san-marino-became-a-ufo-meeting/
+  short_title: San Marino UFOs
+child_links:
+- basename: Papua_New_Guinea_90e80c_wewak_angoram_1985_63a9c2
+  title: 1985 Overflight | Papua New Guinea
+  permalink: /1985-overflight/
+  short_title: 1985 Overflight
+  heading_title: Was PNG's 1985 UAP an Aircraft Mystery?
+- basename: Papua_New_Guinea_90e80c_gill_archives_497ce9
+  title: Archives | Papua New Guinea
+  permalink: /archives-a5feb8/
+  short_title: Archives
+  heading_title: How Gill's Notes Kept Boianai Alive
+- basename: Papua_New_Guinea_90e80c_boianai_sighting_a76379
+  title: Boianai | Papua New Guinea
+  permalink: /boianai/
+  short_title: Boianai
+  heading_title: Why Boianai Became PNG's Famous UFO Case
+- basename: Papua_New_Guinea_90e80c_boianai_explanations_8f9dbc
+  title: Explanations | Papua New Guinea
+  permalink: /explanations-6656b9/
+  short_title: Explanations
+  heading_title: Could Boianai Have Been Misread Lights?
+prev_link:
+  basename: Netherlands_Kingdom_d6d70a
+  title: Dutch UFOs
+  permalink: /netherlands-kingdom-of-the/
+  short_title: Dutch UFOs
+next_link:
+  basename: Philippines_806736
+  title: Philippines UFOs
+  permalink: /philippines/
+  short_title: Philippines UFOs
+date: '2026-05-31 04:27:14 '
+header:
+  og_image: /assets/images/Papua_New_Guinea_90e80c-overview-social.jpg
+  preview_image: /assets/images/Papua_New_Guinea_90e80c-overview.webp
+image: /assets/images/Papua_New_Guinea_90e80c-overview-social.jpg
+---
+
+## Why Papua New Guinea’s UFO record is so narrow
+
+The Papua New Guinea file is not comparable to countries with decades of civilian reporting organisations, dense aviation monitoring, and large online [archives]({{ 'archives-a5feb8/' | relative_url }}). The public record is sparse. The National UFO Reporting Center, a major public database of witness-submitted reports, lists only three entries under Papua New Guinea, and the centre itself cautions that its reports are posted largely as received and that it makes no claim about their validity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFOR C Reports by Location</span><span class="citation-popover-snippet">NUFOR C Reports by Location</span></span></span>
+
+
+<img src="{{ "/assets/images/Papua_New_Guinea_90e80c-overview.webp" | relative_url }}" alt="Overview image for Papua New Guinea" loading="eager" decoding="sync" fetchpriority="high">
+That matters because the country’s UFO reputation is much larger than its case volume. Most searches, books, documentaries, and later retellings return to the same place: [Boianai]({{ 'boianai/' | relative_url }}), on the north coast of Milne Bay Province. A second official thread, the January [1985 overflight]({{ '1985-overflight/' | relative_url }}) report near Wewak and Angoram, has recently become more visible because it appears in newly released United States UAP files. ABC Pacific summarised the release as mentioning two Papua New Guinea sightings: the 1985 radar/overflight matter and the older Boianai case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.abc.net.au/pacific/programs/pacificbeat/ufo/106721442" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News Released UFO files document &#x27;sightings&#x27; in Papua New Guinea</span><span class="citation-popover-snippet">ABC News Released UFO files document &#x27;sightings&#x27; in Papua New Guinea</span></span></span>
+
+The result is a lopsided national chronology. Papua New Guinea has one highly narrated case, one official aviation-related record, scattered database entries, and many later retellings that often repeat earlier claims without adding new evidence. A reliable page on the subject therefore has to separate three things: what was reported, what was documented, and what was later inferred.
+
+## The Boianai case: what witnesses said happened
+
+The Boianai sighting took place on 26–27 June 1959, when Papua and New Guinea were still under Australian administration. William Booth Gill, an Australian Anglican priest, was in charge of the mission at Boianai, described by journalist Rowan Callick as a large village on the mountainous north coast of Milne Bay Province, about 25 kilometres west of Dogura. The National Library of Australia also catalogues a later printed transcript of Gill’s 1959 address to the Victorian Flying Saucer Research Society, showing that the case entered Australian UFO research circles soon after the event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rowancallick.com/article-for-png-post-courier/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rowancallick.com">[ROWAN CALLICK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rowancallick.com</span><span class="citation-popover-title">ROWAN CALLICKArticle for PNG Post-Courier</span><span class="citation-popover-snippet">ROWAN CALLICKArticle for PNG Post-Courier</span></span></span>
+
+The useful starting point is Gill’s own change of tone. The day before the most famous sighting, he had written sceptically to Reverend David Durie, saying that he wanted scientific evidence before accepting any “from outer space” theory. In a follow-up letter after the sighting, he wrote that the Boianai mission had experienced about four hours of UFO activity and that he now believed the objects were “handled by beings of some kind”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rowancallick.com/article-for-png-post-courier/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rowancallick.com">[ROWAN CALLICK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rowancallick.com</span><span class="citation-popover-title">ROWAN CALLICKArticle for PNG Post-Courier</span><span class="citation-popover-snippet">ROWAN CALLICKArticle for PNG Post-Courier</span></span></span>
+
+In the best-known account, Gill and other witnesses described a bright white light approaching the mission and hovering. Callick’s reproduction of Gill’s notes describes a large disc-shaped object with a broad base, a narrower upper deck, four apparent legs beneath, lit side panels, and a blue shaft of light. The account then adds the most controversial detail: figures resembling men appeared on the top deck. On the second evening, Gill and others reported waving at the figures and seeing apparent waves in return; Gill also reported using a torch, after which the object seemed to make wavering motions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rowancallick.com/article-for-png-post-courier/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rowancallick.com">[ROWAN CALLICK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rowancallick.com</span><span class="citation-popover-title">ROWAN CALLICKArticle for PNG Post-Courier</span><span class="citation-popover-snippet">ROWAN CALLICKArticle for PNG Post-Courier</span></span></span>
+
+The Papua New Guinea Post-Courier’s later local retelling gives the same broad structure: Gill, teachers and medical staff saw the phenomenon on two consecutive evenings; around 38 people gathered on the first evening; and the object was described as disc-like, solid, stationary for much of the observation, and accompanied by apparent figures and a blue beam. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.postcourier.com.pg/alien-visitors-appear-at-boianai/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: postcourier.com.pg">[Post Courier]</a><span class="citation-popover" role="note"><span class="citation-popover-source">postcourier.com.pg</span><span class="citation-popover-title">Post Courier Alien visitors appear at Boianai</span><span class="citation-popover-snippet">Post Courier Alien visitors appear at Boianai</span></span></span>
+
+
+<img src="{{ "/assets/images/Papua_New_Guinea_90e80c-Illustration-1-light.svg" | relative_url }}" alt="Papua New Guinea illustration 1" data-theme-src-dark="{{ "/assets/images/Papua_New_Guinea_90e80c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Papua_New_Guinea_90e80c-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Why Boianai is treated as stronger than a typical UFO anecdote
+
+Boianai is not “strong” because its claims are easy to accept. It is strong, by UFO-case standards, because it is unusually well documented for its period and place. It has a named principal witness; multiple local witnesses; contemporary notes and letters; later public testimony; and enough archival afterlife to be catalogued, debated, and re-examined. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalogue.nla.gov.au/catalog/2951975" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalogue.nla.gov.au">[National Library of Australia Catalogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalogue.nla.gov.au</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+Several details make the case difficult to dismiss cleanly. Gill was not presented in the record as a publicity-seeker; his first letter was cautious rather than credulous. His notes include mundane behaviour that does not read like a polished adventure story, including the fact that he went to dinner during the second evening when the situation appeared unchanged. The Magonia reassessment of the case notes that some common sceptical criticisms have not fully resolved it, while also arguing that the episode does not require belief in extraterrestrial visitors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://magoniamagazine.blogspot.com/2013/12/gill-again-father-gill-case-reconsidered.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[magoniamagazine.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-title">MAGONI A ARCHIVE: Gill Again: The Father Gill Case Reconsidered</span><span class="citation-popover-snippet">MAGONI A ARCHIVE: Gill Again: The Father Gill Case Reconsidered</span></span></span>
+
+The strongest pro-case argument is therefore not “aliens were seen in Papua New Guinea”. It is narrower: a group of named and semi-named witnesses reported a prolonged, structured aerial phenomenon with behaviour they interpreted as responsive, and their account was preserved unusually well for a remote 1959 setting. That is enough to make Boianai historically important. It is not enough to make the extraordinary interpretation confirmed.
+
+## The sceptical explanations: planets, hoax, mirage, or misread lights
+
+Boianai has attracted several [explanations]({{ 'explanations-6656b9/' | relative_url }}), none of them entirely satisfying. The United States Project Blue Book material, as later quoted in J. Allen Hynek’s account, treated the case as a misinterpretation of astronomical bodies, while Hynek criticised that conclusion because parts of the observation were reported under cloud and because the narrative involved more than lights in a clear sky. The same passage says the Royal Australian Air Force reached no definite conclusion and suggested reflections from a major light source of unknown origin as the most probable natural explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+Classic sceptical arguments have included Venus or other planets, witness influence, and possible invention. The difficulty with the planetary explanation is that it has to account not just for a bright object, but for duration, cloud conditions, apparent structure, alleged figures, signalling, and multiple witnesses. The difficulty with the hoax explanation is motive and texture: the notes are odd, clipped, and in places anticlimactic rather than dramatically constructed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://magoniamagazine.blogspot.com/2013/12/gill-again-father-gill-case-reconsidered.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[magoniamagazine.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-title">MAGONI A ARCHIVE: Gill Again: The Father Gill Case Reconsidered</span><span class="citation-popover-snippet">MAGONI A ARCHIVE: Gill Again: The Father Gill Case Reconsidered</span></span></span>
+
+A more interesting naturalistic proposal comes from Martin Kottmeyer’s reconsideration, archived by Magonia. He argues that the case may have involved a mirage or misperception of lights associated with squid boats or unfamiliar fishing activity, rather than spacecraft. Kottmeyer does not present this as a perfect solution; he explicitly notes unresolved problems, including whether so many people could be fooled for so long and whether the explanation would have become obvious later. But he considers it easier to accept than a hoax, Venus hallucination, or extraterrestrial craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://magoniamagazine.blogspot.com/2013/12/gill-again-father-gill-case-reconsidered.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[magoniamagazine.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-title">MAGONI A ARCHIVE: Gill Again: The Father Gill Case Reconsidered</span><span class="citation-popover-snippet">MAGONI A ARCHIVE: Gill Again: The Father Gill Case Reconsidered</span></span></span>
+
+This leaves Boianai in the “contested but not debunked to universal satisfaction” category. It has not been confirmed as extraordinary technology, but neither has one ordinary explanation displaced all others. The most defensible conclusion is that Boianai is a historically significant anomalous-witness case whose evidential strength lies in testimony and documentation, not in physical traces, photographs, radar data, recovered material, or repeatable measurement.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IAyfJ97uMLE" title="Harvard professor believes he may have found alien technology" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IAyfJ97uMLE" target="_blank" rel="noopener noreferrer">Harvard professor believes he may have found alien technology</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 1.4M &middot; Uploaded: July 2023 &middot; Length: 4 minutes 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IAyfJ97uMLE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IAyfJ97uMLE">Open on YouTube</a></p></div></div></div>
+
+## The 1985 Wewak-Angoram overflight report
+
+The most important official Papua New Guinea UFO/UAP record after Boianai is a United States diplomatic cable dated 28 January 1985 from the US Embassy in Port Moresby. Its subject was a Papua New Guinea inquiry about overflights. The cable says Papua New Guinea’s National Intelligence Organisation asked about reported sightings of high-altitude, high-speed aircraft over PNG on the evening of 24 January, after residents near Wewak were frightened and a provincial premier called a public meeting attended by the prime minister, who was in his electorate at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/dos-uap-d1-cable-1-papua-new-guinea-january-1985.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War State Department UAP Cable 1, Papua New Guinea,</span><span class="citation-popover-snippet">U.S. Department of War State Department UAP Cable 1, Papua New Guinea,</span></span></span>(#endnote-2 "Endnote 2")
+
+The core report is aviation-like rather than saucer-like. The cable says there were reports of fast-moving objects with lights, contrails and noise. The report given the most credence came from an Air Niugini pilot who had just taken off from Wewak for Port Moresby and said his radar picked up an aircraft travelling south to north at high altitude and high speed when he was over Angoram. Other reports mentioned one aircraft moving north to south at about 1900 local time and six to eight aircraft moving south to north at about 2200. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/dos-uap-d1-cable-1-papua-new-guinea-january-1985.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War State Department UAP Cable 1, Papua New Guinea,</span><span class="citation-popover-snippet">U.S. Department of War State Department UAP Cable 1, Papua New Guinea,</span></span></span>(#endnote-2 "Endnote 2")
+
+The United States side told PNG officials that it knew of no B-52 overflights and no US aircraft in PNG airspace on 24 January. The cable also stresses that the information was “very sketchy” and that sources were unsure about the directions in which aircraft were flying. That phrasing is important: the document confirms official concern and a real identification problem, but it does not confirm anomalous technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/dos-uap-d1-cable-1-papua-new-guinea-january-1985.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War State Department UAP Cable 1, Papua New Guinea,</span><span class="citation-popover-snippet">U.S. Department of War State Department UAP Cable 1, Papua New Guinea,</span></span></span>(#endnote-2 "Endnote 2")
+
+In evidence terms, the 1985 case is stronger than a casual witness story because it involves official channels, an airline pilot’s radar report, and government-to-government inquiry. It is weaker than a resolved aviation incident because the available document is short, second-hand, and inconclusive. It belongs in the “unresolved official record” category, not the “confirmed UFO” category.
+
+
+<img src="{{ "/assets/images/Papua_New_Guinea_90e80c-Illustration-2-light.svg" | relative_url }}" alt="Papua New Guinea illustration 2" data-theme-src-dark="{{ "/assets/images/Papua_New_Guinea_90e80c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Papua_New_Guinea_90e80c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Region-level pattern: Milne Bay stories and northern airspace concerns
+
+Papua New Guinea’s reported UFO geography is not evenly spread. The best-known close-encounter narrative is anchored in Milne Bay, particularly Boianai and the Anglican mission network around Dogura. This matters because the case came through mission correspondence, church personnel, teachers, and local community witnesses. It was not produced by a modern civilian UFO hotline or a military sensor programme. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rowancallick.com/article-for-png-post-courier/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rowancallick.com">[ROWAN CALLICK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rowancallick.com</span><span class="citation-popover-title">ROWAN CALLICKArticle for PNG Post-Courier</span><span class="citation-popover-snippet">ROWAN CALLICKArticle for PNG Post-Courier</span></span></span>
+
+The 1985 report belongs to a different regional and evidential world: Wewak, Angoram, Air Niugini, radar, contrails, possible military overflight, and national intelligence concern. It is less culturally vivid than Boianai but more recognisable as an airspace-identification case. The report’s geography — north coast departure from Wewak, radar return near Angoram, and multiple contrail sightings across points in PNG — suggests a broad skywatching episode rather than a single village encounter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/dos-uap-d1-cable-1-papua-new-guinea-january-1985.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War State Department UAP Cable 1, Papua New Guinea,</span><span class="citation-popover-snippet">U.S. Department of War State Department UAP Cable 1, Papua New Guinea,</span></span></span>(#endnote-2 "Endnote 2")
+
+That split is useful for readers comparing Papua New Guinea with sibling country pages in a Pacific UFO project. Papua New Guinea’s most famous case resembles a “close encounter with occupants” tradition, while its official 1985 record resembles the air-defence and overflight concerns more familiar in Australia, New Zealand, and wider Cold War-era Pacific airspace records. The two PNG cases should not be collapsed into one narrative: they involve different decades, regions, witnesses, evidence types, and likely explanation paths.
+
+## Confirmed, contested, and debunked claims
+
+A careful classification helps avoid both credulity and over-dismissal.
+
+**Confirmed as documented reports:** The Boianai sighting is confirmed as a reported 1959 event with substantial later documentation, including library-catalogued testimony and multiple published retellings based on Gill’s letters and notes. The 1985 overflight matter is confirmed as an official diplomatic cable involving PNG’s National Intelligence Organisation, local concern, an airline pilot’s radar claim, and US checks for American aircraft. National Library of Australia Catalogue <span class="citation-chip-wrap"><a class="citation-chip" href="https://rowancallick.com/article-for-png-post-courier/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rowancallick.com">[ROWAN CALLICK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rowancallick.com</span><span class="citation-popover-title">ROWAN CALLICKArticle for PNG Post-Courier</span><span class="citation-popover-snippet">ROWAN CALLICKArticle for PNG Post-Courier</span></span></span>
+
+**Contested as interpretation:** Boianai’s central claims — a structured object, apparent humanoid figures, and responsive signalling — remain contested. The evidence is testimonial and archival rather than instrumental. The 1985 report is also contested, but in a different way: it likely involved real observations of something in the sky, yet the available record does not establish whether the cause was foreign military aircraft, civil aircraft confusion, atmospheric interpretation, or something else. <span class="citation-chip-wrap"><a class="citation-chip" href="https://magoniamagazine.blogspot.com/2013/12/gill-again-father-gill-case-reconsidered.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magoniamagazine.blogspot.com">[magoniamagazine.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magoniamagazine.blogspot.com</span><span class="citation-popover-title">MAGONI A ARCHIVE: Gill Again: The Father Gill Case Reconsidered</span><span class="citation-popover-snippet">MAGONI A ARCHIVE: Gill Again: The Father Gill Case Reconsidered</span></span></span>
+
+**Debunked or weakly supported:** Claims that Boianai proves extraterrestrial visitation are not supported by the available evidence. Claims that Papua New Guinea has a large, well-documented national UFO wave are also weak; public databases show only a tiny number of PNG entries, and even NUFORC explicitly warns that its reports are not validated claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank | NUFORC</span><span class="citation-popover-snippet">Data Bank | NUFORC</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0135-dCw7Kg" title="People Communicate With Strange Alien Figures On Board UFO | Close Encounters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0135-dCw7Kg" target="_blank" rel="noopener noreferrer">People Communicate With Strange Alien Figures On Board UFO | Close Encounters</a></p><p class="youtube-embed-meta">Channel: Quest TV &middot; Views: 1.4M &middot; Uploaded: February 2020 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0135-dCw7Kg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0135-dCw7Kg">Open on YouTube</a></p></div></div></div>
+
+## How to read Papua New Guinea UFO sources responsibly
+
+The highest-value sources for Papua New Guinea are not necessarily the most dramatic ones. Contemporary or near-contemporary records, catalogues, and official documents carry more weight than later videos, podcasts, and recycled listicles. The National Library of Australia catalogue helps establish that Gill’s account circulated in formal UFO research settings; the 1985 cable gives a primary-source government record; and ABC Pacific’s recent coverage is useful because it ties those records to the latest US release context. National Library of Australia Catalogue <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.war.gov/medialink/ufo/release_1/dos-uap-d1-cable-1-papua-new-guinea-january-1985.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War State Department UAP Cable 1, Papua New Guinea,</span><span class="citation-popover-snippet">U.S. Department of War State Department UAP Cable 1, Papua New Guinea,</span></span></span>
+
+Local and regional retellings still matter, especially for the Boianai case, because they preserve how the story sits within Papua New Guinea memory rather than only within overseas UFO literature. The Post-Courier piece, for example, frames Boianai as “PNG’s most famous UFO sighting” and places it within a broader local feature narrative, while Callick’s article draws on Gill’s letters and mission context with more detail about people, place, and chronology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.postcourier.com.pg/alien-visitors-appear-at-boianai/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: postcourier.com.pg">[Post Courier]</a><span class="citation-popover" role="note"><span class="citation-popover-source">postcourier.com.pg</span><span class="citation-popover-title">Post Courier Alien visitors appear at Boianai</span><span class="citation-popover-snippet">Post Courier Alien visitors appear at Boianai</span></span></span>
+
+The weakest sources are those that flatten the case into “aliens waved at villagers” without explaining the documentation, the doubts, the possible ordinary explanations, or the absence of physical evidence. A strong Papua New Guinea UFO page should preserve the strangeness of Boianai while making clear that “unexplained” is not the same as “confirmed extraterrestrial”.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/24wAgpPgzZ4" title="Priest&#x27;s Puzzling UFO SIGHTING from Papua New Guinea in 1952" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=24wAgpPgzZ4" target="_blank" rel="noopener noreferrer">Priest&#x27;s Puzzling UFO SIGHTING from Papua New Guinea in 1952</a></p><p class="youtube-embed-meta">Channel: Weird World &middot; Views: 10.2K &middot; Uploaded: September 2025 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=24wAgpPgzZ4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=24wAgpPgzZ4">Open on YouTube</a></p></div></div></div>
+
+## What Papua New Guinea adds to Pacific UFO history
+
+Papua New Guinea’s UFO record is small but distinctive. Boianai is one of the few famous Pacific cases centred on a mission village, named local witnesses, apparent occupants, and reciprocal gestures. The 1985 Wewak-Angoram report, by contrast, shows how a UAP label can also cover a much more practical state concern: unidentified high-speed aircraft, frightened residents, radar ambiguity, and questions about foreign military presence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rowancallick.com/article-for-png-post-courier/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rowancallick.com">[ROWAN CALLICK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rowancallick.com</span><span class="citation-popover-title">ROWAN CALLICKArticle for PNG Post-Courier</span><span class="citation-popover-snippet">ROWAN CALLICKArticle for PNG Post-Courier</span></span></span>
+
+The enduring lesson is not that Papua New Guinea has an unusually high number of UFO incidents. It is that a country with very few public cases can still contain one historically important anomaly. Boianai remains memorable because it is human, local, and oddly detailed; the 1985 cable matters because it is official, terse, and unresolved. Together they show why Papua New Guinea should be read as a narrow but valuable branch of Pacific UFO history: rich in one contested case, thin in confirmed data, and strongest when handled with careful separation between record, interpretation, and belief.
+
+
+<img src="{{ "/assets/images/Papua_New_Guinea_90e80c-Illustration-3-light.svg" | relative_url }}" alt="Papua New Guinea illustration 3" data-theme-src-dark="{{ "/assets/images/Papua_New_Guinea_90e80c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Papua_New_Guinea_90e80c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to What Really Happened in PNG&#x27;s UFO Record?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+        </h4>
+        <p class="fr-book-author">By J. Allen Hynek</p>
+        
+        <p class="fr-book-desc">Useful for comparing historical sighting cases across regions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+        </h4>
+        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        
+        <p class="fr-book-desc">Well suited to assessing famous witness cases like Boianai.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+        </h4>
+        <p class="fr-book-author">By Leslie Kean</p>
+        
+        <p class="fr-book-desc">Emphasises evidence quality and corroborated testimony.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+        </h4>
+        <p class="fr-book-author">By Jacques Vallee</p>
+        
+        <p class="fr-book-desc">Provides context for interpreting extraordinary witness narratives.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: rowancallick.com  
+   Title: ROWAN CALLICKArticle for PNG Post-Courier  
+   Link: [https://rowancallick.com/article-for-png-post-courier/](https://rowancallick.com/article-for-png-post-courier/)  
+
+2. <a id="endnote-2"></a>
+   Source: war.gov  
+   Title: U.S. Department of War State Department UAP Cable 1, Papua New Guinea,  
+   Link: [https://www.war.gov/medialink/ufo/release_1/dos-uap-d1-cable-1-papua-new-guinea-january-1985.pdf](https://www.war.gov/medialink/ufo/release_1/dos-uap-d1-cable-1-papua-new-guinea-january-1985.pdf)  
+
+3. <a id="endnote-3"></a>
+   Source: nuforc.org  
+   Title: NUFOR C Reports by Location  
+   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+
+4. <a id="endnote-4"></a>
+   Source: nuforc.org  
+   Title: Data Bank | NUFORC  
+   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
+
+5. <a id="endnote-5"></a>
+   Source: magoniamagazine.blogspot.com  
+   Title: MAGONI A ARCHIVE: Gill Again: The Father Gill Case Reconsidered  
+   Link: [https://magoniamagazine.blogspot.com/2013/12/gill-again-father-gill-case-reconsidered.html](https://magoniamagazine.blogspot.com/2013/12/gill-again-father-gill-case-reconsidered.html)  
+
+6. <a id="endnote-6"></a>
+   Source: archive.org  
+   Link: [https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt](https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt)  
+
+7. <a id="endnote-7"></a>
+   Source: nuforc.org  
+   Link: [https://nuforc.org/](https://nuforc.org/)  
+
+8. <a id="endnote-8"></a>
+   Source: nuforc.org  
+   Link: [https://nuforc.org/map/](https://nuforc.org/map/)  
+
+9. <a id="endnote-9"></a>
+   Source: war.gov  
+   Title: department of war releases unidentified anomalous phenomena files in historic t  
+   Link: [https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/](https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/)  
+
+10. <a id="endnote-10"></a>
+   Source: war.gov  
+   Link: [https://www.war.gov/UFO/?search=unidentified+aerial](https://www.war.gov/UFO/?search=unidentified+aerial)  
+
+11. <a id="endnote-11"></a>
+   Source: war.gov  
+   Link: [https://www.war.gov/ufo/](https://www.war.gov/ufo/)  
+
+12. <a id="endnote-12"></a>
+   Source: radiantufo.blogspot.com  
+   Link: [https://radiantufo.blogspot.com/2012/05/reverend-william-gill-papua-new-guinea.html](https://radiantufo.blogspot.com/2012/05/reverend-william-gill-papua-new-guinea.html)  
+
+13. <a id="endnote-13"></a>
+   Source: ia600600.us.archive.org  
+   Title: 492780987 The UFO Book Encyclopedia of the Extraterrestrial PDFDrive  
+   Link: [https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf](https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf)  
+
+14. <a id="endnote-14"></a>
+   Source: strangeco.blogspot.com  
+   Title: the priest and friendly ufos  
+   Link: [https://strangeco.blogspot.com/2025/12/the-priest-and-friendly-ufos.html](https://strangeco.blogspot.com/2025/12/the-priest-and-friendly-ufos.html)  
+
+15. <a id="endnote-15"></a>
+   Source: abc.net.au  
+   Title: ABC News Released UFO files document 'sightings' in Papua New Guinea  
+   Link: [https://www.abc.net.au/pacific/programs/pacificbeat/ufo/106721442](https://www.abc.net.au/pacific/programs/pacificbeat/ufo/106721442)  
+
+16. <a id="endnote-16"></a>
+   Source: catalogue.nla.gov.au  
+   Link: [https://catalogue.nla.gov.au/catalog/2951975](https://catalogue.nla.gov.au/catalog/2951975)  
+
+17. <a id="endnote-17"></a>
+   Source: postcourier.com.pg  
+   Title: Post Courier Alien visitors appear at Boianai  
+   Link: [https://www.postcourier.com.pg/alien-visitors-appear-at-boianai/](https://www.postcourier.com.pg/alien-visitors-appear-at-boianai/)  
+
+18. <a id="endnote-18"></a>
+   Source: warufo.com  
+   Link: [https://warufo.com/document/152](https://warufo.com/document/152)  
+
+### Additional References
+
+19. <a id="endnote-19"></a>
+   Source: youtube.com  
+   Title: Did Aliens Just Crash Into the Pacific?  
+   Link: [https://www.youtube.com/watch?v=bEb6oZAACB8](https://www.youtube.com/watch?v=bEb6oZAACB8)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists to hunt down suspected space object that hit Earth in 2014...</p></details>
+
+20. <a id="endnote-20"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=6IMr07b_wQU](https://www.youtube.com/watch?v=6IMr07b_wQU)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Did Aliens Just Crash Into the Pacific? - Dr. Avi Loeb, Harvard Astrophysics...</p></details>
+
+21. <a id="endnote-21"></a>
+   Source: youtube.com  
+   Title: Harvard Scientist Hunts for Alien Tech in Pacific Ocean | WION Podcast  
+   Link: [https://www.youtube.com/watch?v=Oq-HK7X6Fig](https://www.youtube.com/watch?v=Oq-HK7X6Fig)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard professor believes he may have found alien technology...</p></details>
+
+22. <a id="endnote-22"></a>
+   Source: youtube.com  
+   Title: Harvard professor believes he may have found alien technology  
+   Link: [https://www.youtube.com/watch?v=IAyfJ97uMLE](https://www.youtube.com/watch?v=IAyfJ97uMLE)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Most Mysterious Flight in History: Papua New Guinea, 1985...</p></details>
+
+23. <a id="endnote-23"></a>
+   Source: energy.gov  
+   Link: [https://www.energy.gov/nnsa/uapufo-resources-and-documents](https://www.energy.gov/nnsa/uapufo-resources-and-documents)  
+
+24. <a id="endnote-24"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/ABCPacific/photos/the-truth-is-out-there-the-files-mention-two-sightings-in-png-one-was-an-unknown/1415693230593011/](https://www.facebook.com/ABCPacific/photos/the-truth-is-out-there-the-files-mention-two-sightings-in-png-one-was-an-unknown/1415693230593011/)  
+
+25. <a id="endnote-25"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/NewsNationNow/posts/aboriginal-communities-have-reported-block-sized-objects-in-australian-skies-def/1010047821402235/](https://www.facebook.com/NewsNationNow/posts/aboriginal-communities-have-reported-block-sized-objects-in-australian-skies-def/1010047821402235/)  
+
+26. <a id="endnote-26"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/groups/alotau.mbp/posts/9819879108044294/](https://www.facebook.com/groups/alotau.mbp/posts/9819879108044294/)  
+
+27. <a id="endnote-27"></a>
+   Source: nio.gov.pg  
+   Link: [https://nio.gov.pg/executive-team/](https://nio.gov.pg/executive-team/)  
+
+28. <a id="endnote-28"></a>
+   Source: ufoevidence.org  
+   Link: [https://www.ufoevidence.org/cases/case67.htm](https://www.ufoevidence.org/cases/case67.htm)  

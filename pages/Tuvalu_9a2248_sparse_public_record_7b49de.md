@@ -1,0 +1,606 @@
+---
+level: 2
+basename: Tuvalu_9a2248_sparse_public_record_7b49de
+parent_basename: Tuvalu_9a2248
+child_basenames: []
+sibling_basenames:
+- Tuvalu_9a2248_archive_search_route_0fd809
+- Tuvalu_9a2248_funafuti_1961_echo_c183f4
+- Tuvalu_9a2248_funafuti_outer_islan_765438
+tags:
+- tuvalu
+- sparse-record
+keywords:
+- tuvalu
+- sparse-record
+affiliate_category: tuvalu
+show_ads: true
+description: Tuvalu's UFO record is thin because small-island geography, limited digitisation, and colonial record dispersal shape what survives online.
+hero_summary: Tuvalu's UFO record is thin because small-island geography, limited digitisation, and colonial record dispersal shape what survives online.
+layout: default
+permalink: /sparse-record-00b300/
+sidebar_expanded_urls:
+- /what-can-tuvalus-ufo-record-really-show/
+nav_short_title: Sparse Record
+title: Why Are Tuvalu UFO Cases So Rare?
+title_full: Why Are Tuvalu UFO Cases So Rare? | Tuvalu UFOs
+display_title_short: Sparse Record
+display_title: Sparse Record
+heading_title: Why Are Tuvalu UFO Cases So Rare?
+page_heading_title: Why Are Tuvalu UFO Cases So Rare?
+source_count: 32
+infographic_count: 3
+planned_sections:
+- Small population and limited reporting channels
+- Digitisation gaps and local media limits
+- Colonial era records outside Tuvalu
+focal_unit_type: mechanism
+topic_lens: mechanism
+topic_granularity: theme_cluster
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+parent_title: Tuvalu UFOs
+parent_permalink: /what-can-tuvalus-ufo-record-really-show/
+parent_nav_short_title: Tuvalu UFOs
+parent_heading_title: What Can Tuvalu's UFO Record Really Show?
+ancestor_links:
+- basename: Tuvalu_9a2248
+  title: Tuvalu UFOs
+  permalink: /what-can-tuvalus-ufo-record-really-show/
+  short_title: Tuvalu UFOs
+breadcrumb_links:
+- basename: Tuvalu_9a2248
+  title: Tuvalu UFOs
+  permalink: /what-can-tuvalus-ufo-record-really-show/
+  short_title: Tuvalu UFOs
+sibling_links:
+- basename: Tuvalu_9a2248_archive_search_route_0fd809
+  title: Archive Search | What Can Tuvalu's UFO Record Really Show?
+  permalink: /archive-search/
+  short_title: Archive Search
+  heading_title: Where Could Tuvalu UFO Records Be Hidden?
+- basename: Tuvalu_9a2248_funafuti_1961_echo_c183f4
+  title: Funafuti Echo | What Can Tuvalu's UFO Record Really Show?
+  permalink: /funafuti-echo/
+  short_title: Funafuti Echo
+  heading_title: What Happened in the Funafuti Echo Case?
+- basename: Tuvalu_9a2248_funafuti_outer_islan_765438
+  title: Island Bias | What Can Tuvalu's UFO Record Really Show?
+  permalink: /island-bias/
+  short_title: Island Bias
+  heading_title: Does Funafuti Distort Tuvalu's UFO Map?
+up_link:
+  basename: Tuvalu_9a2248
+  title: Tuvalu UFOs
+  permalink: /what-can-tuvalus-ufo-record-really-show/
+  short_title: Tuvalu UFOs
+prev_link:
+  basename: Tuvalu_9a2248_funafuti_outer_islan_765438
+  title: Island Bias | What Can Tuvalu's UFO Record Really Show?
+  permalink: /island-bias/
+  short_title: Island Bias
+  heading_title: Does Funafuti Distort Tuvalu's UFO Map?
+date: '2026-05-31 04:35:12 '
+header:
+  og_image: /assets/images/Tuvalu_9a2248_sparse_public_record_7b49de-Illustration-1-social.jpg
+  preview_image: /assets/images/Tuvalu_9a2248_sparse_public_record_7b49de-Illustration-1.webp
+image: /assets/images/Tuvalu_9a2248_sparse_public_record_7b49de-Illustration-1-social.jpg
+---
+
+## Introduction
+
+[Tuvalu]({{ 'what-can-tuvalus-ufo-record-really-show/' | relative_url }}) has one of the sparsest public UFO records in the Pacific. That does not necessarily mean people in Tuvalu have never reported unusual lights, aerial objects, or unexplained experiences. The more important question is why so few reports entered public archives, newspapers, government files, or searchable online databases in the first place.
+
+
+<img src="{{ "/assets/images/Tuvalu_9a2248_sparse_public_record_7b49de-Illustration-1-light.svg" | relative_url }}" alt="Sparse Record illustration 1" data-theme-src-dark="{{ "/assets/images/Tuvalu_9a2248_sparse_public_record_7b49de-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tuvalu_9a2248_sparse_public_record_7b49de-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+Several structural factors help explain the gap. Tuvalu has a very small population, limited media infrastructure, geographically dispersed islands, and an archival history shaped by British colonial administration and regional record-keeping systems. As a result, the surviving public UFO record is unusually thin, and some of the few documented cases connected to Tuvalu are preserved not in Tuvalu itself but in New Zealand and wider Pacific archival collections. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tuvaluarchives.tv/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tuvaluarchives.tv">[tuvaluarchives.tv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tuvaluarchives.tv</span><span class="citation-popover-snippet">Tuvalu National Library and ArchivesThe Tuvalu National Library and Archives was established in 1978 and operate as a department under th...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://asiapacific.anu.edu.au/pambu/catalogue/index.php/office-of-district-commissioner-general-correspondence-registers-and-miscellaneous-records-1928-1964-western-pacific-archives-tuv-10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asiapacific.anu.edu.au">[ANU College of Asia &amp; the Pacific]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asiapacific.anu.edu.au</span><span class="citation-popover-snippet">ANU College of Asia &amp; the PacificCollection MS 1306 - Office of the District Commissioner...Formerly known as the Ellice Islands, Tuvalu...</span></span></span>
+
+The scarcity of public cases therefore tells us more about reporting systems, preservation practices, and archival visibility than it does about whether unexplained sightings ever occurred.
+
+## Small Population, Small Reporting Base
+
+The most basic explanation is demographic. Tuvalu's population is roughly 11,000 people, making it one of the world's least populous sovereign states. More than half of residents live on Funafuti, while the remainder are spread across remote outer islands separated by large stretches of ocean. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ewsdata.rightsindevelopment.org/files/documents/99/WB-P179599_7AXNxyf.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ewsdata.rightsindevelopment.org">[Early Warning System]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ewsdata.rightsindevelopment.org</span><span class="citation-popover-snippet">Early Warning SystemTuvalu: Pacific Islands Regional Oceanscape Program –...The population of Tuvalu was estimated at around 11,200 in 2...</span></span></span>
+
+In larger countries, even rare aerial sightings can generate a sizeable public record because:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* Millions of people may witness unusual events.
+* Multiple newspapers compete for stories.
+* Amateur astronomy groups, aviation enthusiasts, and UFO organisations collect reports.
+* Police, military, and civil aviation agencies may maintain incident logs.
+
+</div>
+
+Tuvalu has historically lacked many of those reporting layers. A sighting observed by only a handful of people on a remote island may never have reached a newspaper archive, scientific institution, or government database.
+
+This creates an important statistical effect. Even if unusual aerial observations occurred at the same rate as elsewhere, the absolute number of potential witnesses and reporters would still be far lower. A country with millions of residents naturally generates a much larger public record than one with a population comparable to a small town.
+
+## Why Remote Island Sightings Often Leave No Public Trace
+
+Many UFO databases depend on formal reporting channels. Witnesses typically submit reports to newspapers, civilian UFO groups, aviation authorities, defence agencies, or online portals.
+
+Historically, Tuvalu had few such channels.
+
+Before widespread internet access, a resident on an outer island who saw an unusual light over the ocean would have needed to communicate that observation through local administrative structures, radio networks, visiting officials, or word of mouth. If no formal investigation followed, the event could disappear from the documentary record entirely.
+
+The problem becomes more pronounced when researchers attempt retrospective searches. Modern UFO databases often rely on digitised newspapers and searchable government collections. If a sighting was never written down, never archived, or never digitised, it effectively becomes invisible to later investigators.
+
+This helps explain why Tuvalu's documented UFO history appears so much thinner than that of countries with extensive newspaper archives and long-established reporting cultures.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ADMcelTgWYo" title="Here are the released videos from Pentagon&#x27;s first batch of UFO files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ADMcelTgWYo" target="_blank" rel="noopener noreferrer">Here are the released videos from Pentagon&#x27;s first batch of UFO files</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 445.3K &middot; Uploaded: May 2026 &middot; Length: 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ADMcelTgWYo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ADMcelTgWYo">Open on YouTube</a></p></div></div></div>
+
+## Digitisation Gaps Make the Record Look Smaller Than It Is
+
+A second major factor is archival visibility.
+
+Researchers studying Tuvalu frequently encounter a simple problem: many historical records are difficult to search online. The Tuvalu National Library and Archives has spent years preserving government and historical materials, but archival resources remain limited and digitisation is still incomplete. Official archival assessments have noted that few agencies use digital record-keeping systems and that large preservation projects remain ongoing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://parbica.org/wp-content/uploads/2023/11/ISC-Tuvalu.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: parbica.org">[PARBICA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">parbica.org</span><span class="citation-popover-snippet">PARBICAGuidelines for Institutional, State, and Country ReportsOctober 26, 2023 — • Digitization of Public records in the Outer Islands a...</span><span class="citation-popover-meta">Published: October 26, 2023</span></span></span>
+
+This matters because modern UFO research is heavily shaped by what can be found through digital searches.
+
+If a newspaper from London, Sydney, or Wellington published a UFO story in 1965, there is a reasonable chance it now appears in searchable databases. By contrast, records from small Pacific administrations may exist only in paper form, microfilm collections, or scattered archival holdings.
+
+The result is a common misconception: people sometimes assume that an absence of online UFO reports means an absence of sightings. In Tuvalu's case, the more cautious conclusion is that many historical records remain difficult to discover, search, or cross-reference. <span class="citation-chip-wrap"><a class="citation-chip" href="https://parbica.org/wp-content/uploads/2023/11/ISC-Tuvalu.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: parbica.org">[PARBICA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">parbica.org</span><span class="citation-popover-snippet">PARBICAGuidelines for Institutional, State, and Country ReportsOctober 26, 2023 — • Digitization of Public records in the Outer Islands a...</span><span class="citation-popover-meta">Published: October 26, 2023</span></span></span>
+
+## Local Media Never Produced a Large UFO Archive
+
+Another practical reason for the sparse record is the structure of Tuvalu's media environment.
+
+Recent assessments of Tuvalu's media sector describe radio as the country's primary information platform, particularly for public-interest information and communication with outer islands. Local broadcasting has traditionally played a larger role than extensive newspaper publishing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.abc.net.au/abc-international-development/state-of-the-media-tuvalu-2025/105005756" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">state of the media tuvalu 2025</span><span class="citation-popover-snippet">ABC NewsState of the Media: Tuvalu, 2025March 4, 2025 — 4 Mar 2025 — This report provides a detailed, up-to-date snapshot of the state of...</span><span class="citation-popover-meta">Published: March 4, 2025</span></span></span>
+
+For UFO researchers, this creates an unusual challenge.
+
+Newspaper archives often serve as the backbone of historical sighting databases because articles can be searched decades later. Radio broadcasts are much harder to preserve, index, and retrieve, especially when recordings were not systematically archived.
+
+A sighting discussed on local radio may therefore leave far less of a historical footprint than a sighting covered by a major metropolitan newspaper. Even when events were publicly discussed at the time, later researchers may struggle to find surviving documentation.
+
+
+<img src="{{ "/assets/images/Tuvalu_9a2248_sparse_public_record_7b49de-Illustration-2-light.svg" | relative_url }}" alt="Sparse Record illustration 2" data-theme-src-dark="{{ "/assets/images/Tuvalu_9a2248_sparse_public_record_7b49de-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tuvalu_9a2248_sparse_public_record_7b49de-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Colonial-Era Records Are Scattered Across Multiple Countries
+
+One of the most important reasons Tuvalu's UFO record appears so thin is that historical records are not concentrated in a single national archive.
+
+Before independence in 1978, Tuvalu formed part of the Gilbert and Ellice Islands colonial administration. Administrative records were created and stored through British colonial systems and wider regional networks. Relevant documents can therefore appear in collections held outside modern Tuvalu. <span class="citation-chip-wrap"><a class="citation-chip" href="https://asiapacific.anu.edu.au/pambu/catalogue/index.php/office-of-district-commissioner-general-correspondence-registers-and-miscellaneous-records-1928-1964-western-pacific-archives-tuv-10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asiapacific.anu.edu.au">[ANU College of Asia &amp; the Pacific]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asiapacific.anu.edu.au</span><span class="citation-popover-snippet">ANU College of Asia &amp; the PacificCollection MS 1306 - Office of the District Commissioner...Formerly known as the Ellice Islands, Tuvalu...</span></span></span>
+
+This pattern is visible in the best-known documented UFO-related incident connected to Tuvalu.
+
+The 1961 Funafuti "unidentified object" case survives primarily through New Zealand defence and meteorological files rather than through a dedicated Tuvalu UFO archive. Correspondence involving meteorological personnel and defence officials was preserved in New Zealand records and later released through declassified UFO file collections. Internet Archive <span class="citation-chip-wrap"><a class="citation-chip" href="https://natlib.govt.nz/records/22601455" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: natlib.govt.nz">[National Library of New Zealand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">natlib.govt.nz</span><span class="citation-popover-snippet">National Library of New ZealandTuvalu | ItemsGilbert and Ellice Islands Colony, Ellice Islands District: Records. Date: 1910-1972. From...</span></span></span>
+
+The case demonstrates a broader archival reality:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* A report may originate in Funafuti.
+* Technical analysis may occur in another Pacific territory.
+* Administrative correspondence may be filed in New Zealand or Britain.
+* Later researchers may only discover the case through foreign archives.
+
+</div>
+
+That fragmentation makes comprehensive searches difficult and increases the likelihood that minor incidents remain overlooked.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2gWJrH4YeP4" title="Cosmic Giants Who Terrorized the Solomon Islands (S21) | Ancient Aliens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2gWJrH4YeP4" target="_blank" rel="noopener noreferrer">Cosmic Giants Who Terrorized the Solomon Islands (S21) | Ancient Aliens</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 28.2K &middot; Uploaded: February 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2gWJrH4YeP4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2gWJrH4YeP4">Open on YouTube</a></p></div></div></div>
+
+## Preservation Challenges Affect What Survives
+
+Tuvalu faces archival challenges that differ from those of larger states.
+
+The national archives have highlighted the importance of safeguarding records inherited from the colonial period and preserving government documentation for future research. At the same time, archivists have worked under constraints involving storage, digitisation capacity, and environmental vulnerability. Preservation discussions have also noted the risks posed by cyclones and the broader threat of climate-related damage to physical records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tuvaluarchives.tv/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tuvaluarchives.tv">[tuvaluarchives.tv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tuvaluarchives.tv</span><span class="citation-popover-snippet">Tuvalu National Library and ArchivesThe Tuvalu National Library and Archives was established in 1978 and operate as a department under th...</span></span></span> Wikipedia These issues are not unique to UFO material. They affect land records <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Tuvalu_National_Library_and_Archives" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Tuvalu National Library and Archives</span><span class="citation-popover-snippet">Tuvalu National Library and Archives</span></span></span>, administrative correspondence, photographs, and historical documents generally.
+
+For UFO researchers, however, the consequences are particularly significant because anomalous-sighting records are often considered low-priority compared with legal, governmental, or cultural records. If resources are limited, preserving essential state documents naturally takes precedence over preserving occasional reports of unusual aerial observations.
+
+That means the historical survival rate for UFO-related material may be especially low.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dHGn_yPSgg0" title="Why This UFO Sighting Was Different | Monstrum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dHGn_yPSgg0" target="_blank" rel="noopener noreferrer">Why This UFO Sighting Was Different | Monstrum</a></p><p class="youtube-embed-meta">Channel: Storied &middot; Views: 434.5K &middot; Uploaded: February 2026 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dHGn_yPSgg0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dHGn_yPSgg0">Open on YouTube</a></p></div></div></div>
+
+## The Funafuti Case Shows What a Surviving Record Looks Like
+
+The 1961 Funafuti incident is useful precisely because it survived.
+
+The case involved a technical observation associated with meteorological operations and generated enough official correspondence to enter government files. Because trained personnel documented the event and exchanged reports through institutional channels, the paperwork remained within archival systems and eventually became accessible through declassified collections. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/details/NewZealandUFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">New Zealand UFO</span><span class="citation-popover-snippet">Internet ArchiveDeclassified New Zealand UFO documents11 Dec 2015 — Declassified New Zealand UFO documents · Share or Embed This Item · F...</span></span></span>
+
+Most potential sightings would not have enjoyed those advantages.
+
+A fisherman reporting an unusual light, a resident describing a strange object over the lagoon, or a traveller recounting an unexplained observation might never have triggered formal documentation. Without institutional paperwork, there would be little chance of long-term archival survival.
+
+The Funafuti file therefore may tell researchers less about the frequency of sightings than about the kinds of incidents that were capable of leaving a durable documentary trace.
+
+
+<img src="{{ "/assets/images/Tuvalu_9a2248_sparse_public_record_7b49de-Illustration-3-light.svg" | relative_url }}" alt="Sparse Record illustration 3" data-theme-src-dark="{{ "/assets/images/Tuvalu_9a2248_sparse_public_record_7b49de-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tuvalu_9a2248_sparse_public_record_7b49de-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Sparse Records Are Not Evidence Either Way
+
+The key lesson from Tuvalu's UFO record is that absence of evidence and evidence of absence are not the same thing.
+
+There is currently no strong public record showing that Tuvalu experienced a large number of documented UFO incidents. At the same time, the country's small population, dispersed geography, limited historical media infrastructure, incomplete digitisation, and scattered colonial archives all create conditions in which reports can disappear from public view. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tuvaluarchives.tv/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tuvaluarchives.tv">[tuvaluarchives.tv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tuvaluarchives.tv</span><span class="citation-popover-snippet">Tuvalu National Library and ArchivesThe Tuvalu National Library and Archives was established in 1978 and operate as a department under th...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.abc.net.au/abc-international-development/state-of-the-media-tuvalu-2025/105005756" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">state of the media tuvalu 2025</span><span class="citation-popover-snippet">ABC NewsState of the Media: Tuvalu, 2025March 4, 2025 — 4 Mar 2025 — This report provides a detailed, up-to-date snapshot of the state of...</span><span class="citation-popover-meta">Published: March 4, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://parbica.org/wp-content/uploads/2023/11/ISC-Tuvalu.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: parbica.org">[PARBICA As a result]</a><span class="citation-popover" role="note"><span class="citation-popover-source">parbica.org</span><span class="citation-popover-snippet">PARBICAGuidelines for Institutional, State, and Country ReportsOctober 26, 2023 — • Digitization of Public records in the Outer Islands a...</span><span class="citation-popover-meta">Published: October 26, 2023</span></span></span>, the sparse record should be interpreted cautiously. It supports the conclusion that very few UFO cases are publicly documented in Tuvalu. It does not support stronger claims that no sightings ever occurred, nor does it justify speculation that significant hidden cases definitely exist.
+
+What it reveals most clearly is a problem of documentation: in Tuvalu, the challenge is often finding records at all, rather than deciding between competing explanations for a large body of reports.
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Are Tuvalu UFO Cases So Rare?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+        </h4>
+        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        
+        <p class="fr-book-desc">Shows how sparse data complicates UFO analysis.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+        </h4>
+        <p class="fr-book-author">By Leslie Kean</p>
+        
+        <p class="fr-book-desc">Focuses on documented cases and source reliability.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+        </h4>
+        <p class="fr-book-author">By Jacques Vallee</p>
+        
+        <p class="fr-book-desc">Explains how stories survive even when records are limited.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+        </h4>
+        <p class="fr-book-author">By Carl Sagan</p>
+        
+        <p class="fr-book-desc">Addresses how evidence gaps and weak records affect conclusions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: tuvaluarchives.tv  
+   Link: [https://www.tuvaluarchives.tv/](https://www.tuvaluarchives.tv/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tuvalu National Library and ArchivesThe Tuvalu National Library and Archives was established in 1978 and operate as a department under th...</p></details>
+
+2. <a id="endnote-2"></a>
+   Source: archive.org  
+   Title: New Zealand UFO  
+   Link: [https://archive.org/details/NewZealandUFO](https://archive.org/details/NewZealandUFO)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveDeclassified New Zealand UFO documents11 Dec 2015 — Declassified New Zealand UFO documents · Share or Embed This Item · F...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: parbica.org  
+   Link: [https://parbica.org/wp-content/uploads/2023/11/ISC-Tuvalu.pdf](https://parbica.org/wp-content/uploads/2023/11/ISC-Tuvalu.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>PARBICAGuidelines for Institutional, State, and Country ReportsOctober 26, 2023 — • Digitization of Public records in the Outer Islands a...</p></details>
+   Published: October 26, 2023  
+
+4. <a id="endnote-4"></a>
+   Source: Wikipedia  
+   Title: Tuvalu National Library and Archives  
+   Link: [https://en.wikipedia.org/wiki/Tuvalu_National_Library_and_Archives](https://en.wikipedia.org/wiki/Tuvalu_National_Library_and_Archives)  
+
+5. <a id="endnote-5"></a>
+   Source: Wikipedia  
+   Link: [https://en.wikipedia.org/wiki/Tuvalu](https://en.wikipedia.org/wiki/Tuvalu)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>TuvaluTuvalu is an archipelagic country in the Polynesian sub-region of Oceania in the Pacific Ocean, about midway between Hawaii and...</p></details>
+
+6. <a id="endnote-6"></a>
+   Source: Wikipedia  
+   Title: UFO sightings in New Zealand  
+   Link: [https://en.wikipedia.org/wiki/UFO_sightings_in_New_Zealand](https://en.wikipedia.org/wiki/UFO_sightings_in_New_Zealand)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in New ZealandThe New Zealand Defence Force does not take an official interest in UFO reports, but in December 2010 it r...</p></details>
+   Published: December 2010  
+
+7. <a id="endnote-7"></a>
+   Source: archive.org  
+   Link: [https://archive.org/stream/NewZealandUFO/AIR-244-10-1-Volume-1-1959-1983_djvu.txt](https://archive.org/stream/NewZealandUFO/AIR-244-10-1-Volume-1-1959-1983_djvu.txt)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The files contain reports of sightings by private individuals and military...Read more...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: asiapacific.anu.edu.au  
+   Link: [https://asiapacific.anu.edu.au/pambu/catalogue/index.php/office-of-district-commissioner-general-correspondence-registers-and-miscellaneous-records-1928-1964-western-pacific-archives-tuv-10](https://asiapacific.anu.edu.au/pambu/catalogue/index.php/office-of-district-commissioner-general-correspondence-registers-and-miscellaneous-records-1928-1964-western-pacific-archives-tuv-10)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ANU College of Asia &amp; the PacificCollection MS 1306 - Office of the District Commissioner...Formerly known as the Ellice Islands, Tuvalu...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: ewsdata.rightsindevelopment.org  
+   Link: [https://ewsdata.rightsindevelopment.org/files/documents/99/WB-P179599_7AXNxyf.pdf](https://ewsdata.rightsindevelopment.org/files/documents/99/WB-P179599_7AXNxyf.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Early Warning SystemTuvalu: Pacific Islands Regional Oceanscape Program –...The population of Tuvalu was estimated at around 11,200 in 2...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: mecce.ca  
+   Link: [https://mecce.ca/country_profiles/cce-country-profile-tuvalu/](https://mecce.ca/country_profiles/cce-country-profile-tuvalu/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The MECCE ProjectThe World Bank notes that with a population of only 11,000, around half of whom reside on the main island of Funafuti, T...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: abc.net.au  
+   Title: state of the media tuvalu 2025  
+   Link: [https://www.abc.net.au/abc-international-development/state-of-the-media-tuvalu-2025/105005756](https://www.abc.net.au/abc-international-development/state-of-the-media-tuvalu-2025/105005756)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsState of the Media: Tuvalu, 2025March 4, 2025 — 4 Mar 2025 — This report provides a detailed, up-to-date snapshot of the state of...</p></details>
+   Published: March 4, 2025  
+
+12. <a id="endnote-12"></a>
+   Source: natlib.govt.nz  
+   Link: [https://natlib.govt.nz/records/22601455](https://natlib.govt.nz/records/22601455)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Library of New ZealandTuvalu | ItemsGilbert and Ellice Islands Colony, Ellice Islands District: Records. Date: 1910-1972. From...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: natlib.govt.nz  
+   Link: [https://natlib.govt.nz/records/22979464](https://natlib.govt.nz/records/22979464)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Library of New ZealandUnidentified flying objects (UFO) filesThe files contain reports of sightings by private individuals and m...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: archives-search.sydney.edu.au  
+   Link: [https://archives-search.sydney.edu.au/nodes/view/120681](https://archives-search.sydney.edu.au/nodes/view/120681)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tuvalu and formerly part of Britain&#x27;s colony, Gilbert and Ellice Islands. This series also contains some archival estrays, consisting of...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: asiapacific.anu.edu.au  
+   Link: [https://asiapacific.anu.edu.au/pambu/catalogue/index.php/district-office-funafuti-general-correspondence-files-new-series-c-1963-1970-western-pacific-archives-tuv-9%3Bisad?sf_culture=nl](https://asiapacific.anu.edu.au/pambu/catalogue/index.php/district-office-funafuti-general-correspondence-files-new-series-c-1963-1970-western-pacific-archives-tuv-9%3Bisad?sf_culture=nl)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>office, Funafuti, general correspondence files (new...Formerly known as the Ellice Islands, Tuvalu became a British protectorate in 1892...</p></details>
+
+### Additional References
+
+16. <a id="endnote-16"></a>
+   Source: unfccc.int  
+   Link: [https://unfccc.int/sites/default/files/resource/Tuvalu%20TNC%20Report%20to%20the%20UNFCCC.pdf](https://unfccc.int/sites/default/files/resource/Tuvalu%20TNC%20Report%20to%20the%20UNFCCC.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>TUVALU&#x27;S THIRD NATIONAL COMMUNICATIONThis has become a reality for the people. Despite our very limited resources and capacity to address...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: theguardian.com  
+   Link: [https://www.theguardian.com/world/2023/jun/27/tuvalu-climate-crisis-rising-sea-levels-pacific-island-nation-country-digital-clone](https://www.theguardian.com/world/2023/jun/27/tuvalu-climate-crisis-rising-sea-levels-pacific-island-nation-country-digital-clone)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Facing extinction, Tuvalu considers the digital clone of a...27 Jun 2023 — As the climate emergency threatens its existence, the tiny Pa...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: pbs.org  
+   Title: as climate change threatens island nations some turn to digitizing their history  
+   Link: [https://www.pbs.org/newshour/show/as-climate-change-threatens-island-nations-some-turn-to-digitizing-their-history](https://www.pbs.org/newshour/show/as-climate-change-threatens-island-nations-some-turn-to-digitizing-their-history)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>As climate change threatens island nations, some turn to...7 Jul 2024 — Two island nations in the Atlantic and the Pacific are taking st...</p></details>
+
+19. <a id="endnote-19"></a>
+   Source: tuvalu-data.sprep.org  
+   Title: 211110 Tuvalu State of Environment report Final Interactive  
+   Link: [https://tuvalu-data.sprep.org/system/files/211110-Tuvalu-State-of-Environment-report%20Final%20Interactive.pdf](https://tuvalu-data.sprep.org/system/files/211110-Tuvalu-State-of-Environment-report%20Final%20Interactive.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>STATE OF ENVIRONMENT REPORT 2022The Tuvalu State of Environment Report presents an overview across four thematic areas: Environmental Gov...</p></details>
+
+20. <a id="endnote-20"></a>
+   Source: doi.gov  
+   Title: Cooperation throughout the Austral Pacific.Read more  
+   Link: [https://www.doi.gov/sites/doi.gov/files/uploads/invasive_alien_species_in_the_austral_pacific_region.pdf](https://www.doi.gov/sites/doi.gov/files/uploads/invasive_alien_species_in_the_austral_pacific_region.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Invasive Alien Species in the Austral-Pacific Regionby C Shine · 2003 · Cited by 20 — The report is a product of a workshop entitled, Pre...</p></details>
+
+21. <a id="endnote-21"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/techtimespage/posts/the-pacific-island-nation-of-tuvalu-is-facing-an-existential-crisis-due-to-risin/736124082556666/](https://www.facebook.com/techtimespage/posts/the-pacific-island-nation-of-tuvalu-is-facing-an-existential-crisis-due-to-risin/736124082556666/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>o rising sea levels and the intensifying effects of climate change...</p></details>
+
+22. <a id="endnote-22"></a>
+   Source: documents1.worldbank.org  
+   Link: [https://documents1.worldbank.org/curated/en/099041024214015027/pdf/P177100153d9830581905a18caa1847ea28.pdf](https://documents1.worldbank.org/curated/en/099041024214015027/pdf/P177100153d9830581905a18caa1847ea28.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bank Documentpractices at worksites in remote island settings. iii. Influx of international workers to small island communities: increase...</p></details>
+
+23. <a id="endnote-23"></a>
+   Source: sunrisepage.com  
+   Title: AIR 1080 6 897 Volume 1 1978 1981  
+   Link: [https://www.sunrisepage.com/ufo/files/government/NewZealand/AIR-1080-6-897-Volume-1-1978-1981.pdf](https://www.sunrisepage.com/ufo/files/government/NewZealand/AIR-1080-6-897-Volume-1-1978-1981.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Zealand Defence Force UFO Files 1978-1981The files contain reports of sightings by private individuals and military personnel, invest...</p></details>
+
+24. <a id="endnote-24"></a>
+   Source: nzdf.mil.nz  
+   Title: OIA 2023 4763 UAP UFO USO  
+   Link: [https://www.nzdf.mil.nz/assets/Uploads/DocumentLibrary/OIA-2023-4763_UAP-UFO-USO.pdf](https://www.nzdf.mil.nz/assets/Uploads/DocumentLibrary/OIA-2023-4763_UAP-UFO-USO.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>OIA-2023-4763The NZDF neither investigates nor maintains records relating to UAS/UFO sightings. You have the right, under section 28(3) o...</p></details>
+
+25. <a id="endnote-25"></a>
+   Source: searcharchives.bl.uk  
+   Link: [https://searcharchives.bl.uk/?f%5Bcollection_area_ssi%5D%5B%5D=Endangered+Archives+Programme&f%5Blanguage_ssim%5D%5B%5D=Tuvalu&f%5Burl_stub_si%5D%5B%5D=eap.bl.uk&page=125&sort=hierarchy](https://searcharchives.bl.uk/?f%5Bcollection_area_ssi%5D%5B%5D=Endangered+Archives+Programme&f%5Blanguage_ssim%5D%5B%5D=Tuvalu&f%5Burl_stub_si%5D%5B%5D=eap.bl.uk&page=125&sort=hierarchy)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Archives Programme / Language: Tuvalu /...Funafuti Native News was published in Funafuti by the Ellice Islands District Office of the Gi...</p></details>
