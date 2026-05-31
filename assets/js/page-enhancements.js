@@ -8791,20 +8791,45 @@
       var zoomState = { scale: 1, x: 0, y: 0 };
       var minZoom = 1;
       var maxZoom = 6;
+      var panButtons = {};
+      var getPanLimits = function() {
+        var rect = canvas.getBoundingClientRect();
+        var width = rect.width || 0;
+        var height = rect.height || 0;
+        return {
+          maxX: Math.max(0, width * (zoomState.scale - 1)),
+          maxY: Math.max(0, height * (zoomState.scale - 1))
+        };
+      };
+      var setPanButtonState = function(direction, isAvailable) {
+        var button = panButtons[direction];
+        if (!button) {
+          return;
+        }
+        button.hidden = !isAvailable;
+        button.disabled = !isAvailable;
+        button.setAttribute('aria-hidden', isAvailable ? 'false' : 'true');
+      };
+      var updatePanControls = function() {
+        var limits = getPanLimits();
+        var isZoomed = zoomState.scale > 1.01;
+        var tolerance = 1;
+        setPanButtonState('left', isZoomed && zoomState.x < -tolerance);
+        setPanButtonState('right', isZoomed && zoomState.x > -limits.maxX + tolerance);
+        setPanButtonState('up', isZoomed && zoomState.y < -tolerance);
+        setPanButtonState('down', isZoomed && zoomState.y > -limits.maxY + tolerance);
+      };
       var applyZoom = function() {
         svg.style.transform = 'translate(' + zoomState.x + 'px, ' + zoomState.y + 'px) scale(' + zoomState.scale + ')';
         svg.style.transformOrigin = '0 0';
         root.setAttribute('data-interactive-map-zoom', zoomState.scale > 1.01 ? 'zoomed' : 'default');
         root.setAttribute('data-uap-world-map-zoom', zoomState.scale > 1.01 ? 'zoomed' : 'default');
+        updatePanControls();
       };
       var clampPan = function() {
-        var rect = canvas.getBoundingClientRect();
-        var width = rect.width || 0;
-        var height = rect.height || 0;
-        var maxX = Math.max(0, width * (zoomState.scale - 1));
-        var maxY = Math.max(0, height * (zoomState.scale - 1));
-        zoomState.x = Math.min(0, Math.max(-maxX, zoomState.x));
-        zoomState.y = Math.min(0, Math.max(-maxY, zoomState.y));
+        var limits = getPanLimits();
+        zoomState.x = Math.min(0, Math.max(-limits.maxX, zoomState.x));
+        zoomState.y = Math.min(0, Math.max(-limits.maxY, zoomState.y));
       };
       var setZoom = function(nextScale, originX, originY) {
         var rect = canvas.getBoundingClientRect();
@@ -8852,8 +8877,12 @@
       };
       var controls = document.createElement('div');
       controls.className = 'interactive-map-controls uap-world-map-controls';
-      controls.setAttribute('aria-label', 'Map zoom and pan controls');
+      controls.setAttribute('aria-label', 'Map zoom controls');
       controls.setAttribute('role', 'group');
+      var panControls = document.createElement('div');
+      panControls.className = 'interactive-map-pan-controls uap-world-map-pan-controls';
+      panControls.setAttribute('aria-label', 'Map pan controls');
+      panControls.setAttribute('role', 'group');
       var makeZoomButton = function(label, ariaLabel, handler) {
         var button = document.createElement('button');
         button.type = 'button';
@@ -8866,22 +8895,32 @@
         });
         return button;
       };
+      var makePanButton = function(direction, label, ariaLabel, handler) {
+        var button = makeZoomButton(label, ariaLabel, handler);
+        button.className += ' interactive-map-pan-control uap-world-map-pan-control interactive-map-pan-control-' + direction;
+        button.hidden = true;
+        button.disabled = true;
+        button.setAttribute('aria-hidden', 'true');
+        panButtons[direction] = button;
+        return button;
+      };
       controls.appendChild(makeZoomButton('+', 'Zoom in', function() { setZoom(zoomState.scale * 1.35); }));
       controls.appendChild(makeZoomButton('-', 'Zoom out', function() { setZoom(zoomState.scale / 1.35); }));
-      controls.appendChild(makeZoomButton('←', 'Move map view left', function() {
+      controls.appendChild(makeZoomButton('Reset', 'Reset map zoom', resetZoom));
+      panControls.appendChild(makePanButton('left', '\u2190', 'Move map view left', function() {
         panBy(Math.max(80, canvas.getBoundingClientRect().width * 0.18), 0);
       }));
-      controls.appendChild(makeZoomButton('↑', 'Move map view up', function() {
+      panControls.appendChild(makePanButton('up', '\u2191', 'Move map view up', function() {
         panBy(0, Math.max(70, canvas.getBoundingClientRect().height * 0.18));
       }));
-      controls.appendChild(makeZoomButton('↓', 'Move map view down', function() {
+      panControls.appendChild(makePanButton('down', '\u2193', 'Move map view down', function() {
         panBy(0, -Math.max(70, canvas.getBoundingClientRect().height * 0.18));
       }));
-      controls.appendChild(makeZoomButton('→', 'Move map view right', function() {
+      panControls.appendChild(makePanButton('right', '\u2192', 'Move map view right', function() {
         panBy(-Math.max(80, canvas.getBoundingClientRect().width * 0.18), 0);
       }));
-      controls.appendChild(makeZoomButton('Reset', 'Reset map zoom', resetZoom));
       canvas.appendChild(controls);
+      canvas.appendChild(panControls);
       canvas.addEventListener('wheel', function(event) {
         event.preventDefault();
         var rect = canvas.getBoundingClientRect();
@@ -8897,7 +8936,7 @@
         }
       };
       canvas.addEventListener('pointerdown', function(event) {
-        if (event.target && event.target.closest && event.target.closest('.interactive-map-controls, .uap-world-map-controls')) {
+        if (event.target && event.target.closest && event.target.closest('.interactive-map-controls, .uap-world-map-controls, .interactive-map-pan-controls, .uap-world-map-pan-controls')) {
           return;
         }
         lastPointerMoved = false;
