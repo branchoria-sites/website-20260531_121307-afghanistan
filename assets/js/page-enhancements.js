@@ -2877,6 +2877,7 @@
       if (!tree || !dataNode) {
         return;
       }
+      var preservedRootMap = tree.querySelector("[data-uap-world-map]");
 
       var payload = {};
       try {
@@ -3420,6 +3421,12 @@
           card.classList.add("ct-node-heavy");
         } else if (childTotal >= 3) {
           card.classList.add("ct-node-medium");
+        }
+
+        if (preservedRootMap && String((node && node.semantic_level) || "").trim().toLowerCase() === "root") {
+          card.classList.add("uap-world-root-card");
+          link.classList.add("uap-world-root-heading");
+          card.appendChild(preservedRootMap);
         }
 
         if (pageUrl && pageUrl !== "#") {
