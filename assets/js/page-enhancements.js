@@ -8774,6 +8774,9 @@
       if (!svg) {
         return;
       }
+      root.addEventListener('click', function(event) {
+        event.stopPropagation();
+      });
       svg.setAttribute('role', 'img');
       svg.setAttribute('aria-label', 'World map of UAP country files');
       var zoomState = { scale: 1, x: 0, y: 0 };
@@ -8855,9 +8858,24 @@
         setZoom(zoomState.scale * factor, event.clientX - rect.left, event.clientY - rect.top);
       }, { passive: false });
       var dragState = null;
+      var lastPointerCountryIso = '';
+      var lastPointerMoved = false;
+      var navigateToItem = function(item) {
+        if (item && item.url) {
+          window.location.href = resolveSiteAssetUrl(item.url);
+        }
+      };
       canvas.addEventListener('pointerdown', function(event) {
         if (event.target && event.target.closest && event.target.closest('.uap-world-map-controls')) {
           return;
+        }
+        lastPointerMoved = false;
+        lastPointerCountryIso = '';
+        if (event.target && event.target.closest) {
+          var countryTarget = event.target.closest('[data-uap-country]');
+          if (countryTarget) {
+            lastPointerCountryIso = String(countryTarget.getAttribute('data-uap-country') || '').toUpperCase();
+          }
         }
         if (zoomState.scale <= 1.01) {
           return;
@@ -8876,6 +8894,9 @@
         if (!dragState || dragState.pointerId !== event.pointerId) {
           return;
         }
+        if (Math.abs(event.clientX - dragState.startX) > 5 || Math.abs(event.clientY - dragState.startY) > 5) {
+          lastPointerMoved = true;
+        }
         zoomState.x = dragState.originX + event.clientX - dragState.startX;
         zoomState.y = dragState.originY + event.clientY - dragState.startY;
         clampPan();
@@ -8890,12 +8911,33 @@
       };
       canvas.addEventListener('pointerup', endPan);
       canvas.addEventListener('pointercancel', endPan);
+      canvas.addEventListener('click', function(event) {
+        event.preventDefault();
+        event.stopPropagation();
+        if (lastPointerMoved) {
+          lastPointerMoved = false;
+          lastPointerCountryIso = '';
+          return;
+        }
+        var countryNode = event.target && event.target.closest ? event.target.closest('[data-uap-country]') : null;
+        var iso = countryNode
+          ? String(countryNode.getAttribute('data-uap-country') || '').toUpperCase()
+          : lastPointerCountryIso;
+        lastPointerCountryIso = '';
+        if (iso && byIso[iso]) {
+          navigateToItem(byIso[iso]);
+        }
+      });
       applyZoom();
       var active = null;
+      var activeItem = null;
       var updatePreview = function(item) {
         if (!item || !preview) {
           return;
         }
+        preview.setAttribute('tabindex', item.url ? '0' : '-1');
+        preview.setAttribute('role', item.url ? 'link' : 'group');
+        preview.setAttribute('aria-label', item.url ? 'Open ' + (item.country || item.mapName || item.title || 'country') + ' UAP file' : 'Country preview');
         var imageUrl = resolveSiteAssetUrl(item.image);
         var imageHtml = imageUrl ? '<img src="' + escapeHtml(imageUrl) + '" alt="" loading="eager" decoding="async" fetchpriority="high">' : '';
         preview.innerHTML = imageHtml + '<span class="uap-world-map-preview-kicker">' + escapeHtml(item.country || item.mapName || 'Country file') + '</span><strong data-uap-world-map-preview-title>' + escapeHtml(item.title || item.label || item.country || 'Country file') + '</strong><span data-uap-world-map-preview-summary>' + escapeHtml(item.summary || 'Open this country file from the map.') + '</span>';
@@ -8906,9 +8948,24 @@
           active = null;
         }
       };
+      if (preview) {
+        preview.addEventListener('click', function(event) {
+          event.preventDefault();
+          event.stopPropagation();
+          navigateToItem(activeItem);
+        });
+        preview.addEventListener('keydown', function(event) {
+          if (event.key === 'Enter' || event.key === ' ') {
+            event.preventDefault();
+            event.stopPropagation();
+            navigateToItem(activeItem);
+          }
+        });
+      }
       var focusCountry = function(node, item, options) {
         clearActive();
         active = node;
+        activeItem = item;
         node.classList.add('is-hovered');
         updatePreview(item);
         if (options && options.zoom) {
@@ -8934,11 +8991,16 @@
         node.addEventListener('mouseenter', function() { focusCountry(node, item); });
         node.addEventListener('focus', function() { focusCountry(node, item); });
         node.addEventListener('mouseleave', clearActive);
-        node.addEventListener('click', function() { if (item.url) { window.location.href = resolveSiteAssetUrl(item.url); } });
+        node.addEventListener('click', function(event) {
+          event.preventDefault();
+          event.stopPropagation();
+          navigateToItem(item);
+        });
         node.addEventListener('keydown', function(event) {
           if ((event.key === 'Enter' || event.key === ' ') && item.url) {
             event.preventDefault();
-            window.location.href = resolveSiteAssetUrl(item.url);
+            event.stopPropagation();
+            navigateToItem(item);
           }
         });
       });

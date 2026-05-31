@@ -15436,6 +15436,12 @@ a.fr-book-fit:focus-visible {
   border-radius: 14px;
   background: rgba(255, 255, 255, 0.86);
   box-shadow: 0 12px 24px rgba(23, 32, 56, 0.1);
+  cursor: pointer;
+}
+
+.uap-world-map-preview:focus-visible {
+  outline: 3px solid rgba(217, 130, 43, 0.68);
+  outline-offset: 3px;
 }
 
 .uap-world-map-preview img {
