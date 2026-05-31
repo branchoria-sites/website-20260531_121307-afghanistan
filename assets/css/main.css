@@ -15325,7 +15325,12 @@ a.fr-book-fit:focus-visible {
 }
 
 .uap-world-root-card .uap-world-root-heading {
-  grid-column: 1 / -1;
+  display: none;
+}
+
+.uap-world-root-card > .ct-node-badge,
+.uap-world-root-card > .home-vertical-card-actions {
+  display: none;
 }
 
 .uap-world-map-shell {
