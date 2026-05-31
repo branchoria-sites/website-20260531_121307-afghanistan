@@ -2877,7 +2877,7 @@
       if (!tree || !dataNode) {
         return;
       }
-      var preservedRootMap = tree.querySelector("[data-uap-world-map]");
+      var preservedRootMap = tree.querySelector("[data-interactive-map], [data-uap-world-map]");
 
       var payload = {};
       try {
@@ -8592,15 +8592,23 @@
   }
 
   function initUapWorldMap() {
-    var root = document.querySelector('[data-uap-world-map]');
-    if (!root || root.__uapWorldMapInitialized) {
+    var roots = document.querySelectorAll('[data-interactive-map], [data-uap-world-map]');
+    if (!roots.length) {
       return;
     }
-    root.__uapWorldMapInitialized = true;
-    var canvas = root.querySelector('[data-uap-world-map-canvas]');
-    var preview = root.querySelector('[data-uap-world-map-preview]');
+    Array.prototype.forEach.call(roots, function(root) {
+    if (root.__interactiveMapInitialized) {
+      return;
+    }
+    root.__interactiveMapInitialized = true;
+    var canvas = root.querySelector('[data-interactive-map-canvas], [data-uap-world-map-canvas]');
+    var preview = root.querySelector('[data-interactive-map-preview], [data-uap-world-map-preview]');
     var mapSrc = root.getAttribute('data-map-src');
     var dataSrc = root.getAttribute('data-map-data-src');
+    var itemType = root.getAttribute('data-map-item-type') || 'country';
+    var itemTypeTitle = itemType.charAt(0).toUpperCase() + itemType.slice(1);
+    var mapLabel = root.getAttribute('data-map-label') || 'Interactive map';
+    var fallbackSummary = root.getAttribute('data-map-fallback-summary') || 'Open this item from the map.';
     if (!canvas || !mapSrc || !dataSrc) {
       return;
     }
@@ -8661,7 +8669,7 @@
       }
     };
 
-    var inlineDataNode = root.querySelector('[data-uap-world-map-data]');
+    var inlineDataNode = root.querySelector('[data-interactive-map-data], [data-uap-world-map-data]');
     var inlineSvg = canvas.querySelector('svg');
     var countryAliases = {
       UK: 'GB',
@@ -8762,9 +8770,10 @@
       var mapData = results[1] || {};
       var isInline = !!results[2];
       var byIso = {};
-      (mapData.countries || []).forEach(function(item) {
-        if (item && item.iso) {
-          byIso[String(item.iso).toUpperCase()] = item;
+      (mapData.items || mapData.countries || []).forEach(function(item) {
+        var id = item && (item.id || item.iso);
+        if (id) {
+          byIso[String(id).toUpperCase()] = item;
         }
       });
       if (!isInline) {
@@ -8778,13 +8787,14 @@
         event.stopPropagation();
       });
       svg.setAttribute('role', 'img');
-      svg.setAttribute('aria-label', 'World map of UAP country files');
+      svg.setAttribute('aria-label', mapLabel);
       var zoomState = { scale: 1, x: 0, y: 0 };
       var minZoom = 1;
       var maxZoom = 6;
       var applyZoom = function() {
         svg.style.transform = 'translate(' + zoomState.x + 'px, ' + zoomState.y + 'px) scale(' + zoomState.scale + ')';
         svg.style.transformOrigin = '0 0';
+        root.setAttribute('data-interactive-map-zoom', zoomState.scale > 1.01 ? 'zoomed' : 'default');
         root.setAttribute('data-uap-world-map-zoom', zoomState.scale > 1.01 ? 'zoomed' : 'default');
       };
       var clampPan = function() {
@@ -8815,6 +8825,15 @@
         zoomState = { scale: 1, x: 0, y: 0 };
         applyZoom();
       };
+      var panBy = function(deltaX, deltaY) {
+        if (zoomState.scale <= 1.01) {
+          return;
+        }
+        zoomState.x += deltaX;
+        zoomState.y += deltaY;
+        clampPan();
+        applyZoom();
+      };
       var zoomToNode = function(node, nextScale) {
         var canvasRect = canvas.getBoundingClientRect();
         var nodeRect = node.getBoundingClientRect();
@@ -8832,13 +8851,13 @@
         applyZoom();
       };
       var controls = document.createElement('div');
-      controls.className = 'uap-world-map-controls';
-      controls.setAttribute('aria-label', 'Map zoom controls');
+      controls.className = 'interactive-map-controls uap-world-map-controls';
+      controls.setAttribute('aria-label', 'Map zoom and pan controls');
       controls.setAttribute('role', 'group');
       var makeZoomButton = function(label, ariaLabel, handler) {
         var button = document.createElement('button');
         button.type = 'button';
-        button.className = 'uap-world-map-control';
+        button.className = 'interactive-map-control uap-world-map-control';
         button.textContent = label;
         button.setAttribute('aria-label', ariaLabel);
         button.addEventListener('click', function(event) {
@@ -8849,6 +8868,18 @@
       };
       controls.appendChild(makeZoomButton('+', 'Zoom in', function() { setZoom(zoomState.scale * 1.35); }));
       controls.appendChild(makeZoomButton('-', 'Zoom out', function() { setZoom(zoomState.scale / 1.35); }));
+      controls.appendChild(makeZoomButton('←', 'Move map view left', function() {
+        panBy(Math.max(80, canvas.getBoundingClientRect().width * 0.18), 0);
+      }));
+      controls.appendChild(makeZoomButton('↑', 'Move map view up', function() {
+        panBy(0, Math.max(70, canvas.getBoundingClientRect().height * 0.18));
+      }));
+      controls.appendChild(makeZoomButton('↓', 'Move map view down', function() {
+        panBy(0, -Math.max(70, canvas.getBoundingClientRect().height * 0.18));
+      }));
+      controls.appendChild(makeZoomButton('→', 'Move map view right', function() {
+        panBy(-Math.max(80, canvas.getBoundingClientRect().width * 0.18), 0);
+      }));
       controls.appendChild(makeZoomButton('Reset', 'Reset map zoom', resetZoom));
       canvas.appendChild(controls);
       canvas.addEventListener('wheel', function(event) {
@@ -8866,15 +8897,15 @@
         }
       };
       canvas.addEventListener('pointerdown', function(event) {
-        if (event.target && event.target.closest && event.target.closest('.uap-world-map-controls')) {
+        if (event.target && event.target.closest && event.target.closest('.interactive-map-controls, .uap-world-map-controls')) {
           return;
         }
         lastPointerMoved = false;
         lastPointerCountryIso = '';
         if (event.target && event.target.closest) {
-          var countryTarget = event.target.closest('[data-uap-country]');
+          var countryTarget = event.target.closest('[data-interactive-map-item], [data-uap-country]');
           if (countryTarget) {
-            lastPointerCountryIso = String(countryTarget.getAttribute('data-uap-country') || '').toUpperCase();
+            lastPointerCountryIso = String(countryTarget.getAttribute('data-interactive-map-item') || countryTarget.getAttribute('data-uap-country') || '').toUpperCase();
           }
         }
         if (zoomState.scale <= 1.01) {
@@ -8919,9 +8950,9 @@
           lastPointerCountryIso = '';
           return;
         }
-        var countryNode = event.target && event.target.closest ? event.target.closest('[data-uap-country]') : null;
+        var countryNode = event.target && event.target.closest ? event.target.closest('[data-interactive-map-item], [data-uap-country]') : null;
         var iso = countryNode
-          ? String(countryNode.getAttribute('data-uap-country') || '').toUpperCase()
+          ? String(countryNode.getAttribute('data-interactive-map-item') || countryNode.getAttribute('data-uap-country') || '').toUpperCase()
           : lastPointerCountryIso;
         lastPointerCountryIso = '';
         if (iso && byIso[iso]) {
@@ -8937,10 +8968,10 @@
         }
         preview.setAttribute('tabindex', item.url ? '0' : '-1');
         preview.setAttribute('role', item.url ? 'link' : 'group');
-        preview.setAttribute('aria-label', item.url ? 'Open ' + (item.country || item.mapName || item.title || 'country') + ' UAP file' : 'Country preview');
+        preview.setAttribute('aria-label', item.url ? 'Open ' + (item.label || item.country || item.mapName || item.title || itemType) : itemTypeTitle + ' preview');
         var imageUrl = resolveSiteAssetUrl(item.image);
         var imageHtml = imageUrl ? '<img src="' + escapeHtml(imageUrl) + '" alt="" loading="eager" decoding="async" fetchpriority="high">' : '';
-        preview.innerHTML = imageHtml + '<span class="uap-world-map-preview-kicker">' + escapeHtml(item.country || item.mapName || 'Country file') + '</span><strong data-uap-world-map-preview-title>' + escapeHtml(item.title || item.label || item.country || 'Country file') + '</strong><span data-uap-world-map-preview-summary>' + escapeHtml(item.summary || 'Open this country file from the map.') + '</span>';
+        preview.innerHTML = imageHtml + '<span class="interactive-map-preview-kicker uap-world-map-preview-kicker">' + escapeHtml(item.label || item.country || item.mapName || itemTypeTitle) + '</span><strong data-interactive-map-preview-title data-uap-world-map-preview-title>' + escapeHtml(item.title || item.label || item.country || itemTypeTitle) + '</strong><span data-interactive-map-preview-summary data-uap-world-map-preview-summary>' + escapeHtml(item.summary || fallbackSummary) + '</span>';
       };
       var clearActive = function() {
         if (active) {
@@ -8985,12 +9016,12 @@
         }
         node.classList.add('is-linked');
         node.setAttribute('data-uap-country', iso);
+        node.setAttribute('data-interactive-map-item', iso);
         node.setAttribute('tabindex', '0');
         node.setAttribute('role', 'link');
-        node.setAttribute('aria-label', 'Open ' + (item.country || item.mapName) + ' UAP file');
+        node.setAttribute('aria-label', 'Open ' + (item.label || item.country || item.mapName || item.title || itemType));
         node.addEventListener('mouseenter', function() { focusCountry(node, item); });
         node.addEventListener('focus', function() { focusCountry(node, item); });
-        node.addEventListener('mouseleave', clearActive);
         node.addEventListener('click', function(event) {
           event.preventDefault();
           event.stopPropagation();
@@ -9012,7 +9043,8 @@
         }, 160);
       }
     }).catch(function() {
-      canvas.textContent = 'World map unavailable.';
+      canvas.textContent = 'Map unavailable.';
+    });
     });
   }
 
