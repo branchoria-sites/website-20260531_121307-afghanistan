@@ -8646,6 +8646,83 @@
         return value;
       }
     };
+    var cp1252ReverseMap = {
+      0x20AC: 0x80,
+      0x201A: 0x82,
+      0x0192: 0x83,
+      0x201E: 0x84,
+      0x2026: 0x85,
+      0x2020: 0x86,
+      0x2021: 0x87,
+      0x02C6: 0x88,
+      0x2030: 0x89,
+      0x0160: 0x8A,
+      0x2039: 0x8B,
+      0x0152: 0x8C,
+      0x017D: 0x8E,
+      0x2018: 0x91,
+      0x2019: 0x92,
+      0x201C: 0x93,
+      0x201D: 0x94,
+      0x2022: 0x95,
+      0x2013: 0x96,
+      0x2014: 0x97,
+      0x02DC: 0x98,
+      0x2122: 0x99,
+      0x0161: 0x9A,
+      0x203A: 0x9B,
+      0x0153: 0x9C,
+      0x017E: 0x9E,
+      0x0178: 0x9F
+    };
+    var repairMojibakeText = function(value) {
+      var text = String(value || '');
+      if (!/[ÃÂâ]/.test(text)) {
+        return text;
+      }
+      try {
+        if (typeof TextDecoder === 'function') {
+          var bytes = [];
+          for (var i = 0; i < text.length; i += 1) {
+            var code = text.charCodeAt(i);
+            if (code <= 0xFF) {
+              bytes.push(code);
+            } else if (cp1252ReverseMap[code]) {
+              bytes.push(cp1252ReverseMap[code]);
+            } else {
+              return text;
+            }
+          }
+          var decoded = new TextDecoder('utf-8', { fatal: false }).decode(new Uint8Array(bytes));
+          if (decoded && !/[ÃÂâ]\uFFFD?/.test(decoded)) {
+            return decoded;
+          }
+        }
+      } catch (err) {}
+      return text
+        .replace(/\u00e2\u20ac\u2122/g, '\u2019')
+        .replace(/\u00e2\u20ac\u0153/g, '\u201c')
+        .replace(/\u00e2\u20ac\u009d/g, '\u201d')
+        .replace(/\u00e2\u20ac\u009d/g, '\u201d')
+        .replace(/\u00e2\u20ac\u201d/g, '\u2014')
+        .replace(/\u00e2\u20ac\u201c/g, '\u2013')
+        .replace(/\u00e2\u20ac\u00a6/g, '\u2026')
+        .replace(/\u00c3\u00bc/g, '\u00fc')
+        .replace(/\u00c3\u00b4/g, '\u00f4')
+        .replace(/\u00c3\u00a9/g, '\u00e9')
+        .replace(/\u00c3\u00a3/g, '\u00e3');
+    };
+    var normaliseMapItemText = function(item) {
+      if (!item || typeof item !== 'object') {
+        return item;
+      }
+      ['country', 'mapName', 'title', 'label', 'summary'].forEach(function(key) {
+        if (item[key]) {
+          item[key] = repairMojibakeText(item[key]);
+        }
+      });
+      return item;
+    };
     var warmedPreviewImages = {};
     var warmPreviewImage = function(item) {
       var imageUrl = item && resolveSiteAssetUrl(item.image);
@@ -8789,6 +8866,7 @@
       var isInline = !!results[2];
       var byIso = {};
       (mapData.items || mapData.countries || []).forEach(function(item) {
+        item = normaliseMapItemText(item);
         var id = item && (item.id || item.iso);
         if (id) {
           byIso[String(id).toUpperCase()] = item;

@@ -1,8 +1,9 @@
-﻿{
+{
     "schemaVersion":  1,
+    "itemType":  "country",
     "regionKey":  "oceania",
-    "label":  "Oceania",
-    "detailLevel":  "summary",
+    "region":  "Oceania",
+    "totalItems":  8,
     "items":  [
                   {
                       "iso":  "AU",
@@ -10,7 +11,7 @@
                       "mapName":  "Australia",
                       "title":  "What Really Happened in Australia\u0027s UFO Files?",
                       "label":  "Australia",
-                      "summary":  "Australiaâ€™s history with unidentified flying objects (UFOs) and related phenomena spans more than a century, encompassing curious sightings,...",
+                      "summary":  "Australia’s history with unidentified flying objects (UFOs) and related phenomena spans more than a century, encompassing curious sightings,...",
                       "url":  "what-really-happened-in-australias-ufo/",
                       "image":  "assets/images/Australia_ceafb5-overview.webp",
                       "count":  5,
@@ -26,7 +27,7 @@
                       "mapName":  "Fiji",
                       "title":  "Uncovering UFO Sightings and Reports Across Fiji",
                       "label":  "Fiji",
-                      "summary":  "Reports of unidentified flying objects (commonly called UFOs or UAP â€” Unidentified Aerial Phenomena) in Fiji are rare and mostly unverified.",
+                      "summary":  "Reports of unidentified flying objects (commonly called UFOs or UAP — Unidentified Aerial Phenomena) in Fiji are rare and mostly unverified.",
                       "url":  "fiji/",
                       "image":  "assets/images/Fiji_bbb7ef-overview.webp",
                       "count":  5,
@@ -42,7 +43,7 @@
                       "mapName":  "Nauru",
                       "title":  "What Do Nauru UFO Reports Really Show?",
                       "label":  "Nauru",
-                      "summary":  "Nauru has no well-documented national UFO case comparable to Australiaâ€™s Westall incident, New Zealandâ€™s Kaikoura lights, or the better-known United...",
+                      "summary":  "Nauru has no well-documented national UFO case comparable to Australia’s Westall incident, New Zealand’s Kaikoura lights, or the better-known United...",
                       "url":  "what-do-nauru-ufo-reports-really-show/",
                       "image":  "assets/images/Nauru_f648c7-overview.webp",
                       "count":  5,
@@ -58,7 +59,7 @@
                       "mapName":  "New Zealand",
                       "title":  "What New Zealand\u0027s UFO Files Really Show",
                       "label":  "New Zealand",
-                      "summary":  "New Zealandâ€™s UFO record is unusually useful because it combines folklore-like local stories, press-driven sighting waves, private investigators,...",
+                      "summary":  "New Zealand’s UFO record is unusually useful because it combines folklore-like local stories, press-driven sighting waves, private investigators,...",
                       "url":  "what-new-zealands-ufo-files-really-show/",
                       "image":  "assets/images/New_Zealand_3d3336-overview.webp",
                       "count":  5,
