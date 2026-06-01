@@ -8716,12 +8716,21 @@
       if (!item || typeof item !== 'object') {
         return item;
       }
-      ['country', 'mapName', 'title', 'label', 'summary'].forEach(function(key) {
+      ['country', 'mapName', 'title', 'label', 'summary', 'displayLabel', 'displayTitle', 'displaySummary'].forEach(function(key) {
         if (item[key]) {
           item[key] = repairMojibakeText(item[key]);
         }
       });
       return item;
+    };
+    var getItemLabel = function(item) {
+      return item && (item.displayLabel || item.label || item.country || item.mapName || itemTypeTitle);
+    };
+    var getItemTitle = function(item) {
+      return item && (item.displayTitle || item.title || item.displayLabel || item.label || item.country || itemTypeTitle);
+    };
+    var getItemSummary = function(item) {
+      return item && (item.displaySummary || item.summary || fallbackSummary);
     };
     var warmedPreviewImages = {};
     var warmPreviewImage = function(item) {
@@ -9104,11 +9113,11 @@
         }
         preview.setAttribute('tabindex', item.url ? '0' : '-1');
         preview.setAttribute('role', item.url ? 'link' : 'group');
-        preview.setAttribute('aria-label', item.url ? 'Open ' + (item.label || item.country || item.mapName || item.title || itemType) : itemTypeTitle + ' preview');
+        preview.setAttribute('aria-label', item.url ? 'Open ' + getItemLabel(item) : itemTypeTitle + ' preview');
         var imageUrl = resolveSiteAssetUrl(item.image);
         warmPreviewImage(item);
         var imageHtml = imageUrl ? '<img src="' + escapeHtml(imageUrl) + '" alt="" loading="eager" decoding="async" fetchpriority="high">' : '';
-        preview.innerHTML = imageHtml + '<span class="interactive-map-preview-kicker uap-world-map-preview-kicker">' + escapeHtml(item.label || item.country || item.mapName || itemTypeTitle) + '</span><strong data-interactive-map-preview-title data-uap-world-map-preview-title>' + escapeHtml(item.title || item.label || item.country || itemTypeTitle) + '</strong><span data-interactive-map-preview-summary data-uap-world-map-preview-summary>' + escapeHtml(item.summary || fallbackSummary) + '</span>';
+        preview.innerHTML = imageHtml + '<span class="interactive-map-preview-kicker uap-world-map-preview-kicker">' + escapeHtml(getItemLabel(item)) + '</span><strong data-interactive-map-preview-title data-uap-world-map-preview-title>' + escapeHtml(getItemTitle(item)) + '</strong><span data-interactive-map-preview-summary data-uap-world-map-preview-summary>' + escapeHtml(getItemSummary(item)) + '</span>';
       };
       var clearActive = function() {
         if (active) {
@@ -9156,7 +9165,7 @@
         node.setAttribute('data-interactive-map-item', iso);
         node.setAttribute('tabindex', '0');
         node.setAttribute('role', 'link');
-        node.setAttribute('aria-label', 'Open ' + (item.label || item.country || item.mapName || item.title || itemType));
+        node.setAttribute('aria-label', 'Open ' + getItemLabel(item));
         node.addEventListener('mouseenter', function() { focusCountry(node, item); });
         node.addEventListener('focus', function() { focusCountry(node, item); });
         node.addEventListener('click', function(event) {

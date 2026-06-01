@@ -99,7 +99,10 @@
                       "region":  "Asia",
                       "subregion":  "South-Eastern Asia",
                       "regionKey":  "asia",
-                      "detailsSrc":  "assets/data/map-view/uap-world-files/details/asia.json"
+                      "detailsSrc":  "assets/data/map-view/uap-world-files/details/asia.json",
+                      "displayLabel":  "Brunei",
+                      "displayTitle":  "What Has Brunei Really Seen in the Sky?",
+                      "displaySummary":  "The record of UFO (Unidentified Flying Object) or UAP (Unidentified Aerial Phenomena)‑like reports in Brunei is sparse compared with..."
                   },
                   {
                       "iso":  "KH",
@@ -147,7 +150,10 @@
                       "region":  "Asia",
                       "subregion":  "Eastern Asia",
                       "regionKey":  "asia",
-                      "detailsSrc":  "assets/data/map-view/uap-world-files/details/asia.json"
+                      "detailsSrc":  "assets/data/map-view/uap-world-files/details/asia.json",
+                      "displayLabel":  "North Korea",
+                      "displayTitle":  "What We Know About UFO Sightings in North Korea",
+                      "displaySummary":  "North Korea has an unusually thin public UFO record, and that scarcity is itself the main finding."
                   },
                   {
                       "iso":  "GE",
@@ -211,7 +217,10 @@
                       "region":  "Asia",
                       "subregion":  "Southern Asia",
                       "regionKey":  "asia",
-                      "detailsSrc":  "assets/data/map-view/uap-world-files/details/asia.json"
+                      "detailsSrc":  "assets/data/map-view/uap-world-files/details/asia.json",
+                      "displayLabel":  "Iran",
+                      "displayTitle":  "What Really Happened in Iran’s UFO Encounters?",
+                      "displaySummary":  "Iran’s UFO record is dominated by one exceptionally well-documented case: the 19 September 1976 Tehran incident, in which Iranian F-4 Phantom II..."
                   },
                   {
                       "iso":  "IQ",
@@ -307,7 +316,10 @@
                       "region":  "Asia",
                       "subregion":  "Eastern Asia",
                       "regionKey":  "asia",
-                      "detailsSrc":  "assets/data/map-view/uap-world-files/details/asia.json"
+                      "detailsSrc":  "assets/data/map-view/uap-world-files/details/asia.json",
+                      "displayLabel":  "South Korea",
+                      "displayTitle":  "What Really Happened in South Korea\u0027s UFO Cases?",
+                      "displaySummary":  "South Korea\u0027s UFO material is best read as a layered record of sightings, military anxieties, private investigation, and later debunking."
                   },
                   {
                       "iso":  "KW",
@@ -355,7 +367,10 @@
                       "region":  "Asia",
                       "subregion":  "South-Eastern Asia",
                       "regionKey":  "asia",
-                      "detailsSrc":  "assets/data/map-view/uap-world-files/details/asia.json"
+                      "detailsSrc":  "assets/data/map-view/uap-world-files/details/asia.json",
+                      "displayLabel":  "Laos",
+                      "displayTitle":  "What UFO Reports Reveal About Laos’ Skies",
+                      "displaySummary":  "Public evidence for UFO phenomena in Laos is unusually thin."
                   },
                   {
                       "iso":  "LB",
@@ -579,7 +594,10 @@
                       "region":  "Asia",
                       "subregion":  "Western Asia",
                       "regionKey":  "asia",
-                      "detailsSrc":  "assets/data/map-view/uap-world-files/details/asia.json"
+                      "detailsSrc":  "assets/data/map-view/uap-world-files/details/asia.json",
+                      "displayLabel":  "Syria",
+                      "displayTitle":  "What Syria\u0027s UFO Files Really Show",
+                      "displaySummary":  "UFO material connected to Syria is unusually narrow but unusually modern."
                   },
                   {
                       "iso":  "TJ",
@@ -659,7 +677,10 @@
                       "region":  "Asia",
                       "subregion":  "Western Asia",
                       "regionKey":  "asia",
-                      "detailsSrc":  "assets/data/map-view/uap-world-files/details/asia.json"
+                      "detailsSrc":  "assets/data/map-view/uap-world-files/details/asia.json",
+                      "displayLabel":  "Turkey",
+                      "displayTitle":  "What Do Turkey\u0027s UFO Cases Really Show?",
+                      "displaySummary":  "Turkey’s UFO record is best understood as a patchwork rather than a settled national file: a few famous incidents, scattered pilot and airport..."
                   },
                   {
                       "iso":  "AE",
@@ -707,7 +728,10 @@
                       "region":  "Asia",
                       "subregion":  "South-Eastern Asia",
                       "regionKey":  "asia",
-                      "detailsSrc":  "assets/data/map-view/uap-world-files/details/asia.json"
+                      "detailsSrc":  "assets/data/map-view/uap-world-files/details/asia.json",
+                      "displayLabel":  "Vietnam",
+                      "displayTitle":  "What Did Vietnam\u0027s UFO Reports Really Show?",
+                      "displaySummary":  "Vietnam has a small but unusually layered UFO record."
                   },
                   {
                       "iso":  "YE",

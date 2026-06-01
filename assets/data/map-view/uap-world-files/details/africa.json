@@ -227,7 +227,10 @@
                       "region":  "Africa",
                       "subregion":  "Middle Africa",
                       "regionKey":  "africa",
-                      "detailsSrc":  "assets/data/map-view/uap-world-files/details/africa.json"
+                      "detailsSrc":  "assets/data/map-view/uap-world-files/details/africa.json",
+                      "displayLabel":  "DR Congo",
+                      "displayTitle":  "What Really Flew Over Congo?",
+                      "displaySummary":  "DR Congo has a small but revealing UFO record: a handful of Cold War-era intelligence reports, plus modern public claims and local witness stories."
                   },
                   {
                       "iso":  "EG",
@@ -403,7 +406,10 @@
                       "region":  "Africa",
                       "subregion":  "Western Africa",
                       "regionKey":  "africa",
-                      "detailsSrc":  "assets/data/map-view/uap-world-files/details/africa.json"
+                      "detailsSrc":  "assets/data/map-view/uap-world-files/details/africa.json",
+                      "displayLabel":  "Ivory Coast",
+                      "displayTitle":  "What Do Ivory Coast UFO Reports Really Show?",
+                      "displaySummary":  "Ivory Coast has a thin, uneven public record of UFO or unidentified anomalous phenomenon reports."
                   },
                   {
                       "iso":  "KE",
@@ -787,7 +793,10 @@
                       "region":  "Africa",
                       "subregion":  "Eastern Africa",
                       "regionKey":  "africa",
-                      "detailsSrc":  "assets/data/map-view/uap-world-files/details/africa.json"
+                      "detailsSrc":  "assets/data/map-view/uap-world-files/details/africa.json",
+                      "displayLabel":  "Tanzania",
+                      "displayTitle":  "What Do Tanzania\u0027s UFO Reports Really Show?",
+                      "displaySummary":  "Tanzania\u0027s UFO record is small, uneven, and more useful as a study in evidence quality than as a catalogue of confirmed anomalies."
                   },
                   {
                       "iso":  "TG",

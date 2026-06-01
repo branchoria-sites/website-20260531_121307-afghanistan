@@ -163,7 +163,10 @@
                       "region":  "Europe",
                       "subregion":  "Central Europe",
                       "regionKey":  "europe",
-                      "detailsSrc":  "assets/data/map-view/uap-world-files/details/europe.json"
+                      "detailsSrc":  "assets/data/map-view/uap-world-files/details/europe.json",
+                      "displayLabel":  "Czech Republic",
+                      "displayTitle":  "What Makes Czech Republic UFO Sightings So Intriguing?",
+                      "displaySummary":  "Czech Republic’s UFO record is best understood as a mixed archive of striking witness stories, Cold War military anomalies, local folklore, and many cases..."
                   },
                   {
                       "iso":  "DK",
@@ -195,7 +198,10 @@
                       "region":  "Europe",
                       "subregion":  "Western Europe",
                       "regionKey":  "europe",
-                      "detailsSrc":  "assets/data/map-view/uap-world-files/details/europe.json"
+                      "detailsSrc":  "assets/data/map-view/uap-world-files/details/europe.json",
+                      "displayLabel":  "Netherlands",
+                      "displayTitle":  "What Really Happened in Dutch UFO Cases?",
+                      "displaySummary":  "UFO and UAP reporting in the Netherlands is best understood as a mixture of memorable local cases, citizen reporting, and Cold War context."
                   },
                   {
                       "iso":  "EE",
@@ -435,7 +441,10 @@
                       "region":  "Europe",
                       "subregion":  "Eastern Europe",
                       "regionKey":  "europe",
-                      "detailsSrc":  "assets/data/map-view/uap-world-files/details/europe.json"
+                      "detailsSrc":  "assets/data/map-view/uap-world-files/details/europe.json",
+                      "displayLabel":  "Moldova",
+                      "displayTitle":  "What Moldova\u0027s UFO Record Really Shows",
+                      "displaySummary":  "UFO and UAP material from Moldova is best understood as a thin but revealing record of airspace ambiguity."
                   },
                   {
                       "iso":  "ME",
@@ -547,7 +556,10 @@
                       "region":  "Europe",
                       "subregion":  "Eastern Europe",
                       "regionKey":  "europe",
-                      "detailsSrc":  "assets/data/map-view/uap-world-files/details/europe.json"
+                      "detailsSrc":  "assets/data/map-view/uap-world-files/details/europe.json",
+                      "displayLabel":  "Russia",
+                      "displayTitle":  "Russia\u0027s UFO Files, Myths, and Missile Trails",
+                      "displaySummary":  "UFO phenomena in Russia are best understood as a mixture of genuine unidentified reports, Cold War secrecy, and rocket or missile misidentifications."
                   },
                   {
                       "iso":  "RS",

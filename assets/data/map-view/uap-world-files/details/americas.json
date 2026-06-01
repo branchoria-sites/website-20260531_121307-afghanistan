@@ -99,7 +99,10 @@
                       "region":  "Americas",
                       "subregion":  "South America",
                       "regionKey":  "americas",
-                      "detailsSrc":  "assets/data/map-view/uap-world-files/details/americas.json"
+                      "detailsSrc":  "assets/data/map-view/uap-world-files/details/americas.json",
+                      "displayLabel":  "Bolivia",
+                      "displayTitle":  "What Really Happened in Bolivia\u0027s UFO Files?",
+                      "displaySummary":  "Bolivia has a lively UFO tradition, but the evidence is uneven."
                   },
                   {
                       "iso":  "BR",
@@ -563,7 +566,10 @@
                       "region":  "Americas",
                       "subregion":  "South America",
                       "regionKey":  "americas",
-                      "detailsSrc":  "assets/data/map-view/uap-world-files/details/americas.json"
+                      "detailsSrc":  "assets/data/map-view/uap-world-files/details/americas.json",
+                      "displayLabel":  "Venezuela",
+                      "displayTitle":  "What Really Shapes Venezuela\u0027s UFO Record?",
+                      "displaySummary":  "Venezuela’s UFO record is best understood as a mixed archive: a small number of recurring historical cases, a stronger cluster of pilot and airliner..."
                   }
               ]
 }
