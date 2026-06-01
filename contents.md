@@ -2,6 +2,8 @@
 layout: default
 title: Contents
 permalink: /contents/
+home: true
+contents_page: true
 description: Browse the full site index and open any page from the structured contents view.
 ---
 <section class="home-adaptive-home home-adaptive-home--indexed-hierarchy" data-home-archetype="indexed-hierarchy" data-home-level-1-count="193" data-home-level-1-tier="overflow" data-home-top-child-tier="balanced" data-home-max-breadth="772" data-home-max-depth="1">
