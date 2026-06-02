@@ -10566,10 +10566,15 @@ body.page-home .home-mode-panel:not([data-home-mode-panel="cluster"]) {
 
 body.page-home .home-adaptive-home:not(.page-contents-home) .home-frontpage-map {
   display: block !important;
+  order: 1;
 }
 
 body.page-home .home-adaptive-home:not(.page-contents-home) .home-contents-index {
   display: none !important;
+}
+
+body.page-home .home-adaptive-home:not(.page-contents-home) .home-adaptive-utility {
+  order: 2;
 }
 
 body.page-home .home-adaptive-home.page-contents-home .home-frontpage-map {
