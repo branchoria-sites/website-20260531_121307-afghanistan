@@ -10564,6 +10564,22 @@ body.page-home .home-mode-panel:not([data-home-mode-panel="cluster"]) {
   }
 }
 
+body.page-home .home-adaptive-home:not(.page-contents-home) .home-frontpage-map {
+  display: block !important;
+}
+
+body.page-home .home-adaptive-home:not(.page-contents-home) .home-contents-index {
+  display: none !important;
+}
+
+body.page-home .home-adaptive-home.page-contents-home .home-frontpage-map {
+  display: none !important;
+}
+
+body.page-home .home-adaptive-home.page-contents-home .home-contents-index {
+  display: block !important;
+}
+
 .home-mode-toggle-btn {
   justify-content: flex-start;
   gap: 0.42rem;
