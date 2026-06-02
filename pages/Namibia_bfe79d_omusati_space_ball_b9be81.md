@@ -245,7 +245,7 @@ next_link:
   permalink: /timeline-be32cb/
   short_title: Timeline
   heading_title: Which Namibia UFO Cases Hold Up Best?
-date: '2026-06-02 16:42:10 '
+date: '2026-06-02 18:48:44 '
 header:
   og_image: /assets/images/Namibia_bfe79d_omusati_space_ball_b9be81-Illustration-1-social.jpg
   preview_image: /assets/images/Namibia_bfe79d_omusati_space_ball_b9be81-Illustration-1.webp

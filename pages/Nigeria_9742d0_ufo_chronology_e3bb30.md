@@ -245,7 +245,7 @@ next_link:
   permalink: /regions/
   short_title: Regions
   heading_title: Why Nigerian UFO Reports Depend on Place
-date: '2026-06-02 16:26:07 '
+date: '2026-06-02 18:38:49 '
 header:
   og_image: /assets/images/Nigeria_9742d0_ufo_chronology_e3bb30-Illustration-1-social.jpg
   preview_image: /assets/images/Nigeria_9742d0_ufo_chronology_e3bb30-Illustration-1.webp

@@ -1185,7 +1185,7 @@ next_link:
   title: Burundi UFOs
   permalink: /what-is-really-known-about-burundi-ufos/
   short_title: Burundi UFOs
-date: '2026-06-02 16:44:31 '
+date: '2026-06-02 18:50:41 '
 header:
   og_image: /assets/images/Yemen_ac33d6-overview-social.jpg
   preview_image: /assets/images/Yemen_ac33d6-overview.webp

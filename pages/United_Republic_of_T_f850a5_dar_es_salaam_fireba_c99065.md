@@ -239,7 +239,7 @@ next_link:
   permalink: /evidence-gap-6968cd/
   short_title: Evidence Gap
   heading_title: Why Tanzania's UFO Record Is So Thin
-date: '2026-06-02 16:43:02 '
+date: '2026-06-02 18:49:24 '
 header:
   og_image: /assets/images/United_Republic_of_T_f850a5_dar_es_salaam_fireba_c99065-Illustration-1-social.jpg
   preview_image: /assets/images/United_Republic_of_T_f850a5_dar_es_salaam_fireba_c99065-Illustration-1.webp

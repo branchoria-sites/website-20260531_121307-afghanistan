@@ -239,7 +239,7 @@ next_link:
   permalink: /funafuti-echo/
   short_title: Funafuti Echo
   heading_title: What Happened in the Funafuti Echo Case?
-date: '2026-06-02 16:41:32 '
+date: '2026-06-02 18:48:15 '
 header:
   og_image: /assets/images/Tuvalu_9a2248_archive_search_route_0fd809-Illustration-1-social.jpg
   preview_image: /assets/images/Tuvalu_9a2248_archive_search_route_0fd809-Illustration-1.webp

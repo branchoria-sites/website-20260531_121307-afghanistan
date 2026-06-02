@@ -239,7 +239,7 @@ next_link:
   permalink: /basel-1566/
   short_title: Basel 1566
   heading_title: Was Basel's Sky Battle Really a UFO?
-date: '2026-06-02 16:39:31 '
+date: '2026-06-02 18:46:38 '
 header:
   og_image: /assets/images/Switzerland_77dcd8_swiss_air_force_file_862770-Illustration-1-social.jpg
   preview_image: /assets/images/Switzerland_77dcd8_swiss_air_force_file_862770-Illustration-1.webp

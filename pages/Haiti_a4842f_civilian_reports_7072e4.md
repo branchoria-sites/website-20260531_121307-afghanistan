@@ -245,7 +245,7 @@ next_link:
   permalink: /reporting-bias/
   short_title: Reporting Bias
   heading_title: Why Haiti's UFO Map Points to Port au Prince
-date: '2026-06-02 16:15:14 '
+date: '2026-06-02 18:30:16 '
 header:
   og_image: /assets/images/Haiti_a4842f_civilian_reports_7072e4-Illustration-1-social.jpg
   preview_image: /assets/images/Haiti_a4842f_civilian_reports_7072e4-Illustration-1.webp

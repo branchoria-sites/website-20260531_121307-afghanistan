@@ -239,7 +239,7 @@ next_link:
   permalink: /evidence-assessment/
   short_title: Evidence Assessment
   heading_title: 'Evaluating UFO Reports: Evidence, Skepticism, and Credibility'
-date: '2026-06-02 15:59:41 '
+date: '2026-06-02 18:18:15 '
 header:
   og_image: /assets/images/Bosnia_and_Herzegovi_552c9f_bosnia_community_rep_72c2d9-Illustration-1-social.jpg
   preview_image: /assets/images/Bosnia_and_Herzegovi_552c9f_bosnia_community_rep_72c2d9-Illustration-1.webp
@@ -391,7 +391,7 @@ Reports after roughly 2018 increasingly overlap with consumer drone activity. Bo
 This technological shift complicates comparisons between modern and older reports. Some recent sightings that would once have appeared extraordinary are now plausibly attributable to coordinated drone lighting or stabilised hovering flight.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/i1Ay16w_6Us" title="HORSE WELFARE IS AT WAR WITH GYPSY ROMA TRAVELLER COMMUNITIES | Raleigh Link Show #27" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=i1Ay16w_6Us" target="_blank" rel="noopener noreferrer">HORSE WELFARE IS AT WAR WITH GYPSY ROMA TRAVELLER COMMUNITIES | Raleigh Link Show #27</a></p><p class="youtube-embed-meta">Channel: Raleigh Link</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=i1Ay16w_6Us" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=i1Ay16w_6Us">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Oq8y1H1sSTw" title="Link" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Oq8y1H1sSTw" target="_blank" rel="noopener noreferrer">Link</a></p><p class="youtube-embed-meta">Channel: Djo - Topic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Oq8y1H1sSTw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Oq8y1H1sSTw">Open on YouTube</a></p></div></div></div>
 
 ## Cases That Triggered Scepticism
 
@@ -541,6 +541,22 @@ Within the wider Bosnia and Herzegovina UFO topic, these local accounts matter b
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
@@ -578,22 +594,6 @@ Within the wider Bosnia and Herzegovina UFO topic, these local accounts matter b
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
           <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="community-reports-eyewitness-and-local-accounts-of-unexplained-lights-bosnia-and-herzegovina-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">

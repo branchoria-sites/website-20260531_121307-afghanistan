@@ -239,7 +239,7 @@ prev_link:
   permalink: /hoaxes/
   short_title: Hoaxes
   heading_title: When Swiss UFO Stories Were Staged
-date: '2026-06-02 16:39:29 '
+date: '2026-06-02 18:46:36 '
 header:
   og_image: /assets/images/Switzerland_77dcd8_zwischbergen_photo_564316-Illustration-1-social.jpg
   preview_image: /assets/images/Switzerland_77dcd8_zwischbergen_photo_564316-Illustration-1.webp
@@ -465,43 +465,43 @@ That unresolved status is ultimately why the Zwischbergen photograph survives in
     </article>
 
     <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zwischbergen-can-switzerland-s-famous-ufo-photo-hold-up-switzerland-ufo-photo-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books" data-ebay-reference="zwischbergen-can-switzerland-s-famous-ufo-photo-hold-up-switzerland-ufo-photo-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Georgina Moon 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/33939c607f706aab2791.jpg' | relative_url }}" alt="Listing image for UFO (TV) Georgina Moon 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zwischbergen-can-switzerland-s-famous-ufo-photo-hold-up-switzerland-ufo-photo-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books" data-ebay-reference="zwischbergen-can-switzerland-s-famous-ufo-photo-hold-up-switzerland-ufo-photo-print-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Georgina Moon 16x12 Photo Poster Print</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zwischbergen-can-switzerland-s-famous-ufo-photo-hold-up-switzerland-ufo-photo-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books" data-ebay-reference="zwischbergen-can-switzerland-s-famous-ufo-photo-hold-up-switzerland-ufo-photo-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo photo print</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zwischbergen-can-switzerland-s-famous-ufo-photo-hold-up-switzerland-ufo-photo-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books" data-ebay-reference="zwischbergen-can-switzerland-s-famous-ufo-photo-hold-up-switzerland-ufo-photo-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zwischbergen-can-switzerland-s-famous-ufo-photo-hold-up-switzerland-ufo-photo-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books" data-ebay-reference="zwischbergen-can-switzerland-s-famous-ufo-photo-hold-up-switzerland-ufo-photo-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Scene 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/12f46aa57a03b419cd19.jpg' | relative_url }}" alt="Listing image for UFO (TV) Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zwischbergen-can-switzerland-s-famous-ufo-photo-hold-up-switzerland-ufo-photo-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books" data-ebay-reference="zwischbergen-can-switzerland-s-famous-ufo-photo-hold-up-switzerland-ufo-photo-print-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Scene 16x12 Photo Poster Print</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zwischbergen-can-switzerland-s-famous-ufo-photo-hold-up-switzerland-ufo-photo-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books" data-ebay-reference="zwischbergen-can-switzerland-s-famous-ufo-photo-hold-up-switzerland-ufo-photo-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo photo print</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zwischbergen-can-switzerland-s-famous-ufo-photo-hold-up-switzerland-ufo-photo-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books" data-ebay-reference="zwischbergen-can-switzerland-s-famous-ufo-photo-hold-up-switzerland-ufo-photo-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zwischbergen-can-switzerland-s-famous-ufo-photo-hold-up-switzerland-ufo-photo-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books" data-ebay-reference="zwischbergen-can-switzerland-s-famous-ufo-photo-hold-up-switzerland-ufo-photo-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Gerry Andersons UFO - Interceptors Taking Off From Moonbase Photo Print"><img src="{{ '/assets/images/marketplace-covers/022ad09af67e3d615ea5.jpg' | relative_url }}" alt="Listing image for Vintage Gerry Andersons UFO - Interceptors Taking Off From Moonbase Photo Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
           <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zwischbergen-can-switzerland-s-famous-ufo-photo-hold-up-switzerland-ufo-photo-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books" data-ebay-reference="zwischbergen-can-switzerland-s-famous-ufo-photo-hold-up-switzerland-ufo-photo-print-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage Gerry Andersons UFO - Interceptors Taking Off From Moonbase Photo Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zwischbergen-can-switzerland-s-famous-ufo-photo-hold-up-switzerland-ufo-photo-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books" data-ebay-reference="zwischbergen-can-switzerland-s-famous-ufo-photo-hold-up-switzerland-ufo-photo-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zwischbergen-can-switzerland-s-famous-ufo-photo-hold-up-switzerland-ufo-photo-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books" data-ebay-reference="zwischbergen-can-switzerland-s-famous-ufo-photo-hold-up-switzerland-ufo-photo-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zwischbergen-can-switzerland-s-famous-ufo-photo-hold-up-switzerland-ufo-photo-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books" data-ebay-reference="zwischbergen-can-switzerland-s-famous-ufo-photo-hold-up-switzerland-ufo-photo-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Ed Bishop, Michael Billington 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/1d97c4c0eb634564f625.jpg' | relative_url }}" alt="Listing image for UFO (TV) Ed Bishop, Michael Billington 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zwischbergen-can-switzerland-s-famous-ufo-photo-hold-up-switzerland-ufo-photo-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books" data-ebay-reference="zwischbergen-can-switzerland-s-famous-ufo-photo-hold-up-switzerland-ufo-photo-print-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Ed Bishop, Michael Billington 16x12 Photo Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zwischbergen-can-switzerland-s-famous-ufo-photo-hold-up-switzerland-ufo-photo-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books" data-ebay-reference="zwischbergen-can-switzerland-s-famous-ufo-photo-hold-up-switzerland-ufo-photo-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zwischbergen-can-switzerland-s-famous-ufo-photo-hold-up-switzerland-ufo-photo-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books" data-ebay-reference="zwischbergen-can-switzerland-s-famous-ufo-photo-hold-up-switzerland-ufo-photo-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zwischbergen-can-switzerland-s-famous-ufo-photo-hold-up-switzerland-ufo-photo-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books" data-ebay-reference="zwischbergen-can-switzerland-s-famous-ufo-photo-hold-up-switzerland-ufo-photo-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zwischbergen-can-switzerland-s-famous-ufo-photo-hold-up-switzerland-ufo-photo-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books" data-ebay-reference="zwischbergen-can-switzerland-s-famous-ufo-photo-hold-up-switzerland-ufo-photo-print-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zwischbergen-can-switzerland-s-famous-ufo-photo-hold-up-switzerland-ufo-photo-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print -book -books" data-ebay-reference="zwischbergen-can-switzerland-s-famous-ufo-photo-hold-up-switzerland-ufo-photo-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo photo print</a>
         <div class="fr-book-actions">

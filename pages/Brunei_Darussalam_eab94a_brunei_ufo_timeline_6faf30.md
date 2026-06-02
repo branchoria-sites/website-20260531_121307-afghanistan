@@ -239,7 +239,7 @@ prev_link:
   permalink: /records-gap-a60a9c/
   short_title: Records Gap
   heading_title: Why Brunei Has No Clear UFO Record
-date: '2026-06-02 16:00:56 '
+date: '2026-06-02 18:19:06 '
 header:
   og_image: /assets/images/Brunei_Darussalam_eab94a_brunei_ufo_timeline_6faf30-Illustration-1-social.jpg
   preview_image: /assets/images/Brunei_Darussalam_eab94a_brunei_ufo_timeline_6faf30-Illustration-1.webp
@@ -264,6 +264,9 @@ The earliest UFO‑like claims from Brunei tend to appear in public reporting se
 
 This early phase shows **irregular and widely scattered events** reported by individuals—none substantiated by coordinated datasets or regional corroboration.
 
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
+
 ## Later Sightings and Recurring Themes
 
 Across the 2010s and early 2020s, reported phenomena over Brunei tend to **align more with known natural events or routine aerial observations** than with dramatic craft‑like accounts:
@@ -285,6 +288,8 @@ One of the most recent widely reported events occurred on **22 January 2026**, w
 
 This case illustrates the **ambiguity that remains**: while space debris or atmospheric physics might account for such a sighting, limitations in verified tracking data and absence of formal national reporting infrastructure mean unresolved reports can linger in public discourse longer than in countries with dedicated UAP tracking.
 
+
+<img src="{{ "/assets/images/Brunei_Darussalam_eab94a_brunei_ufo_timeline_6faf30-Illustration-3-dark.svg" | relative_url }}" alt="Timeline illustration 3" data-theme-src-dark="{{ "/assets/images/Brunei_Darussalam_eab94a_brunei_ufo_timeline_6faf30-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Brunei_Darussalam_eab94a_brunei_ufo_timeline_6faf30-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Patterns and What the Gaps Reveal
 
 Across the limited dataset of Brunei UFO/UAP reports, several patterns (or absences) emerge:
@@ -297,7 +302,8 @@ Across the limited dataset of Brunei UFO/UAP reports, several patterns (or absen
 In summary, while there are occasional moments of curiosity and unexplained observation over Brunei’s skies, the overarching pattern reflects **infrequent reports that tend—and in many cases can—to be interpreted through known astronomical and atmospheric phenomena with limited residual anomaly**. The absence of official archival reporting and systematic data collection further underscores how rare and individually driven these sightings are.
 
 
-<img src="{{ "/assets/images/Brunei_Darussalam_eab94a_brunei_ufo_timeline_6faf30-Illustration-3-dark.svg" | relative_url }}" alt="Timeline illustration 3" data-theme-src-dark="{{ "/assets/images/Brunei_Darussalam_eab94a_brunei_ufo_timeline_6faf30-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Brunei_Darussalam_eab94a_brunei_ufo_timeline_6faf30-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vQsj_RCXQLk" title="Watch a Meteor Shower! - Astronomy Challenge #16" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vQsj_RCXQLk" target="_blank" rel="noopener noreferrer">Watch a Meteor Shower! - Astronomy Challenge #16</a></p><p class="youtube-embed-meta">Channel: LearnToStargaze</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vQsj_RCXQLk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vQsj_RCXQLk">Open on YouTube</a></p></div></div></div>
+
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -416,38 +422,6 @@ In summary, while there are occasional moments of curiosity and unexplained obse
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-da5745-how-brunei-s-ufo-reports-changed-over-time-brunei-darussalam-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="timeline-da5745-how-brunei-s-ufo-reports-changed-over-time-brunei-darussalam-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-da5745-how-brunei-s-ufo-reports-changed-over-time-brunei-darussalam-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="timeline-da5745-how-brunei-s-ufo-reports-changed-over-time-brunei-darussalam-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-da5745-how-brunei-s-ufo-reports-changed-over-time-brunei-darussalam-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="timeline-da5745-how-brunei-s-ufo-reports-changed-over-time-brunei-darussalam-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-da5745-how-brunei-s-ufo-reports-changed-over-time-brunei-darussalam-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="timeline-da5745-how-brunei-s-ufo-reports-changed-over-time-brunei-darussalam-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-da5745-how-brunei-s-ufo-reports-changed-over-time-brunei-darussalam-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="timeline-da5745-how-brunei-s-ufo-reports-changed-over-time-brunei-darussalam-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-da5745-how-brunei-s-ufo-reports-changed-over-time-brunei-darussalam-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="timeline-da5745-how-brunei-s-ufo-reports-changed-over-time-brunei-darussalam-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-da5745-how-brunei-s-ufo-reports-changed-over-time-brunei-darussalam-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="timeline-da5745-how-brunei-s-ufo-reports-changed-over-time-brunei-darussalam-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-da5745-how-brunei-s-ufo-reports-changed-over-time-brunei-darussalam-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="timeline-da5745-how-brunei-s-ufo-reports-changed-over-time-brunei-darussalam-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-da5745-how-brunei-s-ufo-reports-changed-over-time-brunei-darussalam-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="timeline-da5745-how-brunei-s-ufo-reports-changed-over-time-brunei-darussalam-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
@@ -469,6 +443,38 @@ In summary, while there are occasional moments of curiosity and unexplained obse
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
           <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-da5745-how-brunei-s-ufo-reports-changed-over-time-brunei-darussalam-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="timeline-da5745-how-brunei-s-ufo-reports-changed-over-time-brunei-darussalam-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-da5745-how-brunei-s-ufo-reports-changed-over-time-brunei-darussalam-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="timeline-da5745-how-brunei-s-ufo-reports-changed-over-time-brunei-darussalam-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-da5745-how-brunei-s-ufo-reports-changed-over-time-brunei-darussalam-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="timeline-da5745-how-brunei-s-ufo-reports-changed-over-time-brunei-darussalam-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-da5745-how-brunei-s-ufo-reports-changed-over-time-brunei-darussalam-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="timeline-da5745-how-brunei-s-ufo-reports-changed-over-time-brunei-darussalam-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-da5745-how-brunei-s-ufo-reports-changed-over-time-brunei-darussalam-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="timeline-da5745-how-brunei-s-ufo-reports-changed-over-time-brunei-darussalam-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-da5745-how-brunei-s-ufo-reports-changed-over-time-brunei-darussalam-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="timeline-da5745-how-brunei-s-ufo-reports-changed-over-time-brunei-darussalam-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-da5745-how-brunei-s-ufo-reports-changed-over-time-brunei-darussalam-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="timeline-da5745-how-brunei-s-ufo-reports-changed-over-time-brunei-darussalam-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-da5745-how-brunei-s-ufo-reports-changed-over-time-brunei-darussalam-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="timeline-da5745-how-brunei-s-ufo-reports-changed-over-time-brunei-darussalam-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-da5745-how-brunei-s-ufo-reports-changed-over-time-brunei-darussalam-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="timeline-da5745-how-brunei-s-ufo-reports-changed-over-time-brunei-darussalam-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-da5745-how-brunei-s-ufo-reports-changed-over-time-brunei-darussalam-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="timeline-da5745-how-brunei-s-ufo-reports-changed-over-time-brunei-darussalam-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">

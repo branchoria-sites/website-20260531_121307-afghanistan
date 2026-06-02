@@ -239,7 +239,7 @@ next_link:
   permalink: /starship-case/
   short_title: Starship Case
   heading_title: The Rocket Mistaken for a UFO
-date: '2026-06-02 16:40:38 '
+date: '2026-06-02 18:47:34 '
 header:
   og_image: /assets/images/Trinidad_and_Tobago_a73120_fireballs_meteors_90acd6-Illustration-1-social.jpg
   preview_image: /assets/images/Trinidad_and_Tobago_a73120_fireballs_meteors_90acd6-Illustration-1.webp

@@ -245,7 +245,7 @@ next_link:
   permalink: /regional-cases/
   short_title: Regional Cases
   heading_title: Where Do Slovenia's UFO Reports Cluster?
-date: '2026-06-02 16:37:11 '
+date: '2026-06-02 18:44:20 '
 header:
   og_image: /assets/images/Slovenia_d1aa05_krsko_ufo_claims_ae6294-Illustration-1-social.jpg
   preview_image: /assets/images/Slovenia_d1aa05_krsko_ufo_claims_ae6294-Illustration-1.webp

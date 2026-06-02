@@ -245,7 +245,7 @@ next_link:
   permalink: /records-7bb423/
   short_title: Records
   heading_title: Where Singapore UFO Evidence Actually Comes From
-date: '2026-06-02 16:36:56 '
+date: '2026-06-02 18:44:06 '
 header:
   og_image: /assets/images/Singapore_20c0b7_modern_sky_sightings_aaa72a-Illustration-1-social.jpg
   preview_image: /assets/images/Singapore_20c0b7_modern_sky_sightings_aaa72a-Illustration-1.webp

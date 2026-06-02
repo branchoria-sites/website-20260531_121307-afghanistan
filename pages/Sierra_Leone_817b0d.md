@@ -1185,7 +1185,7 @@ next_link:
   title: Somalia UFOs
   permalink: /what-do-somalias-ufo-reports-really-show/
   short_title: Somalia UFOs
-date: '2026-06-02 16:36:41 '
+date: '2026-06-02 18:43:51 '
 header:
   og_image: /assets/images/Sierra_Leone_817b0d-overview-social.jpg
   preview_image: /assets/images/Sierra_Leone_817b0d-overview.webp

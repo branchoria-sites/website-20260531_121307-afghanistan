@@ -245,7 +245,7 @@ next_link:
   permalink: /records-gap-f8496c/
   short_title: Records Gap
   heading_title: Why Germany Has No UFO Office
-date: '2026-06-02 16:12:06 '
+date: '2026-06-02 18:28:23 '
 header:
   og_image: /assets/images/Germany_17d53e_wurzburg_ifex_resear_6cdced-Illustration-1-social.jpg
   preview_image: /assets/images/Germany_17d53e_wurzburg_ifex_resear_6cdced-Illustration-1.webp

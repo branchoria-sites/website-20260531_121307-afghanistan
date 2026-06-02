@@ -245,7 +245,7 @@ next_link:
   permalink: /records-a21934/
   short_title: Records
   heading_title: Why Lebanon's UFO Record Is So Hard to Verify
-date: '2026-06-02 16:19:44 '
+date: '2026-06-02 18:33:34 '
 header:
   og_image: /assets/images/Lebanon_5caa7f_meteor_explanations_1aa66a-Illustration-1-social.jpg
   preview_image: /assets/images/Lebanon_5caa7f_meteor_explanations_1aa66a-Illustration-1.webp

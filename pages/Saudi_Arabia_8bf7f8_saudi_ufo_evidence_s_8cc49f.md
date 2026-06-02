@@ -239,7 +239,7 @@ next_link:
   permalink: /jizan-sky/
   short_title: Jizan Sky
   heading_title: Why Southern Saudi Sightings Are Hard To Read
-date: '2026-06-02 16:35:21 '
+date: '2026-06-02 18:43:10 '
 header:
   og_image: /assets/images/Saudi_Arabia_8bf7f8_saudi_ufo_evidence_s_8cc49f-Illustration-1-social.jpg
   preview_image: /assets/images/Saudi_Arabia_8bf7f8_saudi_ufo_evidence_s_8cc49f-Illustration-1.webp

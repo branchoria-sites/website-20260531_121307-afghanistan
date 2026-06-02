@@ -245,7 +245,7 @@ next_link:
   permalink: /paramaribo/
   short_title: Paramaribo
   heading_title: Why Paramaribo Dominates Suriname UFO Reports
-date: '2026-06-02 16:38:57 '
+date: '2026-06-02 18:46:11 '
 header:
   og_image: /assets/images/Suriname_b17fc6_sky_lantern_scare_9e8481-Illustration-1-social.jpg
   preview_image: /assets/images/Suriname_b17fc6_sky_lantern_scare_9e8481-Illustration-1.webp

@@ -1185,7 +1185,7 @@ next_link:
   title: Zimbabwe UFOs
   permalink: /what-really-happened-in-zimbabwes-ufo/
   short_title: Zimbabwe UFOs
-date: '2026-06-02 16:41:43 '
+date: '2026-06-02 18:48:20 '
 header:
   og_image: /assets/images/Uganda_e92904-overview-social.jpg
   preview_image: /assets/images/Uganda_e92904-overview.webp

@@ -239,7 +239,7 @@ prev_link:
   permalink: /space-debris/
   short_title: Space Debris
   heading_title: When a UFO Case Becomes Space Junk
-date: '2026-06-02 15:58:17 '
+date: '2026-06-02 18:17:08 '
 header:
   og_image: /assets/images/Bolivia_Plurinationa_9e2db7_tarija_crash_f4f5cf-Illustration-1-social.jpg
   preview_image: /assets/images/Bolivia_Plurinationa_9e2db7_tarija_crash_f4f5cf-Illustration-1.webp

@@ -245,7 +245,7 @@ next_link:
   permalink: /zond-research/
   short_title: Zond Research
   heading_title: Who Kept Ukraine's Civilian UFO Records?
-date: '2026-06-02 16:42:00 '
+date: '2026-06-02 18:48:35 '
 header:
   og_image: /assets/images/Ukraine_c951ec_wartime_sky_misident_21607a-Illustration-1-social.jpg
   preview_image: /assets/images/Ukraine_c951ec_wartime_sky_misident_21607a-Illustration-1.webp

@@ -239,7 +239,7 @@ next_link:
   permalink: /famous-cases/
   short_title: Famous Cases
   heading_title: Why Canada's Famous UFO Cases Endure
-date: '2026-06-02 16:03:56 '
+date: '2026-06-02 18:22:33 '
 header:
   og_image: /assets/images/Canada_cd6a7b_canadian_ufo_archive_1cacc9-Illustration-1-social.jpg
   preview_image: /assets/images/Canada_cd6a7b_canadian_ufo_archive_1cacc9-Illustration-1.webp

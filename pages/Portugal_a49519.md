@@ -1185,7 +1185,7 @@ next_link:
   title: Korea UFOs
   permalink: /republic-of-korea/
   short_title: Korea UFOs
-date: '2026-06-02 16:30:49 '
+date: '2026-06-02 18:40:46 '
 header:
   og_image: /assets/images/Portugal_a49519-overview-social.jpg
   preview_image: /assets/images/Portugal_a49519-overview.webp

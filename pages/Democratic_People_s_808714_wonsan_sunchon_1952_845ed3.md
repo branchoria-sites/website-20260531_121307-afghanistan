@@ -239,7 +239,7 @@ prev_link:
   permalink: /iron-triangle-1951/
   short_title: Iron Triangle 1951
   heading_title: Did Ground Forces Encounter Strange Objects in the Iron Triangle?
-date: '2026-06-02 16:08:01 '
+date: '2026-06-02 18:25:03 '
 header:
   og_image: /assets/images/Democratic_People_s_808714_wonsan_sunchon_1952_845ed3-Illustration-1-social.jpg
   preview_image: /assets/images/Democratic_People_s_808714_wonsan_sunchon_1952_845ed3-Illustration-1.webp

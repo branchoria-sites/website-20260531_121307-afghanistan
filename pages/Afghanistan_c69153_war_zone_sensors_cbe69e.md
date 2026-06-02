@@ -239,7 +239,7 @@ prev_link:
   permalink: /orb-videos/
   short_title: Orb Videos
   heading_title: Can the Kandahar Orb Videos Be Verified?
-date: '2026-06-02 15:44:57 '
+date: '2026-06-02 18:05:07 '
 header:
   og_image: /assets/images/Afghanistan_c69153_war_zone_sensors_cbe69e-Illustration-1-social.jpg
   preview_image: /assets/images/Afghanistan_c69153_war_zone_sensors_cbe69e-Illustration-1.webp

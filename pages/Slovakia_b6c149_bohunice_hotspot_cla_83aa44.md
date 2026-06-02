@@ -239,7 +239,7 @@ next_link:
   permalink: /eastern-skies/
   short_title: Eastern Skies
   heading_title: Are Eastern Slovakia's UFOs Dark Sky Mysteries?
-date: '2026-06-02 16:37:03 '
+date: '2026-06-02 18:44:13 '
 header:
   og_image: /assets/images/Slovakia_b6c149_bohunice_hotspot_cla_83aa44-Illustration-1-social.jpg
   preview_image: /assets/images/Slovakia_b6c149_bohunice_hotspot_cla_83aa44-Illustration-1.webp

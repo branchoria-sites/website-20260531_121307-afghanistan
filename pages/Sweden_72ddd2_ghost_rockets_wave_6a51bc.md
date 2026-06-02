@@ -245,7 +245,7 @@ next_link:
   permalink: /ufo-places/
   short_title: UFO Places
   heading_title: Where Sweden's UFO Stories Cluster
-date: '2026-06-02 16:39:12 '
+date: '2026-06-02 18:46:22 '
 header:
   og_image: /assets/images/Sweden_72ddd2_ghost_rockets_wave_6a51bc-Illustration-1-social.jpg
   preview_image: /assets/images/Sweden_72ddd2_ghost_rockets_wave_6a51bc-Illustration-1.webp

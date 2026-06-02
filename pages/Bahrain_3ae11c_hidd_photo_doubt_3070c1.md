@@ -245,7 +245,7 @@ next_link:
   permalink: /sky-rumours/
   short_title: Sky Rumours
   heading_title: Why Bahrain Sky Events Become UFO Stories
-date: '2026-06-02 15:53:49 '
+date: '2026-06-02 18:13:17 '
 header:
   og_image: /assets/images/Bahrain_3ae11c_hidd_photo_doubt_3070c1-Illustration-1-social.jpg
   preview_image: /assets/images/Bahrain_3ae11c_hidd_photo_doubt_3070c1-Illustration-1.webp

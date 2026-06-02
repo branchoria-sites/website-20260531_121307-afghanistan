@@ -245,7 +245,7 @@ next_link:
   permalink: /regional-patterns-4d5198/
   short_title: Regional Patterns
   heading_title: 'Where UFOs Cluster: Regional Reporting Trends in France'
-date: '2026-06-02 16:11:07 '
+date: '2026-06-02 18:27:38 '
 header:
   og_image: /assets/images/France_e3772a_physical_trace_ufo_c_06d1cb-Illustration-1-social.jpg
   preview_image: /assets/images/France_e3772a_physical_trace_ufo_c_06d1cb-Illustration-1.webp

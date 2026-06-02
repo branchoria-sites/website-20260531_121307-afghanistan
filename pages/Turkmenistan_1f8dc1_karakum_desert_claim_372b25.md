@@ -239,7 +239,7 @@ next_link:
   permalink: /sky-context/
   short_title: Sky Context
   heading_title: What Might Explain Turkmenistan's Strange Sky Reports?
-date: '2026-06-02 16:41:18 '
+date: '2026-06-02 18:48:05 '
 header:
   og_image: /assets/images/Turkmenistan_1f8dc1_karakum_desert_claim_372b25-Illustration-1-social.jpg
   preview_image: /assets/images/Turkmenistan_1f8dc1_karakum_desert_claim_372b25-Illustration-1.webp

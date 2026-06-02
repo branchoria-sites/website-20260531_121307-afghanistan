@@ -239,7 +239,7 @@ prev_link:
   permalink: /sightings-2cf1d4/
   short_title: Sightings
   heading_title: Can Moldova's Online UFO Clips Be Trusted?
-date: '2026-06-02 16:31:23 '
+date: '2026-06-02 18:41:19 '
 header:
   og_image: /assets/images/Republic_of_Moldova_a6ad94_soroca_airspace_clos_6135e2-Illustration-1-social.jpg
   preview_image: /assets/images/Republic_of_Moldova_a6ad94_soroca_airspace_clos_6135e2-Illustration-1.webp

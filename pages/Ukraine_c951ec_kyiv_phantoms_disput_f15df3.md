@@ -239,7 +239,7 @@ next_link:
   permalink: /soviet-records/
   short_title: Soviet Records
   heading_title: What Did Soviet Files Say About Ukrainian UFOs?
-date: '2026-06-02 16:41:55 '
+date: '2026-06-02 18:48:32 '
 header:
   og_image: /assets/images/Ukraine_c951ec_kyiv_phantoms_disput_f15df3-Illustration-1-social.jpg
   preview_image: /assets/images/Ukraine_c951ec_kyiv_phantoms_disput_f15df3-Illustration-1.webp

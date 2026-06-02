@@ -245,7 +245,7 @@ next_link:
   permalink: /warzone-sky/
   short_title: Warzone Sky
   heading_title: Why Syria's War Sky Creates UFO Reports
-date: '2026-06-02 16:39:38 '
+date: '2026-06-02 18:46:43 '
 header:
   og_image: /assets/images/Syrian_Arab_Republic_099887_official_us_uap_reco_a30ddb-Illustration-1-social.jpg
   preview_image: /assets/images/Syrian_Arab_Republic_099887_official_us_uap_reco_a30ddb-Illustration-1.webp

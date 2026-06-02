@@ -245,7 +245,7 @@ next_link:
   permalink: /sky-reports/
   short_title: Sky Reports
   heading_title: Were Liechtenstein's Strange Lights Really UFOs?
-date: '2026-06-02 16:20:27 '
+date: '2026-06-02 18:34:09 '
 header:
   og_image: /assets/images/Liechtenstein_b0ddce_hans_adam_ufo_patron_937268-Illustration-1-social.jpg
   preview_image: /assets/images/Liechtenstein_b0ddce_hans_adam_ufo_patron_937268-Illustration-1.webp
@@ -473,22 +473,6 @@ Whether one views those efforts as visionary inquiry, misplaced curiosity, or so
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=royal-patronage-why-did-liechtenstein-s-prince-fund-ufo-research-liechtenstein-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="royal-patronage-why-did-liechtenstein-s-prince-fund-ufo-research-liechtenstein-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51"><img src="{{ '/assets/images/marketplace-covers/c414c708e06e899fa6fe.jpg' | relative_url }}" alt="Listing image for Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=royal-patronage-why-did-liechtenstein-s-prince-fund-ufo-research-liechtenstein-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="royal-patronage-why-did-liechtenstein-s-prince-fund-ufo-research-liechtenstein-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=royal-patronage-why-did-liechtenstein-s-prince-fund-ufo-research-liechtenstein-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="royal-patronage-why-did-liechtenstein-s-prince-fund-ufo-research-liechtenstein-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=royal-patronage-why-did-liechtenstein-s-prince-fund-ufo-research-liechtenstein-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="royal-patronage-why-did-liechtenstein-s-prince-fund-ufo-research-liechtenstein-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=royal-patronage-why-did-liechtenstein-s-prince-fund-ufo-research-liechtenstein-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="royal-patronage-why-did-liechtenstein-s-prince-fund-ufo-research-liechtenstein-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO UFO Skydiver 15&quot; Long - 3d printed"><img src="{{ '/assets/images/marketplace-covers/6b3732aa890e61d6e9ef.jpg' | relative_url }}" alt="Listing image for SHADO UFO Skydiver 15&quot; Long - 3d printed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
@@ -505,11 +489,27 @@ Whether one views those efforts as visionary inquiry, misplaced curiosity, or so
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=royal-patronage-why-did-liechtenstein-s-prince-fund-ufo-research-liechtenstein-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="royal-patronage-why-did-liechtenstein-s-prince-fund-ufo-research-liechtenstein-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=royal-patronage-why-did-liechtenstein-s-prince-fund-ufo-research-liechtenstein-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="royal-patronage-why-did-liechtenstein-s-prince-fund-ufo-research-liechtenstein-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51"><img src="{{ '/assets/images/marketplace-covers/c414c708e06e899fa6fe.jpg' | relative_url }}" alt="Listing image for Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=royal-patronage-why-did-liechtenstein-s-prince-fund-ufo-research-liechtenstein-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="royal-patronage-why-did-liechtenstein-s-prince-fund-ufo-research-liechtenstein-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=royal-patronage-why-did-liechtenstein-s-prince-fund-ufo-research-liechtenstein-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="royal-patronage-why-did-liechtenstein-s-prince-fund-ufo-research-liechtenstein-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=royal-patronage-why-did-liechtenstein-s-prince-fund-ufo-research-liechtenstein-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="royal-patronage-why-did-liechtenstein-s-prince-fund-ufo-research-liechtenstein-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo model</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=royal-patronage-why-did-liechtenstein-s-prince-fund-ufo-research-liechtenstein-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="royal-patronage-why-did-liechtenstein-s-prince-fund-ufo-research-liechtenstein-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=royal-patronage-why-did-liechtenstein-s-prince-fund-ufo-research-liechtenstein-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="royal-patronage-why-did-liechtenstein-s-prince-fund-ufo-research-liechtenstein-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi with or without stand"><img src="{{ '/assets/images/marketplace-covers/240e85a9df2c954a7763.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi with or without stand" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=royal-patronage-why-did-liechtenstein-s-prince-fund-ufo-research-liechtenstein-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="royal-patronage-why-did-liechtenstein-s-prince-fund-ufo-research-liechtenstein-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi with or without stand</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=royal-patronage-why-did-liechtenstein-s-prince-fund-ufo-research-liechtenstein-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="royal-patronage-why-did-liechtenstein-s-prince-fund-ufo-research-liechtenstein-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo model</a>
         <div class="fr-book-actions">

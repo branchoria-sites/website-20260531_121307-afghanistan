@@ -1185,7 +1185,7 @@ next_link:
   title: Eswatini UFOs
   permalink: /what-is-really-in-eswatinis-ufo-record/
   short_title: Eswatini UFOs
-date: '2026-06-02 16:37:00 '
+date: '2026-06-02 18:44:09 '
 header:
   og_image: /assets/images/Slovakia_b6c149-overview-social.jpg
   preview_image: /assets/images/Slovakia_b6c149-overview.webp

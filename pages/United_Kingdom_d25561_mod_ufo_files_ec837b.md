@@ -245,7 +245,7 @@ next_link:
   permalink: /rendlesham/
   short_title: Rendlesham
   heading_title: Why Rendlesham Forest Still Divides UFO Researchers
-date: '2026-06-02 16:42:44 '
+date: '2026-06-02 18:49:12 '
 header:
   og_image: /assets/images/United_Kingdom_d25561_mod_ufo_files_ec837b-Illustration-1-social.jpg
   preview_image: /assets/images/United_Kingdom_d25561_mod_ufo_files_ec837b-Illustration-1.webp

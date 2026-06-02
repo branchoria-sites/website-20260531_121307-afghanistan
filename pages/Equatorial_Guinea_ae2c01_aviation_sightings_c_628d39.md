@@ -245,7 +245,7 @@ next_link:
   permalink: /claims-debunks/
   short_title: Claims & Debunks
   heading_title: Separating Fact, Rumour, and Misinterpretation in Local UFO Claims
-date: '2026-06-02 16:09:54 '
+date: '2026-06-02 18:26:41 '
 header:
   og_image: /assets/images/Equatorial_Guinea_ae2c01_aviation_sightings_c_628d39-Illustration-1-social.jpg
   preview_image: /assets/images/Equatorial_Guinea_ae2c01_aviation_sightings_c_628d39-Illustration-1.webp
@@ -308,7 +308,7 @@ For UFO interpretation, this corridor matters because:
 A plane climbing out of Malabo towards the mainland can appear as a bright object moving silently over water before engine noise becomes audible. Conversely, an aircraft descending into Bata can appear to “stop” or “hover” when viewed head-on, a well-known perspective illusion in aviation psychology.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Mww3arniyt0" title="UFO Mysteries That Defy Explanation | Unidentified: Inside America&#x27;s UFO Investigation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Mww3arniyt0" target="_blank" rel="noopener noreferrer">UFO Mysteries That Defy Explanation | Unidentified: Inside America&#x27;s UFO Investigation</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 300.3K &middot; Uploaded: May 2026 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Mww3arniyt0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Mww3arniyt0">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_YIS16GfzfQ" title="My UFO Mistake" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_YIS16GfzfQ" target="_blank" rel="noopener noreferrer">My UFO Mistake</a></p><p class="youtube-embed-meta">Channel: Hank Green &middot; Views: 330.6K &middot; Uploaded: January 2025 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_YIS16GfzfQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_YIS16GfzfQ">Open on YouTube</a></p></div></div></div>
 
 ### Remote Island Operations and Annobón
 
@@ -377,7 +377,7 @@ This effect becomes stronger when:
 Witnesses unfamiliar with aviation can interpret the apparent hovering as anomalous behaviour.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_YIS16GfzfQ" title="My UFO Mistake" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_YIS16GfzfQ" target="_blank" rel="noopener noreferrer">My UFO Mistake</a></p><p class="youtube-embed-meta">Channel: Hank Green &middot; Views: 330.6K &middot; Uploaded: January 2025 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_YIS16GfzfQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_YIS16GfzfQ">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Mww3arniyt0" title="UFO Mysteries That Defy Explanation | Unidentified: Inside America&#x27;s UFO Investigation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Mww3arniyt0" target="_blank" rel="noopener noreferrer">UFO Mysteries That Defy Explanation | Unidentified: Inside America&#x27;s UFO Investigation</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 300.3K &middot; Uploaded: May 2026 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Mww3arniyt0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Mww3arniyt0">Open on YouTube</a></p></div></div></div>
 
 ### Navigation and Anti-Collision Lights
 

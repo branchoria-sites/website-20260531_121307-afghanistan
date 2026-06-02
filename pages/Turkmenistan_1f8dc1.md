@@ -1185,7 +1185,7 @@ next_link:
   title: Irish UAP
   permalink: /what-is-really-seen-over-ireland/
   short_title: Irish UAP
-date: '2026-06-02 16:41:12 '
+date: '2026-06-02 18:47:59 '
 header:
   og_image: /assets/images/Turkmenistan_1f8dc1-overview-social.jpg
   preview_image: /assets/images/Turkmenistan_1f8dc1-overview.webp

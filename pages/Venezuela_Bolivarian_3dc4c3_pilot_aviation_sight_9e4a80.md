@@ -245,7 +245,7 @@ next_link:
   permalink: /source-trail/
   short_title: Source Trail
   heading_title: Which Venezuelan UFO Sources Hold Up?
-date: '2026-06-02 16:44:05 '
+date: '2026-06-02 18:50:12 '
 header:
   og_image: /assets/images/Venezuela_Bolivarian_3dc4c3_pilot_aviation_sight_9e4a80-Illustration-1-social.jpg
   preview_image: /assets/images/Venezuela_Bolivarian_3dc4c3_pilot_aviation_sight_9e4a80-Illustration-1.webp

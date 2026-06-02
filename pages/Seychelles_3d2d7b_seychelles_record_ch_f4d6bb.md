@@ -245,7 +245,7 @@ next_link:
   permalink: /starlink/
   short_title: Starlink
   heading_title: When Satellites Look Like UFOs Over Seychelles
-date: '2026-06-02 16:36:25 '
+date: '2026-06-02 18:43:47 '
 header:
   og_image: /assets/images/Seychelles_3d2d7b_seychelles_record_ch_f4d6bb-Illustration-1-social.jpg
   preview_image: /assets/images/Seychelles_3d2d7b_seychelles_record_ch_f4d6bb-Illustration-1.webp

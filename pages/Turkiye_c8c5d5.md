@@ -1185,7 +1185,7 @@ next_link:
   title: Lux UFO
   permalink: /uncovering-ufo-activity-across/
   short_title: Lux UFO
-date: '2026-06-02 16:40:59 '
+date: '2026-06-02 18:47:50 '
 header:
   og_image: /assets/images/Turkiye_c8c5d5-overview-social.jpg
   preview_image: /assets/images/Turkiye_c8c5d5-overview.webp

@@ -1185,7 +1185,7 @@ next_link:
   title: Slovak UFOs
   permalink: /what-is-really-behind-slovakias-ufo/
   short_title: Slovak UFOs
-date: '2026-06-02 16:42:04 '
+date: '2026-06-02 18:48:39 '
 header:
   og_image: /assets/images/Namibia_bfe79d-overview-social.jpg
   preview_image: /assets/images/Namibia_bfe79d-overview.webp

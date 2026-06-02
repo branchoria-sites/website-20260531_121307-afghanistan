@@ -245,7 +245,7 @@ next_link:
   permalink: /timeline-bba1a6/
   short_title: Timeline
   heading_title: Which Panama UFO Reports Still Matter?
-date: '2026-06-02 16:28:57 '
+date: '2026-06-02 18:39:51 '
 header:
   og_image: /assets/images/Panama_1e36b3_panama_skywatchers_1a5258-Illustration-1-social.jpg
   preview_image: /assets/images/Panama_1e36b3_panama_skywatchers_1a5258-Illustration-1.webp

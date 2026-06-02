@@ -245,7 +245,7 @@ next_link:
   permalink: /welsh-cases/
   short_title: Welsh Cases
   heading_title: Why Wales Became a UFO Hotspot
-date: '2026-06-02 16:42:52 '
+date: '2026-06-02 18:49:18 '
 header:
   og_image: /assets/images/United_Kingdom_d25561_rendlesham_forest_c1e2c6-Illustration-1-social.jpg
   preview_image: /assets/images/United_Kingdom_d25561_rendlesham_forest_c1e2c6-Illustration-1.webp

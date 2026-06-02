@@ -239,7 +239,7 @@ prev_link:
   permalink: /kalahari-crash/
   short_title: Kalahari Crash
   heading_title: Could the 1989 Kalahari UFO Crash Have Really Happened?
-date: '2026-06-02 15:59:57 '
+date: '2026-06-02 18:18:28 '
 header:
   og_image: /assets/images/Botswana_180c89_remote_botswana_sigh_0f19f4-Illustration-1-social.jpg
   preview_image: /assets/images/Botswana_180c89_remote_botswana_sigh_0f19f4-Illustration-1.webp

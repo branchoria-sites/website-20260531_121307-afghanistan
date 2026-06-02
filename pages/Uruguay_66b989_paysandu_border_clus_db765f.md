@@ -239,7 +239,7 @@ prev_link:
   permalink: /military-cases/
   short_title: Military Cases
   heading_title: The Military UFO Cases That Still Stand Out
-date: '2026-06-02 16:43:30 '
+date: '2026-06-02 18:49:46 '
 header:
   og_image: /assets/images/Uruguay_66b989_paysandu_border_clus_db765f-Illustration-1-social.jpg
   preview_image: /assets/images/Uruguay_66b989_paysandu_border_clus_db765f-Illustration-1.webp

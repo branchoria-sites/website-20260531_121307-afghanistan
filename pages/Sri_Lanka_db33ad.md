@@ -1185,7 +1185,7 @@ next_link:
   title: Swiss UFOs
   permalink: /what-is-switzerlands-ufo-record-really/
   short_title: Swiss UFOs
-date: '2026-06-02 16:38:30 '
+date: '2026-06-02 18:45:19 '
 header:
   og_image: /assets/images/Sri_Lanka_db33ad-overview-social.jpg
   preview_image: /assets/images/Sri_Lanka_db33ad-overview.webp

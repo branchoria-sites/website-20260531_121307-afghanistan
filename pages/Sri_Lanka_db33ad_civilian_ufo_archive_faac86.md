@@ -239,7 +239,7 @@ next_link:
   permalink: /explanations-8de6d4/
   short_title: Explanations
   heading_title: When Sri Lankan UFOs Become Weather or Drones
-date: '2026-06-02 16:38:32 '
+date: '2026-06-02 18:45:21 '
 header:
   og_image: /assets/images/Sri_Lanka_db33ad_civilian_ufo_archive_faac86-Illustration-1-social.jpg
   preview_image: /assets/images/Sri_Lanka_db33ad_civilian_ufo_archive_faac86-Illustration-1.webp

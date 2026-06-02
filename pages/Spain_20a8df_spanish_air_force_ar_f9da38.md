@@ -239,7 +239,7 @@ next_link:
   permalink: /canary-lights/
   short_title: Canary Lights
   heading_title: Why the Canary Islands UFOs Looked Alien
-date: '2026-06-02 16:38:27 '
+date: '2026-06-02 18:45:16 '
 header:
   og_image: /assets/images/Spain_20a8df_spanish_air_force_ar_f9da38-Illustration-1-social.jpg
   preview_image: /assets/images/Spain_20a8df_spanish_air_force_ar_f9da38-Illustration-1.webp

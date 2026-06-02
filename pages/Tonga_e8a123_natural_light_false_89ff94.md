@@ -245,7 +245,7 @@ next_link:
   permalink: /vavau-lights/
   short_title: Vavau Lights
   heading_title: What Happened to the Vavau Green Lights?
-date: '2026-06-02 16:40:25 '
+date: '2026-06-02 18:47:25 '
 header:
   og_image: /assets/images/Tonga_e8a123_natural_light_false_89ff94-Illustration-1-social.jpg
   preview_image: /assets/images/Tonga_e8a123_natural_light_false_89ff94-Illustration-1.webp

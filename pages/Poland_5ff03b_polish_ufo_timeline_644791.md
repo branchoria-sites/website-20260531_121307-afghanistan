@@ -239,7 +239,7 @@ prev_link:
   permalink: /records-7d1d4a/
   short_title: Records
   heading_title: Can Poland Build a Trustworthy UAP Record?
-date: '2026-06-02 16:30:21 '
+date: '2026-06-02 18:40:41 '
 header:
   og_image: /assets/images/Poland_5ff03b_polish_ufo_timeline_644791-Illustration-1-social.jpg
   preview_image: /assets/images/Poland_5ff03b_polish_ufo_timeline_644791-Illustration-1.webp

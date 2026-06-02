@@ -245,7 +245,7 @@ next_link:
   permalink: /evidence-gaps-5a3de4/
   short_title: Evidence Gaps
   heading_title: Why Zimbabwe's UFO Record Is So Hard to Verify
-date: '2026-06-02 16:44:53 '
+date: '2026-06-02 18:51:01 '
 header:
   og_image: /assets/images/Zimbabwe_5922f5_ariel_school_witness_131401-Illustration-1-social.jpg
   preview_image: /assets/images/Zimbabwe_5922f5_ariel_school_witness_131401-Illustration-1.webp

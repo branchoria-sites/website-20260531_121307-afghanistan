@@ -245,7 +245,7 @@ next_link:
   permalink: /official-archives/
   short_title: Official Archives
   heading_title: 'Inside Denmark''s UFO Archives: Historical Reports Explained'
-date: '2026-06-02 16:08:19 '
+date: '2026-06-02 18:25:22 '
 header:
   og_image: /assets/images/Denmark_89da12_notable_sightings_aa8df4-Illustration-1-social.jpg
   preview_image: /assets/images/Denmark_89da12_notable_sightings_aa8df4-Illustration-1.webp

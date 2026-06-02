@@ -239,7 +239,7 @@ prev_link:
   permalink: /reporting-f4bb1f/
   short_title: Reporting
   heading_title: Should Canada Have One UAP Reporting Office?
-date: '2026-06-02 16:04:02 '
+date: '2026-06-02 18:22:35 '
 header:
   og_image: /assets/images/Canada_cd6a7b_canadian_ufo_surveys_4961ab-Illustration-1-social.jpg
   preview_image: /assets/images/Canada_cd6a7b_canadian_ufo_surveys_4961ab-Illustration-1.webp

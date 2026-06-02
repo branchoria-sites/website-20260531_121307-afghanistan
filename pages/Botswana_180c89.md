@@ -1185,7 +1185,7 @@ next_link:
   title: Ecuador UFOs
   permalink: /what-evidence-exists-for-ufos-in-ecuador/
   short_title: Ecuador UFOs
-date: '2026-06-02 15:59:44 '
+date: '2026-06-02 18:18:19 '
 header:
   og_image: /assets/images/Botswana_180c89-overview-social.jpg
   preview_image: /assets/images/Botswana_180c89-overview.webp

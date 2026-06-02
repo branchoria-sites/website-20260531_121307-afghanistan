@@ -239,7 +239,7 @@ next_link:
   permalink: /blue-book-af414b/
   short_title: Blue Book
   heading_title: What Project Blue Book Actually Found
-date: '2026-06-02 16:43:16 '
+date: '2026-06-02 18:49:34 '
 header:
   og_image: /assets/images/United_States_f5f19f_aaro_reporting_syste_d0f869-Illustration-1-social.jpg
   preview_image: /assets/images/United_States_f5f19f_aaro_reporting_syste_d0f869-Illustration-1.webp

@@ -245,7 +245,7 @@ next_link:
   permalink: /mosul-orb/
   short_title: Mosul Orb
   heading_title: How Did the Mosul Orb Capture Public Attention?
-date: '2026-06-02 16:17:15 '
+date: '2026-06-02 18:31:36 '
 header:
   og_image: /assets/images/Iraq_1aed9e_iraq_civilian_ufo_15e153-Illustration-1-social.jpg
   preview_image: /assets/images/Iraq_1aed9e_iraq_civilian_ufo_15e153-Illustration-1.webp

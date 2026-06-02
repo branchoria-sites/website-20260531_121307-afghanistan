@@ -239,7 +239,7 @@ next_link:
   permalink: /explanations-9e0ad8/
   short_title: Explanations
   heading_title: What Else Could Colombian UFOs Be?
-date: '2026-06-02 16:04:58 '
+date: '2026-06-02 18:23:18 '
 header:
   og_image: /assets/images/Colombia_2f7373_buga_sphere_aa9214-Illustration-1-social.jpg
   preview_image: /assets/images/Colombia_2f7373_buga_sphere_aa9214-Illustration-1.webp

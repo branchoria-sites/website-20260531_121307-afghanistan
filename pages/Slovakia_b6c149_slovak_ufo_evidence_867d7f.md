@@ -245,7 +245,7 @@ next_link:
   permalink: /trnava-archive/
   short_title: Trnava Archive
   heading_title: Who Keeps Slovakia's UFO Records?
-date: '2026-06-02 16:37:02 '
+date: '2026-06-02 18:44:11 '
 header:
   og_image: /assets/images/Slovakia_b6c149_slovak_ufo_evidence_867d7f-Illustration-1-social.jpg
   preview_image: /assets/images/Slovakia_b6c149_slovak_ufo_evidence_867d7f-Illustration-1.webp

@@ -245,7 +245,7 @@ next_link:
   permalink: /sighting-map/
   short_title: Sighting Map
   heading_title: Where Do Hungary's UFO Reports Cluster?
-date: '2026-06-02 16:16:02 '
+date: '2026-06-02 18:30:42 '
 header:
   og_image: /assets/images/Hungary_f14e46_media_myths_skeptici_82dd8a-Illustration-1-social.jpg
   preview_image: /assets/images/Hungary_f14e46_media_myths_skeptici_82dd8a-Illustration-1.webp

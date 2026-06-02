@@ -1185,7 +1185,7 @@ next_link:
   title: Türkiye UFOs
   permalink: /turkiye/
   short_title: Türkiye UFOs
-date: '2026-06-02 16:40:34 '
+date: '2026-06-02 18:47:30 '
 header:
   og_image: /assets/images/Trinidad_and_Tobago_a73120-overview-social.jpg
   preview_image: /assets/images/Trinidad_and_Tobago_a73120-overview.webp

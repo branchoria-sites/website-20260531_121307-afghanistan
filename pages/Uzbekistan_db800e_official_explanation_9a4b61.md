@@ -239,7 +239,7 @@ next_link:
   permalink: /regional-clusters/
   short_title: Regional Clusters
   heading_title: Where Do Uzbekistan UFO Reports Cluster?
-date: '2026-06-02 16:43:35 '
+date: '2026-06-02 18:49:51 '
 header:
   og_image: /assets/images/Uzbekistan_db800e_official_explanation_9a4b61-Illustration-1-social.jpg
   preview_image: /assets/images/Uzbekistan_db800e_official_explanation_9a4b61-Illustration-1.webp

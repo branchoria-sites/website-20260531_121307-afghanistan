@@ -245,7 +245,7 @@ next_link:
   permalink: /sightings-data/
   short_title: Sightings Data
   heading_title: How Reliable Are Kazakhstan UFO Databases?
-date: '2026-06-02 16:18:17 '
+date: '2026-06-02 18:32:26 '
 header:
   og_image: /assets/images/Kazakhstan_2f36b6_kazakhstan_ufo_legen_d436f0-Illustration-1-social.jpg
   preview_image: /assets/images/Kazakhstan_2f36b6_kazakhstan_ufo_legen_d436f0-Illustration-1.webp

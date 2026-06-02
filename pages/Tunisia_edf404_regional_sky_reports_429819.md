@@ -245,7 +245,7 @@ next_link:
   permalink: /sfax-1997/
   short_title: Sfax 1997
   heading_title: Why the Sfax UFO Case Still Matters
-date: '2026-06-02 16:40:55 '
+date: '2026-06-02 18:47:46 '
 header:
   og_image: /assets/images/Tunisia_edf404_regional_sky_reports_429819-Illustration-1-social.jpg
   preview_image: /assets/images/Tunisia_edf404_regional_sky_reports_429819-Illustration-1.webp

@@ -239,7 +239,7 @@ next_link:
   permalink: /buulo-burde/
   short_title: Buulo Burde
   heading_title: What Fell Near Buulo Burde?
-date: '2026-06-02 16:37:31 '
+date: '2026-06-02 18:44:42 '
 header:
   og_image: /assets/images/Somalia_4dfdf1_conflict_zone_skies_9ac21a-Illustration-1-social.jpg
   preview_image: /assets/images/Somalia_4dfdf1_conflict_zone_skies_9ac21a-Illustration-1.webp

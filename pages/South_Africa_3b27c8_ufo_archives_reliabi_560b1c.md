@@ -239,7 +239,7 @@ next_link:
   permalink: /cape-town/
   short_title: Cape Town
   heading_title: When Cape Town UFOs Turn Out to Be Weather
-date: '2026-06-02 16:37:45 '
+date: '2026-06-02 18:44:55 '
 header:
   og_image: /assets/images/South_Africa_3b27c8_ufo_archives_reliabi_560b1c-Illustration-1-social.jpg
   preview_image: /assets/images/South_Africa_3b27c8_ufo_archives_reliabi_560b1c-Illustration-1.webp

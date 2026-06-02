@@ -1185,7 +1185,7 @@ next_link:
   title: Lesotho UAP
   permalink: /what-is-really-known-about-lesotho-ufos/
   short_title: Lesotho UAP
-date: '2026-06-02 16:18:34 '
+date: '2026-06-02 18:32:42 '
 header:
   og_image: /assets/images/Kiribati_3f57ad-overview-social.jpg
   preview_image: /assets/images/Kiribati_3f57ad-overview.webp

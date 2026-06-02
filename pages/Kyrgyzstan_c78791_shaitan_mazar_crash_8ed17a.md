@@ -245,7 +245,7 @@ next_link:
   permalink: /verification-9ab478/
   short_title: Verification
   heading_title: How Reliable Are Kyrgyzstan's UFO Reports?
-date: '2026-06-02 16:19:01 '
+date: '2026-06-02 18:33:01 '
 header:
   og_image: /assets/images/Kyrgyzstan_c78791_shaitan_mazar_crash_8ed17a-Illustration-1-social.jpg
   preview_image: /assets/images/Kyrgyzstan_c78791_shaitan_mazar_crash_8ed17a-Illustration-1.webp

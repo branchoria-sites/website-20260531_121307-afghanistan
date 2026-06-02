@@ -245,7 +245,7 @@ next_link:
   permalink: /timeline-da5745/
   short_title: Timeline
   heading_title: How Brunei's UFO Reports Changed Over Time
-date: '2026-06-02 16:00:23 '
+date: '2026-06-02 18:18:51 '
 header:
   og_image: /assets/images/Brunei_Darussalam_eab94a_records_gap_aadb30-Illustration-1-social.jpg
   preview_image: /assets/images/Brunei_Darussalam_eab94a_records_gap_aadb30-Illustration-1.webp
@@ -421,6 +421,38 @@ In the context of UFO/UAP research globally, this means that **Brunei’s contri
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-a60a9c-why-brunei-has-no-clear-ufo-record-brunei-darussalam-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="records-gap-a60a9c-why-brunei-has-no-clear-ufo-record-brunei-darussalam-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Collectible Model Replica Limited Edition 2004 PCS Die Cast Jerry Anderson"><img src="{{ '/assets/images/marketplace-covers/47eef372351acefdf0fb.jpg' | relative_url }}" alt="Listing image for UFO Collectible Model Replica Limited Edition 2004 PCS Die Cast Jerry Anderson" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-a60a9c-why-brunei-has-no-clear-ufo-record-brunei-darussalam-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="records-gap-a60a9c-why-brunei-has-no-clear-ufo-record-brunei-darussalam-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Collectible Model Replica Limited Edition 2004 PCS Die Cast Jerry Anderson</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-a60a9c-why-brunei-has-no-clear-ufo-record-brunei-darussalam-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="records-gap-a60a9c-why-brunei-has-no-clear-ufo-record-brunei-darussalam-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-a60a9c-why-brunei-has-no-clear-ufo-record-brunei-darussalam-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="records-gap-a60a9c-why-brunei-has-no-clear-ufo-record-brunei-darussalam-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-a60a9c-why-brunei-has-no-clear-ufo-record-brunei-darussalam-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="records-gap-a60a9c-why-brunei-has-no-clear-ufo-record-brunei-darussalam-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2004 PCS Die Cst Jerry Anderson Model Replica Limited Edition Collectible UFO"><img src="{{ '/assets/images/marketplace-covers/184bb6bf3fc5597faf27.jpg' | relative_url }}" alt="Listing image for 2004 PCS Die Cst Jerry Anderson Model Replica Limited Edition Collectible UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-a60a9c-why-brunei-has-no-clear-ufo-record-brunei-darussalam-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="records-gap-a60a9c-why-brunei-has-no-clear-ufo-record-brunei-darussalam-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">2004 PCS Die Cst Jerry Anderson Model Replica Limited Edition Collectible UFO</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-a60a9c-why-brunei-has-no-clear-ufo-record-brunei-darussalam-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="records-gap-a60a9c-why-brunei-has-no-clear-ufo-record-brunei-darussalam-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-a60a9c-why-brunei-has-no-clear-ufo-record-brunei-darussalam-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="records-gap-a60a9c-why-brunei-has-no-clear-ufo-record-brunei-darussalam-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-a60a9c-why-brunei-has-no-clear-ufo-record-brunei-darussalam-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="records-gap-a60a9c-why-brunei-has-no-clear-ufo-record-brunei-darussalam-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model / UAP Model With Stand – George Adamski – Alien Saucer Collectible"><img src="{{ '/assets/images/marketplace-covers/48ed2132f252162f12c9.jpg' | relative_url }}" alt="Listing image for UFO Model / UAP Model With Stand – George Adamski – Alien Saucer Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
@@ -442,38 +474,6 @@ In the context of UFO/UAP research globally, this means that **Brunei’s contri
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
           <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-a60a9c-why-brunei-has-no-clear-ufo-record-brunei-darussalam-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="records-gap-a60a9c-why-brunei-has-no-clear-ufo-record-brunei-darussalam-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-a60a9c-why-brunei-has-no-clear-ufo-record-brunei-darussalam-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="records-gap-a60a9c-why-brunei-has-no-clear-ufo-record-brunei-darussalam-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-a60a9c-why-brunei-has-no-clear-ufo-record-brunei-darussalam-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="records-gap-a60a9c-why-brunei-has-no-clear-ufo-record-brunei-darussalam-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-a60a9c-why-brunei-has-no-clear-ufo-record-brunei-darussalam-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="records-gap-a60a9c-why-brunei-has-no-clear-ufo-record-brunei-darussalam-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-a60a9c-why-brunei-has-no-clear-ufo-record-brunei-darussalam-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="records-gap-a60a9c-why-brunei-has-no-clear-ufo-record-brunei-darussalam-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-a60a9c-why-brunei-has-no-clear-ufo-record-brunei-darussalam-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="records-gap-a60a9c-why-brunei-has-no-clear-ufo-record-brunei-darussalam-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-a60a9c-why-brunei-has-no-clear-ufo-record-brunei-darussalam-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="records-gap-a60a9c-why-brunei-has-no-clear-ufo-record-brunei-darussalam-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-a60a9c-why-brunei-has-no-clear-ufo-record-brunei-darussalam-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="records-gap-a60a9c-why-brunei-has-no-clear-ufo-record-brunei-darussalam-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Collectible Model Replica Limited Edition 2004 PCS Die Cast Jerry Anderson"><img src="{{ '/assets/images/marketplace-covers/47eef372351acefdf0fb.jpg' | relative_url }}" alt="Listing image for UFO Collectible Model Replica Limited Edition 2004 PCS Die Cast Jerry Anderson" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-a60a9c-why-brunei-has-no-clear-ufo-record-brunei-darussalam-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="records-gap-a60a9c-why-brunei-has-no-clear-ufo-record-brunei-darussalam-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Collectible Model Replica Limited Edition 2004 PCS Die Cast Jerry Anderson</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-a60a9c-why-brunei-has-no-clear-ufo-record-brunei-darussalam-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="records-gap-a60a9c-why-brunei-has-no-clear-ufo-record-brunei-darussalam-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
         <div class="fr-book-actions">

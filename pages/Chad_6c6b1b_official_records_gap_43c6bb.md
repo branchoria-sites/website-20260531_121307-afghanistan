@@ -245,7 +245,7 @@ next_link:
   permalink: /sky-explanations/
   short_title: Sky Explanations
   heading_title: What Natural Events Get Mistaken for UFOs in Chad?
-date: '2026-06-02 16:04:27 '
+date: '2026-06-02 18:22:52 '
 header:
   og_image: /assets/images/Chad_6c6b1b_official_records_gap_43c6bb-Illustration-1-social.jpg
   preview_image: /assets/images/Chad_6c6b1b_official_records_gap_43c6bb-Illustration-1.webp

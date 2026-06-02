@@ -239,7 +239,7 @@ prev_link:
   permalink: /pilot-case/
   short_title: Pilot Case
   heading_title: Why the Lemos Ferreira Case Still Matters
-date: '2026-06-02 16:30:57 '
+date: '2026-06-02 18:40:53 '
 header:
   og_image: /assets/images/Portugal_a49519_official_ufo_records_56a07f-Illustration-1-social.jpg
   preview_image: /assets/images/Portugal_a49519_official_ufo_records_56a07f-Illustration-1.webp

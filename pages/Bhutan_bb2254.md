@@ -1185,7 +1185,7 @@ next_link:
   title: Botswana UFOs
   permalink: /what-does-botswanas-ufo-record-really/
   short_title: Botswana UFOs
-date: '2026-06-02 15:57:22 '
+date: '2026-06-02 18:16:19 '
 header:
   og_image: /assets/images/Bhutan_bb2254-overview-social.jpg
   preview_image: /assets/images/Bhutan_bb2254-overview.webp

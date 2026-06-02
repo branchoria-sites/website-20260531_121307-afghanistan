@@ -1185,7 +1185,7 @@ next_link:
   title: Congo UFOs
   permalink: /what-really-counts-as-a-congo-ufo/
   short_title: Congo UFOs
-date: '2026-06-02 16:38:43 '
+date: '2026-06-02 18:45:45 '
 header:
   og_image: /assets/images/Sudan_1193ba-overview-social.jpg
   preview_image: /assets/images/Sudan_1193ba-overview.webp

@@ -245,7 +245,7 @@ next_link:
   permalink: /hoaxes/
   short_title: Hoaxes
   heading_title: When Swiss UFO Stories Were Staged
-date: '2026-06-02 16:39:20 '
+date: '2026-06-02 18:46:29 '
 header:
   og_image: /assets/images/Switzerland_77dcd8_basel_sky_battle_95c393-Illustration-1-social.jpg
   preview_image: /assets/images/Switzerland_77dcd8_basel_sky_battle_95c393-Illustration-1.webp

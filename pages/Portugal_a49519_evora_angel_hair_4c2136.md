@@ -239,7 +239,7 @@ next_link:
   permalink: /modern-reports-fbd869/
   short_title: Modern Reports
   heading_title: Why Modern UFO Reports Often Collapse
-date: '2026-06-02 16:30:51 '
+date: '2026-06-02 18:40:48 '
 header:
   og_image: /assets/images/Portugal_a49519_evora_angel_hair_4c2136-Illustration-1-social.jpg
   preview_image: /assets/images/Portugal_a49519_evora_angel_hair_4c2136-Illustration-1.webp

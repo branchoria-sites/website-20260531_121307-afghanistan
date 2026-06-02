@@ -239,7 +239,7 @@ prev_link:
   permalink: /thin-record/
   short_title: Thin Record
   heading_title: Where Are Micronesia's UFO Case Files?
-date: '2026-06-02 16:23:28 '
+date: '2026-06-02 18:36:39 '
 header:
   og_image: /assets/images/Micronesia_Federated_30e9e8_yap_airfield_sightin_2909d6-Illustration-1-social.jpg
   preview_image: /assets/images/Micronesia_Federated_30e9e8_yap_airfield_sightin_2909d6-Illustration-1.webp

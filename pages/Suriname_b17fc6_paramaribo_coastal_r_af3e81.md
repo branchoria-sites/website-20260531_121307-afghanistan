@@ -245,7 +245,7 @@ next_link:
   permalink: /suriname-ufo-reporting/
   short_title: Suriname UFO reporting
   heading_title: How Reliable Are Suriname UFO Sources?
-date: '2026-06-02 16:39:04 '
+date: '2026-06-02 18:46:15 '
 header:
   og_image: /assets/images/Suriname_b17fc6_paramaribo_coastal_r_af3e81-Illustration-1-social.jpg
   preview_image: /assets/images/Suriname_b17fc6_paramaribo_coastal_r_af3e81-Illustration-1.webp

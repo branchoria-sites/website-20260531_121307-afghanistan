@@ -245,7 +245,7 @@ next_link:
   permalink: /nimba-objects/
   short_title: Nimba Objects
   heading_title: Were Nimba's Strange Objects Really UFOs?
-date: '2026-06-02 16:19:57 '
+date: '2026-06-02 18:33:46 '
 header:
   og_image: /assets/images/Liberia_1ed5dd_monrovia_orb_claim_e7264e-Illustration-1-social.jpg
   preview_image: /assets/images/Liberia_1ed5dd_monrovia_orb_claim_e7264e-Illustration-1.webp

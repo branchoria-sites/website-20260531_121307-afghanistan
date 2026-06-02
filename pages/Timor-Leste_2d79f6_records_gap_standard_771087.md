@@ -245,7 +245,7 @@ next_link:
   permalink: /sky-checks-bb2477/
   short_title: Sky Checks
   heading_title: What Else Could Timor Leste Witnesses See?
-date: '2026-06-02 16:40:07 '
+date: '2026-06-02 18:47:11 '
 header:
   og_image: /assets/images/Timor-Leste_2d79f6_records_gap_standard_771087-Illustration-1-social.jpg
   preview_image: /assets/images/Timor-Leste_2d79f6_records_gap_standard_771087-Illustration-1.webp

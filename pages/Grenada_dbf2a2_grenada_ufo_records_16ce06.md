@@ -241,7 +241,7 @@ next_link:
   permalink: /saint-george/
   short_title: Saint George
   heading_title: Are Saint George UFO Reports a Hotspot?
-date: '2026-06-02 16:12:30 '
+date: '2026-06-02 18:28:44 '
 header:
   og_image: /assets/images/Grenada_dbf2a2_grenada_ufo_records_16ce06-Illustration-1-social.jpg
   preview_image: /assets/images/Grenada_dbf2a2_grenada_ufo_records_16ce06-Illustration-1.webp

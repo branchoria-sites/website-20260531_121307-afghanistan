@@ -239,7 +239,7 @@ prev_link:
   permalink: /regions-6327af/
   short_title: Regions
   heading_title: Where Yemen UFO Reports Mean Different Things
-date: '2026-06-02 16:44:41 '
+date: '2026-06-02 18:50:49 '
 header:
   og_image: /assets/images/Yemen_ac33d6_red_sea_warzone_expl_12cf0e-Illustration-1-social.jpg
   preview_image: /assets/images/Yemen_ac33d6_red_sea_warzone_expl_12cf0e-Illustration-1.webp

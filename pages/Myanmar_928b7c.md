@@ -1185,7 +1185,7 @@ next_link:
   title: Namibia UFOs
   permalink: /what-is-really-behind-namibias-ufo/
   short_title: Namibia UFOs
-date: '2026-06-02 16:24:37 '
+date: '2026-06-02 18:37:34 '
 header:
   og_image: /assets/images/Myanmar_928b7c-overview-social.jpg
   preview_image: /assets/images/Myanmar_928b7c-overview.webp
@@ -1229,7 +1229,7 @@ Subsequent analysis by space and science outlets identified the debris more plau
 Community reactions also extend to atmospheric phenomena that, although natural, resemble what many expect a “UFO” to look like. An example is the formation of lenticular clouds observed near **Nay Pyi Taw** in April 2025 that sparked social media interest and comparisons to spacecraft shapes, later broadly understood by meteorologists as a common orographic cloud formation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://berita.rtm.gov.my/dunia/senarai-berita-dunia/senarai-artikel/fenomena-awan-berbentuk-ufo-di-myanmar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: berita.rtm.gov.my">[Portal Berita RTM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">berita.rtm.gov.my</span><span class="citation-popover-title">Portal Berita RTMFenomena awan berbentuk UFO di Myanmar</span><span class="citation-popover-snippet">Portal Berita RTMMay 12, 2025...</span><span class="citation-popover-meta">Published: May 12, 2025</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TwO8Fyrp0Y8" title="New UFO files released" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TwO8Fyrp0Y8" target="_blank" rel="noopener noreferrer">New UFO files released</a></p><p class="youtube-embed-meta">Channel: ABC News &middot; Views: 333.3K &middot; Uploaded: May 2026 &middot; Length: 2 minutes 2 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TwO8Fyrp0Y8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TwO8Fyrp0Y8">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/z5HJHAdpEfc" title="Burma: Encounters in a Forgotten Country | Trailer | Available Now" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=z5HJHAdpEfc" target="_blank" rel="noopener noreferrer">Burma: Encounters in a Forgotten Country | Trailer | Available Now</a></p><p class="youtube-embed-meta">Channel: Journeyman Pictures &middot; Views: 2.5K &middot; Uploaded: November 2017 &middot; Length: 1 minute 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=z5HJHAdpEfc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=z5HJHAdpEfc">Open on YouTube</a></p></div></div></div>
 
 ## Assessments, Skepticism, and Evidence Quality
 
@@ -1253,7 +1253,7 @@ There is no known dedicated federal UFO investigation programme akin to those se
 In Myanmar, tales of strange lights and objects in the sky often intertwine with local folklore and curiosity about the unknown. Eyewitness accounts and shared community stories can contribute to a broader cultural narrative that embraces the unexplained while remaining open to natural, technological, or atmospheric explanations. Without rigorous scientific scrutiny, many of these stories persist through oral transmission or online databases rather than official archives.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/z5HJHAdpEfc" title="Burma: Encounters in a Forgotten Country | Trailer | Available Now" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=z5HJHAdpEfc" target="_blank" rel="noopener noreferrer">Burma: Encounters in a Forgotten Country | Trailer | Available Now</a></p><p class="youtube-embed-meta">Channel: Journeyman Pictures &middot; Views: 2.5K &middot; Uploaded: November 2017 &middot; Length: 1 minute 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=z5HJHAdpEfc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=z5HJHAdpEfc">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TwO8Fyrp0Y8" title="New UFO files released" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TwO8Fyrp0Y8" target="_blank" rel="noopener noreferrer">New UFO files released</a></p><p class="youtube-embed-meta">Channel: ABC News &middot; Views: 333.3K &middot; Uploaded: May 2026 &middot; Length: 2 minutes 2 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TwO8Fyrp0Y8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TwO8Fyrp0Y8">Open on YouTube</a></p></div></div></div>
 
 ## Summary
 
@@ -1379,6 +1379,38 @@ UFO phenomena in **Myanmar** consist primarily of scattered witness reports, occ
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-myanmar-ufo-what-is-really-behind-myanmar-ufo-reports-myanmar-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-is-really-behind-myanmar-ufo-what-is-really-behind-myanmar-ufo-reports-myanmar-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design"><img src="{{ '/assets/images/marketplace-covers/f0858731bf83f620568a.jpg' | relative_url }}" alt="Listing image for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-myanmar-ufo-what-is-really-behind-myanmar-ufo-reports-myanmar-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-is-really-behind-myanmar-ufo-what-is-really-behind-myanmar-ufo-reports-myanmar-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-myanmar-ufo-what-is-really-behind-myanmar-ufo-reports-myanmar-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-is-really-behind-myanmar-ufo-what-is-really-behind-myanmar-ufo-reports-myanmar-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-myanmar-ufo-what-is-really-behind-myanmar-ufo-reports-myanmar-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-is-really-behind-myanmar-ufo-what-is-really-behind-myanmar-ufo-reports-myanmar-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-myanmar-ufo-what-is-really-behind-myanmar-ufo-reports-myanmar-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-is-really-behind-myanmar-ufo-what-is-really-behind-myanmar-ufo-reports-myanmar-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51"><img src="{{ '/assets/images/marketplace-covers/43c4ee420e151dd41424.jpg' | relative_url }}" alt="Listing image for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-myanmar-ufo-what-is-really-behind-myanmar-ufo-reports-myanmar-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-is-really-behind-myanmar-ufo-what-is-really-behind-myanmar-ufo-reports-myanmar-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-myanmar-ufo-what-is-really-behind-myanmar-ufo-reports-myanmar-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-is-really-behind-myanmar-ufo-what-is-really-behind-myanmar-ufo-reports-myanmar-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-myanmar-ufo-what-is-really-behind-myanmar-ufo-reports-myanmar-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-is-really-behind-myanmar-ufo-what-is-really-behind-myanmar-ufo-reports-myanmar-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-myanmar-ufo-what-is-really-behind-myanmar-ufo-reports-myanmar-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-is-really-behind-myanmar-ufo-what-is-really-behind-myanmar-ufo-reports-myanmar-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO T-Shirt Mens Retro UFO Sci Fi Gerry Anderson TV Show"><img src="{{ '/assets/images/marketplace-covers/25a836c1a78c81b93c18.jpg' | relative_url }}" alt="Listing image for SHADO T-Shirt Mens Retro UFO Sci Fi Gerry Anderson TV Show" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
@@ -1400,38 +1432,6 @@ UFO phenomena in **Myanmar** consist primarily of scattered witness reports, occ
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
           <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-myanmar-ufo-what-is-really-behind-myanmar-ufo-reports-myanmar-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-is-really-behind-myanmar-ufo-what-is-really-behind-myanmar-ufo-reports-myanmar-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">UFO PROG ROCK METAL T-SHIRT unisex S-3XL</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-myanmar-ufo-what-is-really-behind-myanmar-ufo-reports-myanmar-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-is-really-behind-myanmar-ufo-what-is-really-behind-myanmar-ufo-reports-myanmar-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-myanmar-ufo-what-is-really-behind-myanmar-ufo-reports-myanmar-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-is-really-behind-myanmar-ufo-what-is-really-behind-myanmar-ufo-reports-myanmar-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-myanmar-ufo-what-is-really-behind-myanmar-ufo-reports-myanmar-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-is-really-behind-myanmar-ufo-what-is-really-behind-myanmar-ufo-reports-myanmar-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design"><img src="{{ '/assets/images/marketplace-covers/f0858731bf83f620568a.jpg' | relative_url }}" alt="Listing image for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-myanmar-ufo-what-is-really-behind-myanmar-ufo-reports-myanmar-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-is-really-behind-myanmar-ufo-what-is-really-behind-myanmar-ufo-reports-myanmar-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-myanmar-ufo-what-is-really-behind-myanmar-ufo-reports-myanmar-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-is-really-behind-myanmar-ufo-what-is-really-behind-myanmar-ufo-reports-myanmar-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-myanmar-ufo-what-is-really-behind-myanmar-ufo-reports-myanmar-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-is-really-behind-myanmar-ufo-what-is-really-behind-myanmar-ufo-reports-myanmar-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-myanmar-ufo-what-is-really-behind-myanmar-ufo-reports-myanmar-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-is-really-behind-myanmar-ufo-what-is-really-behind-myanmar-ufo-reports-myanmar-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee"><img src="{{ '/assets/images/marketplace-covers/c0a6267ae6e22890f212.jpg' | relative_url }}" alt="Listing image for Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-myanmar-ufo-what-is-really-behind-myanmar-ufo-reports-myanmar-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-is-really-behind-myanmar-ufo-what-is-really-behind-myanmar-ufo-reports-myanmar-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-myanmar-ufo-what-is-really-behind-myanmar-ufo-reports-myanmar-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo t shirt" data-ebay-reference="what-is-really-behind-myanmar-ufo-what-is-really-behind-myanmar-ufo-reports-myanmar-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo t shirt</a>
         <div class="fr-book-actions">

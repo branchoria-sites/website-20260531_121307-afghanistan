@@ -243,7 +243,7 @@ next_link:
   permalink: /projekt-záře/
   short_title: Projekt Záře
   heading_title: How Have Civilian Groups Documented UFOs in Czechia?
-date: '2026-06-02 16:07:39 '
+date: '2026-06-02 18:24:50 '
 header:
   og_image: /assets/images/Czechia_045e2f_milicin_1991_folklor_92a5d4-Illustration-1-social.jpg
   preview_image: /assets/images/Czechia_045e2f_milicin_1991_folklor_92a5d4-Illustration-1.webp

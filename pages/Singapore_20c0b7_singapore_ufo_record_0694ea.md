@@ -239,7 +239,7 @@ prev_link:
   permalink: /modern-sightings-0d9fb8/
   short_title: Modern Sightings
   heading_title: Why Recent Singapore Sky Lights Go Viral
-date: '2026-06-02 16:36:58 '
+date: '2026-06-02 18:44:08 '
 header:
   og_image: /assets/images/Singapore_20c0b7_singapore_ufo_record_0694ea-Illustration-1-social.jpg
   preview_image: /assets/images/Singapore_20c0b7_singapore_ufo_record_0694ea-Illustration-1.webp

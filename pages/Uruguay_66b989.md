@@ -1185,7 +1185,7 @@ next_link:
   title: Denmark UFOs
   permalink: /what-we-know-about-ufo-phenomena-in/
   short_title: Denmark UFOs
-date: '2026-06-02 16:43:22 '
+date: '2026-06-02 18:49:39 '
 header:
   og_image: /assets/images/Uruguay_66b989-overview-social.jpg
   preview_image: /assets/images/Uruguay_66b989-overview.webp

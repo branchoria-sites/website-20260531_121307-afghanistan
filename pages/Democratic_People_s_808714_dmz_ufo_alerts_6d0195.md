@@ -239,7 +239,7 @@ next_link:
   permalink: /evidence-limitations/
   short_title: Evidence Limitations
   heading_title: Why Are UFO Records So Sparse in North Korea?
-date: '2026-06-02 16:07:57 '
+date: '2026-06-02 18:24:56 '
 header:
   og_image: /assets/images/Democratic_People_s_808714_dmz_ufo_alerts_6d0195-Illustration-1-social.jpg
   preview_image: /assets/images/Democratic_People_s_808714_dmz_ufo_alerts_6d0195-Illustration-1.webp

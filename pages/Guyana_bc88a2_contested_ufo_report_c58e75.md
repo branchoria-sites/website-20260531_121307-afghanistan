@@ -239,7 +239,7 @@ next_link:
   permalink: /official-records-b5d75e/
   short_title: Official Records
   heading_title: Guyana UFO Reports and Official Records
-date: '2026-06-02 16:13:20 '
+date: '2026-06-02 18:29:27 '
 header:
   og_image: /assets/images/Guyana_bc88a2_contested_ufo_report_c58e75-Illustration-1-social.jpg
   preview_image: /assets/images/Guyana_bc88a2_contested_ufo_report_c58e75-Illustration-1.webp

@@ -245,7 +245,7 @@ next_link:
   permalink: /modern-reports-1ef3a8/
   short_title: Modern Reports
   heading_title: Are New Paraguay UFO Sightings Easier to Explain?
-date: '2026-06-02 16:29:27 '
+date: '2026-06-02 18:40:09 '
 header:
   og_image: /assets/images/Paraguay_71a452_archives_source_reli_2798f8-Illustration-1-social.jpg
   preview_image: /assets/images/Paraguay_71a452_archives_source_reli_2798f8-Illustration-1.webp

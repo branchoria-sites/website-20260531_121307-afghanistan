@@ -239,7 +239,7 @@ prev_link:
   permalink: /ifex-research/
   short_title: IFEX Research
   heading_title: Can Instruments Improve German UFO Cases?
-date: '2026-06-02 16:12:05 '
+date: '2026-06-02 18:28:21 '
 header:
   og_image: /assets/images/Germany_17d53e_official_records_gap_43c6bb-Illustration-1-social.jpg
   preview_image: /assets/images/Germany_17d53e_official_records_gap_43c6bb-Illustration-1.webp

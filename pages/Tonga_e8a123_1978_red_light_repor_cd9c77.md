@@ -239,7 +239,7 @@ next_link:
   permalink: /island-effects-5ac504/
   short_title: Island Effects
   heading_title: Why Tonga Makes Lights Hard to Judge
-date: '2026-06-02 16:40:28 '
+date: '2026-06-02 18:47:27 '
 header:
   og_image: /assets/images/Tonga_e8a123_1978_red_light_repor_cd9c77-Illustration-1-social.jpg
   preview_image: /assets/images/Tonga_e8a123_1978_red_light_repor_cd9c77-Illustration-1.webp

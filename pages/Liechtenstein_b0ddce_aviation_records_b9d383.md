@@ -239,7 +239,7 @@ next_link:
   permalink: /royal-patronage/
   short_title: Royal Patronage
   heading_title: Why Did Liechtenstein's Prince Fund UFO Research?
-date: '2026-06-02 16:20:21 '
+date: '2026-06-02 18:34:06 '
 header:
   og_image: /assets/images/Liechtenstein_b0ddce_aviation_records_b9d383-Illustration-1-social.jpg
   preview_image: /assets/images/Liechtenstein_b0ddce_aviation_records_b9d383-Illustration-1.webp

@@ -245,7 +245,7 @@ next_link:
   permalink: /military-reports/
   short_title: Military Reports
   heading_title: Georgia UFO Cases in Project Blue Book
-date: '2026-06-02 16:11:48 '
+date: '2026-06-02 18:28:10 '
 header:
   og_image: /assets/images/Georgia_9113c6_mufon_georgia_invest_b4c8f7-Illustration-1-social.jpg
   preview_image: /assets/images/Georgia_9113c6_mufon_georgia_invest_b4c8f7-Illustration-1.webp

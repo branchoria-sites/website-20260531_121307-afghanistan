@@ -239,7 +239,7 @@ prev_link:
   permalink: /modern-sightings/
   short_title: Modern Sightings
   heading_title: What Do Recent UFO Reports in Egypt Reveal?
-date: '2026-06-02 16:09:19 '
+date: '2026-06-02 18:26:13 '
 header:
   og_image: /assets/images/Egypt_1c39ab_tulli_papyrus_analys_f8771c-Illustration-1-social.jpg
   preview_image: /assets/images/Egypt_1c39ab_tulli_papyrus_analys_f8771c-Illustration-1.webp

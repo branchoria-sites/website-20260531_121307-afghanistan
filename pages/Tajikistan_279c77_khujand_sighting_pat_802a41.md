@@ -245,7 +245,7 @@ next_link:
   permalink: /mundane-causes/
   short_title: Mundane Causes
   heading_title: When Tajik UFOs Become Meteors or Glare
-date: '2026-06-02 16:42:18 '
+date: '2026-06-02 18:48:52 '
 header:
   og_image: /assets/images/Tajikistan_279c77_khujand_sighting_pat_802a41-Illustration-1-social.jpg
   preview_image: /assets/images/Tajikistan_279c77_khujand_sighting_pat_802a41-Illustration-1.webp

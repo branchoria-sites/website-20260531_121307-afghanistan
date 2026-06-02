@@ -245,7 +245,7 @@ next_link:
   permalink: /investigators-e18dbd/
   short_title: Investigators
   heading_title: Who Shaped Korea's UFO Evidence Trail?
-date: '2026-06-02 16:31:10 '
+date: '2026-06-02 18:41:06 '
 header:
   og_image: /assets/images/Republic_of_Korea_8d9deb_gapyeong_ufo_photo_c20c78-Illustration-1-social.jpg
   preview_image: /assets/images/Republic_of_Korea_8d9deb_gapyeong_ufo_photo_c20c78-Illustration-1.webp

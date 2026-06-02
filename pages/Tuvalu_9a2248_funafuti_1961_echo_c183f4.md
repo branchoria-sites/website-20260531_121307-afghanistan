@@ -245,7 +245,7 @@ next_link:
   permalink: /island-bias/
   short_title: Island Bias
   heading_title: Does Funafuti Distort Tuvalu's UFO Map?
-date: '2026-06-02 16:41:29 '
+date: '2026-06-02 18:48:13 '
 header:
   og_image: /assets/images/Tuvalu_9a2248_funafuti_1961_echo_c183f4-Illustration-1-social.jpg
   preview_image: /assets/images/Tuvalu_9a2248_funafuti_1961_echo_c183f4-Illustration-1.webp

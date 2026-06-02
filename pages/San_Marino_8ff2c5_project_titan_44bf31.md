@@ -245,7 +245,7 @@ next_link:
   permalink: /records-gap-153517/
   short_title: Records Gap
   heading_title: Why San Marino's UFO Record Is So Thin
-date: '2026-06-02 16:34:12 '
+date: '2026-06-02 18:42:43 '
 header:
   og_image: /assets/images/San_Marino_8ff2c5_project_titan_44bf31-Illustration-1-social.jpg
   preview_image: /assets/images/San_Marino_8ff2c5_project_titan_44bf31-Illustration-1.webp

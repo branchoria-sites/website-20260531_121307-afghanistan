@@ -245,7 +245,7 @@ next_link:
   permalink: /manises/
   short_title: Manises
   heading_title: Was Manises Spain's Strongest UFO Case?
-date: '2026-06-02 16:38:21 '
+date: '2026-06-02 18:45:13 '
 header:
   og_image: /assets/images/Spain_20a8df_canary_islands_missi_a514ad-Illustration-1-social.jpg
   preview_image: /assets/images/Spain_20a8df_canary_islands_missi_a514ad-Illustration-1.webp

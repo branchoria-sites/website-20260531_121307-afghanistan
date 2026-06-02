@@ -245,7 +245,7 @@ next_link:
   permalink: /investigative-groups/
   short_title: Investigative Groups
   heading_title: MUFON and UFO Investigation in Georgia
-date: '2026-06-02 16:11:38 '
+date: '2026-06-02 18:28:05 '
 header:
   og_image: /assets/images/Georgia_9113c6_civilian_sightings_g_532fb7-Illustration-1-social.jpg
   preview_image: /assets/images/Georgia_9113c6_civilian_sightings_g_532fb7-Illustration-1.webp
@@ -436,6 +436,38 @@ Whether future entries hinge on new technologies (e.g., widespread smartphone vi
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sighting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-reports-c5abcc-tracking-civilian-ufo-sightings-across-georgia-georgia-ufo-sighting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sighting poster -book -books" data-ebay-reference="civilian-reports-c5abcc-tracking-civilian-ufo-sightings-across-georgia-georgia-ufo-sighting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert UFO Sighting Retro Sci-Fi Alien Poster"><img src="{{ '/assets/images/marketplace-covers/f57f47c8b7356c2cb098.jpg' | relative_url }}" alt="Listing image for Desert UFO Sighting Retro Sci-Fi Alien Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sighting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-reports-c5abcc-tracking-civilian-ufo-sightings-across-georgia-georgia-ufo-sighting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sighting poster -book -books" data-ebay-reference="civilian-reports-c5abcc-tracking-civilian-ufo-sightings-across-georgia-georgia-ufo-sighting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Desert UFO Sighting Retro Sci-Fi Alien Poster</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sighting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-reports-c5abcc-tracking-civilian-ufo-sightings-across-georgia-georgia-ufo-sighting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sighting poster -book -books" data-ebay-reference="civilian-reports-c5abcc-tracking-civilian-ufo-sightings-across-georgia-georgia-ufo-sighting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sighting poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO sighting poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sighting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-reports-c5abcc-tracking-civilian-ufo-sightings-across-georgia-georgia-ufo-sighting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sighting poster -book -books" data-ebay-reference="civilian-reports-c5abcc-tracking-civilian-ufo-sightings-across-georgia-georgia-ufo-sighting-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sighting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-reports-c5abcc-tracking-civilian-ufo-sightings-across-georgia-georgia-ufo-sighting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sighting poster -book -books" data-ebay-reference="civilian-reports-c5abcc-tracking-civilian-ufo-sightings-across-georgia-georgia-ufo-sighting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Sighting Wall Art, Cityscape Urban Alien Decor, UAP Cryptid Poster"><img src="{{ '/assets/images/marketplace-covers/6af97eef9a3921628330.jpg' | relative_url }}" alt="Listing image for Vintage UFO Sighting Wall Art, Cityscape Urban Alien Decor, UAP Cryptid Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sighting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-reports-c5abcc-tracking-civilian-ufo-sightings-across-georgia-georgia-ufo-sighting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sighting poster -book -books" data-ebay-reference="civilian-reports-c5abcc-tracking-civilian-ufo-sightings-across-georgia-georgia-ufo-sighting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Sighting Wall Art, Cityscape Urban Alien Decor, UAP Cryptid Poster</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sighting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-reports-c5abcc-tracking-civilian-ufo-sightings-across-georgia-georgia-ufo-sighting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sighting poster -book -books" data-ebay-reference="civilian-reports-c5abcc-tracking-civilian-ufo-sightings-across-georgia-georgia-ufo-sighting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sighting poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO sighting poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sighting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-reports-c5abcc-tracking-civilian-ufo-sightings-across-georgia-georgia-ufo-sighting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sighting poster -book -books" data-ebay-reference="civilian-reports-c5abcc-tracking-civilian-ufo-sightings-across-georgia-georgia-ufo-sighting-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sighting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-reports-c5abcc-tracking-civilian-ufo-sightings-across-georgia-georgia-ufo-sighting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sighting poster -book -books" data-ebay-reference="civilian-reports-c5abcc-tracking-civilian-ufo-sightings-across-georgia-georgia-ufo-sighting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO original 1978 POSTER ADVERT UK CONCERT TOUR Lights Out SIGHTING MSG"><img src="{{ '/assets/images/marketplace-covers/24575bd34beca1f55425.jpg' | relative_url }}" alt="Listing image for UFO original 1978 POSTER ADVERT UK CONCERT TOUR Lights Out SIGHTING MSG" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
@@ -453,38 +485,6 @@ Whether future entries hinge on new technologies (e.g., widespread smartphone vi
 
     <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sighting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-reports-c5abcc-tracking-civilian-ufo-sightings-across-georgia-georgia-ufo-sighting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sighting poster -book -books" data-ebay-reference="civilian-reports-c5abcc-tracking-civilian-ufo-sightings-across-georgia-georgia-ufo-sighting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage ALIEN ABDUCTION Wall Art, Cryptid Sexy Sci-fi Poster, UFO Sighting Decor"><img src="{{ '/assets/images/marketplace-covers/968ff0f45a8670cd676d.jpg' | relative_url }}" alt="Listing image for Vintage ALIEN ABDUCTION Wall Art, Cryptid Sexy Sci-fi Poster, UFO Sighting Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sighting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-reports-c5abcc-tracking-civilian-ufo-sightings-across-georgia-georgia-ufo-sighting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sighting poster -book -books" data-ebay-reference="civilian-reports-c5abcc-tracking-civilian-ufo-sightings-across-georgia-georgia-ufo-sighting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage ALIEN ABDUCTION Wall Art, Cryptid Sexy Sci-fi Poster, UFO Sighting Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sighting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-reports-c5abcc-tracking-civilian-ufo-sightings-across-georgia-georgia-ufo-sighting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sighting poster -book -books" data-ebay-reference="civilian-reports-c5abcc-tracking-civilian-ufo-sightings-across-georgia-georgia-ufo-sighting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sighting poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO sighting poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sighting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-reports-c5abcc-tracking-civilian-ufo-sightings-across-georgia-georgia-ufo-sighting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sighting poster -book -books" data-ebay-reference="civilian-reports-c5abcc-tracking-civilian-ufo-sightings-across-georgia-georgia-ufo-sighting-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sighting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-reports-c5abcc-tracking-civilian-ufo-sightings-across-georgia-georgia-ufo-sighting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sighting poster -book -books" data-ebay-reference="civilian-reports-c5abcc-tracking-civilian-ufo-sightings-across-georgia-georgia-ufo-sighting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert UFO Sighting Retro Sci-Fi Alien Poster"><img src="{{ '/assets/images/marketplace-covers/f57f47c8b7356c2cb098.jpg' | relative_url }}" alt="Listing image for Desert UFO Sighting Retro Sci-Fi Alien Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sighting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-reports-c5abcc-tracking-civilian-ufo-sightings-across-georgia-georgia-ufo-sighting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sighting poster -book -books" data-ebay-reference="civilian-reports-c5abcc-tracking-civilian-ufo-sightings-across-georgia-georgia-ufo-sighting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Desert UFO Sighting Retro Sci-Fi Alien Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sighting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-reports-c5abcc-tracking-civilian-ufo-sightings-across-georgia-georgia-ufo-sighting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sighting poster -book -books" data-ebay-reference="civilian-reports-c5abcc-tracking-civilian-ufo-sightings-across-georgia-georgia-ufo-sighting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sighting poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO sighting poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sighting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-reports-c5abcc-tracking-civilian-ufo-sightings-across-georgia-georgia-ufo-sighting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sighting poster -book -books" data-ebay-reference="civilian-reports-c5abcc-tracking-civilian-ufo-sightings-across-georgia-georgia-ufo-sighting-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sighting+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=civilian-reports-c5abcc-tracking-civilian-ufo-sightings-across-georgia-georgia-ufo-sighting-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sighting poster -book -books" data-ebay-reference="civilian-reports-c5abcc-tracking-civilian-ufo-sightings-across-georgia-georgia-ufo-sighting-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage ALIEN ABDUCTION Wall Art, Cryptid Sexy Sci-fi Poster, UFO Sighting Decor"><img src="{{ '/assets/images/marketplace-covers/563718fc8a241397dc67.jpg' | relative_url }}" alt="Listing image for Vintage ALIEN ABDUCTION Wall Art, Cryptid Sexy Sci-fi Poster, UFO Sighting Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">

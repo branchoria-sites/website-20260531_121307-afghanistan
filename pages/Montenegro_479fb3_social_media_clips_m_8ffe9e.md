@@ -239,7 +239,7 @@ prev_link:
   permalink: /skeptical-analysis/
   short_title: Skeptical Analysis
   heading_title: Skepticism and Evidence Review of Montenegrin UFOs
-date: '2026-06-02 16:24:13 '
+date: '2026-06-02 18:37:15 '
 header:
   og_image: /assets/images/Montenegro_479fb3_social_media_clips_m_8ffe9e-Illustration-1-social.jpg
   preview_image: /assets/images/Montenegro_479fb3_social_media_clips_m_8ffe9e-Illustration-1.webp

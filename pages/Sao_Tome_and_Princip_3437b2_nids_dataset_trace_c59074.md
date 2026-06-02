@@ -239,7 +239,7 @@ prev_link:
   permalink: /island-skies/
   short_title: Island Skies
   heading_title: Why Island Skies Create Ambiguous UFO Reports
-date: '2026-06-02 16:34:19 '
+date: '2026-06-02 18:42:53 '
 header:
   og_image: /assets/images/Sao_Tome_and_Princip_3437b2_nids_dataset_trace_c59074-Illustration-1-social.jpg
   preview_image: /assets/images/Sao_Tome_and_Princip_3437b2_nids_dataset_trace_c59074-Illustration-1.webp

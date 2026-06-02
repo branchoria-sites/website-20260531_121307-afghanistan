@@ -239,7 +239,7 @@ prev_link:
   permalink: /likely-causes-12ca2a/
   short_title: Likely Causes
   heading_title: When UFO Reports Become Meteors
-date: '2026-06-02 16:33:57 '
+date: '2026-06-02 18:42:29 '
 header:
   og_image: /assets/images/Saint_Vincent_and_th_3bce2a_official_records_rep_2dd8a2-Illustration-1-social.jpg
   preview_image: /assets/images/Saint_Vincent_and_th_3bce2a_official_records_rep_2dd8a2-Illustration-1.webp

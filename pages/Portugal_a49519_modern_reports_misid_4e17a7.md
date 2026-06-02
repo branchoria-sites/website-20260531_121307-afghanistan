@@ -245,7 +245,7 @@ next_link:
   permalink: /pilot-case/
   short_title: Pilot Case
   heading_title: Why the Lemos Ferreira Case Still Matters
-date: '2026-06-02 16:30:55 '
+date: '2026-06-02 18:40:51 '
 header:
   og_image: /assets/images/Portugal_a49519_modern_reports_misid_4e17a7-Illustration-1-social.jpg
   preview_image: /assets/images/Portugal_a49519_modern_reports_misid_4e17a7-Illustration-1.webp

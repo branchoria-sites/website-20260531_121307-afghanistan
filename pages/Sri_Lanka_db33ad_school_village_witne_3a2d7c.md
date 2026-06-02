@@ -245,7 +245,7 @@ next_link:
   permalink: /polonnaruwa-wave/
   short_title: Polonnaruwa Wave
   heading_title: Why Polonnaruwa Became Sri Lanka's UFO Hotspot
-date: '2026-06-02 16:38:41 '
+date: '2026-06-02 18:45:44 '
 header:
   og_image: /assets/images/Sri_Lanka_db33ad_school_village_witne_3a2d7c-Illustration-1-social.jpg
   preview_image: /assets/images/Sri_Lanka_db33ad_school_village_witne_3a2d7c-Illustration-1.webp

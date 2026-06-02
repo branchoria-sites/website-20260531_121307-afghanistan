@@ -1185,7 +1185,7 @@ next_link:
   title: Tajikistan UFOs
   permalink: /what-do-tajikistans-ufo-reports-really/
   short_title: Tajikistan UFOs
-date: '2026-06-02 16:37:27 '
+date: '2026-06-02 18:44:38 '
 header:
   og_image: /assets/images/Somalia_4dfdf1-overview-social.jpg
   preview_image: /assets/images/Somalia_4dfdf1-overview.webp

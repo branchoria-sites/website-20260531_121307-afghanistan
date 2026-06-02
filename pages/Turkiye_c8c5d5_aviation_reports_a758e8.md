@@ -239,7 +239,7 @@ next_link:
   permalink: /bursa-cloud/
   short_title: Bursa Cloud
   heading_title: The Bursa UFO Cloud That Wasn't a UFO
-date: '2026-06-02 16:41:09 '
+date: '2026-06-02 18:47:56 '
 header:
   og_image: /assets/images/Turkiye_c8c5d5_aviation_reports_a758e8-Illustration-1-social.jpg
   preview_image: /assets/images/Turkiye_c8c5d5_aviation_reports_a758e8-Illustration-1.webp

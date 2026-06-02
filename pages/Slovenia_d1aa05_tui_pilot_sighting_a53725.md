@@ -239,7 +239,7 @@ prev_link:
   permalink: /regional-cases/
   short_title: Regional Cases
   heading_title: Where Do Slovenia's UFO Reports Cluster?
-date: '2026-06-02 16:37:16 '
+date: '2026-06-02 18:44:28 '
 header:
   og_image: /assets/images/Slovenia_d1aa05_tui_pilot_sighting_a53725-Illustration-1-social.jpg
   preview_image: /assets/images/Slovenia_d1aa05_tui_pilot_sighting_a53725-Illustration-1.webp

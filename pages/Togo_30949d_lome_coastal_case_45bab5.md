@@ -245,7 +245,7 @@ next_link:
   permalink: /official-checks/
   short_title: Official Checks
   heading_title: Where Would Togo UFO Records Be Found?
-date: '2026-06-02 16:40:13 '
+date: '2026-06-02 18:47:16 '
 header:
   og_image: /assets/images/Togo_30949d_lome_coastal_case_45bab5-Illustration-1-social.jpg
   preview_image: /assets/images/Togo_30949d_lome_coastal_case_45bab5-Illustration-1.webp

@@ -1185,7 +1185,7 @@ next_link:
   title: Italy UFOs
   permalink: /what-makes-italys-ufo-record-unique-and/
   short_title: Italy UFOs
-date: '2026-06-02 16:09:05 '
+date: '2026-06-02 18:26:04 '
 header:
   og_image: /assets/images/Egypt_1c39ab-overview-social.jpg
   preview_image: /assets/images/Egypt_1c39ab-overview.webp

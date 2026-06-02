@@ -245,7 +245,7 @@ next_link:
   permalink: /tajik-air-cable/
   short_title: Tajik Air Cable
   heading_title: Why the Tajik Air UFO Cable Still Matters
-date: '2026-06-02 16:42:20 '
+date: '2026-06-02 18:48:54 '
 header:
   og_image: /assets/images/Tajikistan_279c77_meteors_camera_artif_bd070a-Illustration-1-social.jpg
   preview_image: /assets/images/Tajikistan_279c77_meteors_camera_artif_bd070a-Illustration-1.webp

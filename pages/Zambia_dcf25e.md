@@ -1185,7 +1185,7 @@ next_link:
   title: Indonesia UFOs
   permalink: /what-indonesias-ufo-record-really-shows/
   short_title: Indonesia UFOs
-date: '2026-06-02 16:44:42 '
+date: '2026-06-02 18:50:50 '
 header:
   og_image: /assets/images/Zambia_dcf25e-overview-social.jpg
   preview_image: /assets/images/Zambia_dcf25e-overview.webp

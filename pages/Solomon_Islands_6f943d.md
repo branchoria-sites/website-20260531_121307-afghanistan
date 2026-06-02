@@ -1185,7 +1185,7 @@ next_link:
   title: Togo UFOs
   permalink: /what-really-happened-in-togos-ufo-files/
   short_title: Togo UFOs
-date: '2026-06-02 16:37:18 '
+date: '2026-06-02 18:44:29 '
 header:
   og_image: /assets/images/Solomon_Islands_6f943d-overview-social.jpg
   preview_image: /assets/images/Solomon_Islands_6f943d-overview.webp

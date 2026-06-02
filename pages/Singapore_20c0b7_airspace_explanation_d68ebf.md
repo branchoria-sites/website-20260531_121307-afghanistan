@@ -239,7 +239,7 @@ next_link:
   permalink: /geylang-balloon/
   short_title: Geylang Balloon
   heading_title: Singapore's Classic UFO Scare Was a Balloon
-date: '2026-06-02 16:36:52 '
+date: '2026-06-02 18:44:02 '
 header:
   og_image: /assets/images/Singapore_20c0b7_airspace_explanation_d68ebf-Illustration-1-social.jpg
   preview_image: /assets/images/Singapore_20c0b7_airspace_explanation_d68ebf-Illustration-1.webp

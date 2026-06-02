@@ -239,7 +239,7 @@ prev_link:
   permalink: /ufo-archives/
   short_title: UFO Archives
   heading_title: Exploring Brazil's Arquivo Nacional UFO Archives and Records
-date: '2026-06-02 16:00:20 '
+date: '2026-06-02 18:18:48 '
 header:
   og_image: /assets/images/Brazil_37497a_varginha_incident_19_9fd4a3-Illustration-1-social.jpg
   preview_image: /assets/images/Brazil_37497a_varginha_incident_19_9fd4a3-Illustration-1.webp

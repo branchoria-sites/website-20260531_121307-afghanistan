@@ -239,7 +239,7 @@ next_link:
   permalink: /gulf-uap/
   short_title: Gulf UAP
   heading_title: Why the Gulf UAP Case Still Matters
-date: '2026-06-02 16:42:33 '
+date: '2026-06-02 18:49:03 '
 header:
   og_image: /assets/images/United_Arab_Emirates_c92b89_dubai_ufo_videos_630640-Illustration-1-social.jpg
   preview_image: /assets/images/United_Arab_Emirates_c92b89_dubai_ufo_videos_630640-Illustration-1.webp

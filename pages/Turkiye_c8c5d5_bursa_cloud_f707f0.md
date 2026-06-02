@@ -245,7 +245,7 @@ next_link:
   permalink: /kumburgaz/
   short_title: Kumburgaz
   heading_title: Why Kumburgaz Still Divides UFO Watchers
-date: '2026-06-02 16:41:01 '
+date: '2026-06-02 18:47:52 '
 header:
   og_image: /assets/images/Turkiye_c8c5d5_bursa_cloud_f707f0-Illustration-1-social.jpg
   preview_image: /assets/images/Turkiye_c8c5d5_bursa_cloud_f707f0-Illustration-1.webp

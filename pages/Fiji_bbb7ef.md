@@ -1185,7 +1185,7 @@ next_link:
   title: Finland UFOs
   permalink: /finland/
   short_title: Finland UFOs
-date: '2026-06-02 16:10:35 '
+date: '2026-06-02 18:27:12 '
 header:
   og_image: /assets/images/Fiji_bbb7ef-overview-social.jpg
   preview_image: /assets/images/Fiji_bbb7ef-overview.webp

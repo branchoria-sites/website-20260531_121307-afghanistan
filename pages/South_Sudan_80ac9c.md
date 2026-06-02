@@ -1185,7 +1185,7 @@ next_link:
   title: Jordan UFOs
   permalink: /what-counts-as-a-ufo-in-jordan/
   short_title: Jordan UFOs
-date: '2026-06-02 16:37:47 '
+date: '2026-06-02 18:44:56 '
 header:
   og_image: /assets/images/South_Sudan_80ac9c-overview-social.jpg
   preview_image: /assets/images/South_Sudan_80ac9c-overview.webp

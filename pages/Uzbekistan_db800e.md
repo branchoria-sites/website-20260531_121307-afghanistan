@@ -1185,7 +1185,7 @@ next_link:
   title: Yemen UFOs
   permalink: /what-is-really-in-yemens-ufo-record/
   short_title: Yemen UFOs
-date: '2026-06-02 16:43:31 '
+date: '2026-06-02 18:49:48 '
 header:
   og_image: /assets/images/Uzbekistan_db800e-overview-social.jpg
   preview_image: /assets/images/Uzbekistan_db800e-overview.webp

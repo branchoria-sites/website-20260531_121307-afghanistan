@@ -239,7 +239,7 @@ next_link:
   permalink: /physical-trace-cases/
   short_title: Physical Trace Cases
   heading_title: Which Finnish UFO Sightings Produced Physical Evidence or Close Encounters?
-date: '2026-06-02 16:10:52 '
+date: '2026-06-02 18:27:25 '
 header:
   og_image: /assets/images/Finland_c909b1_fufora_ufo_research_c5cde8-Illustration-1-social.jpg
   preview_image: /assets/images/Finland_c909b1_fufora_ufo_research_c5cde8-Illustration-1.webp

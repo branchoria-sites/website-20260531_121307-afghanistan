@@ -245,7 +245,7 @@ next_link:
   permalink: /sightings-map/
   short_title: Sightings Map
   heading_title: Where Have UFOs Been Reported in Belize?
-date: '2026-06-02 15:57:03 '
+date: '2026-06-02 18:16:04 '
 header:
   og_image: /assets/images/Belize_42ab0c_san_pedro_light_repo_cd5dad-Illustration-1-social.jpg
   preview_image: /assets/images/Belize_42ab0c_san_pedro_light_repo_cd5dad-Illustration-1.webp

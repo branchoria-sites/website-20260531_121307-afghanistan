@@ -239,7 +239,7 @@ prev_link:
   permalink: /natural-lights/
   short_title: Natural Lights
   heading_title: When Tonga's Sky Looks Like a UFO
-date: '2026-06-02 16:40:23 '
+date: '2026-06-02 18:47:23 '
 header:
   og_image: /assets/images/Tonga_e8a123_vavau_green_lights_69db12-Illustration-1-social.jpg
   preview_image: /assets/images/Tonga_e8a123_vavau_green_lights_69db12-Illustration-1.webp

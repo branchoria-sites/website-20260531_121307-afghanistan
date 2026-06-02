@@ -245,7 +245,7 @@ next_link:
   permalink: /regional-context/
   short_title: Regional Context
   heading_title: Why Is Zambia Quieter Than Ariel School?
-date: '2026-06-02 16:44:50 '
+date: '2026-06-02 18:50:57 '
 header:
   og_image: /assets/images/Zambia_dcf25e_zambia_ufo_archives_c206fe-Illustration-1-social.jpg
   preview_image: /assets/images/Zambia_dcf25e_zambia_ufo_archives_c206fe-Illustration-1.webp

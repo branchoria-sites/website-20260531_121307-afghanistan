@@ -239,7 +239,7 @@ prev_link:
   permalink: /missing-records-1c0825/
   short_title: Missing Records
   heading_title: Why Are Sudan UFO Records So Sparse?
-date: '2026-06-02 16:38:53 '
+date: '2026-06-02 18:46:08 '
 header:
   og_image: /assets/images/Sudan_1193ba_wartime_aerial_ambig_be4441-Illustration-1-social.jpg
   preview_image: /assets/images/Sudan_1193ba_wartime_aerial_ambig_be4441-Illustration-1.webp

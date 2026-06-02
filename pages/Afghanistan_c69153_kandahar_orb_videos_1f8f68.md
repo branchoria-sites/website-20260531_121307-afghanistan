@@ -245,7 +245,7 @@ next_link:
   permalink: /war-sensors/
   short_title: War Sensors
   heading_title: Why War Zone Footage Looks So Strange
-date: '2026-06-02 15:45:03 '
+date: '2026-06-02 18:05:09 '
 header:
   og_image: /assets/images/Afghanistan_c69153_kandahar_orb_videos_1f8f68-Illustration-1-social.jpg
   preview_image: /assets/images/Afghanistan_c69153_kandahar_orb_videos_1f8f68-Illustration-1.webp

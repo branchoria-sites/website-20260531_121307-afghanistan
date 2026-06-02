@@ -245,7 +245,7 @@ next_link:
   permalink: /official-gaps/
   short_title: Official Gaps
   heading_title: Who Would Investigate a Mali UAP Report?
-date: '2026-06-02 16:21:41 '
+date: '2026-06-02 18:35:17 '
 header:
   og_image: /assets/images/Mali_daa6a4_missing_mali_records_5ac797-Illustration-1-social.jpg
   preview_image: /assets/images/Mali_daa6a4_missing_mali_records_5ac797-Illustration-1.webp

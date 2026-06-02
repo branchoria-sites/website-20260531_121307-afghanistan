@@ -245,7 +245,7 @@ next_link:
   permalink: /official-sceptical/
   short_title: Official & Sceptical
   heading_title: 'Investigations and Skepticism: Israeli UFO Reports Under Scrutiny'
-date: '2026-06-02 16:17:36 '
+date: '2026-06-02 18:31:52 '
 header:
   og_image: /assets/images/Israel_4c197d_modern_reports_3474b6-Illustration-1-social.jpg
   preview_image: /assets/images/Israel_4c197d_modern_reports_3474b6-Illustration-1.webp

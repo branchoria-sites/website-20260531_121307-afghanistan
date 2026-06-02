@@ -1185,7 +1185,7 @@ next_link:
   title: Madagascar UFOs
   permalink: /madagascars-ufo-record-famous-case-thin/
   short_title: Madagascar UFOs
-date: '2026-06-02 16:19:11 '
+date: '2026-06-02 18:33:08 '
 header:
   og_image: /assets/images/Lao_People_s_Democra_44f2bd-overview-social.jpg
   preview_image: /assets/images/Lao_People_s_Democra_44f2bd-overview.webp

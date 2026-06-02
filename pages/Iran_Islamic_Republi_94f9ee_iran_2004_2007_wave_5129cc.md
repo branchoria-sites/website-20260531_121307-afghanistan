@@ -239,7 +239,7 @@ next_link:
   permalink: /kerman-2007/
   short_title: Kerman 2007
   heading_title: The 2007 Kerman UFO Reports Examined
-date: '2026-06-02 16:17:06 '
+date: '2026-06-02 18:31:26 '
 header:
   og_image: /assets/images/Iran_Islamic_Republi_94f9ee_iran_2004_2007_wave_5129cc-Illustration-1-social.jpg
   preview_image: /assets/images/Iran_Islamic_Republi_94f9ee_iran_2004_2007_wave_5129cc-Illustration-1.webp

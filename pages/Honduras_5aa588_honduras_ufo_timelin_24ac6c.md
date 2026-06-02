@@ -239,7 +239,7 @@ prev_link:
   permalink: /palmerola/
   short_title: Palmerola
   heading_title: Why Palmerola Became Honduras' UFO Hotspot
-date: '2026-06-02 16:15:29 '
+date: '2026-06-02 18:30:32 '
 header:
   og_image: /assets/images/Honduras_5aa588_honduras_ufo_timelin_24ac6c-Illustration-1-social.jpg
   preview_image: /assets/images/Honduras_5aa588_honduras_ufo_timelin_24ac6c-Illustration-1.webp

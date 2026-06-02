@@ -239,7 +239,7 @@ prev_link:
   permalink: /records-gap-c054ea/
   short_title: Records Gap
   heading_title: Why Timor Leste UFO Records Stay Thin
-date: '2026-06-02 16:39:59 '
+date: '2026-06-02 18:47:05 '
 header:
   og_image: /assets/images/Timor-Leste_2d79f6_sky_explanations_cf8447-Illustration-1-social.jpg
   preview_image: /assets/images/Timor-Leste_2d79f6_sky_explanations_cf8447-Illustration-1.webp

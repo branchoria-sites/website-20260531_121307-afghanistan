@@ -245,7 +245,7 @@ next_link:
   permalink: /sightings-gap/
   short_title: Sightings Gap
   heading_title: Why Are There So Few Recorded UFO Reports?
-date: '2026-06-02 16:22:15 '
+date: '2026-06-02 18:35:44 '
 header:
   og_image: /assets/images/Mauritania_85fa35_evidence_quality_mau_223e49-Illustration-1-social.jpg
   preview_image: /assets/images/Mauritania_85fa35_evidence_quality_mau_223e49-Illustration-1.webp

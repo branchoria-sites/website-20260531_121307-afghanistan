@@ -245,7 +245,7 @@ next_link:
   permalink: /sightings/
   short_title: Sightings
   heading_title: How Reliable Are Cambodia's UFO Witness Stories?
-date: '2026-06-02 16:03:45 '
+date: '2026-06-02 18:22:25 '
 header:
   og_image: /assets/images/Cambodia_314ccd_kampot_phu_quoc_case_978e1f-Illustration-1-social.jpg
   preview_image: /assets/images/Cambodia_314ccd_kampot_phu_quoc_case_978e1f-Illustration-1.webp
@@ -480,22 +480,6 @@ For researchers comparing Cambodia with neighbouring countries, the Kampot event
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar S4 Sports Model UFO Model With Stand Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/148450d5da14f1042319.jpg' | relative_url }}" alt="Listing image for Bob Lazar S4 Sports Model UFO Model With Stand Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar S4 Sports Model UFO Model With Stand Project Gravitaur</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi with or without stand"><img src="{{ '/assets/images/marketplace-covers/240e85a9df2c954a7763.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi with or without stand" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
@@ -517,6 +501,22 @@ For researchers comparing Cambodia with neighbouring countries, the Kampot event
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
           <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-model" target="_blank" rel="sponsored noopener noreferrer">SHADO UFO Skydiver 15&quot; Long - 3d printed</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo model</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar S4 Sports Model UFO Model With Stand Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/148450d5da14f1042319.jpg' | relative_url }}" alt="Listing image for Bob Lazar S4 Sports Model UFO Model With Stand Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar S4 Sports Model UFO Model With Stand Project Gravitaur</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model" data-ebay-reference="kampot-case-did-the-kampot-explosion-really-involve-a-ufo-cambodia-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo model">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo model</a>
         <div class="fr-book-actions">

@@ -245,7 +245,7 @@ next_link:
   permalink: /war-zone/
   short_title: War Zone
   heading_title: Why Yemen's UFOs Start With the War Zone
-date: '2026-06-02 16:44:36 '
+date: '2026-06-02 18:50:45 '
 header:
   og_image: /assets/images/Yemen_ac33d6_coast_inland_sightin_87fb38-Illustration-1-social.jpg
   preview_image: /assets/images/Yemen_ac33d6_coast_inland_sightin_87fb38-Illustration-1.webp

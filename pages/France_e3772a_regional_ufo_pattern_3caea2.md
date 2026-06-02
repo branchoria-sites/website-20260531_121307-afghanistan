@@ -239,7 +239,7 @@ prev_link:
   permalink: /physical-trace-cases-6c28ad/
   short_title: Physical Trace Cases
   heading_title: France's Most Famous UFO Cases with Physical Evidence
-date: '2026-06-02 16:11:11 '
+date: '2026-06-02 18:27:42 '
 header:
   og_image: /assets/images/France_e3772a_regional_ufo_pattern_3caea2-Illustration-1-social.jpg
   preview_image: /assets/images/France_e3772a_regional_ufo_pattern_3caea2-Illustration-1.webp

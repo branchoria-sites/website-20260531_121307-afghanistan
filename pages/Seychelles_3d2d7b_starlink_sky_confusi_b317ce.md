@@ -239,7 +239,7 @@ prev_link:
   permalink: /record-checks/
   short_title: Record Checks
   heading_title: How Could Seychelles UFO Claims Be Checked?
-date: '2026-06-02 16:36:39 '
+date: '2026-06-02 18:43:50 '
 header:
   og_image: /assets/images/Seychelles_3d2d7b_starlink_sky_confusi_b317ce-Illustration-1-social.jpg
   preview_image: /assets/images/Seychelles_3d2d7b_starlink_sky_confusi_b317ce-Illustration-1.webp

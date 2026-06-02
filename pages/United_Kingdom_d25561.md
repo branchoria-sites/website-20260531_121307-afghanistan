@@ -1185,7 +1185,7 @@ next_link:
   title: Tanzania UFOs
   permalink: /united-republic-of-tanzania/
   short_title: Tanzania UFOs
-date: '2026-06-02 16:42:40 '
+date: '2026-06-02 18:49:08 '
 header:
   og_image: /assets/images/United_Kingdom_d25561-overview-social.jpg
   preview_image: /assets/images/United_Kingdom_d25561-overview.webp

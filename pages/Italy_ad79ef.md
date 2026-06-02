@@ -1185,7 +1185,7 @@ next_link:
   title: Japan UFOs
   permalink: /what-makes-japans-ufo-record-so-unusual/
   short_title: Japan UFOs
-date: '2026-06-02 16:22:32 '
+date: '2026-06-02 18:35:57 '
 header:
   og_image: /assets/images/Italy_ad79ef-overview-social.jpg
   preview_image: /assets/images/Italy_ad79ef-overview.webp
@@ -1402,22 +1402,6 @@ The strongest conclusion is that Italy has many documented UFO reports and a unu
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-collectible-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-collectible-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Xenomorph Alien Figure Statue - Premium Quality Collectible -🇬🇧 UK Seller New"><img src="{{ '/assets/images/marketplace-covers/4b80cf3261ffc0ba6263.jpg' | relative_url }}" alt="Listing image for Xenomorph Alien Figure Statue - Premium Quality Collectible -🇬🇧 UK Seller New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-collectible-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-collectible-book" target="_blank" rel="sponsored noopener noreferrer">Xenomorph Alien Figure Statue - Premium Quality Collectible -🇬🇧 UK Seller New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-collectible-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-collectible-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-collectible-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-collectible-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-collectible-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-collectible-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller"><img src="{{ '/assets/images/marketplace-covers/9ec51b7dc2512da3aa6d.jpg' | relative_url }}" alt="Listing image for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
@@ -1455,6 +1439,22 @@ The strongest conclusion is that Italy has many documented UFO reports and a unu
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
           <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-collectible-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-collectible-book" target="_blank" rel="sponsored noopener noreferrer">Grey Alien Bust Sculpture –Sci-Fi Extraterrestrial Figure 3D Printed Collectible</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-collectible-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-collectible-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-collectible-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-collectible-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-collectible-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-collectible-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Xenomorph Alien Figure Statue - Premium Quality Collectible -🇬🇧 UK Seller New"><img src="{{ '/assets/images/marketplace-covers/4b80cf3261ffc0ba6263.jpg' | relative_url }}" alt="Listing image for Xenomorph Alien Figure Statue - Premium Quality Collectible -🇬🇧 UK Seller New" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-collectible-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-collectible-book" target="_blank" rel="sponsored noopener noreferrer">Xenomorph Alien Figure Statue - Premium Quality Collectible -🇬🇧 UK Seller New</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-collectible-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="what-makes-italys-ufo-record-unique-and-what-makes-italy-s-ufo-record-unique-and-contested-italy-alien-collectible-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
         <div class="fr-book-actions">

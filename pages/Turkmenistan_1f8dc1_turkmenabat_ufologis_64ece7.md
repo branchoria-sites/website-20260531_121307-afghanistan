@@ -245,7 +245,7 @@ next_link:
   permalink: /verification-a314af/
   short_title: Verification
   heading_title: Why Turkmenistan UFO Claims Are Hard To Check
-date: '2026-06-02 16:41:20 '
+date: '2026-06-02 18:48:07 '
 header:
   og_image: /assets/images/Turkmenistan_1f8dc1_turkmenabat_ufologis_64ece7-Illustration-1-social.jpg
   preview_image: /assets/images/Turkmenistan_1f8dc1_turkmenabat_ufologis_64ece7-Illustration-1.webp

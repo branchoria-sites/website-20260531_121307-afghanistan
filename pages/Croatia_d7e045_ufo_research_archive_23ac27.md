@@ -239,7 +239,7 @@ prev_link:
   permalink: /civilian-reports-034a02/
   short_title: Civilian Reports
   heading_title: Croatia’s Modern Civilian UFO Sightings Reviewed
-date: '2026-06-02 16:06:58 '
+date: '2026-06-02 18:24:16 '
 header:
   og_image: /assets/images/Croatia_d7e045_ufo_research_archive_23ac27-Illustration-1-social.jpg
   preview_image: /assets/images/Croatia_d7e045_ufo_research_archive_23ac27-Illustration-1.webp

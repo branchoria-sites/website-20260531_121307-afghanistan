@@ -1185,7 +1185,7 @@ next_link:
   title: Thailand UFOs
   permalink: /thailand/
   short_title: Thailand UFOs
-date: '2026-06-02 16:39:33 '
+date: '2026-06-02 18:46:39 '
 header:
   og_image: /assets/images/Syrian_Arab_Republic_099887-overview-social.jpg
   preview_image: /assets/images/Syrian_Arab_Republic_099887-overview.webp

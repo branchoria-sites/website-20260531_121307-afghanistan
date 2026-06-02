@@ -239,7 +239,7 @@ next_link:
   permalink: /belgrade-reports/
   short_title: Belgrade Reports
   heading_title: Are Belgrade Triangle UFO Reports Convincing?
-date: '2026-06-02 16:35:52 '
+date: '2026-06-02 18:43:36 '
 header:
   og_image: /assets/images/Serbia_6d31bf_serbian_military_arc_c5d1ec-Illustration-1-social.jpg
   preview_image: /assets/images/Serbia_6d31bf_serbian_military_arc_c5d1ec-Illustration-1.webp

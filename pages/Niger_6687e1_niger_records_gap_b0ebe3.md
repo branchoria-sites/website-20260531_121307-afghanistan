@@ -239,7 +239,7 @@ prev_link:
   permalink: /object-fall/
   short_title: Object Fall
   heading_title: What Fell Near Tanout and Aderbissinat?
-date: '2026-06-02 16:25:58 '
+date: '2026-06-02 18:38:40 '
 header:
   og_image: /assets/images/Niger_6687e1_niger_records_gap_b0ebe3-Illustration-1-social.jpg
   preview_image: /assets/images/Niger_6687e1_niger_records_gap_b0ebe3-Illustration-1.webp

@@ -1185,7 +1185,7 @@ next_link:
   title: Sri Lanka UFOs
   permalink: /what-is-sri-lankas-ufo-record-really/
   short_title: Sri Lanka UFOs
-date: '2026-06-02 16:32:21 '
+date: '2026-06-02 18:41:47 '
 header:
   og_image: /assets/images/Rwanda_7266a1-overview-social.jpg
   preview_image: /assets/images/Rwanda_7266a1-overview.webp

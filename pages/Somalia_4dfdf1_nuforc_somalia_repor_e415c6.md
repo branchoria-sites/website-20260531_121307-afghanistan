@@ -245,7 +245,7 @@ next_link:
   permalink: /timeline-21d309/
   short_title: Timeline
   heading_title: How Somalia's UFO Timeline Took Shape
-date: '2026-06-02 16:37:35 '
+date: '2026-06-02 18:44:46 '
 header:
   og_image: /assets/images/Somalia_4dfdf1_nuforc_somalia_repor_e415c6-Illustration-1-social.jpg
   preview_image: /assets/images/Somalia_4dfdf1_nuforc_somalia_repor_e415c6-Illustration-1.webp

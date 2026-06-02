@@ -239,7 +239,7 @@ prev_link:
   permalink: /sightings-timeline-cd0e16/
   short_title: Sightings Timeline
   heading_title: 'Latvia''s UFO Sightings: From 19th Century to Today'
-date: '2026-06-02 16:19:34 '
+date: '2026-06-02 18:33:25 '
 header:
   og_image: /assets/images/Latvia_c5f5bb_latvia_ufology_group_bd8a6d-Illustration-1-social.jpg
   preview_image: /assets/images/Latvia_c5f5bb_latvia_ufology_group_bd8a6d-Illustration-1.webp
@@ -552,22 +552,6 @@ That balance defines Latvia's ufology community. It functions less as a source o
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Whitehouse Iron On Patch Alien Conspiracy Emblem 80x80mm"><img src="{{ '/assets/images/marketplace-covers/121a2f6e6feb6cd2220a.jpg' | relative_url }}" alt="Listing image for UFO Over Whitehouse Iron On Patch Alien Conspiracy Emblem 80x80mm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Over Whitehouse Iron On Patch Alien Conspiracy Emblem 80x80mm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
@@ -589,6 +573,22 @@ That balance defines Latvia's ufology community. It functions less as a source o
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
           <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Whitehouse Iron On Patch Alien Conspiracy Emblem 80x80mm"><img src="{{ '/assets/images/marketplace-covers/121a2f6e6feb6cd2220a.jpg' | relative_url }}" alt="Listing image for UFO Over Whitehouse Iron On Patch Alien Conspiracy Emblem 80x80mm" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Over Whitehouse Iron On Patch Alien Conspiracy Emblem 80x80mm</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="ufology-groups-inside-latvia-s-ufo-research-communities-latvia-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">

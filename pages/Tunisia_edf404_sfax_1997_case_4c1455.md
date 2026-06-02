@@ -245,7 +245,7 @@ next_link:
   permalink: /verification-bbfea8/
   short_title: Verification
   heading_title: Can Tunisia's UFO Reports Be Verified?
-date: '2026-06-02 16:40:50 '
+date: '2026-06-02 18:47:43 '
 header:
   og_image: /assets/images/Tunisia_edf404_sfax_1997_case_4c1455-Illustration-1-social.jpg
   preview_image: /assets/images/Tunisia_edf404_sfax_1997_case_4c1455-Illustration-1.webp

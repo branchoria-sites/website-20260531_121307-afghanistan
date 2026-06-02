@@ -239,7 +239,7 @@ next_link:
   permalink: /historical-sightings-7bca7a/
   short_title: Historical Sightings
   heading_title: Documented UFO Encounters in Israel from the 1950s to 1970s
-date: '2026-06-02 16:17:41 '
+date: '2026-06-02 18:31:55 '
 header:
   og_image: /assets/images/Israel_4c197d_cultural_claims_78eb62-Illustration-1-social.jpg
   preview_image: /assets/images/Israel_4c197d_cultural_claims_78eb62-Illustration-1.webp

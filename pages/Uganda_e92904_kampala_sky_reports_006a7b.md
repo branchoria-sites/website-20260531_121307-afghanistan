@@ -245,7 +245,7 @@ next_link:
   permalink: /luweero-2024/
   short_title: Luweero 2024
   heading_title: How Strong Is the Luweero Encounter Claim?
-date: '2026-06-02 16:41:47 '
+date: '2026-06-02 18:48:24 '
 header:
   og_image: /assets/images/Uganda_e92904_kampala_sky_reports_006a7b-Illustration-1-social.jpg
   preview_image: /assets/images/Uganda_e92904_kampala_sky_reports_006a7b-Illustration-1.webp

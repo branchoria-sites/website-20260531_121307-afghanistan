@@ -239,7 +239,7 @@ next_link:
   permalink: /gaborone-lights/
   short_title: Gaborone Lights
   heading_title: Why Do Mysterious Lights Appear Over Gaborone?
-date: '2026-06-02 15:59:49 '
+date: '2026-06-02 18:18:22 '
 header:
   og_image: /assets/images/Botswana_180c89_asteroid_2018_la_641f2f-Illustration-1-social.jpg
   preview_image: /assets/images/Botswana_180c89_asteroid_2018_la_641f2f-Illustration-1.webp

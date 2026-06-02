@@ -239,7 +239,7 @@ prev_link:
   permalink: /evidence-check/
   short_title: Evidence Check
   heading_title: How Do Slovak UFO Reports Get Explained?
-date: '2026-06-02 16:37:07 '
+date: '2026-06-02 18:44:17 '
 header:
   og_image: /assets/images/Slovakia_b6c149_ufo_klub_trnava_arch_ba7a23-Illustration-1-social.jpg
   preview_image: /assets/images/Slovakia_b6c149_ufo_klub_trnava_arch_ba7a23-Illustration-1.webp

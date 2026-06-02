@@ -245,7 +245,7 @@ next_link:
   permalink: /moshi-lights/
   short_title: Moshi Lights
   heading_title: Can the Moshi Rooftop Lights Be Trusted?
-date: '2026-06-02 16:43:00 '
+date: '2026-06-02 18:49:22 '
 header:
   og_image: /assets/images/United_Republic_of_T_f850a5_kilimanjaro_1951_720e52-Illustration-1-social.jpg
   preview_image: /assets/images/United_Republic_of_T_f850a5_kilimanjaro_1951_720e52-Illustration-1.webp

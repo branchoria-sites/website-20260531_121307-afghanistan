@@ -239,7 +239,7 @@ next_link:
   permalink: /2022-zagreb-drone/
   short_title: 2022 Zagreb Drone
   heading_title: Zagreb’s 2022 Tu 141 Drone Crash Explained
-date: '2026-06-02 16:07:00 '
+date: '2026-06-02 18:24:17 '
 header:
   og_image: /assets/images/Croatia_d7e045_yugoslav_aviation_ca_d2c52a-Illustration-1-social.jpg
   preview_image: /assets/images/Croatia_d7e045_yugoslav_aviation_ca_d2c52a-Illustration-1.webp

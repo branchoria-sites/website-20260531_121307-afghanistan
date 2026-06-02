@@ -245,7 +245,7 @@ next_link:
   permalink: /official-stance/
   short_title: Official Stance
   heading_title: Government and Scientific Response to UFOs in Luxembourg
-date: '2026-06-02 16:20:50 '
+date: '2026-06-02 18:34:29 '
 header:
   og_image: /assets/images/Luxembourg_507672_modern_civilian_repo_039f52-Illustration-1-social.jpg
   preview_image: /assets/images/Luxembourg_507672_modern_civilian_repo_039f52-Illustration-1.webp

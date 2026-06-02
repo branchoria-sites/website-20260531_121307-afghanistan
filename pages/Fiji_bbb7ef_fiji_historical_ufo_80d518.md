@@ -245,7 +245,7 @@ next_link:
   permalink: /modern-reports-94837e/
   short_title: Modern Reports
   heading_title: Recent UFO Sightings and Citizen Reports in Fiji
-date: '2026-06-02 16:10:45 '
+date: '2026-06-02 18:27:18 '
 header:
   og_image: /assets/images/Fiji_bbb7ef_fiji_historical_ufo_80d518-Illustration-1-social.jpg
   preview_image: /assets/images/Fiji_bbb7ef_fiji_historical_ufo_80d518-Illustration-1.webp

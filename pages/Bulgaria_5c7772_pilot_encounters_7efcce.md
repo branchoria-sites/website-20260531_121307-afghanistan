@@ -245,7 +245,7 @@ next_link:
   permalink: /ufo-groups/
   short_title: UFO Groups
   heading_title: Who Investigates UFO Claims in Bulgaria?
-date: '2026-06-02 16:01:30 '
+date: '2026-06-02 18:19:33 '
 header:
   og_image: /assets/images/Bulgaria_5c7772_pilot_encounters_7efcce-Illustration-1-social.jpg
   preview_image: /assets/images/Bulgaria_5c7772_pilot_encounters_7efcce-Illustration-1.webp

@@ -1185,7 +1185,7 @@ next_link:
   title: Malawi UFOs
   permalink: /what-are-malawis-documented-ufos-and-sky/
   short_title: Malawi UFOs
-date: '2026-06-02 16:43:57 '
+date: '2026-06-02 18:50:06 '
 header:
   og_image: /assets/images/Venezuela_Bolivarian_3dc4c3-overview-social.jpg
   preview_image: /assets/images/Venezuela_Bolivarian_3dc4c3-overview.webp

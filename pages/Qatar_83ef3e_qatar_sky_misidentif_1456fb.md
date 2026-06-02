@@ -245,7 +245,7 @@ next_link:
   permalink: /qatar-ufo-records/
   short_title: Qatar UFO records
   heading_title: How Reliable Are Qatar's UFO Records?
-date: '2026-06-02 16:31:02 '
+date: '2026-06-02 18:40:58 '
 header:
   og_image: /assets/images/Qatar_83ef3e_qatar_sky_misidentif_1456fb-Illustration-1-social.jpg
   preview_image: /assets/images/Qatar_83ef3e_qatar_sky_misidentif_1456fb-Illustration-1.webp

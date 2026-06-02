@@ -245,7 +245,7 @@ next_link:
   permalink: /sightings-timeline/
   short_title: Sightings Timeline
   heading_title: Chronology of UFO Sightings Across Guyana
-date: '2026-06-02 16:13:52 '
+date: '2026-06-02 18:29:34 '
 header:
   og_image: /assets/images/Guyana_bc88a2_regional_sighting_pa_b78bf7-Illustration-1-social.jpg
   preview_image: /assets/images/Guyana_bc88a2_regional_sighting_pa_b78bf7-Illustration-1.webp

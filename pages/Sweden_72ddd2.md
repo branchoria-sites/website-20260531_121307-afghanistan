@@ -1185,7 +1185,7 @@ next_link:
   title: NZ UFOs
   permalink: /what-new-zealands-ufo-files-really-show/
   short_title: NZ UFOs
-date: '2026-06-02 16:39:07 '
+date: '2026-06-02 18:46:19 '
 header:
   og_image: /assets/images/Sweden_72ddd2-overview-social.jpg
   preview_image: /assets/images/Sweden_72ddd2-overview.webp

@@ -245,7 +245,7 @@ next_link:
   permalink: /ufo-sverige/
   short_title: UFO Sverige
   heading_title: How Sweden Sorts UFO Reports
-date: '2026-06-02 16:39:14 '
+date: '2026-06-02 18:46:24 '
 header:
   og_image: /assets/images/Sweden_72ddd2_swedish_ufo_places_d08102-Illustration-1-social.jpg
   preview_image: /assets/images/Sweden_72ddd2_swedish_ufo_places_d08102-Illustration-1.webp

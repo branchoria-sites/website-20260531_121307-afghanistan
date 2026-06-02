@@ -1185,7 +1185,7 @@ next_link:
   title: Seychelles UFOs
   permalink: /what-do-seychelles-ufo-reports-really/
   short_title: Seychelles UFOs
-date: '2026-06-02 16:30:58 '
+date: '2026-06-02 18:40:55 '
 header:
   og_image: /assets/images/Qatar_83ef3e-overview-social.jpg
   preview_image: /assets/images/Qatar_83ef3e-overview.webp

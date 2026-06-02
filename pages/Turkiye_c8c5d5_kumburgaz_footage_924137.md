@@ -245,7 +245,7 @@ next_link:
   permalink: /ufo-culture/
   short_title: UFO Culture
   heading_title: How Türkiye Built a UFO Public Culture
-date: '2026-06-02 16:41:11 '
+date: '2026-06-02 18:47:58 '
 header:
   og_image: /assets/images/Turkiye_c8c5d5_kumburgaz_footage_924137-Illustration-1-social.jpg
   preview_image: /assets/images/Turkiye_c8c5d5_kumburgaz_footage_924137-Illustration-1.webp

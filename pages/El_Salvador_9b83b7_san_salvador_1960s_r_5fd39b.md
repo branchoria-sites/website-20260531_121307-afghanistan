@@ -239,7 +239,7 @@ next_link:
   permalink: /evidence-test/
   short_title: Evidence Test
   heading_title: How Strong Are El Salvador's UFO Claims?
-date: '2026-06-02 16:09:31 '
+date: '2026-06-02 18:26:22 '
 header:
   og_image: /assets/images/El_Salvador_9b83b7_san_salvador_1960s_r_5fd39b-Illustration-1-social.jpg
   preview_image: /assets/images/El_Salvador_9b83b7_san_salvador_1960s_r_5fd39b-Illustration-1.webp

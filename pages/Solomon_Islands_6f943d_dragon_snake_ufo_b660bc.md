@@ -239,7 +239,7 @@ next_link:
   permalink: /guadalcanal/
   short_title: Guadalcanal
   heading_title: Why Guadalcanal Became the Center of the Story
-date: '2026-06-02 16:37:20 '
+date: '2026-06-02 18:44:31 '
 header:
   og_image: /assets/images/Solomon_Islands_6f943d_dragon_snake_ufo_b660bc-Illustration-1-social.jpg
   preview_image: /assets/images/Solomon_Islands_6f943d_dragon_snake_ufo_b660bc-Illustration-1.webp

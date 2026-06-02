@@ -239,7 +239,7 @@ next_link:
   permalink: /ariel-school/
   short_title: Ariel School
   heading_title: Why the Ariel School Case Still Divides Readers
-date: '2026-06-02 16:45:02 '
+date: '2026-06-02 18:51:07 '
 header:
   og_image: /assets/images/Zimbabwe_5922f5_zimbabwe_1994_ufo_wa_cc7352-Illustration-1-social.jpg
   preview_image: /assets/images/Zimbabwe_5922f5_zimbabwe_1994_ufo_wa_cc7352-Illustration-1.webp

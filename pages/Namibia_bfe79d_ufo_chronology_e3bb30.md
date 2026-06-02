@@ -239,7 +239,7 @@ prev_link:
   permalink: /space-ball/
   short_title: Space Ball
   heading_title: Was Namibia's Space Ball Really From Space?
-date: '2026-06-02 16:42:06 '
+date: '2026-06-02 18:48:41 '
 header:
   og_image: /assets/images/Namibia_bfe79d_ufo_chronology_e3bb30-Illustration-1-social.jpg
   preview_image: /assets/images/Namibia_bfe79d_ufo_chronology_e3bb30-Illustration-1.webp

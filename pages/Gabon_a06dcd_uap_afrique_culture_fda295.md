@@ -239,7 +239,7 @@ prev_link:
   permalink: /sightings-map-d6cc5a/
   short_title: Sightings Map
   heading_title: Where Do Gabon's UFO Sightings Cluster?
-date: '2026-06-02 16:11:20 '
+date: '2026-06-02 18:27:50 '
 header:
   og_image: /assets/images/Gabon_a06dcd_uap_afrique_culture_fda295-Illustration-1-social.jpg
   preview_image: /assets/images/Gabon_a06dcd_uap_afrique_culture_fda295-Illustration-1.webp

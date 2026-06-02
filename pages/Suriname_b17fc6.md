@@ -1185,7 +1185,7 @@ next_link:
   title: Senegal UFOs
   permalink: /what-survives-in-senegals-ufo-record/
   short_title: Senegal UFOs
-date: '2026-06-02 16:38:55 '
+date: '2026-06-02 18:46:09 '
 header:
   og_image: /assets/images/Suriname_b17fc6-overview-social.jpg
   preview_image: /assets/images/Suriname_b17fc6-overview.webp

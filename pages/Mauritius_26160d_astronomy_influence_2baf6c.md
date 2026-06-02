@@ -245,7 +245,7 @@ next_link:
   permalink: /debunked-cases/
   short_title: Debunked Cases
   heading_title: Sorting Fact from Fiction in Mauritius UFO Reports
-date: '2026-06-02 16:23:02 '
+date: '2026-06-02 18:36:24 '
 header:
   og_image: /assets/images/Mauritius_26160d_astronomy_influence_2baf6c-Illustration-1-social.jpg
   preview_image: /assets/images/Mauritius_26160d_astronomy_influence_2baf6c-Illustration-1.webp

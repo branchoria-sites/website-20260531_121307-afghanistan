@@ -245,7 +245,7 @@ next_link:
   permalink: /timeline-a5b90a/
   short_title: Timeline
   heading_title: What Do Trinidad UFO Reports Actually Show?
-date: '2026-06-02 16:40:41 '
+date: '2026-06-02 18:47:36 '
 header:
   og_image: /assets/images/Trinidad_and_Tobago_a73120_starship_rocket_case_f52dc9-Illustration-1-social.jpg
   preview_image: /assets/images/Trinidad_and_Tobago_a73120_starship_rocket_case_f52dc9-Illustration-1.webp

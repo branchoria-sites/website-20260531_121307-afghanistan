@@ -239,7 +239,7 @@ next_link:
   permalink: /explanations-418e2f/
   short_title: Explanations
   heading_title: When Brunei UFO Reports Have Earthly Answers
-date: '2026-06-02 16:00:25 '
+date: '2026-06-02 18:18:53 '
 header:
   og_image: /assets/images/Brunei_Darussalam_eab94a_capital_sightings_ec0c5f-Illustration-1-social.jpg
   preview_image: /assets/images/Brunei_Darussalam_eab94a_capital_sightings_ec0c5f-Illustration-1.webp

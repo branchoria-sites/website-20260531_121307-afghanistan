@@ -245,7 +245,7 @@ next_link:
   permalink: /missing-reports-b9cb78/
   short_title: Missing Reports
   heading_title: Why Are Rwanda UFO Reports So Hard to Find?
-date: '2026-06-02 16:32:25 '
+date: '2026-06-02 18:41:51 '
 header:
   og_image: /assets/images/Rwanda_7266a1_kigali_sky_sightings_5e33a6-Illustration-1-social.jpg
   preview_image: /assets/images/Rwanda_7266a1_kigali_sky_sightings_5e33a6-Illustration-1.webp

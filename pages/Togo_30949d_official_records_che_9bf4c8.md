@@ -245,7 +245,7 @@ next_link:
   permalink: /thin-record-e0622a/
   short_title: Thin Record
   heading_title: Why Are Togo UFO Reports So Scarce?
-date: '2026-06-02 16:40:18 '
+date: '2026-06-02 18:47:20 '
 header:
   og_image: /assets/images/Togo_30949d_official_records_che_9bf4c8-Illustration-1-social.jpg
   preview_image: /assets/images/Togo_30949d_official_records_che_9bf4c8-Illustration-1.webp

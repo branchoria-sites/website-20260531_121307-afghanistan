@@ -239,7 +239,7 @@ prev_link:
   permalink: /timeline-a5b90a/
   short_title: Timeline
   heading_title: What Do Trinidad UFO Reports Actually Show?
-date: '2026-06-02 16:40:45 '
+date: '2026-06-02 18:47:39 '
 header:
   og_image: /assets/images/Trinidad_and_Tobago_a73120_witness_folklore_soc_212e5b-Illustration-1-social.jpg
   preview_image: /assets/images/Trinidad_and_Tobago_a73120_witness_folklore_soc_212e5b-Illustration-1.webp
@@ -541,22 +541,6 @@ That process helps explain why relatively small numbers of sightings can leave a
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-stories-why-trinidad-ufo-stories-spread-fast-trinidad-and-tobago-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="witness-stories-why-trinidad-ufo-stories-spread-fast-trinidad-and-tobago-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee"><img src="{{ '/assets/images/marketplace-covers/0c5f9a5dee70cdf61235.jpg' | relative_url }}" alt="Listing image for Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-stories-why-trinidad-ufo-stories-spread-fast-trinidad-and-tobago-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="witness-stories-why-trinidad-ufo-stories-spread-fast-trinidad-and-tobago-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-stories-why-trinidad-ufo-stories-spread-fast-trinidad-and-tobago-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="witness-stories-why-trinidad-ufo-stories-spread-fast-trinidad-and-tobago-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-stories-why-trinidad-ufo-stories-spread-fast-trinidad-and-tobago-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="witness-stories-why-trinidad-ufo-stories-spread-fast-trinidad-and-tobago-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-stories-why-trinidad-ufo-stories-spread-fast-trinidad-and-tobago-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="witness-stories-why-trinidad-ufo-stories-spread-fast-trinidad-and-tobago-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone"><img src="{{ '/assets/images/marketplace-covers/c55bd17eeaec578c24e2.jpg' | relative_url }}" alt="Listing image for Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
@@ -578,6 +562,22 @@ That process helps explain why relatively small numbers of sightings can leave a
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
           <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-stories-why-trinidad-ufo-stories-spread-fast-trinidad-and-tobago-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="witness-stories-why-trinidad-ufo-stories-spread-fast-trinidad-and-tobago-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-stories-why-trinidad-ufo-stories-spread-fast-trinidad-and-tobago-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="witness-stories-why-trinidad-ufo-stories-spread-fast-trinidad-and-tobago-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-stories-why-trinidad-ufo-stories-spread-fast-trinidad-and-tobago-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="witness-stories-why-trinidad-ufo-stories-spread-fast-trinidad-and-tobago-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-stories-why-trinidad-ufo-stories-spread-fast-trinidad-and-tobago-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="witness-stories-why-trinidad-ufo-stories-spread-fast-trinidad-and-tobago-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee"><img src="{{ '/assets/images/marketplace-covers/0c5f9a5dee70cdf61235.jpg' | relative_url }}" alt="Listing image for Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-stories-why-trinidad-ufo-stories-spread-fast-trinidad-and-tobago-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="witness-stories-why-trinidad-ufo-stories-spread-fast-trinidad-and-tobago-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-stories-why-trinidad-ufo-stories-spread-fast-trinidad-and-tobago-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="witness-stories-why-trinidad-ufo-stories-spread-fast-trinidad-and-tobago-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
         <div class="fr-book-actions">

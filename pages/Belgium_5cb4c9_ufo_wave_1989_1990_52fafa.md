@@ -239,7 +239,7 @@ next_link:
   permalink: /civilian-research/
   short_title: Civilian Research
   heading_title: Belgian Civilian UFO Research and SOBEPS
-date: '2026-06-02 15:56:27 '
+date: '2026-06-02 18:15:36 '
 header:
   og_image: /assets/images/Belgium_5cb4c9_ufo_wave_1989_1990_52fafa-Illustration-1-social.jpg
   preview_image: /assets/images/Belgium_5cb4c9_ufo_wave_1989_1990_52fafa-Illustration-1.webp
@@ -287,7 +287,7 @@ Physicist **Auguste Meessen**, granted access to official radar recordings, init
 One of the most iconic images thought to depict the Belgian wave was the **Petit‑Rechain photograph**, taken in early April 1990, showing a dark triangular object with radiant lights. For years, it circulated as alleged visual proof of structured craft. In **2011**, the photographer — Patrick Maréchal — publicly admitted that the image was a **hoax**, created with a **polystyrene model and paint**, undermining its evidential value as authentic documentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://conspirafy.com/conspiracies/belgian-ufo-wave-1989-1990" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: conspirafy.com">[conspirafy.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">conspirafy.com</span><span class="citation-popover-title">belgian ufo wave 1989 1990</span><span class="citation-popover-snippet">Belgian UFO wave (29 Nov 1989 - Apr 1990)May 12, 2026...</span><span class="citation-popover-meta">Published: May 12, 2026</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rB6OQV2gD-E" title="The Proof Is Out There: UFO SPOTTED ON U.S. MILITARY BASE (Season 2) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rB6OQV2gD-E" target="_blank" rel="noopener noreferrer">The Proof Is Out There: UFO SPOTTED ON U.S. MILITARY BASE (Season 2) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rB6OQV2gD-E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rB6OQV2gD-E">Open on YouTube</a></p></div></div></div>
 
 ## Evidence Assessment and Contestation
 

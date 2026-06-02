@@ -245,7 +245,7 @@ next_link:
   permalink: /war-skies/
   short_title: War Skies
   heading_title: When War Turns Lights Into Mysteries
-date: '2026-06-02 16:38:51 '
+date: '2026-06-02 18:46:06 '
 header:
   og_image: /assets/images/Sudan_1193ba_missing_ufo_records_34e877-Illustration-1-social.jpg
   preview_image: /assets/images/Sudan_1193ba_missing_ufo_records_34e877-Illustration-1.webp

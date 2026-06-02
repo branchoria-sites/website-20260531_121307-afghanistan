@@ -245,7 +245,7 @@ next_link:
   permalink: /explanations-6656b9/
   short_title: Explanations
   heading_title: Could Boianai Have Been Misread Lights?
-date: '2026-06-02 16:29:18 '
+date: '2026-06-02 18:40:00 '
 header:
   og_image: /assets/images/Papua_New_Guinea_90e80c_boianai_sighting_a76379-Illustration-1-social.jpg
   preview_image: /assets/images/Papua_New_Guinea_90e80c_boianai_sighting_a76379-Illustration-1.webp

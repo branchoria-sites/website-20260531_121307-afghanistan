@@ -245,7 +245,7 @@ next_link:
   permalink: /skepticism/
   short_title: Skepticism
   heading_title: How Have Azerbaijani Scientists Explained UFO Claims?
-date: '2026-06-02 15:52:18 '
+date: '2026-06-02 18:12:08 '
 header:
   og_image: /assets/images/Azerbaijan_213598_azerbaijan_records_g_8a77ae-Illustration-1-social.jpg
   preview_image: /assets/images/Azerbaijan_213598_azerbaijan_records_g_8a77ae-Illustration-1.webp
@@ -584,6 +584,22 @@ That does not automatically mean the sightings were fabricated. It means the ava
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-553ed3-why-are-azerbaijan-s-ufo-records-so-thin-azerbaijan-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="records-gap-553ed3-why-are-azerbaijan-s-ufo-records-so-thin-azerbaijan-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model / UAP Model With Stand – George Adamski – Alien Saucer Collectible"><img src="{{ '/assets/images/marketplace-covers/48ed2132f252162f12c9.jpg' | relative_url }}" alt="Listing image for UFO Model / UAP Model With Stand – George Adamski – Alien Saucer Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-553ed3-why-are-azerbaijan-s-ufo-records-so-thin-azerbaijan-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="records-gap-553ed3-why-are-azerbaijan-s-ufo-records-so-thin-azerbaijan-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Model / UAP Model With Stand – George Adamski – Alien Saucer Collectible</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-553ed3-why-are-azerbaijan-s-ufo-records-so-thin-azerbaijan-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="records-gap-553ed3-why-are-azerbaijan-s-ufo-records-so-thin-azerbaijan-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-553ed3-why-are-azerbaijan-s-ufo-records-so-thin-azerbaijan-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="records-gap-553ed3-why-are-azerbaijan-s-ufo-records-so-thin-azerbaijan-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-553ed3-why-are-azerbaijan-s-ufo-records-so-thin-azerbaijan-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="records-gap-553ed3-why-are-azerbaijan-s-ufo-records-so-thin-azerbaijan-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO"><img src="{{ '/assets/images/marketplace-covers/804a6ca65be816e4a5d9.jpg' | relative_url }}" alt="Listing image for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
@@ -621,22 +637,6 @@ That does not automatically mean the sightings were fabricated. It means the ava
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
           <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-553ed3-why-are-azerbaijan-s-ufo-records-so-thin-azerbaijan-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="records-gap-553ed3-why-are-azerbaijan-s-ufo-records-so-thin-azerbaijan-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-553ed3-why-are-azerbaijan-s-ufo-records-so-thin-azerbaijan-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="records-gap-553ed3-why-are-azerbaijan-s-ufo-records-so-thin-azerbaijan-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-553ed3-why-are-azerbaijan-s-ufo-records-so-thin-azerbaijan-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="records-gap-553ed3-why-are-azerbaijan-s-ufo-records-so-thin-azerbaijan-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-553ed3-why-are-azerbaijan-s-ufo-records-so-thin-azerbaijan-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="records-gap-553ed3-why-are-azerbaijan-s-ufo-records-so-thin-azerbaijan-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model / UAP Model With Stand – George Adamski – Alien Saucer Collectible"><img src="{{ '/assets/images/marketplace-covers/48ed2132f252162f12c9.jpg' | relative_url }}" alt="Listing image for UFO Model / UAP Model With Stand – George Adamski – Alien Saucer Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-553ed3-why-are-azerbaijan-s-ufo-records-so-thin-azerbaijan-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="records-gap-553ed3-why-are-azerbaijan-s-ufo-records-so-thin-azerbaijan-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Model / UAP Model With Stand – George Adamski – Alien Saucer Collectible</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-553ed3-why-are-azerbaijan-s-ufo-records-so-thin-azerbaijan-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="records-gap-553ed3-why-are-azerbaijan-s-ufo-records-so-thin-azerbaijan-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
         <div class="fr-book-actions">

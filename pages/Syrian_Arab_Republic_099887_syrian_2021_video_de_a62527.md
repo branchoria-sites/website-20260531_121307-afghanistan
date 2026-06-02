@@ -239,7 +239,7 @@ next_link:
   permalink: /bouncy-ball/
   short_title: Bouncy Ball
   heading_title: Why the 2023 Bouncy Ball Case Matters
-date: '2026-06-02 16:39:41 '
+date: '2026-06-02 18:46:45 '
 header:
   og_image: /assets/images/Syrian_Arab_Republic_099887_syrian_2021_video_de_a62527-Illustration-1-social.jpg
   preview_image: /assets/images/Syrian_Arab_Republic_099887_syrian_2021_video_de_a62527-Illustration-1.webp

@@ -239,7 +239,7 @@ next_link:
   permalink: /civilian-reports-22214a/
   short_title: Civilian Reports
   heading_title: Can Libya's Civilian UFO Sightings Be Verified?
-date: '2026-06-02 16:20:14 '
+date: '2026-06-02 18:34:00 '
 header:
   og_image: /assets/images/Libya_55949d_libya_project_blue_b_5a764e-Illustration-1-social.jpg
   preview_image: /assets/images/Libya_55949d_libya_project_blue_b_5a764e-Illustration-1.webp

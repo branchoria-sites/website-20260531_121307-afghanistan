@@ -239,7 +239,7 @@ next_link:
   permalink: /khartoum-2018/
   short_title: Khartoum 2018
   heading_title: Was Khartoum's Green UFO a Rocket?
-date: '2026-06-02 16:38:46 '
+date: '2026-06-02 18:46:02 '
 header:
   og_image: /assets/images/Sudan_1193ba_asteroid_2008_tc3_726a35-Illustration-1-social.jpg
   preview_image: /assets/images/Sudan_1193ba_asteroid_2008_tc3_726a35-Illustration-1.webp

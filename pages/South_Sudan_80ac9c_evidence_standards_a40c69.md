@@ -239,7 +239,7 @@ next_link:
   permalink: /juba-reports/
   short_title: Juba Reports
   heading_title: Why Do UFO Rumours Cluster Around Juba?
-date: '2026-06-02 16:37:51 '
+date: '2026-06-02 18:45:01 '
 header:
   og_image: /assets/images/South_Sudan_80ac9c_evidence_standards_a40c69-Illustration-1-social.jpg
   preview_image: /assets/images/South_Sudan_80ac9c_evidence_standards_a40c69-Illustration-1.webp

@@ -245,7 +245,7 @@ next_link:
   permalink: /sightings-map-37626c/
   short_title: Sightings Map
   heading_title: Why Arenal and Rural Skies Attract UFO Stories
-date: '2026-06-02 16:06:03 '
+date: '2026-06-02 18:23:53 '
 header:
   og_image: /assets/images/Costa_Rica_fe586b_official_records_9b05ad-Illustration-1-social.jpg
   preview_image: /assets/images/Costa_Rica_fe586b_official_records_9b05ad-Illustration-1.webp

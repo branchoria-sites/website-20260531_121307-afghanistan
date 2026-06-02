@@ -239,7 +239,7 @@ prev_link:
   permalink: /ufo-tourism/
   short_title: UFO Tourism
   heading_title: How UFO Stories Became Local Culture in Japan
-date: '2026-06-02 16:18:00 '
+date: '2026-06-02 18:32:13 '
 header:
   og_image: /assets/images/Japan_fcf29f_utsuro_bune_ufo_73be05-Illustration-1-social.jpg
   preview_image: /assets/images/Japan_fcf29f_utsuro_bune_ufo_73be05-Illustration-1.webp

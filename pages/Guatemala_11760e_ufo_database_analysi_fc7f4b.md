@@ -245,7 +245,7 @@ next_link:
   permalink: /villa-nueva-2025/
   short_title: Villa Nueva 2025
   heading_title: Unraveling the 2025 Villa Nueva UFO Lights
-date: '2026-06-02 16:12:54 '
+date: '2026-06-02 18:29:06 '
 header:
   og_image: /assets/images/Guatemala_11760e_ufo_database_analysi_fc7f4b-Illustration-1-social.jpg
   preview_image: /assets/images/Guatemala_11760e_ufo_database_analysi_fc7f4b-Illustration-1.webp

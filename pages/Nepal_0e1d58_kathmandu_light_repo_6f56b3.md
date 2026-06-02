@@ -239,7 +239,7 @@ prev_link:
   permalink: /gandaki-fireball/
   short_title: Gandaki Fireball
   heading_title: When a Nepal UFO Becomes a Fireball
-date: '2026-06-02 16:25:07 '
+date: '2026-06-02 18:38:00 '
 header:
   og_image: /assets/images/Nepal_0e1d58_kathmandu_light_repo_6f56b3-Illustration-1-social.jpg
   preview_image: /assets/images/Nepal_0e1d58_kathmandu_light_repo_6f56b3-Illustration-1.webp

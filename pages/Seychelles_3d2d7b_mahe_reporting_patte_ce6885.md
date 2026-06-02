@@ -243,7 +243,7 @@ next_link:
   permalink: /record-checks/
   short_title: Record Checks
   heading_title: How Could Seychelles UFO Claims Be Checked?
-date: '2026-06-02 16:35:59 '
+date: '2026-06-02 18:43:43 '
 header:
   og_image: /assets/images/Seychelles_3d2d7b_mahe_reporting_patte_ce6885-Illustration-1-social.jpg
   preview_image: /assets/images/Seychelles_3d2d7b_mahe_reporting_patte_ce6885-Illustration-1.webp
@@ -338,7 +338,7 @@ At the same time, researchers should avoid moving to the opposite extreme and as
 The most defensible position is narrower: the reporting environment outside Mahé is weak enough that silence cannot be treated as meaningful proof either for or against unusual aerial activity.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KR5hzBQGzLQ" title="Elite Witness Testimonies! | TOP 25 UFO ENCOUNTERS BY ASTRONAUTS, PILOTS AND MILITARY OFFICIALS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KR5hzBQGzLQ" target="_blank" rel="noopener noreferrer">Elite Witness Testimonies! | TOP 25 UFO ENCOUNTERS BY ASTRONAUTS, PILOTS AND MILITARY OFFICIALS</a></p><p class="youtube-embed-meta">Channel: FilmIsNow Movies &middot; Views: 5.8K &middot; Uploaded: March 2025 &middot; Length: 55 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KR5hzBQGzLQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KR5hzBQGzLQ">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mvsU4p0Gsas" title="Breaking Down UAP Footage with the Head of The Pentagon’s UAP Taskforce, Dr. Jon Kosloski" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mvsU4p0Gsas" target="_blank" rel="noopener noreferrer">Breaking Down UAP Footage with the Head of The Pentagon’s UAP Taskforce, Dr. Jon Kosloski</a></p><p class="youtube-embed-meta">Channel: StarTalk &middot; Views: 1.5M &middot; Uploaded: August 2025 &middot; Length: 51 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mvsU4p0Gsas" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mvsU4p0Gsas">Open on YouTube</a></p></div></div></div>
 
 ## The satellite era strengthened Mahé's reporting advantage
 
@@ -351,7 +351,7 @@ The significance of the case is less about the object itself than about reportin
 That process says as much about information flow as it does about the sky.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mvsU4p0Gsas" title="Breaking Down UAP Footage with the Head of The Pentagon’s UAP Taskforce, Dr. Jon Kosloski" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mvsU4p0Gsas" target="_blank" rel="noopener noreferrer">Breaking Down UAP Footage with the Head of The Pentagon’s UAP Taskforce, Dr. Jon Kosloski</a></p><p class="youtube-embed-meta">Channel: StarTalk &middot; Views: 1.5M &middot; Uploaded: August 2025 &middot; Length: 51 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mvsU4p0Gsas" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mvsU4p0Gsas">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KR5hzBQGzLQ" title="Elite Witness Testimonies! | TOP 25 UFO ENCOUNTERS BY ASTRONAUTS, PILOTS AND MILITARY OFFICIALS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KR5hzBQGzLQ" target="_blank" rel="noopener noreferrer">Elite Witness Testimonies! | TOP 25 UFO ENCOUNTERS BY ASTRONAUTS, PILOTS AND MILITARY OFFICIALS</a></p><p class="youtube-embed-meta">Channel: FilmIsNow Movies &middot; Views: 5.8K &middot; Uploaded: March 2025 &middot; Length: 55 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KR5hzBQGzLQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KR5hzBQGzLQ">Open on YouTube</a></p></div></div></div>
 
 ## Mahé as a reporting centre, not a proven anomaly zone
 

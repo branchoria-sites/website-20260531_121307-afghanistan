@@ -239,7 +239,7 @@ next_link:
   permalink: /krsko-claims/
   short_title: Krsko Claims
   heading_title: Did UFOs Really Appear Over Krsko?
-date: '2026-06-02 16:37:13 '
+date: '2026-06-02 18:44:23 '
 header:
   og_image: /assets/images/Slovenia_d1aa05_ufo_explanations_5e91ba-Illustration-1-social.jpg
   preview_image: /assets/images/Slovenia_d1aa05_ufo_explanations_5e91ba-Illustration-1.webp

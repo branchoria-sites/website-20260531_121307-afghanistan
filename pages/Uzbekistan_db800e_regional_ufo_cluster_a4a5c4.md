@@ -245,7 +245,7 @@ next_link:
   permalink: /tashkent-claims/
   short_title: Tashkent Claims
   heading_title: Why Tashkent Became Uzbekistan's UFO Story Hub
-date: '2026-06-02 16:43:37 '
+date: '2026-06-02 18:49:53 '
 header:
   og_image: /assets/images/Uzbekistan_db800e_regional_ufo_cluster_a4a5c4-Illustration-1-social.jpg
   preview_image: /assets/images/Uzbekistan_db800e_regional_ufo_cluster_a4a5c4-Illustration-1.webp

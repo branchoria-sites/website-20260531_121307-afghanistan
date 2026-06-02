@@ -239,7 +239,7 @@ next_link:
   permalink: /lantern-scare/
   short_title: Lantern Scare
   heading_title: When Flying Saucers Became Sky Lanterns
-date: '2026-06-02 16:39:02 '
+date: '2026-06-02 18:46:13 '
 header:
   og_image: /assets/images/Suriname_b17fc6_ufo_belief_culture_c9f523-Illustration-1-social.jpg
   preview_image: /assets/images/Suriname_b17fc6_ufo_belief_culture_c9f523-Illustration-1.webp

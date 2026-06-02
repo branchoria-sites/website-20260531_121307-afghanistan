@@ -239,7 +239,7 @@ prev_link:
   permalink: /civilian-reports-a6ac84/
   short_title: Civilian Reports
   heading_title: How Strong Are Jordan's Civilian UFO Reports?
-date: '2026-06-02 16:22:53 '
+date: '2026-06-02 18:36:16 '
 header:
   og_image: /assets/images/Jordan_674027_jafr_ufo_hoax_c57ce7_b794bd-Illustration-1-social.jpg
   preview_image: /assets/images/Jordan_674027_jafr_ufo_hoax_c57ce7_b794bd-Illustration-1.webp

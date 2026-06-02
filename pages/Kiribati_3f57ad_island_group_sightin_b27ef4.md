@@ -245,7 +245,7 @@ next_link:
   permalink: /missing-reports/
   short_title: Missing Reports
   heading_title: Why Are Kiribati UFO Reports So Rare?
-date: '2026-06-02 16:18:45 '
+date: '2026-06-02 18:32:47 '
 header:
   og_image: /assets/images/Kiribati_3f57ad_island_group_sightin_b27ef4-Illustration-1-social.jpg
   preview_image: /assets/images/Kiribati_3f57ad_island_group_sightin_b27ef4-Illustration-1.webp

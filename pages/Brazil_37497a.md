@@ -1185,7 +1185,7 @@ next_link:
   title: Angola UFOs
   permalink: /what-can-angolas-ufo-record-really-prove/
   short_title: Angola UFOs
-date: '2026-06-02 16:00:06 '
+date: '2026-06-02 18:18:36 '
 header:
   og_image: /assets/images/Brazil_37497a-overview-social.jpg
   preview_image: /assets/images/Brazil_37497a-overview.webp
@@ -1239,7 +1239,7 @@ Perhaps the most internationally recognised Brazilian UFO story is the **[Vargin
 Recent archival releases from the **Arquivo Nacional** include reports from civilian pilots that describe objects performing unexpected manoeuvres or exhibiting speeds greater than conventional aircraft, further enriching Brazils empirical record without resolving the underlying nature of the phenomena. These include descriptions of fastmoving lights, unusual formations, and transient radar contacts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnnbrasil.com.br/nacional/dez-vezes-mais-rapido-que-um-aviao-documentos-com-relatos-de-pilotos-brasileiros-sobre-ovnis-sao-revelados//" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnnbrasil.com.br">[CNN Brasil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnnbrasil.com.br</span><span class="citation-popover-snippet">Dez vezes mais rpido que um avio&quot;: documentos com relatos de pilotos brasileiros sobre OVNIs so revelados | CNN BrasilAugust 15, 2024...</span><span class="citation-popover-meta">Published: August 15, 2024</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HAIk8ptpSK8" title="Brazil&#x27;s Military UFO Cover-Up | True Story (Declassified)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HAIk8ptpSK8" target="_blank" rel="noopener noreferrer">Brazil&#x27;s Military UFO Cover-Up | True Story (Declassified)</a></p><p class="youtube-embed-meta">Channel: Mysterious Stories of the Unknown</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HAIk8ptpSK8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HAIk8ptpSK8">Open on YouTube</a></p></div></div></div>
 
 ## Evidence Assessment and Contested Interpretations
 
@@ -1386,22 +1386,6 @@ Brazils storied connection with UFO phenomena spans official military investigat
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-brazils-ufo-records-reveal-about-what-brazil-s-ufo-records-reveal-about-unexplained-aerial-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-brazils-ufo-records-reveal-about-what-brazil-s-ufo-records-reveal-about-unexplained-aerial-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-brazils-ufo-records-reveal-about-what-brazil-s-ufo-records-reveal-about-unexplained-aerial-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-brazils-ufo-records-reveal-about-what-brazil-s-ufo-records-reveal-about-unexplained-aerial-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-brazils-ufo-records-reveal-about-what-brazil-s-ufo-records-reveal-about-unexplained-aerial-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-brazils-ufo-records-reveal-about-what-brazil-s-ufo-records-reveal-about-unexplained-aerial-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-brazils-ufo-records-reveal-about-what-brazil-s-ufo-records-reveal-about-unexplained-aerial-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-brazils-ufo-records-reveal-about-what-brazil-s-ufo-records-reveal-about-unexplained-aerial-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-brazils-ufo-records-reveal-about-what-brazil-s-ufo-records-reveal-about-unexplained-aerial-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-brazils-ufo-records-reveal-about-what-brazil-s-ufo-records-reveal-about-unexplained-aerial-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
@@ -1423,6 +1407,22 @@ Brazils storied connection with UFO phenomena spans official military investigat
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
           <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-brazils-ufo-records-reveal-about-what-brazil-s-ufo-records-reveal-about-unexplained-aerial-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-brazils-ufo-records-reveal-about-what-brazil-s-ufo-records-reveal-about-unexplained-aerial-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-brazils-ufo-records-reveal-about-what-brazil-s-ufo-records-reveal-about-unexplained-aerial-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-brazils-ufo-records-reveal-about-what-brazil-s-ufo-records-reveal-about-unexplained-aerial-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-brazils-ufo-records-reveal-about-what-brazil-s-ufo-records-reveal-about-unexplained-aerial-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-brazils-ufo-records-reveal-about-what-brazil-s-ufo-records-reveal-about-unexplained-aerial-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-brazils-ufo-records-reveal-about-what-brazil-s-ufo-records-reveal-about-unexplained-aerial-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-brazils-ufo-records-reveal-about-what-brazil-s-ufo-records-reveal-about-unexplained-aerial-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-brazils-ufo-records-reveal-about-what-brazil-s-ufo-records-reveal-about-unexplained-aerial-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-brazils-ufo-records-reveal-about-what-brazil-s-ufo-records-reveal-about-unexplained-aerial-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-brazils-ufo-records-reveal-about-what-brazil-s-ufo-records-reveal-about-unexplained-aerial-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-brazils-ufo-records-reveal-about-what-brazil-s-ufo-records-reveal-about-unexplained-aerial-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">

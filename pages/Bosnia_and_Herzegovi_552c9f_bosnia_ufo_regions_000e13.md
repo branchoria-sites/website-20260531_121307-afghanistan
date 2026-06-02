@@ -245,7 +245,7 @@ next_link:
   permalink: /sightings-archive/
   short_title: Sightings Archive
   heading_title: Comprehensive Timeline of UFO Sightings in Bosnia
-date: '2026-06-02 15:59:19 '
+date: '2026-06-02 18:17:57 '
 header:
   og_image: /assets/images/Bosnia_and_Herzegovi_552c9f_bosnia_ufo_regions_000e13-Illustration-1-social.jpg
   preview_image: /assets/images/Bosnia_and_Herzegovi_552c9f_bosnia_ufo_regions_000e13-Illustration-1.webp
@@ -297,6 +297,8 @@ However, these same conditions also complicate verification. Bright planets, atm
 
 Brčko’s strategic position along major transit routes may also contribute to misidentification. Commercial and military aircraft crossing the Balkans frequently pass through northern Bosnian airspace, particularly at night.
 
+
+<img src="{{ "/assets/images/Bosnia_and_Herzegovi_552c9f_bosnia_ufo_regions_000e13-Illustration-2-dark.svg" | relative_url }}" alt="Regional Patterns illustration 2" data-theme-src-dark="{{ "/assets/images/Bosnia_and_Herzegovi_552c9f_bosnia_ufo_regions_000e13-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bosnia_and_Herzegovi_552c9f_bosnia_ufo_regions_000e13-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Bosansko Grahovo and Western Bosnia
 
 Western Bosnia, especially around Bosansko Grahovo, appears repeatedly in modern UFO databases despite its sparse population. One report filed in December 2024 described a large multicoloured triangular object moving above the area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=185793" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 18579322 Dec 2024 — NUFORC UFO Sighting 185793. Occurred: 2024-12-21 10:53 Local - Approximate Reported: 2024-12-22 0...</span><span class="citation-popover-meta">Published: December 21, 2024</span></span></span>
@@ -307,8 +309,6 @@ At the same time, rural western Bosnia has long been associated with folklore an
 
 The scarcity of observers also creates a paradox: dramatic accounts from remote areas attract attention precisely because they are unusual, yet they are also the hardest to corroborate independently.
 
-
-<img src="{{ "/assets/images/Bosnia_and_Herzegovi_552c9f_bosnia_ufo_regions_000e13-Illustration-2-dark.svg" | relative_url }}" alt="Regional Patterns illustration 2" data-theme-src-dark="{{ "/assets/images/Bosnia_and_Herzegovi_552c9f_bosnia_ufo_regions_000e13-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bosnia_and_Herzegovi_552c9f_bosnia_ufo_regions_000e13-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Regional Trends and Comparisons
 
 ### Why Reports Cluster Unevenly
@@ -329,7 +329,8 @@ Bosnia and Herzegovina’s UFO geography reflects reporting conditions more than
 NUFORC’s country-level listings indicate only a small overall number of reports from Bosnia and Herzegovina compared with larger European states. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=59797" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 59797Location: Banja Luka (Bosnia),, Bosnia and Herzegovina Shape: Triangle Characteristics: Lights on object 1993 i...</span></span></span> That low volume makes statistical interpretation difficult. A handful of submissions can temporarily make one region appear unusually active even when no sustained pattern exists.
 
 
-<img src="{{ "/assets/images/Bosnia_and_Herzegovi_552c9f_bosnia_ufo_regions_000e13-Illustration-3-dark.svg" | relative_url }}" alt="Regional Patterns illustration 3" data-theme-src-dark="{{ "/assets/images/Bosnia_and_Herzegovi_552c9f_bosnia_ufo_regions_000e13-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bosnia_and_Herzegovi_552c9f_bosnia_ufo_regions_000e13-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NV4SxybVEWc" title="LINK! (feat. RXTKY)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NV4SxybVEWc" target="_blank" rel="noopener noreferrer">LINK! (feat. RXTKY)</a></p><p class="youtube-embed-meta">Channel: Codet - Topic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NV4SxybVEWc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NV4SxybVEWc">Open on YouTube</a></p></div></div></div>
+
 ### Urban-Rural Differences in Report Style
 
 Clear differences emerge between urban and rural sighting narratives:
@@ -337,6 +338,9 @@ Clear differences emerge between urban and rural sighting narratives:
 PatternUrban areasRural areasTypical descriptionLights, hovering objects, moving formationsLarge silent craft, glowing objects, shape-changing lightsObservation durationUsually briefOften longerLikely explanationsAircraft, drones, city lightingAstronomical objects, isolation effects, low-light misperceptionReporting behaviourMore frequent online submissionMore local storytelling and anecdotal circulationWitness densityHigher potential corroborationOften single or small-group witnesses
 
 Urban witnesses generally describe distant points of light or motion anomalies. Rural accounts more often include detailed shape descriptions such as triangles, discs or diamonds. This difference may partly reflect psychology: isolated observers in dark environments tend to perceive aerial objects as larger and closer than they actually are.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/29Wbm-UkvUE" title="Djo - Link (Official Visualizer)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=29Wbm-UkvUE" target="_blank" rel="noopener noreferrer">Djo - Link (Official Visualizer)</a></p><p class="youtube-embed-meta">Channel: Djo Music</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=29Wbm-UkvUE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=29Wbm-UkvUE">Open on YouTube</a></p></div></div></div>
 
 ### The Absence of a Confirmed National Hotspot
 
@@ -347,8 +351,7 @@ No Bosnian government agency has released region-by-region investigative data, a
 The overall regional picture therefore reflects a mixture of genuine witness experiences, environmental conditions, post-war social memory and uneven reporting practices rather than verified evidence of concentrated extraterrestrial activity.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Bosnia_and_Herzegovi_552c9f_bosnia_ufo_regions_000e13-Illustration-3-dark.svg" | relative_url }}" alt="Regional Patterns illustration 3" data-theme-src-dark="{{ "/assets/images/Bosnia_and_Herzegovi_552c9f_bosnia_ufo_regions_000e13-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bosnia_and_Herzegovi_552c9f_bosnia_ufo_regions_000e13-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

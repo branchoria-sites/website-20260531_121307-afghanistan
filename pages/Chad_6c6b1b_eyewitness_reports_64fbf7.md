@@ -239,7 +239,7 @@ next_link:
   permalink: /record-gaps/
   short_title: Record Gaps
   heading_title: Why Are Official Chad UFO Records So Sparse?
-date: '2026-06-02 16:04:22 '
+date: '2026-06-02 18:22:48 '
 header:
   og_image: /assets/images/Chad_6c6b1b_eyewitness_reports_64fbf7-Illustration-1-social.jpg
   preview_image: /assets/images/Chad_6c6b1b_eyewitness_reports_64fbf7-Illustration-1.webp

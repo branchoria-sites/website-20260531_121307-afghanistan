@@ -1185,7 +1185,7 @@ next_link:
   title: South Africa UFOs
   permalink: /what-really-stands-out-in-south/
   short_title: South Africa UFOs
-date: '2026-06-02 16:37:09 '
+date: '2026-06-02 18:44:18 '
 header:
   og_image: /assets/images/Slovenia_d1aa05-overview-social.jpg
   preview_image: /assets/images/Slovenia_d1aa05-overview.webp

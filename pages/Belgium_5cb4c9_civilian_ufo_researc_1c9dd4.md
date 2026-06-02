@@ -245,7 +245,7 @@ next_link:
   permalink: /debunked-unexplained/
   short_title: Debunked & Unexplained
   heading_title: Contested and Unexplained UFO Phenomena in Belgium
-date: '2026-06-02 15:56:32 '
+date: '2026-06-02 18:15:38 '
 header:
   og_image: /assets/images/Belgium_5cb4c9_civilian_ufo_researc_1c9dd4-Illustration-1-social.jpg
   preview_image: /assets/images/Belgium_5cb4c9_civilian_ufo_researc_1c9dd4-Illustration-1.webp

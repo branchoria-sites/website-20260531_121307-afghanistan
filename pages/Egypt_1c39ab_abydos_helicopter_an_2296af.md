@@ -239,7 +239,7 @@ next_link:
   permalink: /media-influence/
   short_title: Media Influence
   heading_title: How Do Viral Videos Shape Egypt's UFO Myths?
-date: '2026-06-02 16:09:12 '
+date: '2026-06-02 18:26:09 '
 header:
   og_image: /assets/images/Egypt_1c39ab_abydos_helicopter_an_2296af-Illustration-1-social.jpg
   preview_image: /assets/images/Egypt_1c39ab_abydos_helicopter_an_2296af-Illustration-1.webp

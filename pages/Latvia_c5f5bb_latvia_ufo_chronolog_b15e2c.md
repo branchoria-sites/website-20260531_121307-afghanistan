@@ -245,7 +245,7 @@ next_link:
   permalink: /ufology-groups/
   short_title: Ufology Groups
   heading_title: Inside Latvia's UFO Research Communities
-date: '2026-06-02 16:19:32 '
+date: '2026-06-02 18:33:23 '
 header:
   og_image: /assets/images/Latvia_c5f5bb_latvia_ufo_chronolog_b15e2c-Illustration-1-social.jpg
   preview_image: /assets/images/Latvia_c5f5bb_latvia_ufo_chronolog_b15e2c-Illustration-1.webp

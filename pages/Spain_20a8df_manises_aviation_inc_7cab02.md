@@ -245,7 +245,7 @@ next_link:
   permalink: /ummo-hoax/
   short_title: Ummo Hoax
   heading_title: How Ummo Became Spain's Great UFO Hoax
-date: '2026-06-02 16:38:23 '
+date: '2026-06-02 18:45:15 '
 header:
   og_image: /assets/images/Spain_20a8df_manises_aviation_inc_7cab02-Illustration-1-social.jpg
   preview_image: /assets/images/Spain_20a8df_manises_aviation_inc_7cab02-Illustration-1.webp

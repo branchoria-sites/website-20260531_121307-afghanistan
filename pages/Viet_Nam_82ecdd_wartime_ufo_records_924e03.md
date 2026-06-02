@@ -239,7 +239,7 @@ prev_link:
   permalink: /modern-sightings-0e33d3/
   short_title: Modern Sightings
   heading_title: Why Modern Viet Nam UFO Photos Stay Uncertain
-date: '2026-06-02 16:44:24 '
+date: '2026-06-02 18:50:34 '
 header:
   og_image: /assets/images/Viet_Nam_82ecdd_wartime_ufo_records_924e03-Illustration-1-social.jpg
   preview_image: /assets/images/Viet_Nam_82ecdd_wartime_ufo_records_924e03-Illustration-1.webp

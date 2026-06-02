@@ -239,7 +239,7 @@ next_link:
   permalink: /official-records/
   short_title: Official Records
   heading_title: Bangladesh Aviation and Security Responses to UFO Reports
-date: '2026-06-02 15:54:07 '
+date: '2026-06-02 18:13:32 '
 header:
   og_image: /assets/images/Bangladesh_fa6c37_dhaka_ufo_reports_97ceb8-Illustration-1-social.jpg
   preview_image: /assets/images/Bangladesh_fa6c37_dhaka_ufo_reports_97ceb8-Illustration-1.webp

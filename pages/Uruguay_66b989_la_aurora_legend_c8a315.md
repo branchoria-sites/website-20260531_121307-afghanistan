@@ -245,7 +245,7 @@ next_link:
   permalink: /military-cases/
   short_title: Military Cases
   heading_title: The Military UFO Cases That Still Stand Out
-date: '2026-06-02 16:43:24 '
+date: '2026-06-02 18:49:41 '
 header:
   og_image: /assets/images/Uruguay_66b989_la_aurora_legend_c8a315-Illustration-1-social.jpg
   preview_image: /assets/images/Uruguay_66b989_la_aurora_legend_c8a315-Illustration-1.webp

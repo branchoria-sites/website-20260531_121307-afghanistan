@@ -245,7 +245,7 @@ next_link:
   permalink: /roswell/
   short_title: Roswell
   heading_title: Why Roswell Became America's UFO Legend
-date: '2026-06-02 16:43:11 '
+date: '2026-06-02 18:49:31 '
 header:
   og_image: /assets/images/United_States_f5f19f_navy_uap_videos_4e8b60-Illustration-1-social.jpg
   preview_image: /assets/images/United_States_f5f19f_navy_uap_videos_4e8b60-Illustration-1.webp

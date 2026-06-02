@@ -1185,7 +1185,7 @@ next_link:
   title: Bahamas UFOs
   permalink: /the-bahamas/
   short_title: Bahamas UFOs
-date: '2026-06-02 16:39:44 '
+date: '2026-06-02 18:46:49 '
 header:
   og_image: /assets/images/Thailand_a2b7c1-overview-social.jpg
   preview_image: /assets/images/Thailand_a2b7c1-overview.webp

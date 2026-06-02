@@ -239,7 +239,7 @@ next_link:
   permalink: /regions-82fa7c/
   short_title: Regions
   heading_title: Why Tunisia's UFO Reports Vary by Region
-date: '2026-06-02 16:40:52 '
+date: '2026-06-02 18:47:45 '
 header:
   og_image: /assets/images/Tunisia_edf404_meteor_misidentifica_155cf1-Illustration-1-social.jpg
   preview_image: /assets/images/Tunisia_edf404_meteor_misidentifica_155cf1-Illustration-1.webp

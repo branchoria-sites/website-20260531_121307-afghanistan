@@ -245,7 +245,7 @@ next_link:
   permalink: /sparse-record-00b300/
   short_title: Sparse Record
   heading_title: Why Are Tuvalu UFO Cases So Rare?
-date: '2026-06-02 16:41:35 '
+date: '2026-06-02 18:48:17 '
 header:
   og_image: /assets/images/Tuvalu_9a2248_funafuti_outer_islan_765438-Illustration-1-social.jpg
   preview_image: /assets/images/Tuvalu_9a2248_funafuti_outer_islan_765438-Illustration-1.webp

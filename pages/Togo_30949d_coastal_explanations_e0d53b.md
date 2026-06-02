@@ -239,7 +239,7 @@ next_link:
   permalink: /lome-case/
   short_title: Lome Case
   heading_title: Did Lome's 1974 UFO Case Leave Evidence?
-date: '2026-06-02 16:40:15 '
+date: '2026-06-02 18:47:18 '
 header:
   og_image: /assets/images/Togo_30949d_coastal_explanations_e0d53b-Illustration-1-social.jpg
   preview_image: /assets/images/Togo_30949d_coastal_explanations_e0d53b-Illustration-1.webp

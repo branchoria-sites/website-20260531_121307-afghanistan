@@ -243,7 +243,7 @@ next_link:
   permalink: /official-records-ffaabe/
   short_title: Official Records
   heading_title: Bhutan UFOs in CIA Archives and Public Records
-date: '2026-06-02 15:57:50 '
+date: '2026-06-02 18:16:45 '
 header:
   og_image: /assets/images/Bhutan_bb2254_bhutan_ufo_explanati_371567-Illustration-1-social.jpg
   preview_image: /assets/images/Bhutan_bb2254_bhutan_ufo_explanati_371567-Illustration-1.webp

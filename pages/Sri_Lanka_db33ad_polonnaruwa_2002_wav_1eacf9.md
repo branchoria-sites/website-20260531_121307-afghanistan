@@ -239,7 +239,7 @@ prev_link:
   permalink: /local-witnesses/
   short_title: Local Witnesses
   heading_title: Can Village UFO Testimony Be Trusted?
-date: '2026-06-02 16:38:39 '
+date: '2026-06-02 18:45:42 '
 header:
   og_image: /assets/images/Sri_Lanka_db33ad_polonnaruwa_2002_wav_1eacf9-Illustration-1-social.jpg
   preview_image: /assets/images/Sri_Lanka_db33ad_polonnaruwa_2002_wav_1eacf9-Illustration-1.webp

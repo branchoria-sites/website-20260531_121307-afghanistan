@@ -239,7 +239,7 @@ prev_link:
   permalink: /investigative-groups/
   short_title: Investigative Groups
   heading_title: MUFON and UFO Investigation in Georgia
-date: '2026-06-02 16:11:43 '
+date: '2026-06-02 18:28:07 '
 header:
   og_image: /assets/images/Georgia_9113c6_military_blue_book_g_d4d7ed-Illustration-1-social.jpg
   preview_image: /assets/images/Georgia_9113c6_military_blue_book_g_d4d7ed-Illustration-1.webp

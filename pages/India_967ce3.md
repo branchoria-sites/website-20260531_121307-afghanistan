@@ -1185,7 +1185,7 @@ next_link:
   title: Lebanon UFOs
   permalink: /what-do-lebanons-ufo-reports-really-show/
   short_title: Lebanon UFOs
-date: '2026-06-02 16:16:13 '
+date: '2026-06-02 18:30:55 '
 header:
   og_image: /assets/images/India_967ce3-overview-social.jpg
   preview_image: /assets/images/India_967ce3-overview.webp

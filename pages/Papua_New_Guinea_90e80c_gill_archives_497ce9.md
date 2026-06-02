@@ -245,7 +245,7 @@ next_link:
   permalink: /boianai/
   short_title: Boianai
   heading_title: Why Boianai Became PNG's Famous UFO Case
-date: '2026-06-02 16:29:16 '
+date: '2026-06-02 18:39:58 '
 header:
   og_image: /assets/images/Papua_New_Guinea_90e80c_gill_archives_497ce9-Illustration-1-social.jpg
   preview_image: /assets/images/Papua_New_Guinea_90e80c_gill_archives_497ce9-Illustration-1.webp

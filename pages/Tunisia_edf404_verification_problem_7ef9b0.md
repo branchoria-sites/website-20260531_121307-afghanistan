@@ -239,7 +239,7 @@ prev_link:
   permalink: /sfax-1997/
   short_title: Sfax 1997
   heading_title: Why the Sfax UFO Case Still Matters
-date: '2026-06-02 16:40:57 '
+date: '2026-06-02 18:47:49 '
 header:
   og_image: /assets/images/Tunisia_edf404_verification_problem_7ef9b0-Illustration-1-social.jpg
   preview_image: /assets/images/Tunisia_edf404_verification_problem_7ef9b0-Illustration-1.webp
@@ -399,7 +399,7 @@ Much of Tunisia’s public UFO record falls into the second category. The absenc
 This distinction is crucial when evaluating claims from online databases. A report labelled “unknown” may merely indicate that investigators lacked sufficient information to reach any conclusion.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kxHebgcHxYQ" title="The Observers in Tunisia: A message from aliens? From God?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kxHebgcHxYQ" target="_blank" rel="noopener noreferrer">The Observers in Tunisia: A message from aliens? From God?</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English &middot; Views: 17.5K &middot; Uploaded: August 2015 &middot; Length: 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kxHebgcHxYQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kxHebgcHxYQ">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lvn_RoJN_Q0" title="Are These UFO Sightings Real Evidence? | The Proof Is Out There" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lvn_RoJN_Q0" target="_blank" rel="noopener noreferrer">Are These UFO Sightings Real Evidence? | The Proof Is Out There</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 192.0K &middot; Uploaded: April 2026 &middot; Length: 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lvn_RoJN_Q0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lvn_RoJN_Q0">Open on YouTube</a></p></div></div></div>
 
 ## How Stronger Reporting Would Change the Picture
 

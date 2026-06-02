@@ -1185,7 +1185,7 @@ next_link:
   title: Sierra Leone UAP
   permalink: /what-do-sierra-leones-ufo-reports-really/
   short_title: Sierra Leone UAP
-date: '2026-06-02 16:35:55 '
+date: '2026-06-02 18:43:39 '
 header:
   og_image: /assets/images/Seychelles_3d2d7b-overview-social.jpg
   preview_image: /assets/images/Seychelles_3d2d7b-overview.webp

@@ -239,7 +239,7 @@ next_link:
   permalink: /sky-checks-f62059/
   short_title: Sky Checks
   heading_title: Why Nauru's Sky Can Fool Witnesses
-date: '2026-06-02 16:24:50 '
+date: '2026-06-02 18:37:47 '
 header:
   og_image: /assets/images/Nauru_f648c7_nauru_nuforc_databas_f08130-Illustration-1-social.jpg
   preview_image: /assets/images/Nauru_f648c7_nauru_nuforc_databas_f08130-Illustration-1.webp

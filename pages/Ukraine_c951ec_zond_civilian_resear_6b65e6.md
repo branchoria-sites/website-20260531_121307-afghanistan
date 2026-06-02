@@ -239,7 +239,7 @@ prev_link:
   permalink: /wartime-skies/
   short_title: Wartime Skies
   heading_title: Why War Makes Ukraine's Skies Hard To Read
-date: '2026-06-02 16:42:03 '
+date: '2026-06-02 18:48:37 '
 header:
   og_image: /assets/images/Ukraine_c951ec_zond_civilian_resear_6b65e6-Illustration-1-social.jpg
   preview_image: /assets/images/Ukraine_c951ec_zond_civilian_resear_6b65e6-Illustration-1.webp

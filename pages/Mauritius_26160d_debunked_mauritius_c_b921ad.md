@@ -245,7 +245,7 @@ next_link:
   permalink: /post-2013-sightings/
   short_title: Post 2013 Sightings
   heading_title: Are Later Mauritius UFO Sightings Rocket Related?
-date: '2026-06-02 16:23:10 '
+date: '2026-06-02 18:36:28 '
 header:
   og_image: /assets/images/Mauritius_26160d_debunked_mauritius_c_b921ad-Illustration-1-social.jpg
   preview_image: /assets/images/Mauritius_26160d_debunked_mauritius_c_b921ad-Illustration-1.webp

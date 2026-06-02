@@ -239,7 +239,7 @@ next_link:
   permalink: /astronomy-context/
   short_title: Astronomy Context
   heading_title: Mauritius Astronomy and Its Impact on UFO Observations
-date: '2026-06-02 16:23:04 '
+date: '2026-06-02 18:36:26 '
 header:
   og_image: /assets/images/Mauritius_26160d_2013_falcon9_mauriti_b5e2fc-Illustration-1-social.jpg
   preview_image: /assets/images/Mauritius_26160d_2013_falcon9_mauriti_b5e2fc-Illustration-1.webp

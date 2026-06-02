@@ -239,7 +239,7 @@ next_link:
   permalink: /ghost-rockets/
   short_title: Ghost Rockets
   heading_title: Why Sweden's Ghost Rockets Still Matter
-date: '2026-06-02 16:39:10 '
+date: '2026-06-02 18:46:20 '
 header:
   og_image: /assets/images/Sweden_72ddd2_afu_archive_2696ee-Illustration-1-social.jpg
   preview_image: /assets/images/Sweden_72ddd2_afu_archive_2696ee-Illustration-1.webp

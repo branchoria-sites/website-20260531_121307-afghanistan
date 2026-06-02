@@ -1185,7 +1185,7 @@ next_link:
   title: Lithuania UFOs
   permalink: /what-lithuanias-ufo-reports-really-show/
   short_title: Lithuania UFOs
-date: '2026-06-02 16:39:18 '
+date: '2026-06-02 18:46:27 '
 header:
   og_image: /assets/images/Switzerland_77dcd8-overview-social.jpg
   preview_image: /assets/images/Switzerland_77dcd8-overview.webp

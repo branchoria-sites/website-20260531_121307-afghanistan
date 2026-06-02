@@ -1185,7 +1185,7 @@ next_link:
   title: El Salvador UFOs
   permalink: /what-really-flies-over-el-salvador/
   short_title: El Salvador UFOs
-date: '2026-06-02 16:18:18 '
+date: '2026-06-02 18:32:27 '
 header:
   og_image: /assets/images/Kenya_a84f56-overview-social.jpg
   preview_image: /assets/images/Kenya_a84f56-overview.webp

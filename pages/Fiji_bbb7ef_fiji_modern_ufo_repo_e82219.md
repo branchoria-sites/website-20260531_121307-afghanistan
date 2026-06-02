@@ -239,7 +239,7 @@ prev_link:
   permalink: /historical-sightings/
   short_title: Historical Sightings
   heading_title: Fiji's Early UFO Encounters and Eyewitness Reports
-date: '2026-06-02 16:10:47 '
+date: '2026-06-02 18:27:20 '
 header:
   og_image: /assets/images/Fiji_bbb7ef_fiji_modern_ufo_repo_e82219-Illustration-1-social.jpg
   preview_image: /assets/images/Fiji_bbb7ef_fiji_modern_ufo_repo_e82219-Illustration-1.webp

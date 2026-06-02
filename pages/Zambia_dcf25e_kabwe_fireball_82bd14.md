@@ -239,7 +239,7 @@ next_link:
   permalink: /lusaka-lights/
   short_title: Lusaka Lights
   heading_title: Why Do Lusaka UFO Reports Stay Unresolved?
-date: '2026-06-02 16:44:44 '
+date: '2026-06-02 18:50:52 '
 header:
   og_image: /assets/images/Zambia_dcf25e_kabwe_fireball_82bd14-Illustration-1-social.jpg
   preview_image: /assets/images/Zambia_dcf25e_kabwe_fireball_82bd14-Illustration-1.webp

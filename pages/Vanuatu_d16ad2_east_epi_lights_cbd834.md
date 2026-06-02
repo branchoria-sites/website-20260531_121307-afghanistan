@@ -239,7 +239,7 @@ next_link:
   permalink: /records-gap-f983d7/
   short_title: Records Gap
   heading_title: Why Vanuatu Has So Few UFO Files
-date: '2026-06-02 16:43:53 '
+date: '2026-06-02 18:50:05 '
 header:
   og_image: /assets/images/Vanuatu_d16ad2_east_epi_lights_cbd834-Illustration-1-social.jpg
   preview_image: /assets/images/Vanuatu_d16ad2_east_epi_lights_cbd834-Illustration-1.webp

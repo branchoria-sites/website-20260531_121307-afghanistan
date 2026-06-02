@@ -239,7 +239,7 @@ prev_link:
   permalink: /metal-fragment/
   short_title: Metal Fragment
   heading_title: Can the Congo Fragment File Prove Anything?
-date: '2026-06-02 16:05:41 '
+date: '2026-06-02 18:23:40 '
 header:
   og_image: /assets/images/Congo_77f256_congo_ufo_geography_30d079-Illustration-1-social.jpg
   preview_image: /assets/images/Congo_77f256_congo_ufo_geography_30d079-Illustration-1.webp
@@ -314,7 +314,7 @@ This is a recurring pattern in Congo-related UFO retellings:
 The less specific the geography becomes, the easier it is for unrelated stories to merge into one folklore stream.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eGwQ0aqrQ8c" title="The CIA and UFOs: Inside the Release of the CIA’s UFO Records" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eGwQ0aqrQ8c" target="_blank" rel="noopener noreferrer">The CIA and UFOs: Inside the Release of the CIA’s UFO Records</a></p><p class="youtube-embed-meta">Channel: Inside The Black Vault &middot; Views: 140.8K &middot; Uploaded: January 2021 &middot; Length: 1 hour 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eGwQ0aqrQ8c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eGwQ0aqrQ8c">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sC1qyauA5Jk" title="Insane Declassified CIA Secrets You Aren&#x27;t Supposed to Know" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sC1qyauA5Jk" target="_blank" rel="noopener noreferrer">Insane Declassified CIA Secrets You Aren&#x27;t Supposed to Know</a></p><p class="youtube-embed-meta">Channel: The Infographics Show &middot; Views: 1.2M &middot; Uploaded: July 2025 &middot; Length: 57 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sC1qyauA5Jk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sC1qyauA5Jk">Open on YouTube</a></p></div></div></div>
 
 ### Translation chains alter meaning
 
@@ -383,7 +383,7 @@ In UFO literature, this can create the illusion of repeated regional activity wh
 The confusion is amplified by poor citation habits. Many websites reference earlier UFO books rather than primary documents, meaning geographical mistakes replicate across generations of retellings. By the time a reader encounters the story, the original place reference may have vanished entirely.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sC1qyauA5Jk" title="Insane Declassified CIA Secrets You Aren&#x27;t Supposed to Know" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sC1qyauA5Jk" target="_blank" rel="noopener noreferrer">Insane Declassified CIA Secrets You Aren&#x27;t Supposed to Know</a></p><p class="youtube-embed-meta">Channel: The Infographics Show &middot; Views: 1.2M &middot; Uploaded: July 2025 &middot; Length: 57 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sC1qyauA5Jk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sC1qyauA5Jk">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eGwQ0aqrQ8c" title="The CIA and UFOs: Inside the Release of the CIA’s UFO Records" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eGwQ0aqrQ8c" target="_blank" rel="noopener noreferrer">The CIA and UFOs: Inside the Release of the CIA’s UFO Records</a></p><p class="youtube-embed-meta">Channel: Inside The Black Vault &middot; Views: 140.8K &middot; Uploaded: January 2021 &middot; Length: 1 hour 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eGwQ0aqrQ8c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eGwQ0aqrQ8c">Open on YouTube</a></p></div></div></div>
 
 ## A Practical Source-Quality Checklist
 

@@ -245,7 +245,7 @@ next_link:
   permalink: /paysandu-lights/
   short_title: Paysandu Lights
   heading_title: Why Uruguay's Western UFO Clusters Matter
-date: '2026-06-02 16:43:26 '
+date: '2026-06-02 18:49:43 '
 header:
   og_image: /assets/images/Uruguay_66b989_military_ufo_cases_85e97f-Illustration-1-social.jpg
   preview_image: /assets/images/Uruguay_66b989_military_ufo_cases_85e97f-Illustration-1.webp

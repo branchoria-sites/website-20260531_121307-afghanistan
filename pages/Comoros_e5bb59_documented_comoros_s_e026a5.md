@@ -245,7 +245,7 @@ next_link:
   permalink: /incident-chronology/
   short_title: Incident Chronology
   heading_title: Which UFO Reports in Comoros Are Contested or Unverified?
-date: '2026-06-02 16:14:24 '
+date: '2026-06-02 18:29:57 '
 header:
   og_image: /assets/images/Comoros_e5bb59_documented_comoros_s_e026a5-Illustration-1-social.jpg
   preview_image: /assets/images/Comoros_e5bb59_documented_comoros_s_e026a5-Illustration-1.webp
@@ -584,7 +584,7 @@ In practical terms, Comoros belongs to a category of countries where the main st
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confirmed-reports-what-ufo-sightings-in-comoros-are-actually-documented-comoros-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="confirmed-reports-what-ufo-sightings-in-comoros-are-actually-documented-comoros-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Face Hugger Wall Decor Wall Art"><img src="https://i.ebayimg.com/images/g/MZ8AAeSwr5Fp3fW3/s-l225.jpg" alt="Listing image for Aliens Face Hugger Wall Decor Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confirmed-reports-what-ufo-sightings-in-comoros-are-actually-documented-comoros-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="confirmed-reports-what-ufo-sightings-in-comoros-are-actually-documented-comoros-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Face Hugger Wall Decor Wall Art"><img src="{{ '/assets/images/marketplace-covers/0d071484aa4a6169a2f7.jpg' | relative_url }}" alt="Listing image for Aliens Face Hugger Wall Decor Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
@@ -600,7 +600,7 @@ In practical terms, Comoros belongs to a category of countries where the main st
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confirmed-reports-what-ufo-sightings-in-comoros-are-actually-documented-comoros-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="confirmed-reports-what-ufo-sightings-in-comoros-are-actually-documented-comoros-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift"><img src="https://i.ebayimg.com/images/g/tv8AAeSw0Idp-gto/s-l225.jpg" alt="Listing image for Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confirmed-reports-what-ufo-sightings-in-comoros-are-actually-documented-comoros-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="confirmed-reports-what-ufo-sightings-in-comoros-are-actually-documented-comoros-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift"><img src="{{ '/assets/images/marketplace-covers/90e97a366804ca2a47a7.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
@@ -616,7 +616,7 @@ In practical terms, Comoros belongs to a category of countries where the main st
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confirmed-reports-what-ufo-sightings-in-comoros-are-actually-documented-comoros-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="confirmed-reports-what-ufo-sightings-in-comoros-are-actually-documented-comoros-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Evolution Wall/ Door Art."><img src="https://i.ebayimg.com/images/g/LpEAAeSwtPNpYTfm/s-l225.jpg" alt="Listing image for Alien Xenomorph Evolution Wall/ Door Art." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=confirmed-reports-what-ufo-sightings-in-comoros-are-actually-documented-comoros-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="confirmed-reports-what-ufo-sightings-in-comoros-are-actually-documented-comoros-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Evolution Wall/ Door Art."><img src="{{ '/assets/images/marketplace-covers/0bfbdf105bd4bb82b89b.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Evolution Wall/ Door Art." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">

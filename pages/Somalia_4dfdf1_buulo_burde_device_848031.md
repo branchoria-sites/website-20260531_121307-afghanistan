@@ -245,7 +245,7 @@ next_link:
   permalink: /nuforc-reports/
   short_title: NUFORC Reports
   heading_title: What NUFORC Adds To Somalia's UFO Record
-date: '2026-06-02 16:37:29 '
+date: '2026-06-02 18:44:40 '
 header:
   og_image: /assets/images/Somalia_4dfdf1_buulo_burde_device_848031-Illustration-1-social.jpg
   preview_image: /assets/images/Somalia_4dfdf1_buulo_burde_device_848031-Illustration-1.webp
@@ -521,22 +521,6 @@ For researchers examining Somalia’s broader UFO history, Buulo Burde therefore
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buulo-burde-what-fell-near-buulo-burde-somalia-ufo-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books" data-ebay-reference="buulo-burde-what-fell-near-buulo-burde-somalia-ufo-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/f3581fcb556dc9b5c1ab.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buulo-burde-what-fell-near-buulo-burde-somalia-ufo-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books" data-ebay-reference="buulo-burde-what-fell-near-buulo-burde-somalia-ufo-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buulo-burde-what-fell-near-buulo-burde-somalia-ufo-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books" data-ebay-reference="buulo-burde-what-fell-near-buulo-burde-somalia-ufo-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buulo-burde-what-fell-near-buulo-burde-somalia-ufo-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books" data-ebay-reference="buulo-burde-what-fell-near-buulo-burde-somalia-ufo-art-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buulo-burde-what-fell-near-buulo-burde-somalia-ufo-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books" data-ebay-reference="buulo-burde-what-fell-near-buulo-burde-somalia-ufo-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="{{ '/assets/images/marketplace-covers/122dd5a82be3a8d93c90.jpg' | relative_url }}" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
@@ -554,6 +538,22 @@ For researchers examining Somalia’s broader UFO history, Buulo Burde therefore
 
     <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buulo-burde-what-fell-near-buulo-burde-somalia-ufo-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books" data-ebay-reference="buulo-burde-what-fell-near-buulo-burde-somalia-ufo-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buulo-burde-what-fell-near-buulo-burde-somalia-ufo-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books" data-ebay-reference="buulo-burde-what-fell-near-buulo-burde-somalia-ufo-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buulo-burde-what-fell-near-buulo-burde-somalia-ufo-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books" data-ebay-reference="buulo-burde-what-fell-near-buulo-burde-somalia-ufo-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo art print</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buulo-burde-what-fell-near-buulo-burde-somalia-ufo-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books" data-ebay-reference="buulo-burde-what-fell-near-buulo-burde-somalia-ufo-art-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buulo-burde-what-fell-near-buulo-burde-somalia-ufo-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books" data-ebay-reference="buulo-burde-what-fell-near-buulo-burde-somalia-ufo-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/f3581fcb556dc9b5c1ab.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">

@@ -245,7 +245,7 @@ next_link:
   permalink: /eastern-cape/
   short_title: Eastern Cape
   heading_title: Why the Eastern Cape Keeps Reappearing in UFO Stories
-date: '2026-06-02 16:37:39 '
+date: '2026-06-02 18:44:50 '
 header:
   og_image: /assets/images/South_Africa_3b27c8_cape_town_explanatio_5eb128-Illustration-1-social.jpg
   preview_image: /assets/images/South_Africa_3b27c8_cape_town_explanatio_5eb128-Illustration-1.webp

@@ -245,7 +245,7 @@ next_link:
   permalink: /sky-checks-3278e7/
   short_title: Sky Checks
   heading_title: How to Check Vanuatu Moving Lights
-date: '2026-06-02 16:43:47 '
+date: '2026-06-02 18:50:01 '
 header:
   og_image: /assets/images/Vanuatu_d16ad2_records_gap_aadb30-Illustration-1-social.jpg
   preview_image: /assets/images/Vanuatu_d16ad2_records_gap_aadb30-Illustration-1.webp

@@ -239,7 +239,7 @@ prev_link:
   permalink: /navy-videos/
   short_title: Navy Videos
   heading_title: What the Navy UAP Videos Changed
-date: '2026-06-02 16:43:21 '
+date: '2026-06-02 18:49:38 '
 header:
   og_image: /assets/images/United_States_f5f19f_roswell_balloon_disp_aa755a-Illustration-1-social.jpg
   preview_image: /assets/images/United_States_f5f19f_roswell_balloon_disp_aa755a-Illustration-1.webp

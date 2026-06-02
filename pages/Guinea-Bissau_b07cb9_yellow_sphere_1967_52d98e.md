@@ -239,7 +239,7 @@ next_link:
   permalink: /airport-skies/
   short_title: Airport Skies
   heading_title: When Do Bissau Airport Lights Look Unexplained?
-date: '2026-06-02 16:13:13 '
+date: '2026-06-02 18:29:22 '
 header:
   og_image: /assets/images/Guinea-Bissau_b07cb9_yellow_sphere_1967_52d98e-Illustration-1-social.jpg
   preview_image: /assets/images/Guinea-Bissau_b07cb9_yellow_sphere_1967_52d98e-Illustration-1.webp

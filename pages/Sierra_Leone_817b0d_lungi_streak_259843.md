@@ -245,7 +245,7 @@ next_link:
   permalink: /records-gap-d227d4/
   short_title: Records Gap
   heading_title: Why Are Sierra Leone UFO Files So Thin?
-date: '2026-06-02 16:36:47 '
+date: '2026-06-02 18:43:57 '
 header:
   og_image: /assets/images/Sierra_Leone_817b0d_lungi_streak_259843-Illustration-1-social.jpg
   preview_image: /assets/images/Sierra_Leone_817b0d_lungi_streak_259843-Illustration-1.webp

@@ -1185,7 +1185,7 @@ next_link:
   title: Uganda UFOs
   permalink: /what-really-happened-in-ugandas-ufo/
   short_title: Uganda UFOs
-date: '2026-06-02 16:40:48 '
+date: '2026-06-02 18:47:41 '
 header:
   og_image: /assets/images/Tunisia_edf404-overview-social.jpg
   preview_image: /assets/images/Tunisia_edf404-overview.webp

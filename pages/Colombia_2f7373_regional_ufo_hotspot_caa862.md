@@ -245,7 +245,7 @@ next_link:
   permalink: /records/
   short_title: Records
   heading_title: How Reliable Are Colombia's UFO Records?
-date: '2026-06-02 16:05:01 '
+date: '2026-06-02 18:23:19 '
 header:
   og_image: /assets/images/Colombia_2f7373_regional_ufo_hotspot_caa862-Illustration-1-social.jpg
   preview_image: /assets/images/Colombia_2f7373_regional_ufo_hotspot_caa862-Illustration-1.webp

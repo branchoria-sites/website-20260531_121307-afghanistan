@@ -245,7 +245,7 @@ next_link:
   permalink: /records-599eb0/
   short_title: Records
   heading_title: What Do the Records Actually Support?
-date: '2026-06-02 16:37:24 '
+date: '2026-06-02 18:44:35 '
 header:
   og_image: /assets/images/Solomon_Islands_6f943d_east_malaita_crash_a19305-Illustration-1-social.jpg
   preview_image: /assets/images/Solomon_Islands_6f943d_east_malaita_crash_a19305-Illustration-1.webp
@@ -475,7 +475,7 @@ Investigators examined several key questions:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=malaita-crash-did-a-plane-really-crash-off-east-malaita-solomon-islands-ufo-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books" data-ebay-reference="malaita-crash-did-a-plane-really-crash-off-east-malaita-solomon-islands-ufo-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/f3581fcb556dc9b5c1ab.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=malaita-crash-did-a-plane-really-crash-off-east-malaita-solomon-islands-ufo-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books" data-ebay-reference="malaita-crash-did-a-plane-really-crash-off-east-malaita-solomon-islands-ufo-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
@@ -491,7 +491,7 @@ Investigators examined several key questions:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=malaita-crash-did-a-plane-really-crash-off-east-malaita-solomon-islands-ufo-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books" data-ebay-reference="malaita-crash-did-a-plane-really-crash-off-east-malaita-solomon-islands-ufo-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=malaita-crash-did-a-plane-really-crash-off-east-malaita-solomon-islands-ufo-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books" data-ebay-reference="malaita-crash-did-a-plane-really-crash-off-east-malaita-solomon-islands-ufo-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/f3581fcb556dc9b5c1ab.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">

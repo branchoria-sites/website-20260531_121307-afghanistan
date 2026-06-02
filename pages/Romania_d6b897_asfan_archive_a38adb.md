@@ -245,7 +245,7 @@ next_link:
   permalink: /aviation-cases/
   short_title: Aviation Cases
   heading_title: When Romanian Pilots Reported the Unidentified
-date: '2026-06-02 16:31:53 '
+date: '2026-06-02 18:41:27 '
 header:
   og_image: /assets/images/Romania_d6b897_asfan_archive_a38adb-Illustration-1-social.jpg
   preview_image: /assets/images/Romania_d6b897_asfan_archive_a38adb-Illustration-1.webp

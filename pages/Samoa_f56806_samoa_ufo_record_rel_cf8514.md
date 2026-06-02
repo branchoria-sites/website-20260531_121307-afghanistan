@@ -239,7 +239,7 @@ prev_link:
   permalink: /starlink-era/
   short_title: Starlink Era
   heading_title: How Starlink Changes Samoa UFO Reports
-date: '2026-06-02 16:34:05 '
+date: '2026-06-02 18:42:36 '
 header:
   og_image: /assets/images/Samoa_f56806_samoa_ufo_record_rel_cf8514-Illustration-1-social.jpg
   preview_image: /assets/images/Samoa_f56806_samoa_ufo_record_rel_cf8514-Illustration-1.webp

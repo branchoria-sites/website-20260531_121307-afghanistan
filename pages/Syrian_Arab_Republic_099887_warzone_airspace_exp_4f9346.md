@@ -239,7 +239,7 @@ prev_link:
   permalink: /official-records-e35499/
   short_title: Official Records
   heading_title: What Do Syria's U.S. UAP Files Say?
-date: '2026-06-02 16:39:42 '
+date: '2026-06-02 18:46:47 '
 header:
   og_image: /assets/images/Syrian_Arab_Republic_099887_warzone_airspace_exp_4f9346-Illustration-1-social.jpg
   preview_image: /assets/images/Syrian_Arab_Republic_099887_warzone_airspace_exp_4f9346-Illustration-1.webp

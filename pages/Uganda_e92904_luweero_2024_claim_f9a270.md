@@ -245,7 +245,7 @@ next_link:
   permalink: /record-gaps-423018/
   short_title: Record Gaps
   heading_title: Why Is Uganda's UFO Record So Thin?
-date: '2026-06-02 16:41:45 '
+date: '2026-06-02 18:48:22 '
 header:
   og_image: /assets/images/Uganda_e92904_luweero_2024_claim_f9a270-Illustration-1-social.jpg
   preview_image: /assets/images/Uganda_e92904_luweero_2024_claim_f9a270-Illustration-1.webp
@@ -396,7 +396,7 @@ Several points can be held simultaneously:
 For readers interested in Uganda's UFO history, the case is therefore more important as an example of evidence quality than as evidence for an alien encounter. It demonstrates the gap between a compelling story and a verifiable event.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Mww3arniyt0" title="UFO Mysteries That Defy Explanation | Unidentified: Inside America&#x27;s UFO Investigation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Mww3arniyt0" target="_blank" rel="noopener noreferrer">UFO Mysteries That Defy Explanation | Unidentified: Inside America&#x27;s UFO Investigation</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 300.3K &middot; Uploaded: May 2026 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Mww3arniyt0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Mww3arniyt0">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/u4v6rSzXPjU" title="Ariel School&#x27;s UFO Incident That Refuses to Fade! | Expedition Unknown S1 E3 | Discovery Channel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=u4v6rSzXPjU" target="_blank" rel="noopener noreferrer">Ariel School&#x27;s UFO Incident That Refuses to Fade! | Expedition Unknown S1 E3 | Discovery Channel</a></p><p class="youtube-embed-meta">Channel: DiscoveryChannelInd &middot; Views: 23.8K &middot; Uploaded: January 2026 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=u4v6rSzXPjU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=u4v6rSzXPjU">Open on YouTube</a></p></div></div></div>
 
 ## What would change the assessment
 

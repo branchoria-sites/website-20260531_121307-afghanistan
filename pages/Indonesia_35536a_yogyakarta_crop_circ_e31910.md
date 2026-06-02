@@ -245,7 +245,7 @@ next_link:
   permalink: /salatun/
   short_title: Salatun
   heading_title: Was Indonesia Ever Officially Studying UFOs?
-date: '2026-06-02 16:16:30 '
+date: '2026-06-02 18:31:16 '
 header:
   og_image: /assets/images/Indonesia_35536a_yogyakarta_crop_circ_e31910-Illustration-1-social.jpg
   preview_image: /assets/images/Indonesia_35536a_yogyakarta_crop_circ_e31910-Illustration-1.webp
@@ -435,7 +435,7 @@ The episode also highlights a recurring theme in Indonesia’s UFO landscape: **
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weyland-yutani Corporation Alien Film Tshirt | Building Better Worlds"><img src="https://i.ebayimg.com/images/g/1vQAAeSwVkBplZj1/s-l225.jpg" alt="Listing image for Weyland-yutani Corporation Alien Film Tshirt | Building Better Worlds" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weyland-yutani Corporation Alien Film Tshirt | Building Better Worlds"><img src="{{ '/assets/images/marketplace-covers/f84f2dd05fdd42ea4f2d.jpg' | relative_url }}" alt="Listing image for Weyland-yutani Corporation Alien Film Tshirt | Building Better Worlds" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
@@ -451,7 +451,7 @@ The episode also highlights a recurring theme in Indonesia’s UFO landscape: **
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top"><img src="https://i.ebayimg.com/images/g/BNsAAeSwgE5o-TL0/s-l225.jpg" alt="Listing image for ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top"><img src="{{ '/assets/images/marketplace-covers/25aaee5271ccab1e600d.jpg' | relative_url }}" alt="Listing image for ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
@@ -467,7 +467,7 @@ The episode also highlights a recurring theme in Indonesia’s UFO landscape: **
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee"><img src="https://i.ebayimg.com/images/g/TAgAAOSwWFpn92eg/s-l225.jpg" alt="Listing image for Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee"><img src="{{ '/assets/images/marketplace-covers/0c5f9a5dee70cdf61235.jpg' | relative_url }}" alt="Listing image for Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
@@ -483,7 +483,7 @@ The episode also highlights a recurring theme in Indonesia’s UFO landscape: **
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nostromo T-Shirt 180286 Mens Alien Film Movie USCSS Weyland-Yutani Sci-fi"><img src="https://i.ebayimg.com/images/g/GOkAAOSw2sVj3RRi/s-l225.jpg" alt="Listing image for Nostromo T-Shirt 180286 Mens Alien Film Movie USCSS Weyland-Yutani Sci-fi" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="crop-circle-how-a-crop-circle-became-a-ufo-story-indonesia-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nostromo T-Shirt 180286 Mens Alien Film Movie USCSS Weyland-Yutani Sci-fi"><img src="{{ '/assets/images/marketplace-covers/1282abce5a8a5425e0e8.jpg' | relative_url }}" alt="Listing image for Nostromo T-Shirt 180286 Mens Alien Film Movie USCSS Weyland-Yutani Sci-fi" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">

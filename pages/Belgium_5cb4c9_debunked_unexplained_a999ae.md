@@ -243,7 +243,7 @@ next_link:
   permalink: /military-radar-records/
   short_title: Military Radar Records
   heading_title: Belgian Air Force Radar and F 16 Reports
-date: '2026-06-02 15:56:36 '
+date: '2026-06-02 18:15:41 '
 header:
   og_image: /assets/images/Belgium_5cb4c9_debunked_unexplained_a999ae-Illustration-1-social.jpg
   preview_image: /assets/images/Belgium_5cb4c9_debunked_unexplained_a999ae-Illustration-1.webp

@@ -245,7 +245,7 @@ next_link:
   permalink: /nakhon-phanom/
   short_title: Nakhon Phanom
   heading_title: The Thai UFO File That Was Really Security
-date: '2026-06-02 16:39:49 '
+date: '2026-06-02 18:46:53 '
 header:
   og_image: /assets/images/Thailand_a2b7c1_naga_fireballs_d2e56f-Illustration-1-social.jpg
   preview_image: /assets/images/Thailand_a2b7c1_naga_fireballs_d2e56f-Illustration-1.webp

@@ -239,7 +239,7 @@ next_link:
   permalink: /claims-evidence/
   short_title: Claims & Evidence
   heading_title: Evaluating Confirmed and Contested UFO Claims in Ecuador
-date: '2026-06-02 16:09:03 '
+date: '2026-06-02 18:26:01 '
 header:
   og_image: /assets/images/Ecuador_09f199_ceifo_investigation_71e5ea-Illustration-1-social.jpg
   preview_image: /assets/images/Ecuador_09f199_ceifo_investigation_71e5ea-Illustration-1.webp

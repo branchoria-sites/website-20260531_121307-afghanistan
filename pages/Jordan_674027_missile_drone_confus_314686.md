@@ -239,7 +239,7 @@ next_link:
   permalink: /aqaba-object/
   short_title: Aqaba Object
   heading_title: What Fell Near Aqaba?
-date: '2026-06-02 16:22:56 '
+date: '2026-06-02 18:36:18 '
 header:
   og_image: /assets/images/Jordan_674027_missile_drone_confus_314686-Illustration-1-social.jpg
   preview_image: /assets/images/Jordan_674027_missile_drone_confus_314686-Illustration-1.webp

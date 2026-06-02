@@ -239,7 +239,7 @@ next_link:
   permalink: /maseru-sightings/
   short_title: Maseru Sightings
   heading_title: Why Do Lights Over Maseru Become UFO Reports?
-date: '2026-06-02 16:19:48 '
+date: '2026-06-02 18:33:37 '
 header:
   og_image: /assets/images/Lesotho_93b12b_leribe_1995_crash_cl_ca7ebb-Illustration-1-social.jpg
   preview_image: /assets/images/Lesotho_93b12b_leribe_1995_crash_cl_ca7ebb-Illustration-1.webp

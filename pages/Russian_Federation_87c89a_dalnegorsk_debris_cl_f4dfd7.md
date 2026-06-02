@@ -239,7 +239,7 @@ next_link:
   permalink: /petrozavodsk/
   short_title: Petrozavodsk
   heading_title: Was Petrozavodsk a UFO or a Rocket Plume?
-date: '2026-06-02 16:32:20 '
+date: '2026-06-02 18:41:45 '
 header:
   og_image: /assets/images/Russian_Federation_87c89a_dalnegorsk_debris_cl_f4dfd7-Illustration-1-social.jpg
   preview_image: /assets/images/Russian_Federation_87c89a_dalnegorsk_debris_cl_f4dfd7-Illustration-1.webp

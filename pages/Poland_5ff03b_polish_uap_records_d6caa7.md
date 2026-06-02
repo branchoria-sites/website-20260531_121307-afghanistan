@@ -245,7 +245,7 @@ next_link:
   permalink: /timeline-d2aebc/
   short_title: Timeline
   heading_title: How Poland's UFO Stories Spread Across the Map
-date: '2026-06-02 16:30:20 '
+date: '2026-06-02 18:40:40 '
 header:
   og_image: /assets/images/Poland_5ff03b_polish_uap_records_d6caa7-Illustration-1-social.jpg
   preview_image: /assets/images/Poland_5ff03b_polish_uap_records_d6caa7-Illustration-1.webp

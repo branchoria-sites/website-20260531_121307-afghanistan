@@ -1187,7 +1187,7 @@ next_link:
   title: Estonia UFOs
   permalink: /what-really-shapes-estonias-ufo-record/
   short_title: Estonia UFOs
-date: '2026-06-02 16:44:51 '
+date: '2026-06-02 18:50:59 '
 header:
   og_image: /assets/images/Zimbabwe_5922f5-overview-social.jpg
   preview_image: /assets/images/Zimbabwe_5922f5-overview.webp

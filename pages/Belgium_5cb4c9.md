@@ -1185,7 +1185,7 @@ next_link:
   title: Australia UFOs
   permalink: /what-really-happened-in-australias-ufo/
   short_title: Australia UFOs
-date: '2026-06-02 15:56:07 '
+date: '2026-06-02 18:15:10 '
 header:
   og_image: /assets/images/Belgium_5cb4c9-overview-social.jpg
   preview_image: /assets/images/Belgium_5cb4c9-overview.webp
@@ -1253,7 +1253,7 @@ The Belgian UFO wave has left a notable imprint on cultural memory within Belgiu
 * **Mass sighting totals** vary widely depending on criteria for inclusion and timing of reports, with some retrospective compilations appearing unreliable due to delayed reporting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nowdeclassified.com/incidents/belgian-ufo-wave-1990" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nowdeclassified.com">[Now Declassified]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nowdeclassified.com</span><span class="citation-popover-snippet">Now DeclassifiedBelgian UFO Wave — NATO F-16 Pursuit — State Dept Declassified UAP File | Now DeclassifiedMarch 30, 1990...</span><span class="citation-popover-meta">Published: March 30, 1990</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GegAPC_yEUM" title="The Unsolved Belgian UFO Wave Mystery Sightings from 1989 till 1991" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GegAPC_yEUM" target="_blank" rel="noopener noreferrer">The Unsolved Belgian UFO Wave Mystery Sightings from 1989 till 1991</a></p><p class="youtube-embed-meta">Channel: FindingUFO</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GegAPC_yEUM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GegAPC_yEUM">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dM2DFl1FJps" title="Unsolved Mysteries with Robert Stack - Season 7, Episode 21 - Full Episode" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dM2DFl1FJps" target="_blank" rel="noopener noreferrer">Unsolved Mysteries with Robert Stack - Season 7, Episode 21 - Full Episode</a></p><p class="youtube-embed-meta">Channel: FilmRise True Crime</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dM2DFl1FJps" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dM2DFl1FJps">Open on YouTube</a></p></div></div></div>
 
 ### Unexplained vs Explainable
 

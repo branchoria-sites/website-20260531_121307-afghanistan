@@ -245,7 +245,7 @@ next_link:
   permalink: /lookalikes/
   short_title: Lookalikes
   heading_title: When Volcano Skies Look Like Flying Saucers
-date: '2026-06-02 16:09:29 '
+date: '2026-06-02 18:26:20 '
 header:
   og_image: /assets/images/El_Salvador_9b83b7_salvadoran_ufo_evide_de86a1-Illustration-1-social.jpg
   preview_image: /assets/images/El_Salvador_9b83b7_salvadoran_ufo_evide_de86a1-Illustration-1.webp

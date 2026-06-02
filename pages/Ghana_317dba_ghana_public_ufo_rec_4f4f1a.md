@@ -245,7 +245,7 @@ next_link:
   permalink: /space-debris-b4fc88/
   short_title: Space Debris
   heading_title: Could Space Debris Explain Ghana’s 1987 UFO?
-date: '2026-06-02 16:12:15 '
+date: '2026-06-02 18:28:30 '
 header:
   og_image: /assets/images/Ghana_317dba_ghana_public_ufo_rec_4f4f1a-Illustration-1-social.jpg
   preview_image: /assets/images/Ghana_317dba_ghana_public_ufo_rec_4f4f1a-Illustration-1.webp

@@ -239,7 +239,7 @@ next_link:
   permalink: /hmas-hobart/
   short_title: HMAS Hobart
   heading_title: Did UFO Confusion Shape the Hobart Attack?
-date: '2026-06-02 16:44:22 '
+date: '2026-06-02 18:50:32 '
 header:
   og_image: /assets/images/Viet_Nam_82ecdd_chu_lai_egg_object_b0d32a-Illustration-1-social.jpg
   preview_image: /assets/images/Viet_Nam_82ecdd_chu_lai_egg_object_b0d32a-Illustration-1.webp

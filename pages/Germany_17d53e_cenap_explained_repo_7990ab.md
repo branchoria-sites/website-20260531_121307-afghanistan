@@ -239,7 +239,7 @@ next_link:
   permalink: /greifswald/
   short_title: Greifswald
   heading_title: What Happened Over Greifswald?
-date: '2026-06-02 16:12:03 '
+date: '2026-06-02 18:28:19 '
 header:
   og_image: /assets/images/Germany_17d53e_cenap_explained_repo_7990ab-Illustration-1-social.jpg
   preview_image: /assets/images/Germany_17d53e_cenap_explained_repo_7990ab-Illustration-1.webp

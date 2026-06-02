@@ -1185,7 +1185,7 @@ next_link:
   title: Greece UFOs
   permalink: /what-greeces-ufo-records-reveal-about/
   short_title: Greece UFOs
-date: '2026-06-02 16:11:53 '
+date: '2026-06-02 18:28:13 '
 header:
   og_image: /assets/images/Germany_17d53e-overview-social.jpg
   preview_image: /assets/images/Germany_17d53e-overview.webp

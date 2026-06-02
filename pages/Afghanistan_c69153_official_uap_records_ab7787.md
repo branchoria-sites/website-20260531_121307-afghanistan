@@ -245,7 +245,7 @@ next_link:
   permalink: /orb-videos/
   short_title: Orb Videos
   heading_title: Can the Kandahar Orb Videos Be Verified?
-date: '2026-06-02 15:45:39 '
+date: '2026-06-02 18:05:19 '
 header:
   og_image: /assets/images/Afghanistan_c69153_official_uap_records_ab7787-Illustration-1-social.jpg
   preview_image: /assets/images/Afghanistan_c69153_official_uap_records_ab7787-Illustration-1.webp

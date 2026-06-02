@@ -239,7 +239,7 @@ next_link:
   permalink: /1995-triangular-sighting/
   short_title: 1995 Triangular Sighting
   heading_title: Investigating the 1995 Triangular UFO Sighting in Northern Laos
-date: '2026-06-02 16:19:16 '
+date: '2026-06-02 18:33:10 '
 header:
   og_image: /assets/images/Lao_People_s_Democra_44f2bd_1968_defense_report_7104b4-Illustration-1-social.jpg
   preview_image: /assets/images/Lao_People_s_Democra_44f2bd_1968_defense_report_7104b4-Illustration-1.webp

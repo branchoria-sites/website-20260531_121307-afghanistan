@@ -245,7 +245,7 @@ next_link:
   permalink: /wonsan-sunchon-1952/
   short_title: Wonsan Sunchon 1952
   heading_title: How Did US Bombers Witness UFOs Over Northern Korea in 1952?
-date: '2026-06-02 16:07:59 '
+date: '2026-06-02 18:24:58 '
 header:
   og_image: /assets/images/Democratic_People_s_808714_iron_triangle_1951_e8fd6e-Illustration-1-social.jpg
   preview_image: /assets/images/Democratic_People_s_808714_iron_triangle_1951_e8fd6e-Illustration-1.webp

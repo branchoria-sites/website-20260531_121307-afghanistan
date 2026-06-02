@@ -245,7 +245,7 @@ next_link:
   permalink: /verification/
   short_title: Verification
   heading_title: How Would You Check a Burundi UFO Claim?
-date: '2026-06-02 16:03:02 '
+date: '2026-06-02 18:21:44 '
 header:
   og_image: /assets/images/Burundi_461758_official_records_gap_43c6bb-Illustration-1-social.jpg
   preview_image: /assets/images/Burundi_461758_official_records_gap_43c6bb-Illustration-1.webp
@@ -375,6 +375,9 @@ Once those basic anchors are missing, later investigators cannot meaningfully re
 
 This is especially relevant around Burundi’s main urban and aviation corridors. Bujumbura contains the country’s principal airport infrastructure, making aircraft lights, approach patterns, helicopters, drones, atmospheric reflections and satellite observations plausible explanations for many reports. Without timestamps or flight data, however, investigators cannot evaluate those possibilities rigorously.
 
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MidvOnVbGxQ" title="#Burundi : Umugwi #CVR wasubije amazu yanyazwe mu ndyane za 1889 - 2008 mu gisagara ca #Bujumbura" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MidvOnVbGxQ" target="_blank" rel="noopener noreferrer">#Burundi : Umugwi #CVR wasubije amazu yanyazwe mu ndyane za 1889 - 2008 mu gisagara ca #Bujumbura</a></p><p class="youtube-embed-meta">Channel: Mashariki TV &middot; Views: 1.2K &middot; Uploaded: May 2026 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MidvOnVbGxQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MidvOnVbGxQ">Open on YouTube</a></p></div></div></div>
+
 ## The regional comparison problem
 
 Burundi’s weak documentation becomes more noticeable because neighbouring African countries possess better-known UFO narratives.
@@ -425,7 +428,7 @@ Burundi’s sparse public record makes this cycle especially difficult to interr
 The result is an environment where weak claims can persist indefinitely without becoming stronger.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MidvOnVbGxQ" title="#Burundi : Umugwi #CVR wasubije amazu yanyazwe mu ndyane za 1889 - 2008 mu gisagara ca #Bujumbura" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MidvOnVbGxQ" target="_blank" rel="noopener noreferrer">#Burundi : Umugwi #CVR wasubije amazu yanyazwe mu ndyane za 1889 - 2008 mu gisagara ca #Bujumbura</a></p><p class="youtube-embed-meta">Channel: Mashariki TV &middot; Views: 1.2K &middot; Uploaded: May 2026 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MidvOnVbGxQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MidvOnVbGxQ">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4CVLevVR8x8" title="🛸 #Unidentified Aerial #Phenomena 2026 #uaps #ufos #extraterrestrial #aliens #disclosure #Mufasa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4CVLevVR8x8" target="_blank" rel="noopener noreferrer">🛸 #Unidentified Aerial #Phenomena 2026 #uaps #ufos #extraterrestrial #aliens #disclosure #Mufasa</a></p><p class="youtube-embed-meta">Channel: MUFASA®</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4CVLevVR8x8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4CVLevVR8x8">Open on YouTube</a></p></div></div></div>
 
 ## What would count as meaningful evidence in Burundi
 

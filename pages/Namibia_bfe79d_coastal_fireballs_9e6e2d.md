@@ -239,7 +239,7 @@ next_link:
   permalink: /dark-skies/
   short_title: Dark Skies
   heading_title: When Dark Skies Make UFOs More Convincing
-date: '2026-06-02 16:42:08 '
+date: '2026-06-02 18:48:43 '
 header:
   og_image: /assets/images/Namibia_bfe79d_coastal_fireballs_9e6e2d-Illustration-1-social.jpg
   preview_image: /assets/images/Namibia_bfe79d_coastal_fireballs_9e6e2d-Illustration-1.webp

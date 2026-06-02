@@ -1185,7 +1185,7 @@ next_link:
   title: Kenya UFOs
   permalink: /what-really-fell-from-kenyas-skies/
   short_title: Kenya UFOs
-date: '2026-06-02 16:43:41 '
+date: '2026-06-02 18:49:57 '
 header:
   og_image: /assets/images/Vanuatu_d16ad2-overview-social.jpg
   preview_image: /assets/images/Vanuatu_d16ad2-overview.webp

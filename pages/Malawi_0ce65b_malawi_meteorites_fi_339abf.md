@@ -245,7 +245,7 @@ next_link:
   permalink: /official-records-b73568/
   short_title: Official Records
   heading_title: Malawi's Government and UFO Documentation
-date: '2026-06-02 16:21:12 '
+date: '2026-06-02 18:34:50 '
 header:
   og_image: /assets/images/Malawi_0ce65b_malawi_meteorites_fi_339abf-Illustration-1-social.jpg
   preview_image: /assets/images/Malawi_0ce65b_malawi_meteorites_fi_339abf-Illustration-1.webp

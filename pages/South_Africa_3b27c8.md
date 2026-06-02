@@ -1185,7 +1185,7 @@ next_link:
   title: Mozambique UFOs
   permalink: /what-really-survives-in-mozambiques-ufo/
   short_title: Mozambique UFOs
-date: '2026-06-02 16:37:37 '
+date: '2026-06-02 18:44:48 '
 header:
   og_image: /assets/images/South_Africa_3b27c8-overview-social.jpg
   preview_image: /assets/images/South_Africa_3b27c8-overview.webp

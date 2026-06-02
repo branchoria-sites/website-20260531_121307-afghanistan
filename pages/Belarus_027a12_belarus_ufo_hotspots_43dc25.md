@@ -245,7 +245,7 @@ next_link:
   permalink: /minsk-case/
   short_title: Minsk Case
   heading_title: Was the Minsk Airliner UFO a Missile?
-date: '2026-06-02 15:55:54 '
+date: '2026-06-02 18:14:59 '
 header:
   og_image: /assets/images/Belarus_027a12_belarus_ufo_hotspots_43dc25-Illustration-1-social.jpg
   preview_image: /assets/images/Belarus_027a12_belarus_ufo_hotspots_43dc25-Illustration-1.webp
@@ -283,7 +283,7 @@ Several additional factors inflated Minsk’s apparent prominence:
 The result is a classic reporting bias problem. A concentration of sightings in Minsk does not automatically imply a concentration of unexplained phenomena. It more reliably indicates a concentration of witnesses capable of recording and transmitting claims.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-Ckk_tNmhuU" title="Investigating UFOs: International research &amp; Ross Coulthart&#x27;s personal story | Backscroll" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-Ckk_tNmhuU" target="_blank" rel="noopener noreferrer">Investigating UFOs: International research &amp; Ross Coulthart&#x27;s personal story | Backscroll</a></p><p class="youtube-embed-meta">Channel: NewsNation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-Ckk_tNmhuU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-Ckk_tNmhuU">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/t-8TDOFqkQA" title="Exposing The Dark Side of America&#x27;s AI Data Center Explosion | View From Above | Business Insider" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=t-8TDOFqkQA" target="_blank" rel="noopener noreferrer">Exposing The Dark Side of America&#x27;s AI Data Center Explosion | View From Above | Business Insider</a></p><p class="youtube-embed-meta">Channel: Business Insider</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=t-8TDOFqkQA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=t-8TDOFqkQA">Open on YouTube</a></p></div></div></div>
 
 ## Why Brest became prominent
 
@@ -334,7 +334,7 @@ Belarus demonstrates several common distortions found in UFO archives worldwide:
 These distortions do not prove that all sightings are false. Instead, they show why raw numerical maps can mislead readers into imagining stable “mystery zones” where social explanations may be stronger than physical ones.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mljQRYLM2yU" title="Former Navy pilot shares his encounter with UFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mljQRYLM2yU" target="_blank" rel="noopener noreferrer">Former Navy pilot shares his encounter with UFO</a></p><p class="youtube-embed-meta">Channel: Fox News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mljQRYLM2yU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mljQRYLM2yU">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/a6NbWRrFtNU" title="&#x27;We do not know what these things are,&#x27; What does the Pentagon UFO report mean for us?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=a6NbWRrFtNU" target="_blank" rel="noopener noreferrer">&#x27;We do not know what these things are,&#x27; What does the Pentagon UFO report mean for us?</a></p><p class="youtube-embed-meta">Channel: Newstalk</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=a6NbWRrFtNU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=a6NbWRrFtNU">Open on YouTube</a></p></div></div></div>
 
 ## What regional counts can and cannot prove
 

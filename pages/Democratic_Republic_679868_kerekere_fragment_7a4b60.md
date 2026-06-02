@@ -245,7 +245,7 @@ next_link:
   permalink: /kimbanseke/
   short_title: Kimbanseke
   heading_title: What Fell in Kimbanseke?
-date: '2026-06-02 16:08:08 '
+date: '2026-06-02 18:25:11 '
 header:
   og_image: /assets/images/Democratic_Republic_679868_kerekere_fragment_7a4b60-Illustration-1-social.jpg
   preview_image: /assets/images/Democratic_Republic_679868_kerekere_fragment_7a4b60-Illustration-1.webp

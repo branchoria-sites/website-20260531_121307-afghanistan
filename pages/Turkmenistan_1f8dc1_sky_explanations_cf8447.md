@@ -245,7 +245,7 @@ next_link:
   permalink: /turkmenabat/
   short_title: Turkmenabat
   heading_title: Why Turkmenabat Became Turkmenistan's UFO Hub
-date: '2026-06-02 16:41:14 '
+date: '2026-06-02 18:48:01 '
 header:
   og_image: /assets/images/Turkmenistan_1f8dc1_sky_explanations_cf8447-Illustration-1-social.jpg
   preview_image: /assets/images/Turkmenistan_1f8dc1_sky_explanations_cf8447-Illustration-1.webp

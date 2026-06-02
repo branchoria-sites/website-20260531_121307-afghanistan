@@ -245,7 +245,7 @@ next_link:
   permalink: /zwischbergen/
   short_title: Zwischbergen
   heading_title: Can Switzerland's Famous UFO Photo Hold Up?
-date: '2026-06-02 16:39:26 '
+date: '2026-06-02 18:46:34 '
 header:
   og_image: /assets/images/Switzerland_77dcd8_swiss_ufo_hoaxes_d07325-Illustration-1-social.jpg
   preview_image: /assets/images/Switzerland_77dcd8_swiss_ufo_hoaxes_d07325-Illustration-1.webp

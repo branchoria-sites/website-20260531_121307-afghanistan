@@ -239,7 +239,7 @@ prev_link:
   permalink: /lungi-streak/
   short_title: Lungi Streak
   heading_title: Was the Lungi Streak Really a UFO?
-date: '2026-06-02 16:36:43 '
+date: '2026-06-02 18:43:53 '
 header:
   og_image: /assets/images/Sierra_Leone_817b0d_records_gap_aadb30-Illustration-1-social.jpg
   preview_image: /assets/images/Sierra_Leone_817b0d_records_gap_aadb30-Illustration-1.webp

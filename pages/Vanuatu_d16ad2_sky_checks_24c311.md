@@ -245,7 +245,7 @@ next_link:
   permalink: /volcano-glow/
   short_title: Volcano Glow
   heading_title: When Volcanoes Look Like UFOs
-date: '2026-06-02 16:43:44 '
+date: '2026-06-02 18:49:59 '
 header:
   og_image: /assets/images/Vanuatu_d16ad2_sky_checks_24c311-Illustration-1-social.jpg
   preview_image: /assets/images/Vanuatu_d16ad2_sky_checks_24c311-Illustration-1.webp

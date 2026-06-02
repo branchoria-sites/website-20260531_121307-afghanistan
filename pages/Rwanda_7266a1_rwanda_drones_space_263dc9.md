@@ -239,7 +239,7 @@ next_link:
   permalink: /kigali/
   short_title: Kigali
   heading_title: What Would a Kigali UFO Sighting Need?
-date: '2026-06-02 16:32:23 '
+date: '2026-06-02 18:41:49 '
 header:
   og_image: /assets/images/Rwanda_7266a1_rwanda_drones_space_263dc9-Illustration-1-social.jpg
   preview_image: /assets/images/Rwanda_7266a1_rwanda_drones_space_263dc9-Illustration-1.webp

@@ -245,7 +245,7 @@ next_link:
   permalink: /managua-1962/
   short_title: Managua 1962
   heading_title: Was Managua's Blue Book UFO Space Debris?
-date: '2026-06-02 16:25:43 '
+date: '2026-06-02 18:38:32 '
 header:
   og_image: /assets/images/Nicaragua_481264_juigalpa_triangle_2738ca-Illustration-1-social.jpg
   preview_image: /assets/images/Nicaragua_481264_juigalpa_triangle_2738ca-Illustration-1.webp

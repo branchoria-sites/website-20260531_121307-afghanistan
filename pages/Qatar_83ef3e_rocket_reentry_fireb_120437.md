@@ -239,7 +239,7 @@ next_link:
   permalink: /doha-cases/
   short_title: Doha Cases
   heading_title: Which Doha UFO Reports Still Matter?
-date: '2026-06-02 16:31:06 '
+date: '2026-06-02 18:41:02 '
 header:
   og_image: /assets/images/Qatar_83ef3e_rocket_reentry_fireb_120437-Illustration-1-social.jpg
   preview_image: /assets/images/Qatar_83ef3e_rocket_reentry_fireb_120437-Illustration-1.webp

@@ -239,7 +239,7 @@ next_link:
   permalink: /dili-videos/
   short_title: Dili Videos
   heading_title: Can Dili UFO Videos Be Verified?
-date: '2026-06-02 16:40:05 '
+date: '2026-06-02 18:47:09 '
 header:
   og_image: /assets/images/Timor-Leste_2d79f6_ainaro_lights_case_e17213-Illustration-1-social.jpg
   preview_image: /assets/images/Timor-Leste_2d79f6_ainaro_lights_case_e17213-Illustration-1.webp

@@ -245,7 +245,7 @@ next_link:
   permalink: /kankan-cluster/
   short_title: Kankan Cluster
   heading_title: What Happened During the Kankan UFO Cluster?
-date: '2026-06-02 16:13:00 '
+date: '2026-06-02 18:29:11 '
 header:
   og_image: /assets/images/Guinea_b47b54_guinea_ufo_evidence_09dfe5-Illustration-1-social.jpg
   preview_image: /assets/images/Guinea_b47b54_guinea_ufo_evidence_09dfe5-Illustration-1.webp

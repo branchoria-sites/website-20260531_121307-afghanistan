@@ -1185,7 +1185,7 @@ next_link:
   title: Mexico UFOs
   permalink: /what-really-happened-in-mexicos-ufo/
   short_title: Mexico UFOs
-date: '2026-06-02 16:22:58 '
+date: '2026-06-02 18:36:20 '
 header:
   og_image: /assets/images/Mauritius_26160d-overview-social.jpg
   preview_image: /assets/images/Mauritius_26160d-overview.webp

@@ -239,7 +239,7 @@ prev_link:
   permalink: /regional-gaps/
   short_title: Regional Gaps
   heading_title: What Might Be Missing Outside Juba?
-date: '2026-06-02 16:37:55 '
+date: '2026-06-02 18:45:04 '
 header:
   og_image: /assets/images/South_Sudan_80ac9c_un_aircraft_disputes_84278c-Illustration-1-social.jpg
   preview_image: /assets/images/South_Sudan_80ac9c_un_aircraft_disputes_84278c-Illustration-1.webp

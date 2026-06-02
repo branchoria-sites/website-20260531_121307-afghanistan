@@ -1185,7 +1185,7 @@ next_link:
   title: Armenia UFOs
   permalink: /what-really-explains-armenias-ufo/
   short_title: Armenia UFOs
-date: '2026-06-02 16:40:20 '
+date: '2026-06-02 18:47:21 '
 header:
   og_image: /assets/images/Tonga_e8a123-overview-social.jpg
   preview_image: /assets/images/Tonga_e8a123-overview.webp

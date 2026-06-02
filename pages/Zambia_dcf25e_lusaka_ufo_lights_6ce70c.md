@@ -245,7 +245,7 @@ next_link:
   permalink: /record-gaps-959ac0/
   short_title: Record Gaps
   heading_title: Why Is Zambia's UFO Paper Trail So Thin?
-date: '2026-06-02 16:44:46 '
+date: '2026-06-02 18:50:54 '
 header:
   og_image: /assets/images/Zambia_dcf25e_lusaka_ufo_lights_6ce70c-Illustration-1-social.jpg
   preview_image: /assets/images/Zambia_dcf25e_lusaka_ufo_lights_6ce70c-Illustration-1.webp

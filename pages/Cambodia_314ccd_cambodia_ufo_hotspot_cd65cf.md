@@ -245,7 +245,7 @@ next_link:
   permalink: /kampot-case/
   short_title: Kampot Case
   heading_title: Did the Kampot Explosion Really Involve a UFO?
-date: '2026-06-02 16:03:41 '
+date: '2026-06-02 18:22:22 '
 header:
   og_image: /assets/images/Cambodia_314ccd_cambodia_ufo_hotspot_cd65cf-Illustration-1-social.jpg
   preview_image: /assets/images/Cambodia_314ccd_cambodia_ufo_hotspot_cd65cf-Illustration-1.webp

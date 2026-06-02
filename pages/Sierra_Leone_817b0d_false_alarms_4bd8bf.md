@@ -239,7 +239,7 @@ next_link:
   permalink: /hotspots-ffe189/
   short_title: Hotspots
   heading_title: Why Would Sightings Cluster Near Freetown?
-date: '2026-06-02 16:36:45 '
+date: '2026-06-02 18:43:55 '
 header:
   og_image: /assets/images/Sierra_Leone_817b0d_false_alarms_4bd8bf-Illustration-1-social.jpg
   preview_image: /assets/images/Sierra_Leone_817b0d_false_alarms_4bd8bf-Illustration-1.webp

@@ -239,7 +239,7 @@ next_link:
   permalink: /sightings-map-72f856/
   short_title: Sightings Map
   heading_title: Where Do Bolivia UFO Reports Cluster?
-date: '2026-06-02 15:58:26 '
+date: '2026-06-02 18:17:12 '
 header:
   og_image: /assets/images/Bolivia_Plurinationa_9e2db7_records_credibility_569db2-Illustration-1-social.jpg
   preview_image: /assets/images/Bolivia_Plurinationa_9e2db7_records_credibility_569db2-Illustration-1.webp
@@ -651,6 +651,22 @@ For researchers, Bolivia remains interesting precisely because the record is une
     </article>
 
     <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-how-reliable-are-bolivia-s-ufo-records-bolivia-plurinational-state-of-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="credibility-how-reliable-are-bolivia-s-ufo-records-bolivia-plurinational-state-of-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model / UAP Model With Stand – George Adamski – Alien Saucer Collectible"><img src="{{ '/assets/images/marketplace-covers/48ed2132f252162f12c9.jpg' | relative_url }}" alt="Listing image for UFO Model / UAP Model With Stand – George Adamski – Alien Saucer Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-how-reliable-are-bolivia-s-ufo-records-bolivia-plurinational-state-of-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="credibility-how-reliable-are-bolivia-s-ufo-records-bolivia-plurinational-state-of-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Model / UAP Model With Stand – George Adamski – Alien Saucer Collectible</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-how-reliable-are-bolivia-s-ufo-records-bolivia-plurinational-state-of-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="credibility-how-reliable-are-bolivia-s-ufo-records-bolivia-plurinational-state-of-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-how-reliable-are-bolivia-s-ufo-records-bolivia-plurinational-state-of-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="credibility-how-reliable-are-bolivia-s-ufo-records-bolivia-plurinational-state-of-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-how-reliable-are-bolivia-s-ufo-records-bolivia-plurinational-state-of-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="credibility-how-reliable-are-bolivia-s-ufo-records-bolivia-plurinational-state-of-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
@@ -672,22 +688,6 @@ For researchers, Bolivia remains interesting precisely because the record is une
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
           <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-how-reliable-are-bolivia-s-ufo-records-bolivia-plurinational-state-of-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="credibility-how-reliable-are-bolivia-s-ufo-records-bolivia-plurinational-state-of-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-how-reliable-are-bolivia-s-ufo-records-bolivia-plurinational-state-of-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="credibility-how-reliable-are-bolivia-s-ufo-records-bolivia-plurinational-state-of-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-how-reliable-are-bolivia-s-ufo-records-bolivia-plurinational-state-of-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="credibility-how-reliable-are-bolivia-s-ufo-records-bolivia-plurinational-state-of-ufo-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-how-reliable-are-bolivia-s-ufo-records-bolivia-plurinational-state-of-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="credibility-how-reliable-are-bolivia-s-ufo-records-bolivia-plurinational-state-of-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Collectible Model Replica Limited Edition 2004 PCS Die Cast Jerry Anderson"><img src="{{ '/assets/images/marketplace-covers/47eef372351acefdf0fb.jpg' | relative_url }}" alt="Listing image for UFO Collectible Model Replica Limited Edition 2004 PCS Die Cast Jerry Anderson" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-how-reliable-are-bolivia-s-ufo-records-bolivia-plurinational-state-of-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="credibility-how-reliable-are-bolivia-s-ufo-records-bolivia-plurinational-state-of-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Collectible Model Replica Limited Edition 2004 PCS Die Cast Jerry Anderson</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-how-reliable-are-bolivia-s-ufo-records-bolivia-plurinational-state-of-ufo-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo collectible -book -books" data-ebay-reference="credibility-how-reliable-are-bolivia-s-ufo-records-bolivia-plurinational-state-of-ufo-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo collectible</a>
         <div class="fr-book-actions">

@@ -245,7 +245,7 @@ next_link:
   permalink: /kilimanjaro/
   short_title: Kilimanjaro
   heading_title: Why the 1951 Kilimanjaro UFO Case Endures
-date: '2026-06-02 16:43:07 '
+date: '2026-06-02 18:49:28 '
 header:
   og_image: /assets/images/United_Republic_of_T_f850a5_tanzania_evidence_ga_05d29a-Illustration-1-social.jpg
   preview_image: /assets/images/United_Republic_of_T_f850a5_tanzania_evidence_ga_05d29a-Illustration-1.webp

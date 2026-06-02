@@ -245,7 +245,7 @@ next_link:
   permalink: /pretoria-chase/
   short_title: Pretoria Chase
   heading_title: How Strong Is the Pretoria Police UFO Case?
-date: '2026-06-02 16:37:41 '
+date: '2026-06-02 18:44:51 '
 header:
   og_image: /assets/images/South_Africa_3b27c8_eastern_cape_sightin_317076-Illustration-1-social.jpg
   preview_image: /assets/images/South_Africa_3b27c8_eastern_cape_sightin_317076-Illustration-1.webp

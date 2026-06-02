@@ -245,7 +245,7 @@ next_link:
   permalink: /sky-scares/
   short_title: Sky Scares
   heading_title: Why Thai UFO Videos Often Have Earthly Causes
-date: '2026-06-02 16:39:56 '
+date: '2026-06-02 18:47:02 '
 header:
   og_image: /assets/images/Thailand_a2b7c1_nakhon_phanom_1969_718fa0-Illustration-1-social.jpg
   preview_image: /assets/images/Thailand_a2b7c1_nakhon_phanom_1969_718fa0-Illustration-1.webp

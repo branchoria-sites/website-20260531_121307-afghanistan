@@ -239,7 +239,7 @@ prev_link:
   permalink: /bukovac-photo/
   short_title: Bukovac Photo
   heading_title: Why the Bukovac UFO Photo Still Matters
-date: '2026-06-02 16:35:54 '
+date: '2026-06-02 18:43:38 '
 header:
   og_image: /assets/images/Serbia_6d31bf_yugoslav_pilot_memoi_236c55-Illustration-1-social.jpg
   preview_image: /assets/images/Serbia_6d31bf_yugoslav_pilot_memoi_236c55-Illustration-1.webp

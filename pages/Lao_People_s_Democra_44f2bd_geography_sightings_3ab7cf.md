@@ -243,7 +243,7 @@ next_link:
   permalink: /reporting-limitations/
   short_title: Reporting Limitations
   heading_title: Why UFO Reports in Laos Are Rare and Hard to Verify
-date: '2026-06-02 16:19:19 '
+date: '2026-06-02 18:33:12 '
 header:
   og_image: /assets/images/Lao_People_s_Democra_44f2bd_geography_sightings_3ab7cf-Illustration-1-social.jpg
   preview_image: /assets/images/Lao_People_s_Democra_44f2bd_geography_sightings_3ab7cf-Illustration-1.webp

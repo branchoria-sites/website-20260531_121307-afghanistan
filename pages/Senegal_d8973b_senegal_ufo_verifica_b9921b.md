@@ -245,7 +245,7 @@ next_link:
   permalink: /modern-reports-b61a70/
   short_title: Modern Reports
   heading_title: Why Are Modern Senegal UFO Reports So Sparse?
-date: '2026-06-02 16:35:44 '
+date: '2026-06-02 18:43:24 '
 header:
   og_image: /assets/images/Senegal_d8973b_senegal_ufo_verifica_b9921b-Illustration-1-social.jpg
   preview_image: /assets/images/Senegal_d8973b_senegal_ufo_verifica_b9921b-Illustration-1.webp

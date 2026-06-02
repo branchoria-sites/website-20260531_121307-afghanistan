@@ -245,7 +245,7 @@ next_link:
   permalink: /records-8d8005/
   short_title: Records
   heading_title: Where Are Portugal's Official UFO Files?
-date: '2026-06-02 16:30:53 '
+date: '2026-06-02 18:40:49 '
 header:
   og_image: /assets/images/Portugal_a49519_lemos_ferreira_pilot_dcbd4f-Illustration-1-social.jpg
   preview_image: /assets/images/Portugal_a49519_lemos_ferreira_pilot_dcbd4f-Illustration-1.webp

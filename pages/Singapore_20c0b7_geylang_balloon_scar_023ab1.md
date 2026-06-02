@@ -245,7 +245,7 @@ next_link:
   permalink: /modern-sightings-0d9fb8/
   short_title: Modern Sightings
   heading_title: Why Recent Singapore Sky Lights Go Viral
-date: '2026-06-02 16:36:54 '
+date: '2026-06-02 18:44:04 '
 header:
   og_image: /assets/images/Singapore_20c0b7_geylang_balloon_scar_023ab1-Illustration-1-social.jpg
   preview_image: /assets/images/Singapore_20c0b7_geylang_balloon_scar_023ab1-Illustration-1.webp

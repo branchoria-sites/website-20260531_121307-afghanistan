@@ -1185,7 +1185,7 @@ next_link:
   title: Canada UAP
   permalink: /what-canada-ufo-reports-really-show/
   short_title: Canada UAP
-date: '2026-06-02 16:41:27 '
+date: '2026-06-02 18:48:11 '
 header:
   og_image: /assets/images/Tuvalu_9a2248-overview-social.jpg
   preview_image: /assets/images/Tuvalu_9a2248-overview.webp

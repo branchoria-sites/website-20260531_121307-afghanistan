@@ -245,7 +245,7 @@ next_link:
   permalink: /malaita-crash/
   short_title: Malaita Crash
   heading_title: Did a Plane Really Crash off East Malaita?
-date: '2026-06-02 16:37:26 '
+date: '2026-06-02 18:44:37 '
 header:
   og_image: /assets/images/Solomon_Islands_6f943d_guadalcanal_boirayon_7bfa1e-Illustration-1-social.jpg
   preview_image: /assets/images/Solomon_Islands_6f943d_guadalcanal_boirayon_7bfa1e-Illustration-1.webp

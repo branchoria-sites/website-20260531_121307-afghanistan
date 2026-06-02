@@ -239,7 +239,7 @@ next_link:
   permalink: /goychay-guba/
   short_title: Goychay Guba
   heading_title: Why Did Goychay and Guba Stand Out?
-date: '2026-06-02 15:52:31 '
+date: '2026-06-02 18:12:20 '
 header:
   og_image: /assets/images/Azerbaijan_213598_baku_caspian_reports_f050ae-Illustration-1-social.jpg
   preview_image: /assets/images/Azerbaijan_213598_baku_caspian_reports_f050ae-Illustration-1.webp
@@ -261,6 +261,9 @@ Across the 2000s and early 2010s, several accounts from Baku residents claimed b
 * Earlier mentions from July **2011** also noted a sighting in the **Ahmadli area**, where a witness claimed to have photographed a fleeting flying object before it vanished — a pattern that recurred in several of these urban reports.[Today.az]
 
 These episodes highlight how **personal hand‑held devices became central to eyewitness culture**: ordinary residents recording brief, unexplained lights and sharing them via local news or online, often without corroborating data such as radar logs or multiple vantage points.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
 
 ## Caspian Sea Observations: Quiet Lights at Dawn
 
@@ -290,8 +293,7 @@ In addition to traditional news outlets, civilian reporting platforms also catal
 These submissions illustrate how **urban and coastal eyewitness culture often extends beyond local press into international civilian reporting**, yet they share limitations: lack of corroborating data, anonymous or single‑observer submissions, and minimal follow‑through investigation.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Azerbaijan_213598_baku_caspian_reports_f050ae-Illustration-3-dark.svg" | relative_url }}" alt="Baku Reports illustration 3" data-theme-src-dark="{{ "/assets/images/Azerbaijan_213598_baku_caspian_reports_f050ae-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Azerbaijan_213598_baku_caspian_reports_f050ae-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Urban Setting Shapes Interpretation
 
 Across Baku and Caspian Sea sightings, several **urban eyewitness culture dynamics** stand out:
@@ -309,7 +311,8 @@ Across Baku and Caspian Sea sightings, several **urban eyewitness culture dynami
 In sum, the **Baku and Caspian reports illustrate how urban eyewitness culture — shaped by casual cameras, limited external verification, and local media framing — produces a distinctive portfolio of claimed sightings**. These episodes offer insight into how residents interpret rare or ambiguous visual stimuli above cityscapes and coastal horizons, even as definitive identification or scientific analysis remains absent.
 
 
-<img src="{{ "/assets/images/Azerbaijan_213598_baku_caspian_reports_f050ae-Illustration-3-dark.svg" | relative_url }}" alt="Baku Reports illustration 3" data-theme-src-dark="{{ "/assets/images/Azerbaijan_213598_baku_caspian_reports_f050ae-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Azerbaijan_213598_baku_caspian_reports_f050ae-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/29Wbm-UkvUE" title="Djo - Link (Official Visualizer)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=29Wbm-UkvUE" target="_blank" rel="noopener noreferrer">Djo - Link (Official Visualizer)</a></p><p class="youtube-embed-meta">Channel: Djo Music</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=29Wbm-UkvUE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=29Wbm-UkvUE">Open on YouTube</a></p></div></div></div>
+
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -444,22 +447,6 @@ In sum, the **Baku and Caspian reports illustrate how urban eyewitness culture �
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baku-reports-what-did-baku-witnesses-think-they-saw-azerbaijan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="baku-reports-what-did-baku-witnesses-think-they-saw-azerbaijan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baku-reports-what-did-baku-witnesses-think-they-saw-azerbaijan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="baku-reports-what-did-baku-witnesses-think-they-saw-azerbaijan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baku-reports-what-did-baku-witnesses-think-they-saw-azerbaijan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="baku-reports-what-did-baku-witnesses-think-they-saw-azerbaijan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baku-reports-what-did-baku-witnesses-think-they-saw-azerbaijan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="baku-reports-what-did-baku-witnesses-think-they-saw-azerbaijan-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baku-reports-what-did-baku-witnesses-think-they-saw-azerbaijan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="baku-reports-what-did-baku-witnesses-think-they-saw-azerbaijan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
@@ -481,6 +468,22 @@ In sum, the **Baku and Caspian reports illustrate how urban eyewitness culture �
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
           <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baku-reports-what-did-baku-witnesses-think-they-saw-azerbaijan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="baku-reports-what-did-baku-witnesses-think-they-saw-azerbaijan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baku-reports-what-did-baku-witnesses-think-they-saw-azerbaijan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="baku-reports-what-did-baku-witnesses-think-they-saw-azerbaijan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baku-reports-what-did-baku-witnesses-think-they-saw-azerbaijan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="baku-reports-what-did-baku-witnesses-think-they-saw-azerbaijan-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baku-reports-what-did-baku-witnesses-think-they-saw-azerbaijan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="baku-reports-what-did-baku-witnesses-think-they-saw-azerbaijan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baku-reports-what-did-baku-witnesses-think-they-saw-azerbaijan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="baku-reports-what-did-baku-witnesses-think-they-saw-azerbaijan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baku-reports-what-did-baku-witnesses-think-they-saw-azerbaijan-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="baku-reports-what-did-baku-witnesses-think-they-saw-azerbaijan-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">

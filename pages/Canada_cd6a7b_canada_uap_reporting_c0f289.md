@@ -245,7 +245,7 @@ next_link:
   permalink: /surveys/
   short_title: Surveys
   heading_title: How Many Canadian UFO Reports Stay Unexplained?
-date: '2026-06-02 16:03:54 '
+date: '2026-06-02 18:22:31 '
 header:
   og_image: /assets/images/Canada_cd6a7b_canada_uap_reporting_c0f289-Illustration-1-social.jpg
   preview_image: /assets/images/Canada_cd6a7b_canada_uap_reporting_c0f289-Illustration-1.webp

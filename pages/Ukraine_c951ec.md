@@ -1185,7 +1185,7 @@ next_link:
   title: Rwanda UFOs
   permalink: /what-is-rwandas-real-ufo-record/
   short_title: Rwanda UFOs
-date: '2026-06-02 16:41:52 '
+date: '2026-06-02 18:48:29 '
 header:
   og_image: /assets/images/Ukraine_c951ec-overview-social.jpg
   preview_image: /assets/images/Ukraine_c951ec-overview.webp

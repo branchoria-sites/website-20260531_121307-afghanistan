@@ -239,7 +239,7 @@ next_link:
   permalink: /kampala-reports/
   short_title: Kampala Reports
   heading_title: Why Kampala Became Uganda's Main UFO Stage
-date: '2026-06-02 16:41:49 '
+date: '2026-06-02 18:48:26 '
 header:
   og_image: /assets/images/Uganda_e92904_kampala_1995_reentry_17d0f0-Illustration-1-social.jpg
   preview_image: /assets/images/Uganda_e92904_kampala_1995_reentry_17d0f0-Illustration-1.webp

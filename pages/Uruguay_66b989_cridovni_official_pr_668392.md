@@ -239,7 +239,7 @@ next_link:
   permalink: /la-aurora/
   short_title: La Aurora
   heading_title: Why La Aurora Became Uruguay's UFO Landmark
-date: '2026-06-02 16:43:28 '
+date: '2026-06-02 18:49:44 '
 header:
   og_image: /assets/images/Uruguay_66b989_cridovni_official_pr_668392-Illustration-1-social.jpg
   preview_image: /assets/images/Uruguay_66b989_cridovni_official_pr_668392-Illustration-1.webp

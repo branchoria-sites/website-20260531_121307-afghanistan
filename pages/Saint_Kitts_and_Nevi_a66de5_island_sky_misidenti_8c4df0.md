@@ -239,7 +239,7 @@ prev_link:
   permalink: /rocket-plumes/
   short_title: Rocket Plumes
   heading_title: When Rocket Plumes Look Like UFOs
-date: '2026-06-02 16:33:01 '
+date: '2026-06-02 18:42:02 '
 header:
   og_image: /assets/images/Saint_Kitts_and_Nevi_a66de5_island_sky_misidenti_8c4df0-Illustration-1-social.jpg
   preview_image: /assets/images/Saint_Kitts_and_Nevi_a66de5_island_sky_misidenti_8c4df0-Illustration-1.webp

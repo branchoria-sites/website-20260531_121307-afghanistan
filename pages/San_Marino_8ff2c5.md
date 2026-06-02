@@ -1180,7 +1180,7 @@ prev_link:
   title: Grenada UFOs
   permalink: /why-grenada-became-a-ufo-footnote/
   short_title: Grenada UFOs
-date: '2026-06-02 16:34:08 '
+date: '2026-06-02 18:42:39 '
 header:
   og_image: /assets/images/San_Marino_8ff2c5-overview-social.jpg
   preview_image: /assets/images/San_Marino_8ff2c5-overview.webp

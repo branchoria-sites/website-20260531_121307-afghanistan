@@ -245,7 +245,7 @@ next_link:
   permalink: /explanations-debunking/
   short_title: Explanations & Debunking
   heading_title: Possible Explanations for UFO Sightings in Bhutan
-date: '2026-06-02 15:57:47 '
+date: '2026-06-02 18:16:43 '
 header:
   og_image: /assets/images/Bhutan_bb2254_bhutan_astronomy_inf_6a1365-Illustration-1-social.jpg
   preview_image: /assets/images/Bhutan_bb2254_bhutan_astronomy_inf_6a1365-Illustration-1.webp

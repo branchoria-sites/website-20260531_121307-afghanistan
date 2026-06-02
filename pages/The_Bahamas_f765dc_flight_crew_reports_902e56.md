@@ -245,7 +245,7 @@ next_link:
   permalink: /misidentifications/
   short_title: Misidentifications
   heading_title: When Bahamas UFOs Are Rockets or Meteors
-date: '2026-06-02 15:53:26 '
+date: '2026-06-02 18:13:00 '
 header:
   og_image: /assets/images/The_Bahamas_f765dc_flight_crew_reports_902e56-Illustration-1-social.jpg
   preview_image: /assets/images/The_Bahamas_f765dc_flight_crew_reports_902e56-Illustration-1.webp
@@ -293,7 +293,7 @@ Key missing data for a rigorous resolution include:
 Without these, the object’s behaviour, altitude, and movement profile remain based primarily on the crew’s visual observations and video imagery alone, which are inherently limited for precise scientific classification.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lvn_RoJN_Q0" title="Are These UFO Sightings Real Evidence? | The Proof Is Out There" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lvn_RoJN_Q0" target="_blank" rel="noopener noreferrer">Are These UFO Sightings Real Evidence? | The Proof Is Out There</a></p><p class="youtube-embed-meta">Channel: HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lvn_RoJN_Q0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lvn_RoJN_Q0">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zNZHTlRFD6E" title="Alien Encounters You Won&#x27;t Believe | Ancient Aliens | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zNZHTlRFD6E" target="_blank" rel="noopener noreferrer">Alien Encounters You Won&#x27;t Believe | Ancient Aliens | History</a></p><p class="youtube-embed-meta">Channel: HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zNZHTlRFD6E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zNZHTlRFD6E">Open on YouTube</a></p></div></div></div>
 
 ## Why High‑Altitude Aircraft Sightings Are Hard to Resolve
 

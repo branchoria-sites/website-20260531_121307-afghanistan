@@ -1185,7 +1185,7 @@ next_link:
   title: China UFOs
   permalink: /what-chinas-ufo-cases-really-show/
   short_title: China UFOs
-date: '2026-06-02 16:03:49 '
+date: '2026-06-02 18:22:27 '
 header:
   og_image: /assets/images/Canada_cd6a7b-overview-social.jpg
   preview_image: /assets/images/Canada_cd6a7b-overview.webp

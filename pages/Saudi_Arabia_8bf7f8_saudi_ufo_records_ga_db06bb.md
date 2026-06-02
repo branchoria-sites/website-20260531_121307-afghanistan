@@ -239,7 +239,7 @@ prev_link:
   permalink: /medina-lights/
   short_title: Medina Lights
   heading_title: Was The Medina UFO Really Space Debris?
-date: '2026-06-02 16:35:22 '
+date: '2026-06-02 18:43:11 '
 header:
   og_image: /assets/images/Saudi_Arabia_8bf7f8_saudi_ufo_records_ga_db06bb-Illustration-1-social.jpg
   preview_image: /assets/images/Saudi_Arabia_8bf7f8_saudi_ufo_records_ga_db06bb-Illustration-1.webp

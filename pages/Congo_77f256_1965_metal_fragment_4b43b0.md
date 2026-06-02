@@ -245,7 +245,7 @@ next_link:
   permalink: /source-map/
   short_title: Source Map
   heading_title: Which Congo Do These UFO Stories Mean?
-date: '2026-06-02 16:05:39 '
+date: '2026-06-02 18:23:39 '
 header:
   og_image: /assets/images/Congo_77f256_1965_metal_fragment_4b43b0-Illustration-1-social.jpg
   preview_image: /assets/images/Congo_77f256_1965_metal_fragment_4b43b0-Illustration-1.webp
