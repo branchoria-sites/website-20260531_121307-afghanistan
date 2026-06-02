@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /senegal-d8973b-index/
 description: Focused pages that expand on What Survives in Senegal's UFO Record?.
-date: '2026-05-31'
+date: '2026-06-02'
 layout: default
 parent_basename: Senegal_d8973b
 parent_title: What Survives in Senegal's UFO Record?

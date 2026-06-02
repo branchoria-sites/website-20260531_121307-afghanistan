@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /guatemala-11760e-index/
 description: Focused pages that expand on What Guatemala’s UFO Reports Really Reveal.
-date: '2026-05-31'
+date: '2026-06-02'
 layout: default
 parent_basename: Guatemala_11760e
 parent_title: What Guatemala’s UFO Reports Really Reveal

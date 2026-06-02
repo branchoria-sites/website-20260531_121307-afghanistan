@@ -411,9 +411,9 @@ sibling_links:
   permalink: /are-there-any-real-mali-ufo-cases/
   short_title: Mali UFOs
 - basename: Montenegro_479fb3
-  title: MontenegroUFOs
+  title: Montenegro UFOs
   permalink: /are-ufos-really-seen-over-montenegro/
-  short_title: MontenegroUFOs
+  short_title: Montenegro UFOs
 - basename: Argentina_354bf9
   title: Argentina OVNI
   permalink: /argentinas-ufo-stories-records-and/
@@ -427,17 +427,17 @@ sibling_links:
   permalink: /bolivia-plurinational-state-of/
   short_title: Bolivia UFOs
 - basename: Bosnia_and_Herzegovi_552c9f
-  title: BosniaUFOs
+  title: Bosnia UFOs
   permalink: /bosnia-and-herzegovina/
-  short_title: BosniaUFOs
+  short_title: Bosnia UFOs
 - basename: Brunei_Darussalam_eab94a
   title: Brunei UAP
   permalink: /brunei-darussalam/
   short_title: Brunei UAP
 - basename: Burkina_Faso_f61e5f
-  title: BurkinaUFO
+  title: Burkina UFO
   permalink: /burkina-faso/
-  short_title: BurkinaUFO
+  short_title: Burkina UFO
 - basename: Central_African_Repu_358788
   title: CAR UFOs
   permalink: /central-african-republic/
@@ -447,21 +447,21 @@ sibling_links:
   permalink: /cote-d-ivoire/
   short_title: Ivoire UFOs
 - basename: Czechia_045e2f
-  title: CzechUFOs
+  title: Czech UFOs
   permalink: /czechia/
-  short_title: CzechUFOs
+  short_title: Czech UFOs
 - basename: Democratic_People_s_808714
-  title: DPRKUFOs
+  title: DPRK UFOs
   permalink: /democratic-people-s-republic-of-korea/
-  short_title: DPRKUFOs
+  short_title: DPRK UFOs
 - basename: Democratic_Republic_679868
   title: DRC UFOs
   permalink: /democratic-republic-of-the-congo/
   short_title: DRC UFOs
 - basename: Djibouti_60a8b0
-  title: DjiboutiUAP
+  title: Djibouti UAP
   permalink: /djibouti/
-  short_title: DjiboutiUAP
+  short_title: Djibouti UAP
 - basename: Dominica_bc1cd4
   title: Dominica UAP
   permalink: /does-dominica-have-real-ufo-cases/
@@ -475,9 +475,9 @@ sibling_links:
   permalink: /dominican-republic/
   short_title: Dominican UAP
 - basename: Equatorial_Guinea_ae2c01
-  title: EquatorialGuineaUFOs
+  title: Equatorial Guinea UFOs
   permalink: /equatorial-guinea/
-  short_title: EquatorialGuineaUFOs
+  short_title: Equatorial Guinea UFOs
 - basename: Fiji_bbb7ef
   title: Fiji UFOs
   permalink: /fiji/
@@ -487,21 +487,21 @@ sibling_links:
   permalink: /finland/
   short_title: Finland UFOs
 - basename: Ghana_317dba
-  title: GhanaUFOs
+  title: Ghana UFOs
   permalink: /ghana/
-  short_title: GhanaUFOs
+  short_title: Ghana UFOs
 - basename: Comoros_e5bb59
-  title: ComorosUFOs
+  title: Comoros UFOs
   permalink: /have-ufos-really-been-seen-over-comoros/
-  short_title: ComorosUFOs
+  short_title: Comoros UFOs
 - basename: Chile_349507
-  title: ChileUFOs
+  title: Chile UFOs
   permalink: /how-chile-investigates-ufos-and-aerial/
-  short_title: ChileUFOs
+  short_title: Chile UFOs
 - basename: France_e3772a
-  title: FranceUFOs
+  title: France UFOs
   permalink: /how-france-investigates-and-archives-ufo/
-  short_title: FranceUFOs
+  short_title: France UFOs
 - basename: Iran_Islamic_Republi_94f9ee
   title: Iran UFOs
   permalink: /iran-islamic-republic-of/
@@ -519,9 +519,9 @@ sibling_links:
   permalink: /madagascars-ufo-record-famous-case-thin/
   short_title: Madagascar UFOs
 - basename: Maldives_213cb2
-  title: MaldivesUFOs
+  title: Maldives UFOs
   permalink: /maldives/
-  short_title: MaldivesUFOs
+  short_title: Maldives UFOs
 - basename: Micronesia_Federated_30e9e8
   title: Micronesia UFOs
   permalink: /micronesia-federated-states-of/
@@ -595,9 +595,9 @@ sibling_links:
   permalink: /turkiye/
   short_title: Türkiye UFOs
 - basename: Luxembourg_507672
-  title: LuxUFO
+  title: Lux UFO
   permalink: /uncovering-ufo-activity-across/
-  short_title: LuxUFO
+  short_title: Lux UFO
 - basename: Israel_4c197d
   title: Israel UFOs
   permalink: /uncovering-ufo-phenomena-across-israel/
@@ -623,17 +623,17 @@ sibling_links:
   permalink: /venezuela-bolivarian-republic-of/
   short_title: Venezuela UFOs
 - basename: Malawi_0ce65b
-  title: MalawiUFOs
+  title: Malawi UFOs
   permalink: /what-are-malawis-documented-ufos-and-sky/
-  short_title: MalawiUFOs
+  short_title: Malawi UFOs
 - basename: Belarus_027a12
   title: Belarus UFOs
   permalink: /what-belarus-ufo-reports-really-show/
   short_title: Belarus UFOs
 - basename: Brazil_37497a
-  title: BrazilUFOs
+  title: Brazil UFOs
   permalink: /what-brazils-ufo-records-reveal-about/
-  short_title: BrazilUFOs
+  short_title: Brazil UFOs
 - basename: Angola_a42522
   title: Angola UFOs
   permalink: /what-can-angolas-ufo-record-really-prove/
@@ -775,17 +775,17 @@ sibling_links:
   permalink: /what-do-ufo-reports-in-guinea-really/
   short_title: Guinea UFOs
 - basename: Bhutan_bb2254
-  title: BhutanUFOs
+  title: Bhutan UFOs
   permalink: /what-do-ufo-sightings-in-bhutan-really/
-  short_title: BhutanUFOs
+  short_title: Bhutan UFOs
 - basename: Botswana_180c89
   title: Botswana UFOs
   permalink: /what-does-botswanas-ufo-record-really/
   short_title: Botswana UFOs
 - basename: Ecuador_09f199
-  title: EcuadorUFOs
+  title: Ecuador UFOs
   permalink: /what-evidence-exists-for-ufos-in-ecuador/
-  short_title: EcuadorUFOs
+  short_title: Ecuador UFOs
 - basename: Georgia_9113c6
   title: Georgia UFOs
   permalink: /what-georgias-ufo-reports-reveal-about/
@@ -799,9 +799,9 @@ sibling_links:
   permalink: /what-greeces-ufo-records-reveal-about/
   short_title: Greece UFOs
 - basename: Guatemala_11760e
-  title: GuatemalaUFOs
+  title: Guatemala UFOs
   permalink: /what-guatemalas-ufo-reports-really/
-  short_title: GuatemalaUFOs
+  short_title: Guatemala UFOs
 - basename: Latvia_c5f5bb
   title: Latvia UFOs
   permalink: /what-has-latvia-really-seen-in-the-sky/
@@ -931,9 +931,9 @@ sibling_links:
   permalink: /what-lithuanias-ufo-reports-really-show/
   short_title: Lithuania UFOs
 - basename: Egypt_1c39ab
-  title: EgyptUFOs
+  title: Egypt UFOs
   permalink: /what-makes-egypt-a-hotspot-for-ufo/
-  short_title: EgyptUFOs
+  short_title: Egypt UFOs
 - basename: Italy_ad79ef
   title: Italy UFOs
   permalink: /what-makes-italys-ufo-record-unique-and/
@@ -1123,9 +1123,9 @@ sibling_links:
   permalink: /what-ufo-reports-survive-cabo-verde/
   short_title: Cabo Verde UFOs
 - basename: Cyprus_852add
-  title: CyprusUFOs
+  title: Cyprus UFOs
   permalink: /what-ufo-sightings-have-shaped-cyprus/
-  short_title: CyprusUFOs
+  short_title: Cyprus UFOs
 - basename: Eritrea_18740a
   title: Eritrea UFOs
   permalink: /what-ufos-have-been-reported-in/
@@ -1185,7 +1185,7 @@ next_link:
   title: Lesotho UAP
   permalink: /what-is-really-known-about-lesotho-ufos/
   short_title: Lesotho UAP
-date: '2026-05-31 04:19:31 '
+date: '2026-06-02 16:18:34 '
 header:
   og_image: /assets/images/Kiribati_3f57ad-overview-social.jpg
   preview_image: /assets/images/Kiribati_3f57ad-overview.webp
@@ -1215,7 +1215,7 @@ The stronger interpretation is mundane. Fact-checking and follow-up discussion p
 The Starbuck Island case is best classified as **debunked or very weakly supported**, not confirmed. It is a good example of a modern “map anomaly” claim: a remote satellite image, a suggestive shape, and an online audience willing to fill in the story. What is missing is the core evidence a UFO case would need: dated local witness testimony, multiple independent images, official recovery records, aviation or maritime reports, physical sampling, or a credible chain of custody.
 
 
-<img src="{{ "/assets/images/Kiribati_3f57ad-Illustration-1-light.svg" | relative_url }}" alt="What Is Really Known About Kiribati UFOs? illustration 1" data-theme-src-dark="{{ "/assets/images/Kiribati_3f57ad-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kiribati_3f57ad-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Kiribati_3f57ad-Illustration-1-dark.svg" | relative_url }}" alt="What Is Really Known About Kiribati UFOs? illustration 1" data-theme-src-dark="{{ "/assets/images/Kiribati_3f57ad-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kiribati_3f57ad-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What a Kiribati UFO chronology can honestly include
 
 A strict Kiribati chronology is short because the open record contains very few named, dateable incidents. A useful chronology therefore has to include the status of the evidence, not just the claim.
@@ -1244,7 +1244,7 @@ The **Phoenix Islands** are even less likely to generate ordinary public UFO rep
 This regional variation should shape any future investigation. A report from South Tarawa can be checked against local witnesses and aviation activity. A report from Kiritimati can be compared with airport operations and satellite tracks. A claim about Starbuck or another remote southern island needs imagery provenance, expedition records, and conservation access logs before it deserves much weight.
 
 
-<img src="{{ "/assets/images/Kiribati_3f57ad-Illustration-2-light.svg" | relative_url }}" alt="What Is Really Known About Kiribati UFOs? illustration 2" data-theme-src-dark="{{ "/assets/images/Kiribati_3f57ad-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kiribati_3f57ad-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Kiribati_3f57ad-Illustration-2-dark.svg" | relative_url }}" alt="What Is Really Known About Kiribati UFOs? illustration 2" data-theme-src-dark="{{ "/assets/images/Kiribati_3f57ad-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kiribati_3f57ad-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Official records and why aviation context matters
 
 Kiribati does have official aviation infrastructure and oversight, but there is no public evidence that it maintains a dedicated UFO archive. The Ministry of Information, Communications and Transport’s 2025–2028 strategic plan describes Bonriki International Airport on South Tarawa and Cassidy International Airport on Kiritimati as the two international airports, with 19 smaller outer-island airports requiring upgrades. It also notes priorities such as runway resurfacing, lighting upgrades, communication systems, and safety improvements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mict.gov.ki/sites/default/files/publications/MSP%202025-28_FINAL_19%20June%202025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mict.gov.ki">[Ministry of Info &amp; Transport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mict.gov.ki</span><span class="citation-popover-snippet">Ministry of Info &amp; Transport</span></span></span>
@@ -1278,7 +1278,7 @@ A fair evidence split for Kiribati is simple but important.
 **Debunked or weak claims:** the Starbuck Island “crashed UFO” belongs here. The claim is based on remote image interpretation, spread through viral channels, and is plausibly explained as a mundane structure, remnant, or image feature rather than a crashed craft. It lacks official confirmation and lacks on-site evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.snopes.com/articles/356725/what-is-on-starbuck-island/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: snopes.com">[Snopes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">snopes.com</span><span class="citation-popover-title">what is on starbuck island</span><span class="citation-popover-snippet">what is on starbuck island</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/whatisthisthing/comments/eoj6gd/while_browsing_google_earth_i_stumble_upon_an/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[YourTango This split may feel unsatisfying]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>, but it is more valuable than a dramatic list of weak anecdotes. For Kiribati, the main story is not a hidden wave of confirmed cases; it is how a remote Pacific geography can turn sparse data into speculation.
 
 
-<img src="{{ "/assets/images/Kiribati_3f57ad-Illustration-3-light.svg" | relative_url }}" alt="What Is Really Known About Kiribati UFOs? illustration 3" data-theme-src-dark="{{ "/assets/images/Kiribati_3f57ad-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kiribati_3f57ad-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Kiribati_3f57ad-Illustration-3-dark.svg" | relative_url }}" alt="What Is Really Known About Kiribati UFOs? illustration 3" data-theme-src-dark="{{ "/assets/images/Kiribati_3f57ad-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kiribati_3f57ad-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to assess future Kiribati UFO reports
 
 A future Kiribati sighting should be judged by the same standards used for stronger UAP investigations elsewhere, but with local geography in mind. NASA’s UAP study emphasised the need for rigorous, evidence-based methods and better data collection, while U.S. defence reporting has repeatedly stressed that many cases remain unresolved because the available data are limited or incomplete rather than because they prove extraordinary origins. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">department of defense releases the annual report on unidentified anomalous phen</span><span class="citation-popover-snippet">department of defense releases the annual report on unidentified anomalous phen</span></span></span>

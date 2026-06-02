@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /belgium-5cb4c9-index/
 description: Focused pages that expand on What Really Happened During Belgium's....
-date: '2026-05-31'
+date: '2026-06-02'
 layout: default
 parent_basename: Belgium_5cb4c9
 parent_title: What Really Happened During Belgium's...

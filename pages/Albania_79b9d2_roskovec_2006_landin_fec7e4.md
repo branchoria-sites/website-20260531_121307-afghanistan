@@ -239,7 +239,7 @@ prev_link:
   permalink: /post-1990-sightings/
   short_title: Post 1990 Sightings
   heading_title: What Are the Most Documented Albanian UFO Events Since 1990?
-date: '2026-05-31 03:54:37 '
+date: '2026-06-02 15:46:40 '
 header:
   og_image: /assets/images/Albania_79b9d2_roskovec_2006_landin_fec7e4-Illustration-1-social.jpg
   preview_image: /assets/images/Albania_79b9d2_roskovec_2006_landin_fec7e4-Illustration-1.webp
@@ -251,7 +251,7 @@ image: /assets/images/Albania_79b9d2_roskovec_2006_landin_fec7e4-Illustration-1-
 The 2006 **Roskovec landing incident** is the most widely discussed alleged UFO encounter in [Albania]({{ 'albania/' | relative_url }})’s modern record, largely because it combines witness testimony, claimed physical traces on the ground, and subsequent media attention. It is commonly described in Albanian-language sources and UFO lists as an event where a craft purportedly descended and briefly touched down in the small town of Roskovec, near Fier, on the evening of **4 May 2006**, before disappearing as abruptly as it appeared. Public accounts emphasise dramatic environmental effects, childhood witness statements, and the later release of photographs—yet the episode remains **unverified by independent scientific investigation, official documentation, or corroborating sensory data**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Albania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Albania</span><span class="citation-popover-snippet">UFO sightings in Albania</span></span></span>
 
 
-<img src="{{ "/assets/images/Albania_79b9d2_roskovec_2006_landin_fec7e4-Illustration-1-light.svg" | relative_url }}" alt="Roskovec 2006 illustration 1" data-theme-src-dark="{{ "/assets/images/Albania_79b9d2_roskovec_2006_landin_fec7e4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Albania_79b9d2_roskovec_2006_landin_fec7e4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Albania_79b9d2_roskovec_2006_landin_fec7e4-Illustration-1-dark.svg" | relative_url }}" alt="Roskovec 2006 illustration 1" data-theme-src-dark="{{ "/assets/images/Albania_79b9d2_roskovec_2006_landin_fec7e4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Albania_79b9d2_roskovec_2006_landin_fec7e4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This report examines the **witness accounts and evidence claims** associated with the Roskovec incident, distinguishing what is reported, what remains unexamined, and where claims enter the realm of local legend or folklore rather than substantiated documentation.
 
 ## What Witnesses and Music Reports Claim Happened
@@ -276,7 +276,7 @@ A central piece of the Roskovec narrative in online accounts is the **photograph
 * The photographs have circulated in Albanian media reports, but **no high‑resolution verified scan, expert analysis, or contextual metadata** is publicly available to assess whether the marks are unusual, old, caused by ordinary vehicles, or the result of environmental wear. In other words, the claimed landing marks have **not been subjected to forensic examination**.
 
 
-<img src="{{ "/assets/images/Albania_79b9d2_roskovec_2006_landin_fec7e4-Illustration-2-light.svg" | relative_url }}" alt="Roskovec 2006 illustration 2" data-theme-src-dark="{{ "/assets/images/Albania_79b9d2_roskovec_2006_landin_fec7e4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Albania_79b9d2_roskovec_2006_landin_fec7e4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Albania_79b9d2_roskovec_2006_landin_fec7e4-Illustration-2-dark.svg" | relative_url }}" alt="Roskovec 2006 illustration 2" data-theme-src-dark="{{ "/assets/images/Albania_79b9d2_roskovec_2006_landin_fec7e4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Albania_79b9d2_roskovec_2006_landin_fec7e4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Evaluation of Witness Reliability
 
 When examining witness evidence in an alleged physical encounter like Roskovec, several factors shape the assessment of reliability:
@@ -304,7 +304,7 @@ The **three double‑banded black circles** photographed on the Roskovec road ar
 Without such analysis, the marks remain **unverified and ambiguous** rather than confirmed evidence of a landing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Albania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Albania</span><span class="citation-popover-snippet">UFO sightings in Albania</span></span></span>
 
 
-<img src="{{ "/assets/images/Albania_79b9d2_roskovec_2006_landin_fec7e4-Illustration-3-light.svg" | relative_url }}" alt="Roskovec 2006 illustration 3" data-theme-src-dark="{{ "/assets/images/Albania_79b9d2_roskovec_2006_landin_fec7e4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Albania_79b9d2_roskovec_2006_landin_fec7e4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Albania_79b9d2_roskovec_2006_landin_fec7e4-Illustration-3-dark.svg" | relative_url }}" alt="Roskovec 2006 illustration 3" data-theme-src-dark="{{ "/assets/images/Albania_79b9d2_roskovec_2006_landin_fec7e4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Albania_79b9d2_roskovec_2006_landin_fec7e4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Media Follow‑Ups and Skepticism
 
 The Roskovec landing story has circulated primarily through Albanian online press, UFO interest sites, and social media reproductions. It has **not been adopted by mainstream scientific journals** or aviation authorities. Notably:

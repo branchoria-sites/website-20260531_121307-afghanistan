@@ -245,7 +245,7 @@ next_link:
   permalink: /warzone-sky/
   short_title: Warzone Sky
   heading_title: Why Syria's War Sky Creates UFO Reports
-date: '2026-05-31 04:33:33 '
+date: '2026-06-02 16:39:38 '
 header:
   og_image: /assets/images/Syrian_Arab_Republic_099887_official_us_uap_reco_a30ddb-Illustration-1-social.jpg
   preview_image: /assets/images/Syrian_Arab_Republic_099887_official_us_uap_reco_a30ddb-Illustration-1.webp
@@ -257,7 +257,7 @@ image: /assets/images/Syrian_Arab_Republic_099887_official_us_uap_reco_a30ddb-Il
 The strongest publicly documented UFO-related material connected to the [Syrian Arab Republic]({{ 'syrian-arab-republic/' | relative_url }}) does not come from civilian eyewitness archives or local investigative bodies. It comes from a narrow set of U.S. military records generated during operations over Syrian and Syria-adjacent airspace in the years after the rise of ISIS. Those records are significant because they include sensor footage, mission reports, official classification markings and later review by the Pentagon’s All-domain Anomaly Resolution Office (AARO), the body created to evaluate unidentified anomalous phenomena (UAP). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROAARO HomeOur team of experts leads the U.S. government&#x27;s efforts to address Unidentified Anomalous Phenomena (UAP) using a rigorous s...</span></span></span>
 
 
-<img src="{{ "/assets/images/Syrian_Arab_Republic_099887_official_us_uap_reco_a30ddb-Illustration-1-light.svg" | relative_url }}" alt="Official Records illustration 1" data-theme-src-dark="{{ "/assets/images/Syrian_Arab_Republic_099887_official_us_uap_reco_a30ddb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Syrian_Arab_Republic_099887_official_us_uap_reco_a30ddb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Syrian_Arab_Republic_099887_official_us_uap_reco_a30ddb-Illustration-1-dark.svg" | relative_url }}" alt="Official Records illustration 1" data-theme-src-dark="{{ "/assets/images/Syrian_Arab_Republic_099887_official_us_uap_reco_a30ddb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Syrian_Arab_Republic_099887_official_us_uap_reco_a30ddb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 At the same time, the Syrian files are often misunderstood. Public discussion frequently focuses on dramatic phrases such as “instant acceleration” or descriptions of spherical objects travelling at high speed. The actual records are more cautious. They confirm that trained military personnel observed objects they could not immediately identify. They do not confirm extraterrestrial craft, breakthrough propulsion or hostile intent. In several cases, the available material is too limited to determine what the object was, while key technical details remain classified or redacted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/1007707/dow-uap-pr051-syrian-uap-instant-acceleration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">DOW-UAP-PR051, &quot;Syrian UAP instant acceleration&quot;AARO assesses that this video, whose uploader-defined title is, “Syrian UAP instant accel...</span></span></span>
 
 ## The public record trail
@@ -329,7 +329,7 @@ The reported speed sounds impressive, but it is still an estimate recorded durin
 A speed estimate alone does not establish extraordinary performance. Military aircraft, missiles, drones and even some tracking artefacts can appear unusual depending on geometry, sensor mode and relative motion. The report itself presents the figure as part of the observer's account rather than as a final technical conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">e first tranche was released on May 8, 2026...</span><span class="citation-popover-meta">Published: May 8, 2026</span></span></span>(#endnote-4 "Snippet: U.S. Department of WarMisrep 9381202• Gentext (UAP Event Description): (SECRET//NOFORN). WHILE RTB AT 2153Z, 1.4a OBSERVED 1X PROB HC UAP")
 
 
-<img src="{{ "/assets/images/Syrian_Arab_Republic_099887_official_us_uap_reco_a30ddb-Illustration-2-light.svg" | relative_url }}" alt="Official Records illustration 2" data-theme-src-dark="{{ "/assets/images/Syrian_Arab_Republic_099887_official_us_uap_reco_a30ddb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Syrian_Arab_Republic_099887_official_us_uap_reco_a30ddb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Syrian_Arab_Republic_099887_official_us_uap_reco_a30ddb-Illustration-2-dark.svg" | relative_url }}" alt="Official Records illustration 2" data-theme-src-dark="{{ "/assets/images/Syrian_Arab_Republic_099887_official_us_uap_reco_a30ddb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Syrian_Arab_Republic_099887_official_us_uap_reco_a30ddb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The 2022 and 2024 unresolved Syria reports
 
 The lesser-known Syrian files are useful because they show how the U.S. system categorises unresolved observations.
@@ -384,7 +384,7 @@ In such an environment, an unidentified object does not begin as a mystery detac
 The challenge for investigators is therefore not proving that something was seen. The reports already establish that. The challenge is determining exactly what was seen when crucial range, radar, intelligence and platform data remain unavailable to the public.
 
 
-<img src="{{ "/assets/images/Syrian_Arab_Republic_099887_official_us_uap_reco_a30ddb-Illustration-3-light.svg" | relative_url }}" alt="Official Records illustration 3" data-theme-src-dark="{{ "/assets/images/Syrian_Arab_Republic_099887_official_us_uap_reco_a30ddb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Syrian_Arab_Republic_099887_official_us_uap_reco_a30ddb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Syrian_Arab_Republic_099887_official_us_uap_reco_a30ddb-Illustration-3-dark.svg" | relative_url }}" alt="Official Records illustration 3" data-theme-src-dark="{{ "/assets/images/Syrian_Arab_Republic_099887_official_us_uap_reco_a30ddb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Syrian_Arab_Republic_099887_official_us_uap_reco_a30ddb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What remains redacted or uncertain
 
 The biggest limitation of the Syrian UAP record is not lack of interest but lack of data.
@@ -504,6 +504,312 @@ For researchers examining the Syrian Arab Republic specifically, that distinctio
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
+</section>
+
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-e35499-what-do-syria-s-u-s-uap-files-say-syrian-arab-republic-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="official-records-e35499-what-do-syria-s-u-s-uap-files-say-syrian-arab-republic-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/83e30108942623654bdf.jpg' | relative_url }}" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-e35499-what-do-syria-s-u-s-uap-files-say-syrian-arab-republic-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="official-records-e35499-what-do-syria-s-u-s-uap-files-say-syrian-arab-republic-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-e35499-what-do-syria-s-u-s-uap-files-say-syrian-arab-republic-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="official-records-e35499-what-do-syria-s-u-s-uap-files-say-syrian-arab-republic-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-e35499-what-do-syria-s-u-s-uap-files-say-syrian-arab-republic-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="official-records-e35499-what-do-syria-s-u-s-uap-files-say-syrian-arab-republic-uap-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-e35499-what-do-syria-s-u-s-uap-files-say-syrian-arab-republic-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="official-records-e35499-what-do-syria-s-u-s-uap-files-say-syrian-arab-republic-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor"><img src="{{ '/assets/images/marketplace-covers/e41318866c9981fbe43f.jpg' | relative_url }}" alt="Listing image for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-e35499-what-do-syria-s-u-s-uap-files-say-syrian-arab-republic-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="official-records-e35499-what-do-syria-s-u-s-uap-files-say-syrian-arab-republic-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-e35499-what-do-syria-s-u-s-uap-files-say-syrian-arab-republic-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="official-records-e35499-what-do-syria-s-u-s-uap-files-say-syrian-arab-republic-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-e35499-what-do-syria-s-u-s-uap-files-say-syrian-arab-republic-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="official-records-e35499-what-do-syria-s-u-s-uap-files-say-syrian-arab-republic-uap-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-e35499-what-do-syria-s-u-s-uap-files-say-syrian-arab-republic-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="official-records-e35499-what-do-syria-s-u-s-uap-files-say-syrian-arab-republic-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1f2a324bb9bd018b419d.jpg' | relative_url }}" alt="Listing image for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-e35499-what-do-syria-s-u-s-uap-files-say-syrian-arab-republic-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="official-records-e35499-what-do-syria-s-u-s-uap-files-say-syrian-arab-republic-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-e35499-what-do-syria-s-u-s-uap-files-say-syrian-arab-republic-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="official-records-e35499-what-do-syria-s-u-s-uap-files-say-syrian-arab-republic-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-e35499-what-do-syria-s-u-s-uap-files-say-syrian-arab-republic-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="official-records-e35499-what-do-syria-s-u-s-uap-files-say-syrian-arab-republic-uap-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-e35499-what-do-syria-s-u-s-uap-files-say-syrian-arab-republic-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="official-records-e35499-what-do-syria-s-u-s-uap-files-say-syrian-arab-republic-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-e35499-what-do-syria-s-u-s-uap-files-say-syrian-arab-republic-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="official-records-e35499-what-do-syria-s-u-s-uap-files-say-syrian-arab-republic-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-e35499-what-do-syria-s-u-s-uap-files-say-syrian-arab-republic-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="official-records-e35499-what-do-syria-s-u-s-uap-files-say-syrian-arab-republic-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for uap poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: uap poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-e35499-what-do-syria-s-u-s-uap-files-say-syrian-arab-republic-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="official-records-e35499-what-do-syria-s-u-s-uap-files-say-syrian-arab-republic-uap-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=uap+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-e35499-what-do-syria-s-u-s-uap-files-say-syrian-arab-republic-uap-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="uap poster -book -books" data-ebay-reference="official-records-e35499-what-do-syria-s-u-s-uap-files-say-syrian-arab-republic-uap-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i < languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
+  }
+  function inferFromTimezone() {
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
+    for (var i = 0; i < timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return '';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] || '';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();
+</script>
+  <script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
+  if (!sections.length) return;
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
+  }
+  function flagClass(marketId) {
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  function availableMarkets(section) {
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
+    }
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
+    });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
+  });
+})();
+</script>
 </section>
 
 ## Endnotes

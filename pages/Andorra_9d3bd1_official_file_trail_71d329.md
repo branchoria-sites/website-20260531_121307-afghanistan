@@ -245,7 +245,7 @@ next_link:
   permalink: /terrain-effects/
   short_title: Terrain Effects
   heading_title: Why Andorran Mountain Lights Can Fool Witnesses
-date: '2026-05-31 03:55:58 '
+date: '2026-06-02 15:48:46 '
 header:
   og_image: /assets/images/Andorra_9d3bd1_official_file_trail_71d329-Illustration-1-social.jpg
   preview_image: /assets/images/Andorra_9d3bd1_official_file_trail_71d329-Illustration-1.webp
@@ -257,7 +257,7 @@ image: /assets/images/Andorra_9d3bd1_official_file_trail_71d329-Illustration-1-s
 Anyone looking for an “official [Andorra]({{ 'what-is-actually-known-about-andorra/' | relative_url }}) UFO archive” quickly runs into a practical problem: there is no widely known Andorran equivalent to France’s GEIPAN or Spain’s declassified military UFO collections. That does not mean unusual aerial reports connected to Andorra are undocumented. In practice, the strongest evidence trail usually runs through neighbouring states, especially southern France and Catalonia. Because Andorra sits in the eastern Pyrenees between those regions, unusual lights, atmospheric events, aircraft anomalies or alleged UFOs are often recorded in French or Spanish systems rather than in a dedicated Andorran repository. Geipan <span class="citation-chip-wrap"><a class="citation-chip" href="https://english.elpais.com/cat/2016/11/11/catalunya/1478881679_067169.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.elpais.com">[2EL PAÍS English]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.elpais.com</span><span class="citation-popover-snippet">Over 1,953 pages provide information...Read more...</span></span></span>
 
 
-<img src="{{ "/assets/images/Andorra_9d3bd1_official_file_trail_71d329-Illustration-1-light.svg" | relative_url }}" alt="Official Files illustration 1" data-theme-src-dark="{{ "/assets/images/Andorra_9d3bd1_official_file_trail_71d329-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Andorra_9d3bd1_official_file_trail_71d329-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Andorra_9d3bd1_official_file_trail_71d329-Illustration-1-dark.svg" | relative_url }}" alt="Official Files illustration 1" data-theme-src-dark="{{ "/assets/images/Andorra_9d3bd1_official_file_trail_71d329-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Andorra_9d3bd1_official_file_trail_71d329-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This cross-border structure matters more in Andorra than in larger countries. A bright object above the Pyrenees can easily be visible from Andorra, Perpignan, Girona or Barcelona at the same time. Investigators therefore rely on regional triangulation: radar records, airport logs, military reports, police statements, astronomical checks and witness comparisons across borders. For Andorra, the most useful official context is often not an Andorran file at all, but a French GEIPAN case or a Spanish Ministry of Defence document that overlaps geographically with the Pyrenean corridor.
 
 ## Why Andorra Lacks a Dedicated Public UFO Archive
@@ -311,9 +311,6 @@ Since 2008, GEIPAN has used a more detailed method that weighs both the “weird
 
 This is highly relevant to Andorra because many Pyrenean sightings are vulnerable to ordinary misidentifications. Mountain horizons distort distances and apparent motion. Atmospheric inversions, astronomical objects, aircraft lights and military exercises can appear unusual in valleys with limited visual reference points. GEIPAN’s framework is designed specifically to separate those explanations from genuinely unresolved cases.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eVdjU0ZZEGE" title="НЛО СУЩЕСТВУЕТ! СЕКРЕТНЫЕ АРХИВЫ, КОТОРЫЕ ПУГАЮТ ДАЖЕ ВОЕННЫХ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eVdjU0ZZEGE" target="_blank" rel="noopener noreferrer">НЛО СУЩЕСТВУЕТ! СЕКРЕТНЫЕ АРХИВЫ, КОТОРЫЕ ПУГАЮТ ДАЖЕ ВОЕННЫХ</a></p><p class="youtube-embed-meta">Channel: Протоистория с Николаем Субботиным</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eVdjU0ZZEGE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eVdjU0ZZEGE">Open on YouTube</a></p></div></div></div>
-
 ### Geographic usefulness beyond France itself
 
 GEIPAN’s archive is technically French, but the Pyrenees are an observationally shared environment. A high-altitude object seen from Andorra may also generate reports in Occitanie or the French Catalan region around Perpignan.
@@ -355,7 +352,7 @@ For Andorra research, the Catalonia-related files are especially important becau
 Several features make the Spanish files unusually useful:
 
 
-<img src="{{ "/assets/images/Andorra_9d3bd1_official_file_trail_71d329-Illustration-2-light.svg" | relative_url }}" alt="Official Files illustration 2" data-theme-src-dark="{{ "/assets/images/Andorra_9d3bd1_official_file_trail_71d329-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Andorra_9d3bd1_official_file_trail_71d329-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Andorra_9d3bd1_official_file_trail_71d329-Illustration-2-dark.svg" | relative_url }}" alt="Official Files illustration 2" data-theme-src-dark="{{ "/assets/images/Andorra_9d3bd1_official_file_trail_71d329-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Andorra_9d3bd1_official_file_trail_71d329-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### They preserve investigative process, not just rumours
 
 Many UFO stories circulating online reduce incidents to dramatic summaries. The Spanish military files often preserve the less glamorous but more important details:
@@ -382,9 +379,6 @@ Even though this was not an Andorran case, it demonstrates how regional sighting
 
 That same investigative logic would apply to many Andorran observations because the same skies, weather systems and aviation routes overlap across the eastern Pyrenees.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yIEfm0oDsmM" title="Craziest New UFO Files Apollo 11 &amp; 12: Forensic Expert Analysis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yIEfm0oDsmM" target="_blank" rel="noopener noreferrer">Craziest New UFO Files Apollo 11 &amp; 12: Forensic Expert Analysis</a></p><p class="youtube-embed-meta">Channel: Dr. G Explains</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yIEfm0oDsmM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yIEfm0oDsmM">Open on YouTube</a></p></div></div></div>
-
 ### The Spanish archive captures Cold War reporting habits
 
 Many surviving Spanish files emerged from an era when unusual aerial reports were filtered through military intelligence concerns rather than purely scientific curiosity.
@@ -406,7 +400,7 @@ For Andorra researchers, this is useful context. During the Cold War, unidentifi
 The result is that Spanish military records often document the state’s attempt to rule out strategic explanations before considering anything more exotic.
 
 
-<img src="{{ "/assets/images/Andorra_9d3bd1_official_file_trail_71d329-Illustration-3-light.svg" | relative_url }}" alt="Official Files illustration 3" data-theme-src-dark="{{ "/assets/images/Andorra_9d3bd1_official_file_trail_71d329-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Andorra_9d3bd1_official_file_trail_71d329-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Andorra_9d3bd1_official_file_trail_71d329-Illustration-3-dark.svg" | relative_url }}" alt="Official Files illustration 3" data-theme-src-dark="{{ "/assets/images/Andorra_9d3bd1_official_file_trail_71d329-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Andorra_9d3bd1_official_file_trail_71d329-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Pyrenees Problem: Shared Skies, Fragmented Records
 
 The strongest reason to study French and Spanish files together is geographical rather than ideological. The Pyrenees create a single observational environment divided by national borders.
@@ -435,9 +429,6 @@ For Andorra specifically, that means evidence often survives indirectly. Researc
 * and weather conditions.
 
 The best-supported Andorran UFO discussions therefore tend to be regional reconstruction exercises rather than isolated national mysteries.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P0N6aMczu78" title="Why No One&#x27;s Allowed To Explore The Antarctic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P0N6aMczu78" target="_blank" rel="noopener noreferrer">Why No One&#x27;s Allowed To Explore The Antarctic</a></p><p class="youtube-embed-meta">Channel: TheRichest</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P0N6aMczu78" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P0N6aMczu78">Open on YouTube</a></p></div></div></div>
 
 ## What the Evidence Trail Actually Suggests
 

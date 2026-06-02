@@ -411,9 +411,9 @@ sibling_links:
   permalink: /are-there-any-real-mali-ufo-cases/
   short_title: Mali UFOs
 - basename: Montenegro_479fb3
-  title: MontenegroUFOs
+  title: Montenegro UFOs
   permalink: /are-ufos-really-seen-over-montenegro/
-  short_title: MontenegroUFOs
+  short_title: Montenegro UFOs
 - basename: Argentina_354bf9
   title: Argentina OVNI
   permalink: /argentinas-ufo-stories-records-and/
@@ -427,17 +427,17 @@ sibling_links:
   permalink: /bolivia-plurinational-state-of/
   short_title: Bolivia UFOs
 - basename: Bosnia_and_Herzegovi_552c9f
-  title: BosniaUFOs
+  title: Bosnia UFOs
   permalink: /bosnia-and-herzegovina/
-  short_title: BosniaUFOs
+  short_title: Bosnia UFOs
 - basename: Brunei_Darussalam_eab94a
   title: Brunei UAP
   permalink: /brunei-darussalam/
   short_title: Brunei UAP
 - basename: Burkina_Faso_f61e5f
-  title: BurkinaUFO
+  title: Burkina UFO
   permalink: /burkina-faso/
-  short_title: BurkinaUFO
+  short_title: Burkina UFO
 - basename: Central_African_Repu_358788
   title: CAR UFOs
   permalink: /central-african-republic/
@@ -447,21 +447,21 @@ sibling_links:
   permalink: /cote-d-ivoire/
   short_title: Ivoire UFOs
 - basename: Czechia_045e2f
-  title: CzechUFOs
+  title: Czech UFOs
   permalink: /czechia/
-  short_title: CzechUFOs
+  short_title: Czech UFOs
 - basename: Democratic_People_s_808714
-  title: DPRKUFOs
+  title: DPRK UFOs
   permalink: /democratic-people-s-republic-of-korea/
-  short_title: DPRKUFOs
+  short_title: DPRK UFOs
 - basename: Democratic_Republic_679868
   title: DRC UFOs
   permalink: /democratic-republic-of-the-congo/
   short_title: DRC UFOs
 - basename: Djibouti_60a8b0
-  title: DjiboutiUAP
+  title: Djibouti UAP
   permalink: /djibouti/
-  short_title: DjiboutiUAP
+  short_title: Djibouti UAP
 - basename: Dominica_bc1cd4
   title: Dominica UAP
   permalink: /does-dominica-have-real-ufo-cases/
@@ -475,9 +475,9 @@ sibling_links:
   permalink: /dominican-republic/
   short_title: Dominican UAP
 - basename: Equatorial_Guinea_ae2c01
-  title: EquatorialGuineaUFOs
+  title: Equatorial Guinea UFOs
   permalink: /equatorial-guinea/
-  short_title: EquatorialGuineaUFOs
+  short_title: Equatorial Guinea UFOs
 - basename: Fiji_bbb7ef
   title: Fiji UFOs
   permalink: /fiji/
@@ -487,21 +487,21 @@ sibling_links:
   permalink: /finland/
   short_title: Finland UFOs
 - basename: Ghana_317dba
-  title: GhanaUFOs
+  title: Ghana UFOs
   permalink: /ghana/
-  short_title: GhanaUFOs
+  short_title: Ghana UFOs
 - basename: Comoros_e5bb59
-  title: ComorosUFOs
+  title: Comoros UFOs
   permalink: /have-ufos-really-been-seen-over-comoros/
-  short_title: ComorosUFOs
+  short_title: Comoros UFOs
 - basename: Chile_349507
-  title: ChileUFOs
+  title: Chile UFOs
   permalink: /how-chile-investigates-ufos-and-aerial/
-  short_title: ChileUFOs
+  short_title: Chile UFOs
 - basename: France_e3772a
-  title: FranceUFOs
+  title: France UFOs
   permalink: /how-france-investigates-and-archives-ufo/
-  short_title: FranceUFOs
+  short_title: France UFOs
 - basename: Iran_Islamic_Republi_94f9ee
   title: Iran UFOs
   permalink: /iran-islamic-republic-of/
@@ -519,9 +519,9 @@ sibling_links:
   permalink: /madagascars-ufo-record-famous-case-thin/
   short_title: Madagascar UFOs
 - basename: Maldives_213cb2
-  title: MaldivesUFOs
+  title: Maldives UFOs
   permalink: /maldives/
-  short_title: MaldivesUFOs
+  short_title: Maldives UFOs
 - basename: Micronesia_Federated_30e9e8
   title: Micronesia UFOs
   permalink: /micronesia-federated-states-of/
@@ -595,9 +595,9 @@ sibling_links:
   permalink: /turkiye/
   short_title: Türkiye UFOs
 - basename: Luxembourg_507672
-  title: LuxUFO
+  title: Lux UFO
   permalink: /uncovering-ufo-activity-across/
-  short_title: LuxUFO
+  short_title: Lux UFO
 - basename: Israel_4c197d
   title: Israel UFOs
   permalink: /uncovering-ufo-phenomena-across-israel/
@@ -623,17 +623,17 @@ sibling_links:
   permalink: /venezuela-bolivarian-republic-of/
   short_title: Venezuela UFOs
 - basename: Malawi_0ce65b
-  title: MalawiUFOs
+  title: Malawi UFOs
   permalink: /what-are-malawis-documented-ufos-and-sky/
-  short_title: MalawiUFOs
+  short_title: Malawi UFOs
 - basename: Belarus_027a12
   title: Belarus UFOs
   permalink: /what-belarus-ufo-reports-really-show/
   short_title: Belarus UFOs
 - basename: Brazil_37497a
-  title: BrazilUFOs
+  title: Brazil UFOs
   permalink: /what-brazils-ufo-records-reveal-about/
-  short_title: BrazilUFOs
+  short_title: Brazil UFOs
 - basename: Angola_a42522
   title: Angola UFOs
   permalink: /what-can-angolas-ufo-record-really-prove/
@@ -775,17 +775,17 @@ sibling_links:
   permalink: /what-do-ufo-reports-in-guinea-really/
   short_title: Guinea UFOs
 - basename: Bhutan_bb2254
-  title: BhutanUFOs
+  title: Bhutan UFOs
   permalink: /what-do-ufo-sightings-in-bhutan-really/
-  short_title: BhutanUFOs
+  short_title: Bhutan UFOs
 - basename: Botswana_180c89
   title: Botswana UFOs
   permalink: /what-does-botswanas-ufo-record-really/
   short_title: Botswana UFOs
 - basename: Ecuador_09f199
-  title: EcuadorUFOs
+  title: Ecuador UFOs
   permalink: /what-evidence-exists-for-ufos-in-ecuador/
-  short_title: EcuadorUFOs
+  short_title: Ecuador UFOs
 - basename: Georgia_9113c6
   title: Georgia UFOs
   permalink: /what-georgias-ufo-reports-reveal-about/
@@ -799,9 +799,9 @@ sibling_links:
   permalink: /what-greeces-ufo-records-reveal-about/
   short_title: Greece UFOs
 - basename: Guatemala_11760e
-  title: GuatemalaUFOs
+  title: Guatemala UFOs
   permalink: /what-guatemalas-ufo-reports-really/
-  short_title: GuatemalaUFOs
+  short_title: Guatemala UFOs
 - basename: Latvia_c5f5bb
   title: Latvia UFOs
   permalink: /what-has-latvia-really-seen-in-the-sky/
@@ -935,9 +935,9 @@ sibling_links:
   permalink: /what-lithuanias-ufo-reports-really-show/
   short_title: Lithuania UFOs
 - basename: Egypt_1c39ab
-  title: EgyptUFOs
+  title: Egypt UFOs
   permalink: /what-makes-egypt-a-hotspot-for-ufo/
-  short_title: EgyptUFOs
+  short_title: Egypt UFOs
 - basename: Italy_ad79ef
   title: Italy UFOs
   permalink: /what-makes-italys-ufo-record-unique-and/
@@ -1123,9 +1123,9 @@ sibling_links:
   permalink: /what-ufo-reports-survive-cabo-verde/
   short_title: Cabo Verde UFOs
 - basename: Cyprus_852add
-  title: CyprusUFOs
+  title: Cyprus UFOs
   permalink: /what-ufo-sightings-have-shaped-cyprus/
-  short_title: CyprusUFOs
+  short_title: Cyprus UFOs
 - basename: Eritrea_18740a
   title: Eritrea UFOs
   permalink: /what-ufos-have-been-reported-in/
@@ -1185,7 +1185,7 @@ next_link:
   title: Australia UFOs
   permalink: /what-really-happened-in-australias-ufo/
   short_title: Australia UFOs
-date: '2026-05-31 04:04:13 '
+date: '2026-06-02 15:56:07 '
 header:
   og_image: /assets/images/Belgium_5cb4c9-overview-social.jpg
   preview_image: /assets/images/Belgium_5cb4c9-overview.webp
@@ -1209,7 +1209,7 @@ Thousands of civilian witnesses also submitted sighting reports during this peri
 One of the most enduring images associated with the wave came from Petit‑Rechain near Liège — a photograph depicting a black triangular object with lights. This image was analysed by scientific institutions, including NASA and the Belgian Royal Military Academy, without conclusive identification. For years UFO researchers treated it as compelling evidence; however, the photographer later admitted he staged the image as a hoax, adding controversy to its evidential weight.[Wikipedia]
 
 
-<img src="{{ "/assets/images/Belgium_5cb4c9-Illustration-1-light.svg" | relative_url }}" alt="What Really Happened During Belgium&#x27;s... illustration 1" data-theme-src-dark="{{ "/assets/images/Belgium_5cb4c9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Belgium_5cb4c9-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Belgium_5cb4c9-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened During Belgium&#x27;s... illustration 1" data-theme-src-dark="{{ "/assets/images/Belgium_5cb4c9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Belgium_5cb4c9-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Investigations, Research Groups, and Government Response
 
 ### SOBEPS and Civilian Study
@@ -1232,7 +1232,7 @@ Sceptics and some scientific analyses offered alternative interpretations of the
 While the 1989–1990 events dominate Belgium’s UFO lore, reported sightings have continued into the 21st century. Belgian UFO reporting networks, such as the **UFO meldpunt België**, recorded **hundreds of sightings** in recent years, although many lack sufficient detail for rigorous evaluation and may involve misidentified aircraft, satellites (e.g., SpaceX’s “starlink” trains), drones, or atmospheric effects. Sightings in 2024 marked a significant decline compared to earlier years, highlighting the variability of reported phenomena over time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brusselstimes.com/belgium/1375246/ufo-sightings-drop-in-belgium-unexplained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brusselstimes.com">[The Brussels Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brusselstimes.com</span><span class="citation-popover-title">The Brussels Times UFO sightings drop in Belgium &#x27;unexplained</span><span class="citation-popover-snippet">The Brussels TimesUFO sightings drop in Belgium &#x27;unexplained&#x27;January 2, 2025...</span><span class="citation-popover-meta">Published: January 2, 2025</span></span></span>
 
 
-<img src="{{ "/assets/images/Belgium_5cb4c9-Illustration-2-light.svg" | relative_url }}" alt="What Really Happened During Belgium&#x27;s... illustration 2" data-theme-src-dark="{{ "/assets/images/Belgium_5cb4c9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Belgium_5cb4c9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Belgium_5cb4c9-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened During Belgium&#x27;s... illustration 2" data-theme-src-dark="{{ "/assets/images/Belgium_5cb4c9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Belgium_5cb4c9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Cultural Resonance and Legacy
 
 The Belgian UFO wave has left a notable imprint on cultural memory within Belgium and abroad. It inspired documentary treatments, numerous internet retrospectives, and remains a staple topic among UFO enthusiasts. A roadside memorial to a 1955 Belgian UFO claim existed until its removal in 2025 at the family’s request, indicating the local folkloric dimensions such phenomena can acquire over decades.[The Times]
@@ -1253,14 +1253,14 @@ The Belgian UFO wave has left a notable imprint on cultural memory within Belgiu
 * **Mass sighting totals** vary widely depending on criteria for inclusion and timing of reports, with some retrospective compilations appearing unreliable due to delayed reporting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nowdeclassified.com/incidents/belgian-ufo-wave-1990" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nowdeclassified.com">[Now Declassified]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nowdeclassified.com</span><span class="citation-popover-snippet">Now DeclassifiedBelgian UFO Wave — NATO F-16 Pursuit — State Dept Declassified UAP File | Now DeclassifiedMarch 30, 1990...</span><span class="citation-popover-meta">Published: March 30, 1990</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dM2DFl1FJps" title="Unsolved Mysteries with Robert Stack - Season 7, Episode 21 - Full Episode" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dM2DFl1FJps" target="_blank" rel="noopener noreferrer">Unsolved Mysteries with Robert Stack - Season 7, Episode 21 - Full Episode</a></p><p class="youtube-embed-meta">Channel: FilmRise True Crime</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dM2DFl1FJps" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dM2DFl1FJps">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GegAPC_yEUM" title="The Unsolved Belgian UFO Wave Mystery Sightings from 1989 till 1991" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GegAPC_yEUM" target="_blank" rel="noopener noreferrer">The Unsolved Belgian UFO Wave Mystery Sightings from 1989 till 1991</a></p><p class="youtube-embed-meta">Channel: FindingUFO</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GegAPC_yEUM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GegAPC_yEUM">Open on YouTube</a></p></div></div></div>
 
 ### Unexplained vs Explainable
 
 Many reported sightings remain officially **unexplained** due to insufficient data, incomplete corroboration, or conflicting witness accounts. Explanations range from misidentified conventional aircraft (including experimental military flights) to natural phenomena and perceptual effects influenced by media attention. Scholarly debate continues about the proportion of sightings that can be attributed to known causes versus those that genuinely defy conventional categorisation.[Wikipedia]
 
 
-<img src="{{ "/assets/images/Belgium_5cb4c9-Illustration-3-light.svg" | relative_url }}" alt="What Really Happened During Belgium&#x27;s... illustration 3" data-theme-src-dark="{{ "/assets/images/Belgium_5cb4c9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Belgium_5cb4c9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Belgium_5cb4c9-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened During Belgium&#x27;s... illustration 3" data-theme-src-dark="{{ "/assets/images/Belgium_5cb4c9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Belgium_5cb4c9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Conclusion
 
 Belgium’s role in UFO/UAP history is anchored in the **1989–1990 wave of sightings**, an episode distinguished by widespread reporting, military engagement, and sustained debate. While no consensus exists on the ultimate nature of these phenomena, the Belgian case stands as a central example of how unidentified aerial reports can intersect with official records, media coverage, civilian research, scepticism, and cultural memory within a national context. The legacy persists in both contemporary reporting patterns and ongoing interest from researchers and the general public.[Wikipedia]

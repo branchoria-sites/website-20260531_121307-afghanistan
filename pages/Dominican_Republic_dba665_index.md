@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /dominican-republic-dba665-index/
 description: Focused pages that expand on Dominican Republic.
-date: '2026-05-31'
+date: '2026-06-02'
 layout: default
 parent_basename: Dominican_Republic_dba665
 parent_title: Dominican Republic

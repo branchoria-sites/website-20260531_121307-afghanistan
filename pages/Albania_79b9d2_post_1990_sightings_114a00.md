@@ -245,7 +245,7 @@ next_link:
   permalink: /roskovec-2006/
   short_title: Roskovec 2006
   heading_title: Did a UFO Land in Roskovec in 2006?
-date: '2026-05-31 03:54:26 '
+date: '2026-06-02 15:46:11 '
 header:
   og_image: /assets/images/Albania_79b9d2_post_1990_sightings_114a00-Illustration-1-social.jpg
   preview_image: /assets/images/Albania_79b9d2_post_1990_sightings_114a00-Illustration-1.webp
@@ -257,7 +257,7 @@ image: /assets/images/Albania_79b9d2_post_1990_sightings_114a00-Illustration-1-s
 Post-1990 Albanian UFO reporting is less a story of hidden state archives than a story of television-era media, local testimony and unresolved ambiguity. After the fall of communism, [Albania]({{ 'albania/' | relative_url }})’s press environment changed rapidly: private television channels expanded, regional newspapers multiplied and unusual local incidents could suddenly become national stories. Within that new media landscape, a handful of UFO cases gained unusual visibility, especially the Roskovec incident of 2006 and the Tirana lights reported in 2010. Yet the same openness that allowed these stories to circulate also exposed their evidential limits. Most reports relied on eyewitness recollection, local journalists and repeated retellings rather than radar data, laboratory analysis or transparent official investigation files. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Albania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Albania</span><span class="citation-popover-snippet">UFO sightings in Albania</span></span></span>
 
 
-<img src="{{ "/assets/images/Albania_79b9d2_post_1990_sightings_114a00-Illustration-1-light.svg" | relative_url }}" alt="Post 1990 Sightings illustration 1" data-theme-src-dark="{{ "/assets/images/Albania_79b9d2_post_1990_sightings_114a00-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Albania_79b9d2_post_1990_sightings_114a00-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Albania_79b9d2_post_1990_sightings_114a00-Illustration-1-dark.svg" | relative_url }}" alt="Post 1990 Sightings illustration 1" data-theme-src-dark="{{ "/assets/images/Albania_79b9d2_post_1990_sightings_114a00-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Albania_79b9d2_post_1990_sightings_114a00-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 What makes these cases important inside Albania’s UFO history is not proof of extraterrestrial activity, but the way they reveal the interaction between media amplification, public belief and weak verification structures. The most documented Albanian UFO events since 1990 are therefore best understood as public-media phenomena: highly memorable incidents that achieved cultural visibility without achieving evidential closure.
 
 ## Why Albanian UFO Reporting Changed After 1990
@@ -371,7 +371,7 @@ This created a feedback loop:
 That cycle became a defining feature of modern Albanian UFO reporting.
 
 
-<img src="{{ "/assets/images/Albania_79b9d2_post_1990_sightings_114a00-Illustration-2-light.svg" | relative_url }}" alt="Post 1990 Sightings illustration 2" data-theme-src-dark="{{ "/assets/images/Albania_79b9d2_post_1990_sightings_114a00-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Albania_79b9d2_post_1990_sightings_114a00-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Albania_79b9d2_post_1990_sightings_114a00-Illustration-2-dark.svg" | relative_url }}" alt="Post 1990 Sightings illustration 2" data-theme-src-dark="{{ "/assets/images/Albania_79b9d2_post_1990_sightings_114a00-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Albania_79b9d2_post_1990_sightings_114a00-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Smaller Post-1990 Cases Often Followed the Same Pattern
 
 Beyond Roskovec and Tirana, Albania’s post-1990 UFO record contains scattered reports from coastal areas, military personnel and small towns. One example repeatedly cited in Albanian UFO summaries concerns a 2007 sighting near Seman in Fier County, where coast guard personnel reportedly observed a brightly coloured stationary object over the sea horizon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Top_Albania_Radio" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Top Albania Radio</span><span class="citation-popover-snippet">Top Albania Radio</span></span></span>
@@ -414,7 +414,7 @@ Television interviews also captured emotional immediacy:
 These details help historians understand how extraordinary claims circulated within Albanian society during the post-communist transition period.
 
 
-<img src="{{ "/assets/images/Albania_79b9d2_post_1990_sightings_114a00-Illustration-3-light.svg" | relative_url }}" alt="Post 1990 Sightings illustration 3" data-theme-src-dark="{{ "/assets/images/Albania_79b9d2_post_1990_sightings_114a00-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Albania_79b9d2_post_1990_sightings_114a00-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Albania_79b9d2_post_1990_sightings_114a00-Illustration-3-dark.svg" | relative_url }}" alt="Post 1990 Sightings illustration 3" data-theme-src-dark="{{ "/assets/images/Albania_79b9d2_post_1990_sightings_114a00-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Albania_79b9d2_post_1990_sightings_114a00-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### What Albanian Media Usually Could Not Do
 
 At the same time, most outlets lacked the resources or institutional habits needed for technical investigation. Public reports rarely included:

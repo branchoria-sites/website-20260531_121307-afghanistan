@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /yemen-ac33d6-index/
 description: Focused pages that expand on What Is Really in Yemen's UFO Record?.
-date: '2026-05-31'
+date: '2026-06-02'
 layout: default
 parent_basename: Yemen_ac33d6
 parent_title: What Is Really in Yemen's UFO Record?

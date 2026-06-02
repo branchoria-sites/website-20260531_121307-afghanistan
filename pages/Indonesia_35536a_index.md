@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /indonesia-35536a-index/
 description: Focused pages that expand on What Indonesia's UFO Record Really Shows.
-date: '2026-05-31'
+date: '2026-06-02'
 layout: default
 parent_basename: Indonesia_35536a
 parent_title: What Indonesia's UFO Record Really Shows

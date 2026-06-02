@@ -239,7 +239,7 @@ next_link:
   permalink: /bouamama-1958/
   short_title: Bouamama 1958
   heading_title: How Credible Is the 1958 Bouamama UFO Encounter?
-date: '2026-05-31 03:54:56 '
+date: '2026-06-02 15:47:30 '
 header:
   og_image: /assets/images/Algeria_bd6acc_1952_ufo_wave_99123d-Illustration-1-social.jpg
   preview_image: /assets/images/Algeria_bd6acc_1952_ufo_wave_99123d-Illustration-1.webp
@@ -251,7 +251,7 @@ image: /assets/images/Algeria_bd6acc_1952_ufo_wave_99123d-Illustration-1-social.
 The 1952 [Algeria]({{ 'algeria/' | relative_url }}) UFO wave was not a single dramatic incident but a short cluster of unusual aerial reports spread across northern Algeria during August 1952. The most discussed cases came from Constantine, Philippeville and Ain Sefra, and they became part of wider French colonial-era reporting on the international “flying saucer” wave of the early 1950s. What makes these Algerian sightings important is not proof of extraterrestrial craft, but the unusually traceable archival trail: newspaper references, intelligence summaries and surviving Project Blue Book records all preserved fragments of the events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">The project closed in 1969 and we have no...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1952-08-8773924-Constantine-Algeria.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:Project Blue Book report</span><span class="citation-popover-snippet">Project Blue Book report - 1952-08-8773924-Constantine-Algeria.pdf. English: Project Blue Book report - 1952-08-8773924-Constantine, Alge...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[Bluebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">The project closed in 1969 and we have no...Read more...</span></span></span>
 
 
-<img src="{{ "/assets/images/Algeria_bd6acc_1952_ufo_wave_99123d-Illustration-1-light.svg" | relative_url }}" alt="1952 UFO Wave illustration 1" data-theme-src-dark="{{ "/assets/images/Algeria_bd6acc_1952_ufo_wave_99123d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Algeria_bd6acc_1952_ufo_wave_99123d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Algeria_bd6acc_1952_ufo_wave_99123d-Illustration-1-dark.svg" | relative_url }}" alt="1952 UFO Wave illustration 1" data-theme-src-dark="{{ "/assets/images/Algeria_bd6acc_1952_ufo_wave_99123d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Algeria_bd6acc_1952_ufo_wave_99123d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The surviving evidence suggests a more restrained conclusion than later UFO mythology often implies. Most reports involved bright, fast-moving luminous objects, coloured trails and brief observations under night-sky conditions. Several descriptions strongly resemble meteors or bolides rather than structured vehicles. Yet the reports also reveal how rapidly unusual sky events spread across colonial North Africa in 1952, especially when multiple witnesses, dramatic colours and newspaper circulation combined to amplify uncertainty.
 
 ## Chronology of the August 1952 Sightings
@@ -313,9 +313,6 @@ In August, the Perseid meteor shower is active across the Northern Hemisphere. A
 
 Northern Algeria’s varied terrain may also have affected perception. Coastal humidity near Philippeville could scatter coloured light differently from the clearer inland skies around Constantine or Ain Sefra.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
-
 ## Witness Descriptions and the Problem of Interpretation
 
 ### The recurring pattern of coloured trails
@@ -350,7 +347,7 @@ Importantly, witnesses in 1952 were not describing modern science-fiction imager
 Instead, the accounts centred on speed, brightness and transient visual effects.
 
 
-<img src="{{ "/assets/images/Algeria_bd6acc_1952_ufo_wave_99123d-Illustration-2-light.svg" | relative_url }}" alt="1952 UFO Wave illustration 2" data-theme-src-dark="{{ "/assets/images/Algeria_bd6acc_1952_ufo_wave_99123d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Algeria_bd6acc_1952_ufo_wave_99123d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Algeria_bd6acc_1952_ufo_wave_99123d-Illustration-2-dark.svg" | relative_url }}" alt="1952 UFO Wave illustration 2" data-theme-src-dark="{{ "/assets/images/Algeria_bd6acc_1952_ufo_wave_99123d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Algeria_bd6acc_1952_ufo_wave_99123d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The “disk” description
 
 The Philippeville object was described as a red disk, which later UFO writers sometimes treated as evidence of a classic flying saucer. But disk-shaped perception is common when observers view intensely bright objects at distance, especially near the horizon.
@@ -368,9 +365,6 @@ French-language newspapers in colonial North Africa first reported the events. I
 This chain of preservation matters for assessing reliability:
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jwyQkuzxp78" title="🛸 What Are UFOs Really? | Common Misidentifications, Shapes &amp; Scientific Explanations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jwyQkuzxp78" target="_blank" rel="noopener noreferrer">🛸 What Are UFOs Really? | Common Misidentifications, Shapes &amp; Scientific Explanations</a></p><p class="youtube-embed-meta">Channel: Smart Globe Guide</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jwyQkuzxp78" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jwyQkuzxp78">Open on YouTube</a></p></div></div></div>
-
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. The sightings were real reports made at the time.
@@ -383,6 +377,8 @@ That distinction is crucial. The existence of a CIA or Blue Book file does not m
 
 Project Blue Book itself ultimately concluded that the overwhelming majority of reports could be explained as conventional phenomena, even though some remained officially unidentified due to insufficient data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">The project closed in 1969 and we have no...Read more...</span></span></span>
 
+
+<img src="{{ "/assets/images/Algeria_bd6acc_1952_ufo_wave_99123d-Illustration-3-dark.svg" | relative_url }}" alt="1952 UFO Wave illustration 3" data-theme-src-dark="{{ "/assets/images/Algeria_bd6acc_1952_ufo_wave_99123d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Algeria_bd6acc_1952_ufo_wave_99123d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Meteor and Atmospheric Explanations
 
 ### Why the meteor hypothesis remains strongest
@@ -393,8 +389,6 @@ Observed featureMeteor compatibilityBright luminosityStrongRapid motionStrongCol
 
 The Ain Sefra account aligns especially closely with documented fireball meteor behaviour. The Philippeville report is somewhat more ambiguous because of the “disk” wording and larger witness group, but even there the greenish trail strongly points toward atmospheric ionisation effects.
 
-
-<img src="{{ "/assets/images/Algeria_bd6acc_1952_ufo_wave_99123d-Illustration-3-light.svg" | relative_url }}" alt="1952 UFO Wave illustration 3" data-theme-src-dark="{{ "/assets/images/Algeria_bd6acc_1952_ufo_wave_99123d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Algeria_bd6acc_1952_ufo_wave_99123d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why aircraft explanations are weaker
 
 Aircraft explanations are less convincing for several reasons:
@@ -418,9 +412,6 @@ Several limitations remain unavoidable:
 * Some surviving scans are partially degraded or fragmentary.
 
 As a result, the cases remain “unidentified” in the narrow historical sense that no formal contemporaneous technical solution survives in the archive. That is different from saying they are inexplicable.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bi0H_mkwTW0" title="All-domain Anomaly Resolution Office (AARO): a Duality in Mission Regarding UAPs (Sean Kirkpatrick)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bi0H_mkwTW0" target="_blank" rel="noopener noreferrer">All-domain Anomaly Resolution Office (AARO): a Duality in Mission Regarding UAPs (Sean Kirkpatrick)</a></p><p class="youtube-embed-meta">Channel: National Capital Area Skeptics (NCAS)</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bi0H_mkwTW0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bi0H_mkwTW0">Open on YouTube</a></p></div></div></div>
 
 ## Why the 1952 Wave Still Matters in Algerian UFO History
 

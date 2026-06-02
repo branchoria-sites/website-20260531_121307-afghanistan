@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /zambia-dcf25e-index/
 description: Focused pages that expand on What Has Zambia Really Seen in the Sky?.
-date: '2026-05-31'
+date: '2026-06-02'
 layout: default
 parent_basename: Zambia_dcf25e
 parent_title: What Has Zambia Really Seen in the Sky?

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /jamaica-5eedd6-index/
 description: Focused pages that expand on What Is Really In Jamaica's UFO Record?.
-date: '2026-05-31'
+date: '2026-06-02'
 layout: default
 parent_basename: Jamaica_5eedd6
 parent_title: What Is Really In Jamaica's UFO Record?

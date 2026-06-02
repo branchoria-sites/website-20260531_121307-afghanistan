@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /bhutan-bb2254-index/
 description: Focused pages that expand on What Do UFO Sightings in Bhutan Really....
-date: '2026-05-31'
+date: '2026-06-02'
 layout: default
 parent_basename: Bhutan_bb2254
 parent_title: What Do UFO Sightings in Bhutan Really...

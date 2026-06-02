@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /maldives-213cb2-index/
 description: Focused pages that expand on Maldives.
-date: '2026-05-31'
+date: '2026-06-02'
 layout: default
 parent_basename: Maldives_213cb2
 parent_title: Maldives

@@ -239,7 +239,7 @@ next_link:
   permalink: /records-gap-f983d7/
   short_title: Records Gap
   heading_title: Why Vanuatu Has So Few UFO Files
-date: '2026-05-31 04:37:05 '
+date: '2026-06-02 16:43:53 '
 header:
   og_image: /assets/images/Vanuatu_d16ad2_east_epi_lights_cbd834-Illustration-1-social.jpg
   preview_image: /assets/images/Vanuatu_d16ad2_east_epi_lights_cbd834-Illustration-1.webp
@@ -251,7 +251,7 @@ image: /assets/images/Vanuatu_d16ad2_east_epi_lights_cbd834-Illustration-1-socia
 The reports of strange lights seen from Epi Island are among the most interesting cases in [Vanuatu]({{ 'what-really-explains-vanuatus-strange/' | relative_url }}) because they sit directly beside a documented geological event. Unlike many UFO stories that rely entirely on witness testimony, the East Epi incidents occurred in a region where an active submarine volcano was producing observable surface effects, gas emissions, ash, discoloured water and floating pumice. The key question is therefore not whether people saw something unusual, but whether the reported lights can reasonably be linked to volcanic activity rather than an unidentified aerial phenomenon.
 
 
-<img src="{{ "/assets/images/Vanuatu_d16ad2_east_epi_lights_cbd834-Illustration-1-light.svg" | relative_url }}" alt="East Epi illustration 1" data-theme-src-dark="{{ "/assets/images/Vanuatu_d16ad2_east_epi_lights_cbd834-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vanuatu_d16ad2_east_epi_lights_cbd834-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Vanuatu_d16ad2_east_epi_lights_cbd834-Illustration-1-dark.svg" | relative_url }}" alt="East Epi illustration 1" data-theme-src-dark="{{ "/assets/images/Vanuatu_d16ad2_east_epi_lights_cbd834-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vanuatu_d16ad2_east_epi_lights_cbd834-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The evidence does not prove that every reported light around Epi was volcanic. However, East Epi provides one of the clearest examples in Vanuatu where unusual observations can be compared against independently verified natural activity. That makes it an important test case for assessing how UFO-style reports emerge in a volcanic island environment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vmgd.gov.vu/geohazards/volcanoes/east-epi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vmgd.gov.vu">[vmgd.gov.vu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vmgd.gov.vu</span><span class="citation-popover-snippet">lasting only a few hours on February...Read more...</span></span></span>
 
 ## The Reported Lights Around Epi
@@ -330,7 +330,7 @@ Scientists have documented electrical activity in some eruptions, including volc
 None of these mechanisms automatically explains every report. Their significance is that they provide known physical processes operating in the same location and time window as the sightings.
 
 
-<img src="{{ "/assets/images/Vanuatu_d16ad2_east_epi_lights_cbd834-Illustration-2-light.svg" | relative_url }}" alt="East Epi illustration 2" data-theme-src-dark="{{ "/assets/images/Vanuatu_d16ad2_east_epi_lights_cbd834-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vanuatu_d16ad2_east_epi_lights_cbd834-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Vanuatu_d16ad2_east_epi_lights_cbd834-Illustration-2-dark.svg" | relative_url }}" alt="East Epi illustration 2" data-theme-src-dark="{{ "/assets/images/Vanuatu_d16ad2_east_epi_lights_cbd834-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vanuatu_d16ad2_east_epi_lights_cbd834-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Timing Problem for UFO Explanations
 
 The strongest argument against treating the Epi lights as a compelling UFO case is the coincidence of timing.
@@ -389,7 +389,7 @@ With those elements, investigators could compare the reported light directly aga
 Without them, the case remains suggestive rather than conclusive.
 
 
-<img src="{{ "/assets/images/Vanuatu_d16ad2_east_epi_lights_cbd834-Illustration-3-light.svg" | relative_url }}" alt="East Epi illustration 3" data-theme-src-dark="{{ "/assets/images/Vanuatu_d16ad2_east_epi_lights_cbd834-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vanuatu_d16ad2_east_epi_lights_cbd834-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Vanuatu_d16ad2_east_epi_lights_cbd834-Illustration-3-dark.svg" | relative_url }}" alt="East Epi illustration 3" data-theme-src-dark="{{ "/assets/images/Vanuatu_d16ad2_east_epi_lights_cbd834-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vanuatu_d16ad2_east_epi_lights_cbd834-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why East Epi Matters Within Vanuatu's UFO Record
 
 East Epi is important not because it offers one of Vanuatu's strongest unexplained UFO cases, but because it demonstrates how unusual sightings can intersect with a documented natural event.

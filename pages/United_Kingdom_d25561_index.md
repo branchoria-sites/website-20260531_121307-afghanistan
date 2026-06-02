@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /united-kingdom-d25561-index/
 description: Focused pages that expand on United Kingdom.
-date: '2026-05-31'
+date: '2026-06-02'
 layout: default
 parent_basename: United_Kingdom_d25561
 parent_title: United Kingdom
@@ -19,6 +19,6 @@ parent_permalink: /united-kingdom/
 The following pages expand on the main **[United Kingdom]({{ '/united-kingdom/' | relative_url }})** page and cover its key branches in more detail.
 
 - [Calvine]({{ '/calvine/' | relative_url }})
-- [MoD Files]({{ '/mod-files/' | relative_url }})
+- [Mo D Files]({{ '/mo-d-files/' | relative_url }})
 - [Rendlesham]({{ '/rendlesham/' | relative_url }})
 - [Welsh Cases]({{ '/welsh-cases/' | relative_url }})

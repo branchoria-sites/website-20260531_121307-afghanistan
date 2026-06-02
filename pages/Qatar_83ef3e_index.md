@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /qatar-83ef3e-index/
 description: Focused pages that expand on What Do Qatar's UFO Reports Really Show?.
-date: '2026-05-31'
+date: '2026-06-02'
 layout: default
 parent_basename: Qatar_83ef3e
 parent_title: What Do Qatar's UFO Reports Really Show?

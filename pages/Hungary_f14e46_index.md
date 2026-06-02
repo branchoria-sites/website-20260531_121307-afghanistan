@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /hungary-f14e46-index/
 description: Focused pages that expand on What Do Hungary's UFO Stories Really Show?.
-date: '2026-05-31'
+date: '2026-06-02'
 layout: default
 parent_basename: Hungary_f14e46
 parent_title: What Do Hungary's UFO Stories Really Show?

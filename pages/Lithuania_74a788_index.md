@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /lithuania-74a788-index/
 description: Focused pages that expand on What Lithuania's UFO Reports Really Show.
-date: '2026-05-31'
+date: '2026-06-02'
 layout: default
 parent_basename: Lithuania_74a788
 parent_title: What Lithuania's UFO Reports Really Show

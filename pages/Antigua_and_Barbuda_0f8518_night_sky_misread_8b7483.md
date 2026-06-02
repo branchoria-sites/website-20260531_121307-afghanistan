@@ -245,7 +245,7 @@ next_link:
   permalink: /two-reports/
   short_title: Two Reports
   heading_title: How Strong Are Antigua's Two UFO Reports?
-date: '2026-05-31 03:56:57 '
+date: '2026-06-02 15:49:50 '
 header:
   og_image: /assets/images/Antigua_and_Barbuda_0f8518_night_sky_misread_8b7483-Illustration-1-social.jpg
   preview_image: /assets/images/Antigua_and_Barbuda_0f8518_night_sky_misread_8b7483-Illustration-1.webp
@@ -257,7 +257,7 @@ image: /assets/images/Antigua_and_Barbuda_0f8518_night_sky_misread_8b7483-Illust
 Many of [Antigua and Barbuda]({{ 'antigua-and-barbuda/' | relative_url }})’s reported “mystery lights” become less mysterious once the islands’ geography and air traffic patterns are taken into account. The country combines dark coastal skies, wide sea horizons, heavy tourist aviation routes, satellite visibility over open water, and increasingly common drone use. Under those conditions, ordinary objects can appear far stranger than they would in a brightly lit inland city.
 
 
-<img src="{{ "/assets/images/Antigua_and_Barbuda_0f8518_night_sky_misread_8b7483-Illustration-1-light.svg" | relative_url }}" alt="Sky Lights illustration 1" data-theme-src-dark="{{ "/assets/images/Antigua_and_Barbuda_0f8518_night_sky_misread_8b7483-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Antigua_and_Barbuda_0f8518_night_sky_misread_8b7483-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Antigua_and_Barbuda_0f8518_night_sky_misread_8b7483-Illustration-1-dark.svg" | relative_url }}" alt="Sky Lights illustration 1" data-theme-src-dark="{{ "/assets/images/Antigua_and_Barbuda_0f8518_night_sky_misread_8b7483-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Antigua_and_Barbuda_0f8518_night_sky_misread_8b7483-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters because most publicly documented UFO-style reports from Antigua involve distant lights rather than close encounters, radar-confirmed objects, or physical traces. The strongest explanations usually involve aircraft approaching V.C. Bird International Airport, satellites reflecting sunlight, meteors over the Caribbean, or visual distortions caused by warm marine air layers. Understanding those mechanisms helps explain why unusual sightings are reported even though the country has only a very small public UFO record.
 
 ## Why Island Skies Create Misleading Impressions
@@ -346,7 +346,7 @@ Scientific work on Starlink visibility confirms that satellite brightness can su
 That behaviour closely resembles descriptions in some Caribbean sighting accounts involving intermittent flashes over open water.
 
 
-<img src="{{ "/assets/images/Antigua_and_Barbuda_0f8518_night_sky_misread_8b7483-Illustration-2-light.svg" | relative_url }}" alt="Sky Lights illustration 2" data-theme-src-dark="{{ "/assets/images/Antigua_and_Barbuda_0f8518_night_sky_misread_8b7483-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Antigua_and_Barbuda_0f8518_night_sky_misread_8b7483-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Antigua_and_Barbuda_0f8518_night_sky_misread_8b7483-Illustration-2-dark.svg" | relative_url }}" alt="Sky Lights illustration 2" data-theme-src-dark="{{ "/assets/images/Antigua_and_Barbuda_0f8518_night_sky_misread_8b7483-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Antigua_and_Barbuda_0f8518_night_sky_misread_8b7483-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Meteors Over Open Water
 
 Meteor sightings also look more dramatic over islands because the horizon is broad and unobstructed. A meteor burning low above the sea can appear slow-moving, horizontal, or unusually close to the observer.
@@ -393,7 +393,7 @@ Those characteristics overlap strongly with classic UFO descriptions.
 Tourism-heavy coastal zones create ideal conditions for drone activity, particularly during festivals, weddings, yachting events, and promotional filming.
 
 
-<img src="{{ "/assets/images/Antigua_and_Barbuda_0f8518_night_sky_misread_8b7483-Illustration-3-light.svg" | relative_url }}" alt="Sky Lights illustration 3" data-theme-src-dark="{{ "/assets/images/Antigua_and_Barbuda_0f8518_night_sky_misread_8b7483-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Antigua_and_Barbuda_0f8518_night_sky_misread_8b7483-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Antigua_and_Barbuda_0f8518_night_sky_misread_8b7483-Illustration-3-dark.svg" | relative_url }}" alt="Sky Lights illustration 3" data-theme-src-dark="{{ "/assets/images/Antigua_and_Barbuda_0f8518_night_sky_misread_8b7483-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Antigua_and_Barbuda_0f8518_night_sky_misread_8b7483-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Distance Distortion Over Water
 
 Drone sightings become more confusing over the sea because viewers often misjudge scale. A small drone close to shore can appear to be a much larger object far offshore.

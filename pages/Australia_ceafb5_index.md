@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /australia-ceafb5-index/
 description: Focused pages that expand on What Really Happened in Australia's UFO....
-date: '2026-05-31'
+date: '2026-06-02'
 layout: default
 parent_basename: Australia_ceafb5
 parent_title: What Really Happened in Australia's UFO...

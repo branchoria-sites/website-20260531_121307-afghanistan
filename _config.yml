@@ -1,9 +1,9 @@
-title: 'UAP World Files'
-short_title: 'UAP World Files'
+title: 'UFOs and UAP by Country'
+short_title: 'UFOs and UAP by Country'
 brand_name: 'Branchoria'
 brand_domain: 'branchoria.com'
-description: 'Country-by-country UFO and UAP case files, records, explanations, and evidence checks.'
-tagline: 'Country-by-country UFO cases, records, explanations, and evidence checks.'
+description: 'Country-by-country guides to UFO and UAP reports, records, and explanations.'
+tagline: 'Compare sightings, records, and explanations across UN member countries.'
 encoding: utf-8
 lang: 'en'
 locale: 'en'
@@ -36,7 +36,7 @@ homepage_copy_policy: 'polished'
 home_layout_mode: 'vertical'
 auto_home_layout_mode: 'catalog'
 hierarchy_viz_mode: 'hybrid'
-ui_bundle_version: 'map-template-display-names-20260601'
+ui_bundle_version: 'build-1780415171'
 theme: minima
 plugins:
   - jekyll-feed

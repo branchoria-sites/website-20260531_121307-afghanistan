@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /namibia-bfe79d-index/
 description: Focused pages that expand on What Is Really Behind Namibia's UFO Stories?.
-date: '2026-05-31'
+date: '2026-06-02'
 layout: default
 parent_basename: Namibia_bfe79d
 parent_title: What Is Really Behind Namibia's UFO Stories?

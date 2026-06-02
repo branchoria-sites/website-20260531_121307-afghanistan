@@ -245,7 +245,7 @@ next_link:
   permalink: /missing-records-1c0825/
   short_title: Missing Records
   heading_title: Why Are Sudan UFO Records So Sparse?
-date: '2026-05-31 04:32:51 '
+date: '2026-06-02 16:38:49 '
 header:
   og_image: /assets/images/Sudan_1193ba_khartoum_2018_zuma_3c8e39-Illustration-1-social.jpg
   preview_image: /assets/images/Sudan_1193ba_khartoum_2018_zuma_3c8e39-Illustration-1.webp
@@ -257,7 +257,7 @@ image: /assets/images/Sudan_1193ba_khartoum_2018_zuma_3c8e39-Illustration-1-soci
 In January 2018, residents of Khartoum and observers flying above [Sudan]({{ 'what-really-appeared-over-sudan/' | relative_url }}) witnessed a striking green-white object in the night sky. Reports quickly described it as a UFO. The sighting stood out because it was bright, unusual in shape, and visible over Sudan’s capital during the early hours of the morning. For several days, speculation ranged from a satellite malfunction to an unidentified craft.
 
 
-<img src="{{ "/assets/images/Sudan_1193ba_khartoum_2018_zuma_3c8e39-Illustration-1-light.svg" | relative_url }}" alt="Khartoum 2018 illustration 1" data-theme-src-dark="{{ "/assets/images/Sudan_1193ba_khartoum_2018_zuma_3c8e39-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sudan_1193ba_khartoum_2018_zuma_3c8e39-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Sudan_1193ba_khartoum_2018_zuma_3c8e39-Illustration-1-dark.svg" | relative_url }}" alt="Khartoum 2018 illustration 1" data-theme-src-dark="{{ "/assets/images/Sudan_1193ba_khartoum_2018_zuma_3c8e39-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sudan_1193ba_khartoum_2018_zuma_3c8e39-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The strongest explanation that emerged, however, was far less exotic and far more traceable. Independent satellite trackers, aerospace observers, and later reporting linked the phenomenon to the classified Zuma mission launched aboard a SpaceX Falcon 9 rocket. The evidence points to the Falcon 9 upper stage venting residual fuel and performing disposal manoeuvres roughly two hours after launch, creating a luminous spiral-like cloud visible from East Africa. Rather than remaining an unresolved mystery, the Khartoum incident became an example of how modern rocket operations can produce spectacular sky displays that are easily mistaken for something unknown. Space <span class="citation-chip-wrap"><a class="citation-chip" href="https://sattrackcam.blogspot.com/2018/01/fuel-dump-of-zumas-falcon-9-upper-stage.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sattrackcam.blogspot.com">[SatTrackCam]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sattrackcam.blogspot.com</span><span class="citation-popover-title">fuel dump of zumas falcon 9 upper stage</span><span class="citation-popover-snippet">SatTrackCamFuel dump of Zuma&#x27;s Falcon 9 Upper Stage observed by a...9 Jan 2018 — The aircraft was flying at 35000 feet just north of Kha...</span></span></span>
 
 ## What Witnesses Saw Over Khartoum
@@ -296,7 +296,7 @@ This mattered because the photographs provided more than a witness description. 
 The answer appeared to be yes.
 
 
-<img src="{{ "/assets/images/Sudan_1193ba_khartoum_2018_zuma_3c8e39-Illustration-2-light.svg" | relative_url }}" alt="Khartoum 2018 illustration 2" data-theme-src-dark="{{ "/assets/images/Sudan_1193ba_khartoum_2018_zuma_3c8e39-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sudan_1193ba_khartoum_2018_zuma_3c8e39-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Sudan_1193ba_khartoum_2018_zuma_3c8e39-Illustration-2-dark.svg" | relative_url }}" alt="Khartoum 2018 illustration 2" data-theme-src-dark="{{ "/assets/images/Sudan_1193ba_khartoum_2018_zuma_3c8e39-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sudan_1193ba_khartoum_2018_zuma_3c8e39-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Rocket Venting Produces UFO-Like Shapes
 
 Rocket upper stages often retain small amounts of unused fuel after completing their missions. To reduce the risk of explosions or debris-generation in orbit, operators frequently vent remaining propellant before re-entry or disposal.
@@ -336,7 +336,7 @@ Third, independent observers reached similar conclusions. The photographs became
 This does not mean the witnesses were mistaken about seeing something extraordinary. The object was genuinely unusual from their perspective. The key distinction is between an unidentified phenomenon at the moment of observation and an unexplained phenomenon after investigation.
 
 
-<img src="{{ "/assets/images/Sudan_1193ba_khartoum_2018_zuma_3c8e39-Illustration-3-light.svg" | relative_url }}" alt="Khartoum 2018 illustration 3" data-theme-src-dark="{{ "/assets/images/Sudan_1193ba_khartoum_2018_zuma_3c8e39-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sudan_1193ba_khartoum_2018_zuma_3c8e39-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Sudan_1193ba_khartoum_2018_zuma_3c8e39-Illustration-3-dark.svg" | relative_url }}" alt="Khartoum 2018 illustration 3" data-theme-src-dark="{{ "/assets/images/Sudan_1193ba_khartoum_2018_zuma_3c8e39-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sudan_1193ba_khartoum_2018_zuma_3c8e39-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Zuma's Secrecy Helped Create a UFO Narrative
 
 An important part of the story is not the light itself but the context surrounding it.

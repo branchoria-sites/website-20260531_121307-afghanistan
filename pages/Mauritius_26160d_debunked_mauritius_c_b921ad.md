@@ -245,7 +245,7 @@ next_link:
   permalink: /post-2013-sightings/
   short_title: Post 2013 Sightings
   heading_title: Are Later Mauritius UFO Sightings Rocket Related?
-date: '2026-05-31 04:23:26 '
+date: '2026-06-02 16:23:10 '
 header:
   og_image: /assets/images/Mauritius_26160d_debunked_mauritius_c_b921ad-Illustration-1-social.jpg
   preview_image: /assets/images/Mauritius_26160d_debunked_mauritius_c_b921ad-Illustration-1.webp
@@ -257,7 +257,7 @@ image: /assets/images/Mauritius_26160d_debunked_mauritius_c_b921ad-Illustration-
 The strongest conclusion from the public record of Mauritian UFO reports is not that the island has produced compelling evidence of extraordinary aerial phenomena, but that many of its most visible cases have ultimately proved explainable. [Mauritius]({{ 'what-really-happened-in-mauritius-sky/' | relative_url }}) has generated periodic UFO discussions through local media, social networks and eyewitness accounts, yet the evidential quality of most reports is low: photographs lack metadata, videos are short or heavily compressed, witness testimony is often second-hand, and precise observational details are frequently missing. In practice, the most widely publicised Mauritius-linked “UFO” event—the September 2013 sighting seen across Mauritius, Réunion and southern Africa—was traced to a Falcon 9 rocket upper-stage phenomenon rather than an unknown craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/23013-spacex-falcon-9-rocket-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">SpaceSpaceX Rocket Launch Sparks &#x27;UFO&#x27; Sightings: Reports...September 30, 2013 — 30 Sept 2013 — A video taken in Mauritius shows a spook...</span><span class="citation-popover-meta">Published: September 30, 2013</span></span></span>
 
 
-<img src="{{ "/assets/images/Mauritius_26160d_debunked_mauritius_c_b921ad-Illustration-1-light.svg" | relative_url }}" alt="Debunked Cases illustration 1" data-theme-src-dark="{{ "/assets/images/Mauritius_26160d_debunked_mauritius_c_b921ad-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mauritius_26160d_debunked_mauritius_c_b921ad-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Mauritius_26160d_debunked_mauritius_c_b921ad-Illustration-1-dark.svg" | relative_url }}" alt="Debunked Cases illustration 1" data-theme-src-dark="{{ "/assets/images/Mauritius_26160d_debunked_mauritius_c_b921ad-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mauritius_26160d_debunked_mauritius_c_b921ad-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This pattern matters because it reveals a recurring challenge in Mauritius: unusual sky events are often observed over open ocean horizons under conditions where scale, distance and motion are difficult to judge. As a result, rocket plumes, atmospheric optics, bright planets, satellites and re-entering space hardware can appear extraordinary even when their causes are ultimately identifiable.
 
 ## Contested Social-Media Reports
@@ -332,7 +332,7 @@ Independent satellite observers later reconstructed the event and linked the obs
 The significance of this case extends beyond the explanation itself. It demonstrates how a sighting can appear highly anomalous to witnesses while remaining entirely consistent with known aerospace activity. The event remains one of the strongest examples of a Mauritius UFO claim that moved from apparent mystery to well-supported identification.
 
 
-<img src="{{ "/assets/images/Mauritius_26160d_debunked_mauritius_c_b921ad-Illustration-2-light.svg" | relative_url }}" alt="Debunked Cases illustration 2" data-theme-src-dark="{{ "/assets/images/Mauritius_26160d_debunked_mauritius_c_b921ad-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mauritius_26160d_debunked_mauritius_c_b921ad-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Mauritius_26160d_debunked_mauritius_c_b921ad-Illustration-2-dark.svg" | relative_url }}" alt="Debunked Cases illustration 2" data-theme-src-dark="{{ "/assets/images/Mauritius_26160d_debunked_mauritius_c_b921ad-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mauritius_26160d_debunked_mauritius_c_b921ad-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Atmospheric Effects That Can Mimic UFOs
 
 Rocket plumes are not the only source of misidentification. Several atmospheric and astronomical mechanisms can create reports that initially seem difficult to explain.
@@ -393,7 +393,7 @@ Stronger cases generally provide:
 The problem for most contested Mauritian reports is not that they have been conclusively disproved. Rather, they lack the information necessary to survive critical examination. In many instances, the correct classification is neither “alien spacecraft” nor “debunked”, but simply “insufficient evidence”.
 
 
-<img src="{{ "/assets/images/Mauritius_26160d_debunked_mauritius_c_b921ad-Illustration-3-light.svg" | relative_url }}" alt="Debunked Cases illustration 3" data-theme-src-dark="{{ "/assets/images/Mauritius_26160d_debunked_mauritius_c_b921ad-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mauritius_26160d_debunked_mauritius_c_b921ad-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Mauritius_26160d_debunked_mauritius_c_b921ad-Illustration-3-dark.svg" | relative_url }}" alt="Debunked Cases illustration 3" data-theme-src-dark="{{ "/assets/images/Mauritius_26160d_debunked_mauritius_c_b921ad-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mauritius_26160d_debunked_mauritius_c_b921ad-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Main Debunking Mechanisms in Mauritius
 
 When Mauritian UFO reports receive serious scrutiny, a relatively small set of explanations repeatedly emerges.

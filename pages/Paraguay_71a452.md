@@ -411,9 +411,9 @@ sibling_links:
   permalink: /are-there-any-real-mali-ufo-cases/
   short_title: Mali UFOs
 - basename: Montenegro_479fb3
-  title: MontenegroUFOs
+  title: Montenegro UFOs
   permalink: /are-ufos-really-seen-over-montenegro/
-  short_title: MontenegroUFOs
+  short_title: Montenegro UFOs
 - basename: Argentina_354bf9
   title: Argentina OVNI
   permalink: /argentinas-ufo-stories-records-and/
@@ -427,17 +427,17 @@ sibling_links:
   permalink: /bolivia-plurinational-state-of/
   short_title: Bolivia UFOs
 - basename: Bosnia_and_Herzegovi_552c9f
-  title: BosniaUFOs
+  title: Bosnia UFOs
   permalink: /bosnia-and-herzegovina/
-  short_title: BosniaUFOs
+  short_title: Bosnia UFOs
 - basename: Brunei_Darussalam_eab94a
   title: Brunei UAP
   permalink: /brunei-darussalam/
   short_title: Brunei UAP
 - basename: Burkina_Faso_f61e5f
-  title: BurkinaUFO
+  title: Burkina UFO
   permalink: /burkina-faso/
-  short_title: BurkinaUFO
+  short_title: Burkina UFO
 - basename: Central_African_Repu_358788
   title: CAR UFOs
   permalink: /central-african-republic/
@@ -447,21 +447,21 @@ sibling_links:
   permalink: /cote-d-ivoire/
   short_title: Ivoire UFOs
 - basename: Czechia_045e2f
-  title: CzechUFOs
+  title: Czech UFOs
   permalink: /czechia/
-  short_title: CzechUFOs
+  short_title: Czech UFOs
 - basename: Democratic_People_s_808714
-  title: DPRKUFOs
+  title: DPRK UFOs
   permalink: /democratic-people-s-republic-of-korea/
-  short_title: DPRKUFOs
+  short_title: DPRK UFOs
 - basename: Democratic_Republic_679868
   title: DRC UFOs
   permalink: /democratic-republic-of-the-congo/
   short_title: DRC UFOs
 - basename: Djibouti_60a8b0
-  title: DjiboutiUAP
+  title: Djibouti UAP
   permalink: /djibouti/
-  short_title: DjiboutiUAP
+  short_title: Djibouti UAP
 - basename: Dominica_bc1cd4
   title: Dominica UAP
   permalink: /does-dominica-have-real-ufo-cases/
@@ -475,9 +475,9 @@ sibling_links:
   permalink: /dominican-republic/
   short_title: Dominican UAP
 - basename: Equatorial_Guinea_ae2c01
-  title: EquatorialGuineaUFOs
+  title: Equatorial Guinea UFOs
   permalink: /equatorial-guinea/
-  short_title: EquatorialGuineaUFOs
+  short_title: Equatorial Guinea UFOs
 - basename: Fiji_bbb7ef
   title: Fiji UFOs
   permalink: /fiji/
@@ -487,21 +487,21 @@ sibling_links:
   permalink: /finland/
   short_title: Finland UFOs
 - basename: Ghana_317dba
-  title: GhanaUFOs
+  title: Ghana UFOs
   permalink: /ghana/
-  short_title: GhanaUFOs
+  short_title: Ghana UFOs
 - basename: Comoros_e5bb59
-  title: ComorosUFOs
+  title: Comoros UFOs
   permalink: /have-ufos-really-been-seen-over-comoros/
-  short_title: ComorosUFOs
+  short_title: Comoros UFOs
 - basename: Chile_349507
-  title: ChileUFOs
+  title: Chile UFOs
   permalink: /how-chile-investigates-ufos-and-aerial/
-  short_title: ChileUFOs
+  short_title: Chile UFOs
 - basename: France_e3772a
-  title: FranceUFOs
+  title: France UFOs
   permalink: /how-france-investigates-and-archives-ufo/
-  short_title: FranceUFOs
+  short_title: France UFOs
 - basename: Iran_Islamic_Republi_94f9ee
   title: Iran UFOs
   permalink: /iran-islamic-republic-of/
@@ -519,9 +519,9 @@ sibling_links:
   permalink: /madagascars-ufo-record-famous-case-thin/
   short_title: Madagascar UFOs
 - basename: Maldives_213cb2
-  title: MaldivesUFOs
+  title: Maldives UFOs
   permalink: /maldives/
-  short_title: MaldivesUFOs
+  short_title: Maldives UFOs
 - basename: Micronesia_Federated_30e9e8
   title: Micronesia UFOs
   permalink: /micronesia-federated-states-of/
@@ -595,9 +595,9 @@ sibling_links:
   permalink: /turkiye/
   short_title: Türkiye UFOs
 - basename: Luxembourg_507672
-  title: LuxUFO
+  title: Lux UFO
   permalink: /uncovering-ufo-activity-across/
-  short_title: LuxUFO
+  short_title: Lux UFO
 - basename: Israel_4c197d
   title: Israel UFOs
   permalink: /uncovering-ufo-phenomena-across-israel/
@@ -623,17 +623,17 @@ sibling_links:
   permalink: /venezuela-bolivarian-republic-of/
   short_title: Venezuela UFOs
 - basename: Malawi_0ce65b
-  title: MalawiUFOs
+  title: Malawi UFOs
   permalink: /what-are-malawis-documented-ufos-and-sky/
-  short_title: MalawiUFOs
+  short_title: Malawi UFOs
 - basename: Belarus_027a12
   title: Belarus UFOs
   permalink: /what-belarus-ufo-reports-really-show/
   short_title: Belarus UFOs
 - basename: Brazil_37497a
-  title: BrazilUFOs
+  title: Brazil UFOs
   permalink: /what-brazils-ufo-records-reveal-about/
-  short_title: BrazilUFOs
+  short_title: Brazil UFOs
 - basename: Angola_a42522
   title: Angola UFOs
   permalink: /what-can-angolas-ufo-record-really-prove/
@@ -775,17 +775,17 @@ sibling_links:
   permalink: /what-do-ufo-reports-in-guinea-really/
   short_title: Guinea UFOs
 - basename: Bhutan_bb2254
-  title: BhutanUFOs
+  title: Bhutan UFOs
   permalink: /what-do-ufo-sightings-in-bhutan-really/
-  short_title: BhutanUFOs
+  short_title: Bhutan UFOs
 - basename: Botswana_180c89
   title: Botswana UFOs
   permalink: /what-does-botswanas-ufo-record-really/
   short_title: Botswana UFOs
 - basename: Ecuador_09f199
-  title: EcuadorUFOs
+  title: Ecuador UFOs
   permalink: /what-evidence-exists-for-ufos-in-ecuador/
-  short_title: EcuadorUFOs
+  short_title: Ecuador UFOs
 - basename: Georgia_9113c6
   title: Georgia UFOs
   permalink: /what-georgias-ufo-reports-reveal-about/
@@ -799,9 +799,9 @@ sibling_links:
   permalink: /what-greeces-ufo-records-reveal-about/
   short_title: Greece UFOs
 - basename: Guatemala_11760e
-  title: GuatemalaUFOs
+  title: Guatemala UFOs
   permalink: /what-guatemalas-ufo-reports-really/
-  short_title: GuatemalaUFOs
+  short_title: Guatemala UFOs
 - basename: Latvia_c5f5bb
   title: Latvia UFOs
   permalink: /what-has-latvia-really-seen-in-the-sky/
@@ -935,9 +935,9 @@ sibling_links:
   permalink: /what-lithuanias-ufo-reports-really-show/
   short_title: Lithuania UFOs
 - basename: Egypt_1c39ab
-  title: EgyptUFOs
+  title: Egypt UFOs
   permalink: /what-makes-egypt-a-hotspot-for-ufo/
-  short_title: EgyptUFOs
+  short_title: Egypt UFOs
 - basename: Italy_ad79ef
   title: Italy UFOs
   permalink: /what-makes-italys-ufo-record-unique-and/
@@ -1123,9 +1123,9 @@ sibling_links:
   permalink: /what-ufo-reports-survive-cabo-verde/
   short_title: Cabo Verde UFOs
 - basename: Cyprus_852add
-  title: CyprusUFOs
+  title: Cyprus UFOs
   permalink: /what-ufo-sightings-have-shaped-cyprus/
-  short_title: CyprusUFOs
+  short_title: Cyprus UFOs
 - basename: Eritrea_18740a
   title: Eritrea UFOs
   permalink: /what-ufos-have-been-reported-in/
@@ -1185,7 +1185,7 @@ next_link:
   title: Poland UFOs
   permalink: /what-really-happened-in-polands-ufo/
   short_title: Poland UFOs
-date: '2026-05-31 04:27:24 '
+date: '2026-06-02 16:29:23 '
 header:
   og_image: /assets/images/Paraguay_71a452-overview-social.jpg
   preview_image: /assets/images/Paraguay_71a452-overview.webp
@@ -1215,7 +1215,7 @@ The best-known late-20th-century local memory is Tañarandy, in Misiones. On 28 
 In the 2000s and 2020s, Paraguay’s public record shifts towards civilian databases and social media. The National UFO Reporting Center lists eight Paraguay reports, including Asunción sightings in 2006, 2008, 2021, 2023 and 2024, a triangular-object report from Mariano Roque Alonso in 2022, and a 2025 Villeta entry whose own summary says it may have been “more of an asteroid” than a UFO. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cParaguay" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFOR C Reports for Country Paraguay</span><span class="citation-popover-snippet">NUFOR C Reports for Country Paraguay</span></span></span> This modern record is useful for trend spotting, but weak as proof: entries are self-reported, unevenly detailed and not equivalent to official investigation.
 
 
-<img src="{{ "/assets/images/Paraguay_71a452-Illustration-1-light.svg" | relative_url }}" alt="What Really Happened in Paraguay&#x27;s UFO... illustration 1" data-theme-src-dark="{{ "/assets/images/Paraguay_71a452-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Paraguay_71a452-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Paraguay_71a452-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened in Paraguay&#x27;s UFO... illustration 1" data-theme-src-dark="{{ "/assets/images/Paraguay_71a452-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Paraguay_71a452-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The 1948 Asunción case is the archival anchor
 
 The 20 February 1948 Asunción case is the most important Paraguayan UFO episode because it combines newspaper visibility, multiple reported locations and later appearance in the orbit of Project Blue Book documentation. According to Última Hora’s account of Maidana’s findings, the incident was discussed in a 13-page report by Major Samuel J. Skousen and described an oval or disc-like object seen from Asunción, Areguá, Cordillera and the Chaco. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ultimahora.com/fuerza-area-eeuu-investigo-avistamientos-ovnis-paraguay-n997022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ultimahora.com">[Última Hora]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ultimahora.com</span><span class="citation-popover-title">Última Hora EEUU investigó avistamientos de ovnis en Paraguay</span><span class="citation-popover-snippet">Última Hora EEUU investigó avistamientos de ovnis en Paraguay</span></span></span>
@@ -1260,7 +1260,7 @@ A Paraguay UFO page is most useful when it grades claims instead of treating eve
 This split keeps the Paraguay record honest. There are genuine reports, some with historical interest. There are also cases where the best explanation is probably ordinary: satellites, meteors, aircraft, atmospheric effects, camera artefacts or incomplete witness information.
 
 
-<img src="{{ "/assets/images/Paraguay_71a452-Illustration-2-light.svg" | relative_url }}" alt="What Really Happened in Paraguay&#x27;s UFO... illustration 2" data-theme-src-dark="{{ "/assets/images/Paraguay_71a452-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Paraguay_71a452-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Paraguay_71a452-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Paraguay&#x27;s UFO... illustration 2" data-theme-src-dark="{{ "/assets/images/Paraguay_71a452-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Paraguay_71a452-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Asunción and the Central region dominate recent reports
 
 The modern public record is biased towards places with more people, more cameras and more internet access. NUFORC’s Paraguay list is heavily weighted towards Asunción and the Central Department, including Asunción reports from 2006, 2008, 2021, 2023 and 2024, plus Mariano Roque Alonso in 2022 and Villeta in 2025. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> This does not prove that the capital region has more anomalous activity. It more likely shows where reporting pathways are easier.
@@ -1298,7 +1298,7 @@ Paraguay’s UFO record is modest but genuinely worth documenting. Its strongest
 The fairest classification is mixed: confirmed reports, contested interpretations and many unresolved gaps. Paraguay is not a country with a clearly demonstrated official UFO cover-up or a large public state archive. It is a country where scattered sightings, local storytelling, private research and foreign archival traces intersect — and where the most responsible reading is neither dismissal nor belief, but careful separation between what was reported, what was investigated, what was explained, and what remains genuinely unknown.
 
 
-<img src="{{ "/assets/images/Paraguay_71a452-Illustration-3-light.svg" | relative_url }}" alt="What Really Happened in Paraguay&#x27;s UFO... illustration 3" data-theme-src-dark="{{ "/assets/images/Paraguay_71a452-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Paraguay_71a452-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Paraguay_71a452-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in Paraguay&#x27;s UFO... illustration 3" data-theme-src-dark="{{ "/assets/images/Paraguay_71a452-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Paraguay_71a452-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -1384,6 +1384,312 @@ The fairest classification is mixed: confirmed reports, contested interpretation
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
+</section>
+
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-paraguays-ufo-what-really-happened-in-paraguay-s-ufo-files-paraguay-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-paraguays-ufo-what-really-happened-in-paraguay-s-ufo-files-paraguay-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-paraguays-ufo-what-really-happened-in-paraguay-s-ufo-files-paraguay-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-paraguays-ufo-what-really-happened-in-paraguay-s-ufo-files-paraguay-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-paraguays-ufo-what-really-happened-in-paraguay-s-ufo-files-paraguay-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-paraguays-ufo-what-really-happened-in-paraguay-s-ufo-files-paraguay-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-paraguays-ufo-what-really-happened-in-paraguay-s-ufo-files-paraguay-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-paraguays-ufo-what-really-happened-in-paraguay-s-ufo-files-paraguay-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-paraguays-ufo-what-really-happened-in-paraguay-s-ufo-files-paraguay-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-paraguays-ufo-what-really-happened-in-paraguay-s-ufo-files-paraguay-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-paraguays-ufo-what-really-happened-in-paraguay-s-ufo-files-paraguay-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-paraguays-ufo-what-really-happened-in-paraguay-s-ufo-files-paraguay-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-paraguays-ufo-what-really-happened-in-paraguay-s-ufo-files-paraguay-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-paraguays-ufo-what-really-happened-in-paraguay-s-ufo-files-paraguay-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-paraguays-ufo-what-really-happened-in-paraguay-s-ufo-files-paraguay-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-paraguays-ufo-what-really-happened-in-paraguay-s-ufo-files-paraguay-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-paraguays-ufo-what-really-happened-in-paraguay-s-ufo-files-paraguay-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-paraguays-ufo-what-really-happened-in-paraguay-s-ufo-files-paraguay-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-paraguays-ufo-what-really-happened-in-paraguay-s-ufo-files-paraguay-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-paraguays-ufo-what-really-happened-in-paraguay-s-ufo-files-paraguay-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-paraguays-ufo-what-really-happened-in-paraguay-s-ufo-files-paraguay-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-paraguays-ufo-what-really-happened-in-paraguay-s-ufo-files-paraguay-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-paraguays-ufo-what-really-happened-in-paraguay-s-ufo-files-paraguay-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-paraguays-ufo-what-really-happened-in-paraguay-s-ufo-files-paraguay-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-paraguays-ufo-what-really-happened-in-paraguay-s-ufo-files-paraguay-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-paraguays-ufo-what-really-happened-in-paraguay-s-ufo-files-paraguay-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-paraguays-ufo-what-really-happened-in-paraguay-s-ufo-files-paraguay-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-paraguays-ufo-what-really-happened-in-paraguay-s-ufo-files-paraguay-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-paraguays-ufo-what-really-happened-in-paraguay-s-ufo-files-paraguay-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-paraguays-ufo-what-really-happened-in-paraguay-s-ufo-files-paraguay-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-paraguays-ufo-what-really-happened-in-paraguay-s-ufo-files-paraguay-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-paraguays-ufo-what-really-happened-in-paraguay-s-ufo-files-paraguay-ufo-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-paraguays-ufo-what-really-happened-in-paraguay-s-ufo-files-paraguay-ufo-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books" data-ebay-reference="what-really-happened-in-paraguays-ufo-what-really-happened-in-paraguay-s-ufo-files-paraguay-ufo-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i < languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
+  }
+  function inferFromTimezone() {
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
+    for (var i = 0; i < timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return '';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] || '';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();
+</script>
+  <script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
+  if (!sections.length) return;
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
+  }
+  function flagClass(marketId) {
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  function availableMarkets(section) {
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
+    }
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
+    });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
+  });
+})();
+</script>
 </section>
 
 ## Endnotes

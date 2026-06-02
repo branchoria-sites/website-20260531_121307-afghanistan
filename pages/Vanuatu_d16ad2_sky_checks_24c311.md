@@ -245,7 +245,7 @@ next_link:
   permalink: /volcano-glow/
   short_title: Volcano Glow
   heading_title: When Volcanoes Look Like UFOs
-date: '2026-05-31 04:36:59 '
+date: '2026-06-02 16:43:44 '
 header:
   og_image: /assets/images/Vanuatu_d16ad2_sky_checks_24c311-Illustration-1-social.jpg
   preview_image: /assets/images/Vanuatu_d16ad2_sky_checks_24c311-Illustration-1.webp
@@ -257,7 +257,7 @@ image: /assets/images/Vanuatu_d16ad2_sky_checks_24c311-Illustration-1-social.jpg
 Many reported “UFO” lights in [Vanuatu]({{ 'what-really-explains-vanuatus-strange/' | relative_url }}) are best understood by starting with a simpler question: what else was in the sky or on the sea at that moment? The country’s geography makes ordinary objects unusually difficult to judge. A bright satellite can appear to glide silently over a dark island. A distant aircraft can seem stationary above the ocean horizon. Fishing vessels, cargo ships and marine work lights can produce glows that look detached from the sea, especially when viewed across long stretches of water at night.
 
 
-<img src="{{ "/assets/images/Vanuatu_d16ad2_sky_checks_24c311-Illustration-1-light.svg" | relative_url }}" alt="Sky Checks illustration 1" data-theme-src-dark="{{ "/assets/images/Vanuatu_d16ad2_sky_checks_24c311-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vanuatu_d16ad2_sky_checks_24c311-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Vanuatu_d16ad2_sky_checks_24c311-Illustration-1-dark.svg" | relative_url }}" alt="Sky Checks illustration 1" data-theme-src-dark="{{ "/assets/images/Vanuatu_d16ad2_sky_checks_24c311-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vanuatu_d16ad2_sky_checks_24c311-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That does not mean every sighting is automatically explained. It means that Vanuatu’s combination of dark skies, wide ocean horizons, active shipping routes and growing satellite traffic creates ideal conditions for misidentification. Several local discussions about mysterious lights, including reports from Epi Island, have quickly produced competing explanations involving satellites, ships, volcanic activity and atmospheric effects rather than evidence of a clearly anomalous object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/vanuatudailypost/posts/the-residents-of-epi-island-in-the-south-and-west-have-been-in-confusion-for-abo/887709689840024/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">FacebookThe residents of Epi Island in the South and West have...The residents of Epi Island in the South and West have been in confusio...</span></span></span>
 
 ## Why Vanuatu's geography makes lights hard to identify
@@ -370,7 +370,7 @@ From an island coastline, a distant aircraft may therefore appear as:
 The absence of visible aircraft structure often encourages more exotic interpretations.
 
 
-<img src="{{ "/assets/images/Vanuatu_d16ad2_sky_checks_24c311-Illustration-2-light.svg" | relative_url }}" alt="Sky Checks illustration 2" data-theme-src-dark="{{ "/assets/images/Vanuatu_d16ad2_sky_checks_24c311-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vanuatu_d16ad2_sky_checks_24c311-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Vanuatu_d16ad2_sky_checks_24c311-Illustration-2-dark.svg" | relative_url }}" alt="Sky Checks illustration 2" data-theme-src-dark="{{ "/assets/images/Vanuatu_d16ad2_sky_checks_24c311-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vanuatu_d16ad2_sky_checks_24c311-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Flashing patterns are useful clues
 
 Aircraft navigation systems normally produce recognisable light behaviour:
@@ -422,7 +422,7 @@ This can produce:
 Such effects are especially relevant around island environments where observers frequently look across long marine distances at night.
 
 
-<img src="{{ "/assets/images/Vanuatu_d16ad2_sky_checks_24c311-Illustration-3-light.svg" | relative_url }}" alt="Sky Checks illustration 3" data-theme-src-dark="{{ "/assets/images/Vanuatu_d16ad2_sky_checks_24c311-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vanuatu_d16ad2_sky_checks_24c311-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Vanuatu_d16ad2_sky_checks_24c311-Illustration-3-dark.svg" | relative_url }}" alt="Sky Checks illustration 3" data-theme-src-dark="{{ "/assets/images/Vanuatu_d16ad2_sky_checks_24c311-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vanuatu_d16ad2_sky_checks_24c311-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Epi Island lights and competing explanations
 
 One of the most discussed recent Vanuatu examples involved reports from Epi Island, where residents described a recurring strange light visible towards the west. Local discussion quickly produced multiple interpretations rather than a single accepted explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/381339098730281/posts/2920425304821635/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">FacebookWhat are the moving lights in Vanuatu sky?Commenters believe the moving lights are a Starlink satellite train from SpaceX. Timbul...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/381339098730281/posts/2920426498154849/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">closely. I am not sure what, it might be fighter jets, alience...</span></span></span>

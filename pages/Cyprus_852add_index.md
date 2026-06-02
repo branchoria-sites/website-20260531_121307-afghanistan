@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /cyprus-852add-index/
 description: Focused pages that expand on What UFO Sightings Have Shaped Cyprus....
-date: '2026-05-31'
+date: '2026-06-02'
 layout: default
 parent_basename: Cyprus_852add
 parent_title: What UFO Sightings Have Shaped Cyprus...

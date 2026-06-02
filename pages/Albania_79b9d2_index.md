@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /albania-79b9d2-index/
 description: Focused pages that expand on Albania.
-date: '2026-05-31'
+date: '2026-06-02'
 layout: default
 parent_basename: Albania_79b9d2
 parent_title: Albania

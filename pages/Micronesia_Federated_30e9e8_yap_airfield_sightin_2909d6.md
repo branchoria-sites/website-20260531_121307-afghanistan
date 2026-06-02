@@ -239,7 +239,7 @@ prev_link:
   permalink: /thin-record/
   short_title: Thin Record
   heading_title: Where Are Micronesia's UFO Case Files?
-date: '2026-05-31 04:23:39 '
+date: '2026-06-02 16:23:28 '
 header:
   og_image: /assets/images/Micronesia_Federated_30e9e8_yap_airfield_sightin_2909d6-Illustration-1-social.jpg
   preview_image: /assets/images/Micronesia_Federated_30e9e8_yap_airfield_sightin_2909d6-Illustration-1.webp
@@ -251,7 +251,7 @@ image: /assets/images/Micronesia_Federated_30e9e8_yap_airfield_sightin_2909d6-Il
 Upgrades to Yap International Airport and associated airfield infrastructure are underway or under formal planning in the western Pacific state of Yap, part of the Federated States of Micronesia (FSM). These developments — driven by civil aviation safety needs, broader connectivity goals, and strategic policy commitments under the Compact of Free Association with the United States — have both aviation and regional attention. As Yap’s aviation footprint expands, changes in aircraft operations, runway capacity and periodic military training use raise credible reasons why observers on Yap might see unfamiliar aerial activity in the coming decade. Here we examine the scope of the airport upgrades, what they mean for aircraft traffic and how these changes intersect with future sighting reports.
 
 
-<img src="{{ "/assets/images/Micronesia_Federated_30e9e8_yap_airfield_sightin_2909d6-Illustration-1-light.svg" | relative_url }}" alt="Yap Skies illustration 1" data-theme-src-dark="{{ "/assets/images/Micronesia_Federated_30e9e8_yap_airfield_sightin_2909d6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Micronesia_Federated_30e9e8_yap_airfield_sightin_2909d6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Micronesia_Federated_30e9e8_yap_airfield_sightin_2909d6-Illustration-1-dark.svg" | relative_url }}" alt="Yap Skies illustration 1" data-theme-src-dark="{{ "/assets/images/Micronesia_Federated_30e9e8_yap_airfield_sightin_2909d6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Micronesia_Federated_30e9e8_yap_airfield_sightin_2909d6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Scope of Yap Airport Upgrade Plans
 
 ### Civil and Strategic Improvement Initiatives
@@ -284,13 +284,13 @@ The planned airport enhancements have several direct effects on the type and fre
 Collectively, these shifts mean that **novel flight movements**, night operations, temporary military aircraft, and low‑frequency but unfamiliar aerial activity may become more visible to residents and observers.
 
 
-<img src="{{ "/assets/images/Micronesia_Federated_30e9e8_yap_airfield_sightin_2909d6-Illustration-2-light.svg" | relative_url }}" alt="Yap Skies illustration 2" data-theme-src-dark="{{ "/assets/images/Micronesia_Federated_30e9e8_yap_airfield_sightin_2909d6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Micronesia_Federated_30e9e8_yap_airfield_sightin_2909d6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Micronesia_Federated_30e9e8_yap_airfield_sightin_2909d6-Illustration-2-dark.svg" | relative_url }}" alt="Yap Skies illustration 2" data-theme-src-dark="{{ "/assets/images/Micronesia_Federated_30e9e8_yap_airfield_sightin_2909d6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Micronesia_Federated_30e9e8_yap_airfield_sightin_2909d6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Misidentification and Familiarity Gaps
 
 Micronesia’s skies are already influenced by natural light phenomena, satellite passes, and routine aviation. As aircraft types and operational tempos change, **misidentification risk increases** — particularly for observers unfamiliar with military flight profiles or non‑commercial aircraft behaviour. Extended runways that can host larger, higher‑performance aircraft — along with periodic training bursts — amplify this potential. In regions without dense aviation spotting communities, unfamiliar lights or flight patterns often generate initial “unexplained” reports before identification. This is a common factor in many Pacific island sighting histories. (Domain context; parent).
 
 
-<img src="{{ "/assets/images/Micronesia_Federated_30e9e8_yap_airfield_sightin_2909d6-Illustration-3-light.svg" | relative_url }}" alt="Yap Skies illustration 3" data-theme-src-dark="{{ "/assets/images/Micronesia_Federated_30e9e8_yap_airfield_sightin_2909d6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Micronesia_Federated_30e9e8_yap_airfield_sightin_2909d6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Micronesia_Federated_30e9e8_yap_airfield_sightin_2909d6-Illustration-3-dark.svg" | relative_url }}" alt="Yap Skies illustration 3" data-theme-src-dark="{{ "/assets/images/Micronesia_Federated_30e9e8_yap_airfield_sightin_2909d6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Micronesia_Federated_30e9e8_yap_airfield_sightin_2909d6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Would a Credible Yap Sighting Report Need?
 
 In the context of evolving airport activity, credible future sightings connected to Yap skies would stand out from commonplace misidentification only if they include **consistent, corroborated evidence**:

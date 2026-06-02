@@ -239,7 +239,7 @@ next_link:
   permalink: /explanations/
   short_title: Explanations
   heading_title: What Else Could Angola Witnesses Be Seeing?
-date: '2026-05-31 03:56:34 '
+date: '2026-06-02 15:49:39 '
 header:
   og_image: /assets/images/Angola_a42522_angola_ufo_archives_0ab6be-Illustration-1-social.jpg
   preview_image: /assets/images/Angola_a42522_angola_ufo_archives_0ab6be-Illustration-1.webp
@@ -251,7 +251,7 @@ image: /assets/images/Angola_a42522_angola_ufo_archives_0ab6be-Illustration-1-so
 [Angola]({{ 'what-can-angolas-ufo-record-really-prove/' | relative_url }})’s UFO archive is notable less for what it contains than for what is missing. Unlike countries such as Brazil, France or the United Kingdom, Angola never developed a widely documented official UFO investigation programme with publicly catalogued case files. Most traceable material instead survives through foreign diplomatic reporting, colonial-era administration records, aviation references, scattered press accounts and later archival digitisation projects. The result is a fragmented paper trail in which a small number of documents became disproportionately important because so little parallel evidence survived or was ever released.
 
 
-<img src="{{ "/assets/images/Angola_a42522_angola_ufo_archives_0ab6be-Illustration-1-light.svg" | relative_url }}" alt="Archives illustration 1" data-theme-src-dark="{{ "/assets/images/Angola_a42522_angola_ufo_archives_0ab6be-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Angola_a42522_angola_ufo_archives_0ab6be-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Angola_a42522_angola_ufo_archives_0ab6be-Illustration-1-dark.svg" | relative_url }}" alt="Archives illustration 1" data-theme-src-dark="{{ "/assets/images/Angola_a42522_angola_ufo_archives_0ab6be-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Angola_a42522_angola_ufo_archives_0ab6be-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The best-known example is the December 1966 United States diplomatic airgram describing alleged unidentified objects seen near Lunda in Portuguese Angola. That file remains the clearest verifiable official record connected to an Angolan UFO report. Yet even this case demonstrates the central problem of Angola’s archive landscape: official preservation does not equal official confirmation. The surviving paperwork mainly proves that governments and transport authorities recorded and transmitted unusual claims, not that investigators concluded an unknown craft existed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalog.archives.gov/id/493468575" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalog.archives.gov">[catalog.archives.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalog.archives.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## Why Angola Has No Large Public UFO Archive
@@ -343,7 +343,7 @@ Portugal itself maintained military and aviation bureaucracies capable of record
 A report filed under aviation safety, military observation or colonial administration might never have been indexed under anything resembling “UFO”.
 
 
-<img src="{{ "/assets/images/Angola_a42522_angola_ufo_archives_0ab6be-Illustration-2-light.svg" | relative_url }}" alt="Archives illustration 2" data-theme-src-dark="{{ "/assets/images/Angola_a42522_angola_ufo_archives_0ab6be-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Angola_a42522_angola_ufo_archives_0ab6be-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Angola_a42522_angola_ufo_archives_0ab6be-Illustration-2-dark.svg" | relative_url }}" alt="Archives illustration 2" data-theme-src-dark="{{ "/assets/images/Angola_a42522_angola_ufo_archives_0ab6be-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Angola_a42522_angola_ufo_archives_0ab6be-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Aviation records are especially incomplete
 
 The 1966 case highlights another recurring issue in African UFO history: aviation references survive in secondary form while primary technical records disappear or remain inaccessible.
@@ -399,7 +399,7 @@ In Angola’s case, the surviving files demonstrate bureaucratic attention rathe
 The actual documentary chain rarely supports the final leap.
 
 
-<img src="{{ "/assets/images/Angola_a42522_angola_ufo_archives_0ab6be-Illustration-3-light.svg" | relative_url }}" alt="Archives illustration 3" data-theme-src-dark="{{ "/assets/images/Angola_a42522_angola_ufo_archives_0ab6be-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Angola_a42522_angola_ufo_archives_0ab6be-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Angola_a42522_angola_ufo_archives_0ab6be-Illustration-3-dark.svg" | relative_url }}" alt="Archives illustration 3" data-theme-src-dark="{{ "/assets/images/Angola_a42522_angola_ufo_archives_0ab6be-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Angola_a42522_angola_ufo_archives_0ab6be-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Researchers Separate Archive Value From UFO Claims
 
 ### An official record is not the same as verified evidence

@@ -239,7 +239,7 @@ next_link:
   permalink: /aqaba-object/
   short_title: Aqaba Object
   heading_title: What Fell Near Aqaba?
-date: '2026-05-31 04:23:18 '
+date: '2026-06-02 16:22:56 '
 header:
   og_image: /assets/images/Jordan_674027_missile_drone_confus_314686-Illustration-1-social.jpg
   preview_image: /assets/images/Jordan_674027_missile_drone_confus_314686-Illustration-1.webp
@@ -251,7 +251,7 @@ image: /assets/images/Jordan_674027_missile_drone_confus_314686-Illustration-1-s
 Since 2024, many of the most dramatic “UFO” reports in [Jordan]({{ 'what-counts-as-a-ufo-in-jordan/' | relative_url }}) have not involved classic unidentified lights or mysterious craft. They have involved something far more immediate: missiles, drones, interceptor launches, radar alerts and falling debris from regional conflicts. Jordan sits between several active military theatres and beneath flight corridors linking the Gulf, the Levant and the Mediterranean. When large-scale missile exchanges occur, ordinary people can suddenly see glowing objects, flashing formations, smoke trails, sonic booms and fragments falling from the sky.
 
 
-<img src="{{ "/assets/images/Jordan_674027_missile_drone_confus_314686-Illustration-1-light.svg" | relative_url }}" alt="Airspace Incidents illustration 1" data-theme-src-dark="{{ "/assets/images/Jordan_674027_missile_drone_confus_314686-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jordan_674027_missile_drone_confus_314686-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Jordan_674027_missile_drone_confus_314686-Illustration-1-dark.svg" | relative_url }}" alt="Airspace Incidents illustration 1" data-theme-src-dark="{{ "/assets/images/Jordan_674027_missile_drone_confus_314686-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jordan_674027_missile_drone_confus_314686-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That environment has changed how unidentified aerial reports are interpreted inside Jordan. A light moving silently at night may once have been treated as a strange sighting. Since the escalation of regional drone and missile warfare, the same observation is often more likely to be connected to military activity, air-defence operations or debris re-entering the atmosphere. The result is not that every unusual sight has been explained, but that the category of “unidentified object” has become much more crowded and much harder to analyse.
 
 ## Why Jordan Has Become a Difficult Place to Read the Sky
@@ -355,7 +355,7 @@ Jordanian authorities have repeatedly warned the public not to approach unidenti
 To a witness on the ground, a burning fragment may appear far stranger than the original missile. The observer sees only a glowing object descending unpredictably, sometimes leaving a trail and sometimes breaking into multiple pieces.
 
 
-<img src="{{ "/assets/images/Jordan_674027_missile_drone_confus_314686-Illustration-2-light.svg" | relative_url }}" alt="Airspace Incidents illustration 2" data-theme-src-dark="{{ "/assets/images/Jordan_674027_missile_drone_confus_314686-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jordan_674027_missile_drone_confus_314686-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Jordan_674027_missile_drone_confus_314686-Illustration-2-dark.svg" | relative_url }}" alt="Airspace Incidents illustration 2" data-theme-src-dark="{{ "/assets/images/Jordan_674027_missile_drone_confus_314686-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jordan_674027_missile_drone_confus_314686-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Irbid and Other Debris Incidents
 
 The danger is not theoretical. In June 2025, several people were injured in Irbid when an object fell onto a residence during a period of regional missile activity. Initial reporting referred to an unspecified falling object before the broader military context became clearer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://english.aawsat.com/arab-world/5154232-3-injured-jordan-unspecified-falling-object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.aawsat.com">[Asharq Al-Awsat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.aawsat.com</span><span class="citation-popover-title">5154232 3 injured jordan unspecified falling object</span><span class="citation-popover-snippet">Asharq Al-Awsat3 Injured in Jordan by Unspecified Falling Object14 Jun 2025 — Three people were wounded in Jordan&#x27;s northern city of Irbi...</span></span></span>
@@ -419,7 +419,7 @@ This problem became particularly visible during major Iranian-Israeli exchanges.
 For researchers trying to evaluate Jordanian UFO claims, establishing location and date has become almost as important as analysing the object itself.
 
 
-<img src="{{ "/assets/images/Jordan_674027_missile_drone_confus_314686-Illustration-3-light.svg" | relative_url }}" alt="Airspace Incidents illustration 3" data-theme-src-dark="{{ "/assets/images/Jordan_674027_missile_drone_confus_314686-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jordan_674027_missile_drone_confus_314686-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Jordan_674027_missile_drone_confus_314686-Illustration-3-dark.svg" | relative_url }}" alt="Airspace Incidents illustration 3" data-theme-src-dark="{{ "/assets/images/Jordan_674027_missile_drone_confus_314686-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jordan_674027_missile_drone_confus_314686-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Recent Jordanian UFO Reports Require More Skepticism Than Older Ones
 
 The rise of drone and missile warfare has changed the baseline assumption for unexplained aerial observations in Jordan.

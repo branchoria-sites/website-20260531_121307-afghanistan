@@ -245,7 +245,7 @@ next_link:
   permalink: /post-1990-sightings/
   short_title: Post 1990 Sightings
   heading_title: What Are the Most Documented Albanian UFO Events Since 1990?
-date: '2026-05-31 03:54:24 '
+date: '2026-06-02 15:46:09 '
 header:
   og_image: /assets/images/Albania_79b9d2_early_ufo_reports_6c784f-Illustration-1-social.jpg
   preview_image: /assets/images/Albania_79b9d2_early_ufo_reports_6c784f-Illustration-1.webp
@@ -257,7 +257,7 @@ image: /assets/images/Albania_79b9d2_early_ufo_reports_6c784f-Illustration-1-soc
 [Albania]({{ 'albania/' | relative_url }})’s earliest UFO-related stories sit at the edge of folklore, memoir, journalism and later retrospective compilation. Unlike better-documented Cold War cases elsewhere in Europe, Albania’s pre-communist and immediate post-war reports survive mostly through scattered references, later media summaries and secondary retellings rather than preserved police, aviation or military archives. That makes the historical value of these incidents less about proving extraordinary craft and more about tracing how unusual aerial narratives entered Albanian public memory.
 
 
-<img src="{{ "/assets/images/Albania_79b9d2_early_ufo_reports_6c784f-Illustration-1-light.svg" | relative_url }}" alt="Early Reports illustration 1" data-theme-src-dark="{{ "/assets/images/Albania_79b9d2_early_ufo_reports_6c784f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Albania_79b9d2_early_ufo_reports_6c784f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Albania_79b9d2_early_ufo_reports_6c784f-Illustration-1-dark.svg" | relative_url }}" alt="Early Reports illustration 1" data-theme-src-dark="{{ "/assets/images/Albania_79b9d2_early_ufo_reports_6c784f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Albania_79b9d2_early_ufo_reports_6c784f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Three threads dominate the early record. The first is a memoir-style account associated with the nationalist writer Mihal Grameno, often retrospectively treated as one of Albania’s first anomalous aerial observations. The second is the frequently repeated Vlorë incident of 1933, described in later UFO catalogues as an unusual aerial manoeuvre witnessed before the communist period. The third is Albania’s indirect connection to the international 1947 “flying saucer” wave that followed the Kenneth Arnold sighting in the United States and reshaped how unusual objects in the sky were interpreted worldwide. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-snippet">National Air and Space Museum1947: Year of the Flying SaucerJune 24, 2022 — 24 Jun 2022 — We will never know exactly what private pilot K...</span><span class="citation-popover-meta">Published: June 24, 2022</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1947 flying disc craze</span><span class="citation-popover-snippet">1947 flying disc craze</span></span></span>
 
 ## Why the Early Albanian Record Is So Thin
@@ -287,9 +287,6 @@ Modern Albanian UFO summaries sometimes claim that Grameno described a luminous 
 
 That matters because memoir literature from the late Ottoman and early Albanian state period often used dramatic natural imagery, unusual lights and symbolic descriptions without implying extraterrestrial craft. Retrospective UFO interpretation may therefore tell us more about modern reading habits than about what Grameno himself believed.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
-
 ### Why the story still matters
 
 Even with weak documentation, the Grameno reference remains important for two reasons.
@@ -311,7 +308,7 @@ The difficulty is that surviving public references are extremely limited. The ca
 Nevertheless, the incident continues to appear in Albanian UFO catalogues because it occupies a useful historical position: it predates both communist secrecy and the worldwide “flying saucer” vocabulary that emerged after 1947. That makes it valuable to researchers interested in whether unusual aerial reports existed before the modern UFO era became culturally standardised. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flying saucer</span><span class="citation-popover-snippet">Flying saucer</span></span></span>
 
 
-<img src="{{ "/assets/images/Albania_79b9d2_early_ufo_reports_6c784f-Illustration-2-light.svg" | relative_url }}" alt="Early Reports illustration 2" data-theme-src-dark="{{ "/assets/images/Albania_79b9d2_early_ufo_reports_6c784f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Albania_79b9d2_early_ufo_reports_6c784f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Albania_79b9d2_early_ufo_reports_6c784f-Illustration-2-dark.svg" | relative_url }}" alt="Early Reports illustration 2" data-theme-src-dark="{{ "/assets/images/Albania_79b9d2_early_ufo_reports_6c784f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Albania_79b9d2_early_ufo_reports_6c784f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why Vlorë is a plausible location for early aerial reports
 
 Even though the evidence is weak, Vlorë itself is not an arbitrary setting for aerial stories. The coastal region has long been strategically significant because of its position on the Adriatic and Ionian approaches. Interwar aviation activity across the Balkans and Mediterranean was expanding during the 1930s, and unusual aircraft manoeuvres would have drawn attention in a country with relatively limited exposure to advanced aviation technology.
@@ -328,9 +325,6 @@ The international UFO era effectively began in June 1947 after American pilot Ke
 
 Although Albania did not produce a major internationally known saucer case during 1947, later Albanian UFO histories frequently connect local stories to this broader international wave. The connection is cultural as much as evidential: once the “flying saucer” concept spread through global media, older unexplained sightings inside Albania were increasingly reinterpreted through that new framework.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1zRWi_r3HRM" title="&quot;100,000 UFOs Are Surrounding Earth!&quot; ft. Top Astronomer Beatriz Villarroel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1zRWi_r3HRM" target="_blank" rel="noopener noreferrer">&quot;100,000 UFOs Are Surrounding Earth!&quot; ft. Top Astronomer Beatriz Villarroel</a></p><p class="youtube-embed-meta">Channel: Jesse Michels</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1zRWi_r3HRM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1zRWi_r3HRM">Open on YouTube</a></p></div></div></div>
-
 ### Albania’s limited media environment in 1947
 
 Albania’s political transition after the Second World War shaped how international UFO news circulated domestically. By 1947 the communist regime was consolidating control, media pluralism was shrinking and foreign press access was increasingly restricted.
@@ -339,6 +333,8 @@ This environment likely reduced both public reporting and archival preservation 
 
 That context helps explain why Albania contributed relatively little to the documented international 1947 saucer archive despite later claims that unusual aerial phenomena were known within the country.
 
+
+<img src="{{ "/assets/images/Albania_79b9d2_early_ufo_reports_6c784f-Illustration-3-dark.svg" | relative_url }}" alt="Early Reports illustration 3" data-theme-src-dark="{{ "/assets/images/Albania_79b9d2_early_ufo_reports_6c784f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Albania_79b9d2_early_ufo_reports_6c784f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Were There Actual Albanian Reports During the 1947 Wave?
 
 The publicly accessible evidence for specific Albanian sightings during the 1947 international saucer craze remains sparse. Modern references sometimes imply that Albania experienced reports linked to the worldwide wave, but detailed case files are generally absent.
@@ -360,8 +356,6 @@ The most defensible conclusion is therefore cautious:
 
 </div>
 
-
-<img src="{{ "/assets/images/Albania_79b9d2_early_ufo_reports_6c784f-Illustration-3-light.svg" | relative_url }}" alt="Early Reports illustration 3" data-theme-src-dark="{{ "/assets/images/Albania_79b9d2_early_ufo_reports_6c784f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Albania_79b9d2_early_ufo_reports_6c784f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why These Early Stories Still Matter
 
 The earliest Albanian UFO reports are historically important less because of evidential strength and more because they reveal how a global mythos entered a small and politically isolated country.
@@ -382,10 +376,6 @@ Several patterns visible later in Albanian UFO culture already appear in embryon
 These early narratives also help explain why later communist-era stories around Mount Tomorr, Kuçova and alleged state-security interest gained traction. Once the international flying saucer vocabulary became globally established after 1947, Albania’s scattered earlier anomalies could be retroactively organised into a national UFO chronology.
 
 The result is a historical record that is fragmentary but revealing: not a hidden archive of confirmed extraterrestrial encounters, but a case study in how modern UFO belief, memory and storytelling developed under unusual political and cultural conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.koha.net/en/lemsh/ufo-t-ne-shqiperi-nen-vezhgimin-e-sigurimit-te-shtetit-qe-ne-vitet-60" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koha.net">[KOHA.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koha.net</span><span class="citation-popover-title">ufo t ne shqiperi nen vezhgimin e sigurimit te shtetit qe ne vitet 60</span><span class="citation-popover-snippet">UFOs in Albania under the surveillance of the State...2 Mar 2017 — Ben Shehu, in the novel &quot;They should not know&quot; deals with many aspect...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1947 flying disc craze</span><span class="citation-popover-snippet">1947 flying disc craze</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-snippet">National Air and Space Museum1947: Year of the Flying SaucerJune 24, 2022 — 24 Jun 2022 — We will never know exactly what private pilot K...</span><span class="citation-popover-meta">Published: June 24, 2022</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NpBnT391UxQ" title="RussMillions Ft. J.B2 X Chuks - Link Up [London X Dublin] (Music Video) | Pressplay" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NpBnT391UxQ" target="_blank" rel="noopener noreferrer">RussMillions Ft. J.B2 X Chuks - Link Up [London X Dublin] (Music Video) | Pressplay</a></p><p class="youtube-embed-meta">Channel: Pressplay Media</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NpBnT391UxQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NpBnT391UxQ">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

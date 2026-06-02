@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /cameroon-73a7dd-index/
 description: Focused pages that expand on What Do Cameroon's UFO Stories Really Show?.
-date: '2026-05-31'
+date: '2026-06-02'
 layout: default
 parent_basename: Cameroon_73a7dd
 parent_title: What Do Cameroon's UFO Stories Really Show?

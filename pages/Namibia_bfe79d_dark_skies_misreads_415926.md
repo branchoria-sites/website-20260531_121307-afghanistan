@@ -245,7 +245,7 @@ next_link:
   permalink: /space-ball/
   short_title: Space Ball
   heading_title: Was Namibia's Space Ball Really From Space?
-date: '2026-05-31 04:35:43 '
+date: '2026-06-02 16:42:12 '
 header:
   og_image: /assets/images/Namibia_bfe79d_dark_skies_misreads_415926-Illustration-1-social.jpg
   preview_image: /assets/images/Namibia_bfe79d_dark_skies_misreads_415926-Illustration-1.webp
@@ -257,7 +257,7 @@ image: /assets/images/Namibia_bfe79d_dark_skies_misreads_415926-Illustration-1-s
 [Namibia]({{ 'what-is-really-behind-namibias-ufo/' | relative_url }})’s UFO stories often sound more convincing because the country offers some of the clearest night-sky conditions on Earth. Vast desert horizons, extremely low light pollution, dry air, and sparse settlement make stars, satellites, meteors, planets, and distant aircraft appear unusually bright and dramatic. In many parts of the world, these objects are softened by haze, city glow, or obstructed horizons. In Namibia, they can appear startlingly vivid, creating the impression that something extraordinary is happening overhead.
 
 
-<img src="{{ "/assets/images/Namibia_bfe79d_dark_skies_misreads_415926-Illustration-1-light.svg" | relative_url }}" alt="Dark Skies illustration 1" data-theme-src-dark="{{ "/assets/images/Namibia_bfe79d_dark_skies_misreads_415926-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Namibia_bfe79d_dark_skies_misreads_415926-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Namibia_bfe79d_dark_skies_misreads_415926-Illustration-1-dark.svg" | relative_url }}" alt="Dark Skies illustration 1" data-theme-src-dark="{{ "/assets/images/Namibia_bfe79d_dark_skies_misreads_415926-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Namibia_bfe79d_dark_skies_misreads_415926-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That does not mean witnesses are careless or unreliable. In fact, Namibia demonstrates the opposite problem: people can genuinely see more of the sky than they are used to seeing. Under exceptionally dark conditions, ordinary astronomical and human-made objects become easier to notice but not always easier to identify. This helps explain why some Namibian UFO reports begin as sincere mysteries yet later turn out to involve meteors, satellites, re-entering space debris, distant aircraft lights, or atmospheric effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://darksky.org/places/namibrand-dark-sky-reserve/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: darksky.org">[DarkSky International]</a><span class="citation-popover" role="note"><span class="citation-popover-source">darksky.org</span><span class="citation-popover-title">namibrand dark sky reserve</span><span class="citation-popover-snippet">DarkSky InternationalNamibRand Nature Reserve24 Apr 2015 — Namibiaʼs NamibRand Nature Reserve, one of Africaʼs largest private nature res...</span></span></span>
 
 ## Why Namibia Is Ideal for Skywatching
@@ -360,7 +360,7 @@ A large meteor, often called a fireball, can:
 Witnesses frequently interpret these events as crashing spacecraft or unusual aerial vehicles because they appear suddenly and can dominate the sky for several seconds. Reports from Namibia's coast and interior have occasionally described glowing balls with tails, behaviour that closely matches known meteor phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popastro.com/meteor/meteor-section-reports-2008/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popastro.com">[popastro.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popastro.com</span><span class="citation-popover-title">meteor section reports 2008</span><span class="citation-popover-snippet">Meteor Shower Reports · Fireball Reports · Impact Events · Obituary. This page contains links to the SPA&#x27;s archived Electronic News...Re...</span></span></span>
 
 
-<img src="{{ "/assets/images/Namibia_bfe79d_dark_skies_misreads_415926-Illustration-2-light.svg" | relative_url }}" alt="Dark Skies illustration 2" data-theme-src-dark="{{ "/assets/images/Namibia_bfe79d_dark_skies_misreads_415926-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Namibia_bfe79d_dark_skies_misreads_415926-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Namibia_bfe79d_dark_skies_misreads_415926-Illustration-2-dark.svg" | relative_url }}" alt="Dark Skies illustration 2" data-theme-src-dark="{{ "/assets/images/Namibia_bfe79d_dark_skies_misreads_415926-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Namibia_bfe79d_dark_skies_misreads_415926-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Re-entering Space Debris
 
 One of the most useful Namibian examples involves the so-called "[space ball]({{ 'space-ball/' | relative_url }})" discovered in northern Namibia in 2011.
@@ -419,7 +419,7 @@ Objects viewed over water often appear farther away than they really are. Aircra
 This is one reason coastal UFO reports frequently sound more dramatic than equivalent inland observations. The witness may accurately describe what they saw while still misjudging the object's distance, size, or speed.
 
 
-<img src="{{ "/assets/images/Namibia_bfe79d_dark_skies_misreads_415926-Illustration-3-light.svg" | relative_url }}" alt="Dark Skies illustration 3" data-theme-src-dark="{{ "/assets/images/Namibia_bfe79d_dark_skies_misreads_415926-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Namibia_bfe79d_dark_skies_misreads_415926-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Namibia_bfe79d_dark_skies_misreads_415926-Illustration-3-dark.svg" | relative_url }}" alt="Dark Skies illustration 3" data-theme-src-dark="{{ "/assets/images/Namibia_bfe79d_dark_skies_misreads_415926-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Namibia_bfe79d_dark_skies_misreads_415926-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Observers Can Check a Strange Light
 
 Namibia's skies are remarkable enough that unusual observations will continue to occur. The most useful question is not whether a light looks strange, but whether it can be tested against known explanations.

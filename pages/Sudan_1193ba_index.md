@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /sudan-1193ba-index/
 description: Focused pages that expand on What Really Appeared Over Sudan?.
-date: '2026-05-31'
+date: '2026-06-02'
 layout: default
 parent_basename: Sudan_1193ba
 parent_title: What Really Appeared Over Sudan?

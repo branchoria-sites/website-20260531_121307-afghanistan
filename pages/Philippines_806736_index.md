@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /philippines-806736-index/
 description: Focused pages that expand on Philippines.
-date: '2026-05-31'
+date: '2026-06-02'
 layout: default
 parent_basename: Philippines_806736
 parent_title: Philippines

@@ -245,7 +245,7 @@ next_link:
   permalink: /war-zone/
   short_title: War Zone
   heading_title: Why Yemen's UFOs Start With the War Zone
-date: '2026-05-31 04:37:42 '
+date: '2026-06-02 16:44:36 '
 header:
   og_image: /assets/images/Yemen_ac33d6_coast_inland_sightin_87fb38-Illustration-1-social.jpg
   preview_image: /assets/images/Yemen_ac33d6_coast_inland_sightin_87fb38-Illustration-1.webp
@@ -257,7 +257,7 @@ image: /assets/images/Yemen_ac33d6_coast_inland_sightin_87fb38-Illustration-1-so
 [Yemen]({{ 'what-is-really-in-yemens-ufo-record/' | relative_url }})’s geography changes how unusual aerial reports should be interpreted. A glowing object over the Red Sea coast, the Bab al-Mandeb Strait or the Gulf of Aden sits inside one of the busiest military and maritime surveillance corridors in the world. A similar report from the mountains around Sana’a, the interior deserts of Hadramawt or remote inland valleys raises a different set of first questions. The most important distinction is not whether a witness called something a UFO, but whether the sighting happened in a coastal environment filled with ships, drones, missiles, aircraft and satellite observation, or in inland terrain where planets, atmospheric effects, lightning and limited visibility often become stronger explanatory candidates.
 
 
-<img src="{{ "/assets/images/Yemen_ac33d6_coast_inland_sightin_87fb38-Illustration-1-light.svg" | relative_url }}" alt="Regions illustration 1" data-theme-src-dark="{{ "/assets/images/Yemen_ac33d6_coast_inland_sightin_87fb38-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Yemen_ac33d6_coast_inland_sightin_87fb38-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Yemen_ac33d6_coast_inland_sightin_87fb38-Illustration-1-dark.svg" | relative_url }}" alt="Regions illustration 1" data-theme-src-dark="{{ "/assets/images/Yemen_ac33d6_coast_inland_sightin_87fb38-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Yemen_ac33d6_coast_inland_sightin_87fb38-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That difference matters because Yemen’s most publicised modern UAP case occurred off the coast, while many inland reports remain fragmented, anecdotal and poorly documented. Understanding the geography is often more useful than debating the label attached to the sighting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/news-features/revelation-that-mq-9-reapers-are-now-engaging-aerial-targets-comes-from-uap-hearing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-snippet">UFO), and protections for whistleblowers. The video “was taken [on] October 30 of 2024. This video is of an MQ-9 drone tracking an orb o...</span></span></span>
 
 ## Why the Coast Is the Strongest UAP Zone
@@ -335,7 +335,7 @@ In remote areas with limited artificial lighting, a bright celestial object may 
 For this reason, inland reports without multiple witnesses or supporting imagery often require astronomical checks before more exotic explanations are considered.
 
 
-<img src="{{ "/assets/images/Yemen_ac33d6_coast_inland_sightin_87fb38-Illustration-2-light.svg" | relative_url }}" alt="Regions illustration 2" data-theme-src-dark="{{ "/assets/images/Yemen_ac33d6_coast_inland_sightin_87fb38-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Yemen_ac33d6_coast_inland_sightin_87fb38-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Yemen_ac33d6_coast_inland_sightin_87fb38-Illustration-2-dark.svg" | relative_url }}" alt="Regions illustration 2" data-theme-src-dark="{{ "/assets/images/Yemen_ac33d6_coast_inland_sightin_87fb38-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Yemen_ac33d6_coast_inland_sightin_87fb38-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Lightning and Weather Effects
 
 Yemen's mountains experience intense seasonal thunderstorms. Some regions can receive exceptionally high concentrations of lightning during peak rainy periods. Reports from humanitarian and climate-monitoring organisations have documented substantial lightning activity in mountainous districts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aclenet.org/file_download/inline/541f4f2b-1801-4226-a2ee-248abb03e6f2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aclenet.org">[aclenet.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aclenet.org</span><span class="citation-popover-snippet">210 deaths and injuries from lightning strikes in Yemen in...24 May 2025 — Some mountainous areas in Yemen even record hundreds of light...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
@@ -380,7 +380,7 @@ Coastal sightingsInland sightingsMore surveillance coverageLess surveillance cov
 Neither setting automatically produces stronger evidence. They simply produce different kinds of uncertainty.
 
 
-<img src="{{ "/assets/images/Yemen_ac33d6_coast_inland_sightin_87fb38-Illustration-3-light.svg" | relative_url }}" alt="Regions illustration 3" data-theme-src-dark="{{ "/assets/images/Yemen_ac33d6_coast_inland_sightin_87fb38-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Yemen_ac33d6_coast_inland_sightin_87fb38-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Yemen_ac33d6_coast_inland_sightin_87fb38-Illustration-3-dark.svg" | relative_url }}" alt="Regions illustration 3" data-theme-src-dark="{{ "/assets/images/Yemen_ac33d6_coast_inland_sightin_87fb38-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Yemen_ac33d6_coast_inland_sightin_87fb38-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Red Sea Creates Special Cases
 
 Several geographical features make Yemen’s western coast unusually prone to unusual-looking aerial events.

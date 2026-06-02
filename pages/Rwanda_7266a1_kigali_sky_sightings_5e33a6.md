@@ -245,7 +245,7 @@ next_link:
   permalink: /missing-reports-b9cb78/
   short_title: Missing Reports
   heading_title: Why Are Rwanda UFO Reports So Hard to Find?
-date: '2026-05-31 04:29:13 '
+date: '2026-06-02 16:32:25 '
 header:
   og_image: /assets/images/Rwanda_7266a1_kigali_sky_sightings_5e33a6-Illustration-1-social.jpg
   preview_image: /assets/images/Rwanda_7266a1_kigali_sky_sightings_5e33a6-Illustration-1.webp
@@ -257,7 +257,7 @@ image: /assets/images/Rwanda_7266a1_kigali_sky_sightings_5e33a6-Illustration-1-s
 Kigali is the most plausible place in [Rwanda]({{ 'what-is-rwandas-real-ufo-record/' | relative_url }}) for a reported UFO or unidentified aerial sighting to emerge, not because it is necessarily a hotspot for unexplained phenomena, but because it concentrates people, communications networks, aviation activity and smartphone cameras. A light seen over a rural valley may never be reported. A light seen above Kigali can be photographed, discussed online and rapidly amplified.
 
 
-<img src="{{ "/assets/images/Rwanda_7266a1_kigali_sky_sightings_5e33a6-Illustration-1-light.svg" | relative_url }}" alt="Kigali illustration 1" data-theme-src-dark="{{ "/assets/images/Rwanda_7266a1_kigali_sky_sightings_5e33a6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rwanda_7266a1_kigali_sky_sightings_5e33a6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Rwanda_7266a1_kigali_sky_sightings_5e33a6-Illustration-1-dark.svg" | relative_url }}" alt="Kigali illustration 1" data-theme-src-dark="{{ "/assets/images/Rwanda_7266a1_kigali_sky_sightings_5e33a6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rwanda_7266a1_kigali_sky_sightings_5e33a6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That visibility creates a paradox. The same conditions that make reports easier to document also make mistakes more likely. Kigali sits beside the country's busiest airport, hosts regulated drone activity, has expanding aviation infrastructure and contains countless artificial light sources that can distort perception at night. Any serious assessment of a claimed UFO sighting in Kigali therefore starts with ordinary explanations before moving toward extraordinary ones. The central question is not whether witnesses are sincere, but whether the observation can survive the city's unusually high risk of misidentification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mininfra.gov.rw/updates/news-details/kigali-international-airport-expansion-will-help-to-meet-the-growing-demand-for-aviation-services-in-rwanda" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mininfra.gov.rw">[2mininfra.gov.rw]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mininfra.gov.rw</span><span class="citation-popover-snippet">The number of flights to and from the airport has outstripped its...Read more...</span></span></span>
 
 ## Why Urban Reports Are More Visible
@@ -271,7 +271,7 @@ Urban settings also create a reporting bias. Residents regularly see aircraft ap
 The result is not that urban reports are worthless. Rather, they require stricter filtering because the number of plausible conventional explanations is much higher.
 
 
-<img src="{{ "/assets/images/Rwanda_7266a1_kigali_sky_sightings_5e33a6-Illustration-3-light.svg" | relative_url }}" alt="Kigali illustration 3" data-theme-src-dark="{{ "/assets/images/Rwanda_7266a1_kigali_sky_sightings_5e33a6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rwanda_7266a1_kigali_sky_sightings_5e33a6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Rwanda_7266a1_kigali_sky_sightings_5e33a6-Illustration-3-dark.svg" | relative_url }}" alt="Kigali illustration 3" data-theme-src-dark="{{ "/assets/images/Rwanda_7266a1_kigali_sky_sightings_5e33a6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rwanda_7266a1_kigali_sky_sightings_5e33a6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Aircraft and Drones as the First Checks
 
 The strongest first explanation for many hypothetical Kigali sightings is conventional aviation.
@@ -334,7 +334,7 @@ One photograph of a distant light rarely establishes much. Several synchronized 
 The distinction is important. A genuine unidentified object is not simply something that looks strange. It is something that remains unexplained after normal explanations have been systematically tested.
 
 
-<img src="{{ "/assets/images/Rwanda_7266a1_kigali_sky_sightings_5e33a6-Illustration-2-light.svg" | relative_url }}" alt="Kigali illustration 2" data-theme-src-dark="{{ "/assets/images/Rwanda_7266a1_kigali_sky_sightings_5e33a6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rwanda_7266a1_kigali_sky_sightings_5e33a6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Rwanda_7266a1_kigali_sky_sightings_5e33a6-Illustration-2-dark.svg" | relative_url }}" alt="Kigali illustration 2" data-theme-src-dark="{{ "/assets/images/Rwanda_7266a1_kigali_sky_sightings_5e33a6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rwanda_7266a1_kigali_sky_sightings_5e33a6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Witnesses Could Preserve Useful Evidence
 
 If someone in Kigali believed they had observed an unusual aerial object, the most useful response would be documentation rather than immediate interpretation.

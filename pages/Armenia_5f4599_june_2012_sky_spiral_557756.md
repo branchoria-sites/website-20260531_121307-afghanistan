@@ -239,7 +239,7 @@ next_link:
   permalink: /byurakan/
   short_title: Byurakan
   heading_title: Who Checks Strange Lights Over Armenia?
-date: '2026-05-31 03:57:54 '
+date: '2026-06-02 15:50:17 '
 header:
   og_image: /assets/images/Armenia_5f4599_june_2012_sky_spiral_557756-Illustration-1-social.jpg
   preview_image: /assets/images/Armenia_5f4599_june_2012_sky_spiral_557756-Illustration-1.webp
@@ -251,7 +251,7 @@ image: /assets/images/Armenia_5f4599_june_2012_sky_spiral_557756-Illustration-1-
 On the night of 7 June 2012, residents across Yerevan and other parts of [Armenia]({{ 'what-really-explains-armenias-ufo/' | relative_url }}) looked up to see one of the country’s most discussed “UFO” events. Witnesses described a glowing object that appeared to expand, twist and leave a luminous spiral or cone-shaped trail in the sky. Photos and mobile-phone footage spread quickly through Armenian media and regional social networks, with speculation ranging from extraterrestrial craft to secret military technology. Within days, however, the event became an important regional example of how missile tests and upper-atmosphere effects can create spectacular visual illusions. Investigations linked the sighting to a Russian Topol intercontinental ballistic missile test launched from the Kapustin Yar range in southern Russia. «Ազատ Եվրոպա Ազատություն» ռադիոկայան <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.am/en/news/108813" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.am">[Armenia News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.am</span><span class="citation-popover-snippet">Israeli outlets linked the object with the Russian Topol...Read more...</span></span></span>
 
 
-<img src="{{ "/assets/images/Armenia_5f4599_june_2012_sky_spiral_557756-Illustration-1-light.svg" | relative_url }}" alt="2012 Spiral illustration 1" data-theme-src-dark="{{ "/assets/images/Armenia_5f4599_june_2012_sky_spiral_557756-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Armenia_5f4599_june_2012_sky_spiral_557756-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Armenia_5f4599_june_2012_sky_spiral_557756-Illustration-1-dark.svg" | relative_url }}" alt="2012 Spiral illustration 1" data-theme-src-dark="{{ "/assets/images/Armenia_5f4599_june_2012_sky_spiral_557756-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Armenia_5f4599_june_2012_sky_spiral_557756-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The episode remains significant in Armenia’s UFO history not because it produced evidence of unknown craft, but because it showed how easily rare aerospace events can be interpreted as mysterious phenomena when viewed from the ground under unusual atmospheric conditions.
 
 ## What Witnesses Reported Across Armenia
@@ -333,7 +333,7 @@ Areg Mikaelian of the Armenian Astronomical Association stated that the photogra
 The broader regional distribution of sightings strongly undermined purely local explanations. A genuine low-altitude object over Armenia would not normally generate nearly identical reports across such a vast geographic area. A high-altitude missile plume, however, could.
 
 
-<img src="{{ "/assets/images/Armenia_5f4599_june_2012_sky_spiral_557756-Illustration-2-light.svg" | relative_url }}" alt="2012 Spiral illustration 2" data-theme-src-dark="{{ "/assets/images/Armenia_5f4599_june_2012_sky_spiral_557756-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Armenia_5f4599_june_2012_sky_spiral_557756-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Armenia_5f4599_june_2012_sky_spiral_557756-Illustration-2-dark.svg" | relative_url }}" alt="2012 Spiral illustration 2" data-theme-src-dark="{{ "/assets/images/Armenia_5f4599_june_2012_sky_spiral_557756-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Armenia_5f4599_june_2012_sky_spiral_557756-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Role of Armenian Scientific Commentary
 
 The response from Armenian astronomers became an important part of the story because it showed a relatively rapid shift from sensational speculation toward technical interpretation.
@@ -454,7 +454,7 @@ In UFO research terms, the case is often treated as a strong example of a “res
 The Armenia sightings also fit into a broader global history of missile launches being mistaken for UFOs. Similar incidents have occurred after Russian, American, Chinese and private-space launches, especially during twilight hours when exhaust plumes become highly visible.
 
 
-<img src="{{ "/assets/images/Armenia_5f4599_june_2012_sky_spiral_557756-Illustration-3-light.svg" | relative_url }}" alt="2012 Spiral illustration 3" data-theme-src-dark="{{ "/assets/images/Armenia_5f4599_june_2012_sky_spiral_557756-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Armenia_5f4599_june_2012_sky_spiral_557756-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Armenia_5f4599_june_2012_sky_spiral_557756-Illustration-3-dark.svg" | relative_url }}" alt="2012 Spiral illustration 3" data-theme-src-dark="{{ "/assets/images/Armenia_5f4599_june_2012_sky_spiral_557756-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Armenia_5f4599_june_2012_sky_spiral_557756-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Remains Contested and What Does Not
 
 The strongest evidence in the Armenia case supports the missile explanation rather than an unknown aerial craft. The timing correlation, regional visibility pattern and physical appearance all align closely with documented missile-plume phenomena. «Ազատ Եվրոպա Ազատություն» ռադիոկայան <span class="citation-chip-wrap"><a class="citation-chip" href="https://phys.org/news/2012-06-spiral-middle-east-russian-missile.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phys.org">[Phys.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phys.org</span><span class="citation-popover-title">2012 06 spiral middle east russian missile</span><span class="citation-popover-snippet">Spiral seen over the Middle East likely Russian missile11 Jun 2012 — The strange sight has been confirmed to be a Russian ballistic missi...</span></span></span>

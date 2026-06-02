@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /bolivia-plurinationa-9e2db7-index/
 description: Focused pages that expand on Bolivia Plurinational State of.
-date: '2026-05-31'
+date: '2026-06-02'
 layout: default
 parent_basename: Bolivia_Plurinationa_9e2db7
 parent_title: Bolivia Plurinational State of

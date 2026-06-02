@@ -239,7 +239,7 @@ next_link:
   permalink: /early-reports/
   short_title: Early Reports
   heading_title: What Were Albania's Earliest Recorded UFO Incidents?
-date: '2026-05-31 03:54:35 '
+date: '2026-06-02 15:46:38 '
 header:
   og_image: /assets/images/Albania_79b9d2_communist_era_ufo_re_4d5af0-Illustration-1-social.jpg
   preview_image: /assets/images/Albania_79b9d2_communist_era_ufo_re_4d5af0-Illustration-1.webp
@@ -251,7 +251,7 @@ image: /assets/images/Albania_79b9d2_communist_era_ufo_re_4d5af0-Illustration-1-
 [Albania]({{ 'albania/' | relative_url }})’s communist-era UFO stories sit at the intersection of Cold War isolation, military secrecy and fragmentary archives. Unlike the better-known UFO records of the United States or Soviet Union, Albania never developed a public investigative programme, a civilian reporting network or a transparent declassification process. Most surviving accounts come from later interviews, memoir-style reporting and scattered press investigations after the fall of communism. That makes the historical question less about proving extraordinary craft and more about understanding how a highly secretive state interpreted unexplained aerial events.
 
 
-<img src="{{ "/assets/images/Albania_79b9d2_communist_era_ufo_re_4d5af0-Illustration-1-light.svg" | relative_url }}" alt="Communist Era Reports illustration 1" data-theme-src-dark="{{ "/assets/images/Albania_79b9d2_communist_era_ufo_re_4d5af0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Albania_79b9d2_communist_era_ufo_re_4d5af0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Albania_79b9d2_communist_era_ufo_re_4d5af0-Illustration-1-dark.svg" | relative_url }}" alt="Communist Era Reports illustration 1" data-theme-src-dark="{{ "/assets/images/Albania_79b9d2_communist_era_ufo_re_4d5af0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Albania_79b9d2_communist_era_ufo_re_4d5af0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The most persistent claims centre on Mount Tomorr in the early 1960s, reports linked to Kuçova Air Base and rumours that the communist security apparatus, the Sigurimi, maintained classified files on unusual aerial incidents. The evidence is uneven. Some cases are supported by repeated witness traditions and references to military involvement, while others appear to have grown through retelling and circular sourcing. Even so, these stories reveal how Cold War Albania processed uncertainty in an atmosphere shaped by NATO fears, strict censorship and an almost total absence of independent journalism. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Albania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Albania</span><span class="citation-popover-snippet">UFO sightings in Albania</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sigurimi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 ## Why communist Albania produced unusual UFO narratives
@@ -281,9 +281,6 @@ Several features make the Tomorr story historically interesting even if its extr
 </div>
 
 The strongest caution for historians is that no publicly available flight logs, radar records, accident investigations or authenticated Sigurimi documents have been released confirming the details. The case survives primarily through retrospective reporting and secondary narratives decades after the alleged event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sigurimi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-LSUrmfl46E" title="Did a former Soviet Union citizen tour a UFO and leave proof? | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-LSUrmfl46E" target="_blank" rel="noopener noreferrer">Did a former Soviet Union citizen tour a UFO and leave proof? | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 198.9K &middot; Uploaded: December 2025 &middot; Length: 1 hour 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-LSUrmfl46E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-LSUrmfl46E">Open on YouTube</a></p></div></div></div>
 
 ## Kuçova Air Base and the militarisation of unexplained sightings
 
@@ -325,7 +322,7 @@ Archival questionCurrent state of evidenceDid the Sigurimi keep extensive survei
 This distinction is crucial because many modern articles collapse rumour, testimony and archival evidence into a single narrative. The existence of secrecy does not itself validate extraordinary claims.
 
 
-<img src="{{ "/assets/images/Albania_79b9d2_communist_era_ufo_re_4d5af0-Illustration-2-light.svg" | relative_url }}" alt="Communist Era Reports illustration 2" data-theme-src-dark="{{ "/assets/images/Albania_79b9d2_communist_era_ufo_re_4d5af0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Albania_79b9d2_communist_era_ufo_re_4d5af0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Albania_79b9d2_communist_era_ufo_re_4d5af0-Illustration-2-dark.svg" | relative_url }}" alt="Communist Era Reports illustration 2" data-theme-src-dark="{{ "/assets/images/Albania_79b9d2_communist_era_ufo_re_4d5af0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Albania_79b9d2_communist_era_ufo_re_4d5af0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Mount Tomorr became a magnet for UFO folklore
 
 Mount Tomorr’s role in Albanian UFO culture cannot be separated from its symbolic status. The mountain has long been associated with religious pilgrimage, sacred geography and supernatural folklore. During the communist period, religion was suppressed and parts of the mountain region were militarised. That combination created a powerful setting for later mystery narratives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ku%C3%A7ov%C3%AB" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
@@ -347,7 +344,8 @@ This pattern is historically revealing. Albanian UFO narratives during the commu
 Only later, especially after the 1990s opening of Albanian media culture, were these stories reframed more explicitly as UFO encounters.
 
 
-<img src="{{ "/assets/images/Albania_79b9d2_communist_era_ufo_re_4d5af0-Illustration-3-light.svg" | relative_url }}" alt="Communist Era Reports illustration 3" data-theme-src-dark="{{ "/assets/images/Albania_79b9d2_communist_era_ufo_re_4d5af0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Albania_79b9d2_communist_era_ufo_re_4d5af0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-LSUrmfl46E" title="Did a former Soviet Union citizen tour a UFO and leave proof? | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-LSUrmfl46E" target="_blank" rel="noopener noreferrer">Did a former Soviet Union citizen tour a UFO and leave proof? | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 198.9K &middot; Uploaded: December 2025 &middot; Length: 1 hour 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-LSUrmfl46E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-LSUrmfl46E">Open on YouTube</a></p></div></div></div>
+
 ## How reliable are the communist-era Albanian UFO reports?
 
 The reliability of Albania’s Cold War UFO archive is mixed and often weak by modern investigative standards. The strongest historical claim is not that extraordinary craft were proven, but that unexplained aerial incidents were taken seriously inside a paranoid security state.
@@ -362,12 +360,11 @@ Very few communist-era reports were documented openly at the time. Most narrativ
 
 Many Albanian UFO stories repeat through multiple websites and articles that ultimately rely on the same small pool of earlier claims. Over time, speculative details can harden into “facts” simply through repetition.
 
+
+<img src="{{ "/assets/images/Albania_79b9d2_communist_era_ufo_re_4d5af0-Illustration-3-dark.svg" | relative_url }}" alt="Communist Era Reports illustration 3" data-theme-src-dark="{{ "/assets/images/Albania_79b9d2_communist_era_ufo_re_4d5af0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Albania_79b9d2_communist_era_ufo_re_4d5af0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Missing technical evidence
 
 No publicly released radar data, cockpit recordings, authenticated military photographs or complete accident reports have surfaced for the major Cold War-era cases.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
 
 ### Genuine historical secrecy
 

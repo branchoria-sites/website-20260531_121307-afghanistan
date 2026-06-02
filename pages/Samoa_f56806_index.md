@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /samoa-f56806-index/
 description: Focused pages that expand on What Has Samoa Really Seen in the Sky?.
-date: '2026-05-31'
+date: '2026-06-02'
 layout: default
 parent_basename: Samoa_f56806
 parent_title: What Has Samoa Really Seen in the Sky?

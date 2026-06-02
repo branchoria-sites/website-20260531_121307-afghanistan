@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /bulgaria-5c7772-index/
 description: Focused pages that expand on What Really Explains Bulgaria's UFO Stories?.
-date: '2026-05-31'
+date: '2026-06-02'
 layout: default
 parent_basename: Bulgaria_5c7772
 parent_title: What Really Explains Bulgaria's UFO Stories?

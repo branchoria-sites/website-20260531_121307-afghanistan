@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /tonga-e8a123-index/
 description: Focused pages that expand on What Really Exists in Tonga's UFO Record?.
-date: '2026-05-31'
+date: '2026-06-02'
 layout: default
 parent_basename: Tonga_e8a123
 parent_title: What Really Exists in Tonga's UFO Record?

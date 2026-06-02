@@ -239,7 +239,7 @@ prev_link:
   permalink: /official-files-d52964/
   short_title: Official Files
   heading_title: Where Would an Andorra UFO Case Be Documented?
-date: '2026-05-31 03:56:18 '
+date: '2026-06-02 15:49:32 '
 header:
   og_image: /assets/images/Andorra_9d3bd1_mountain_light_effec_9046d4-Illustration-1-social.jpg
   preview_image: /assets/images/Andorra_9d3bd1_mountain_light_effec_9046d4-Illustration-1.webp
@@ -251,7 +251,7 @@ image: /assets/images/Andorra_9d3bd1_mountain_light_effec_9046d4-Illustration-1-
 Many UFO-style light reports in [Andorra]({{ 'what-is-actually-known-about-andorra/' | relative_url }}) become less mysterious once the country’s mountain geography is taken seriously. The principality sits high in the eastern Pyrenees, where steep valleys, ridgelines, ski infrastructure, winter cloud layers and reflective snow can dramatically alter how ordinary lights appear to human observers. A stationary aircraft light can seem to hover over a ridge. A satellite can vanish abruptly behind a mountain wall. Ski-slope floodlights can glow through fog and appear airborne. Temperature inversions can bend light and distort distance, especially during cold, calm winter nights.
 
 
-<img src="{{ "/assets/images/Andorra_9d3bd1_mountain_light_effec_9046d4-Illustration-1-light.svg" | relative_url }}" alt="Terrain Effects illustration 1" data-theme-src-dark="{{ "/assets/images/Andorra_9d3bd1_mountain_light_effec_9046d4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Andorra_9d3bd1_mountain_light_effec_9046d4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Andorra_9d3bd1_mountain_light_effec_9046d4-Illustration-1-dark.svg" | relative_url }}" alt="Terrain Effects illustration 1" data-theme-src-dark="{{ "/assets/images/Andorra_9d3bd1_mountain_light_effec_9046d4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Andorra_9d3bd1_mountain_light_effec_9046d4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That does not mean every unexplained observation has a simple answer. It does mean that Andorra is an unusually good environment for perceptual mistakes involving lights at night. In a country where many sightings happen from valley floors with restricted horizons, the landscape itself becomes part of the phenomenon. Understanding these terrain effects helps explain why some reports feel uncanny even when the original source is mundane. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.avoriaz.com/en/to-discover/blog/sea-of-clouds-in-avoriaz--understanding-this-spectacular-phenomenon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avoriaz.com">[Avoriaz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avoriaz.com</span><span class="citation-popover-snippet">AvoriazSea of clouds in Avoriaz: understanding this spectacular...Why do we observe a sea of clouds in Avoriaz? Simple explanations of t...</span></span></span>
 
 ## How Valleys Distort Distance and Motion
@@ -323,7 +323,7 @@ Alpenglow and other mountain optical effects also contribute to misinterpretatio
 Andorra’s position between France and Spain places it beneath regional air traffic corridors, while its dark mountain skies make bright aerial objects highly visible. Yet ridgelines alter how those objects are perceived.
 
 
-<img src="{{ "/assets/images/Andorra_9d3bd1_mountain_light_effec_9046d4-Illustration-2-light.svg" | relative_url }}" alt="Terrain Effects illustration 2" data-theme-src-dark="{{ "/assets/images/Andorra_9d3bd1_mountain_light_effec_9046d4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Andorra_9d3bd1_mountain_light_effec_9046d4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Andorra_9d3bd1_mountain_light_effec_9046d4-Illustration-2-dark.svg" | relative_url }}" alt="Terrain Effects illustration 2" data-theme-src-dark="{{ "/assets/images/Andorra_9d3bd1_mountain_light_effec_9046d4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Andorra_9d3bd1_mountain_light_effec_9046d4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Aircraft Approaches and “Hovering” Lights
 
 An aircraft flying toward an observer produces very little apparent sideways movement. In open terrain, surrounding landmarks help reveal its motion. In Andorra’s valleys, mountains remove many of those cues.
@@ -384,7 +384,7 @@ At sunset, illuminated cloud edges can glow intensely orange, red or white. Comb
 Importantly, these are not hallucinations or fake sightings. Atmospheric optics specialists classify them as genuine optical phenomena created by interactions between light, moisture and air structure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Atmospheric_optics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Atmospheric optics</span><span class="citation-popover-snippet">Atmospheric optics</span></span></span> The “strangeness” comes from how unusual the sky can genuinely look in mountain conditions.
 
 
-<img src="{{ "/assets/images/Andorra_9d3bd1_mountain_light_effec_9046d4-Illustration-3-light.svg" | relative_url }}" alt="Terrain Effects illustration 3" data-theme-src-dark="{{ "/assets/images/Andorra_9d3bd1_mountain_light_effec_9046d4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Andorra_9d3bd1_mountain_light_effec_9046d4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Andorra_9d3bd1_mountain_light_effec_9046d4-Illustration-3-dark.svg" | relative_url }}" alt="Terrain Effects illustration 3" data-theme-src-dark="{{ "/assets/images/Andorra_9d3bd1_mountain_light_effec_9046d4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Andorra_9d3bd1_mountain_light_effec_9046d4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Terrain Effects Matter in Andorran UFO Reports
 
 The value of terrain analysis is not that it dismisses every unusual report. Rather, it establishes a realistic baseline for interpreting observations in Andorra.

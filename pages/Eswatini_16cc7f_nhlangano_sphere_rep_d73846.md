@@ -245,7 +245,7 @@ next_link:
   permalink: /official-files-a14e9a/
   short_title: Official Files
   heading_title: Where Would an Eswatini UFO Report Go?
-date: '2026-05-31 04:13:57 '
+date: '2026-06-02 16:10:23 '
 header:
   og_image: /assets/images/Eswatini_16cc7f_nhlangano_sphere_rep_d73846-Illustration-1-social.jpg
   preview_image: /assets/images/Eswatini_16cc7f_nhlangano_sphere_rep_d73846-Illustration-1.webp
@@ -257,7 +257,7 @@ image: /assets/images/Eswatini_16cc7f_nhlangano_sphere_rep_d73846-Illustration-1
 In the context of [Eswatini]({{ 'what-is-really-in-eswatinis-ufo-record/' | relative_url }})’s extremely limited public record of unidentified flying object (UFO) reports, the Nhlangano sphere report stands out as the single most detailed but also most contested claim. This case — filed long after the purported sighting — is frequently referenced in UFO databases and online discussions about Eswatini sightings, yet its evidential basis falls short of the standards needed for positive identification of an anomalous aerial phenomenon. Awareness of both what the report *says* and what the available evidence *cannot* substantiate is central to any sober assessment of UFO phenomena in Eswatini.
 
 
-<img src="{{ "/assets/images/Eswatini_16cc7f_nhlangano_sphere_rep_d73846-Illustration-1-light.svg" | relative_url }}" alt="Nhlangano illustration 1" data-theme-src-dark="{{ "/assets/images/Eswatini_16cc7f_nhlangano_sphere_rep_d73846-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eswatini_16cc7f_nhlangano_sphere_rep_d73846-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Eswatini_16cc7f_nhlangano_sphere_rep_d73846-Illustration-1-dark.svg" | relative_url }}" alt="Nhlangano illustration 1" data-theme-src-dark="{{ "/assets/images/Eswatini_16cc7f_nhlangano_sphere_rep_d73846-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eswatini_16cc7f_nhlangano_sphere_rep_d73846-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the Nhlangano Witnesses Reported
 
 The key source for the Nhlangano sphere case is a report archived by the National UFO Reporting Center (NUFORC), an independent civilian database where members of the public can submit accounts of sightings. According to NUFORC case 34020, the sighting occurred on the evening of 15 October 1992 near Nhlangano, a town in southern Eswatini’s Shiselweni region. The report was not posted until late 2003, more than a decade after the event allegedly took place. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=34020" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 34020January 17, 2004...</span><span class="citation-popover-meta">Published: January 17, 2004</span></span></span>
@@ -276,7 +276,7 @@ There are a few nominal strengths to the Nhlangano report that make it stand out
 Second, the description includes sensory impressions beyond just light — such as the alleged static in the air and silent operation — which, if corroborated, might suggest something unusual compared with mundane aircraft lights or bright celestial objects. Unlike many brief sky-glow sightings, this report implies a sustained, dynamic visual phenomenon in a rural, dark-sky context where conventional light pollution was minimal.
 
 
-<img src="{{ "/assets/images/Eswatini_16cc7f_nhlangano_sphere_rep_d73846-Illustration-2-light.svg" | relative_url }}" alt="Nhlangano illustration 2" data-theme-src-dark="{{ "/assets/images/Eswatini_16cc7f_nhlangano_sphere_rep_d73846-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eswatini_16cc7f_nhlangano_sphere_rep_d73846-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Eswatini_16cc7f_nhlangano_sphere_rep_d73846-Illustration-2-dark.svg" | relative_url }}" alt="Nhlangano illustration 2" data-theme-src-dark="{{ "/assets/images/Eswatini_16cc7f_nhlangano_sphere_rep_d73846-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eswatini_16cc7f_nhlangano_sphere_rep_d73846-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Evidence Cannot Prove
 
 Despite these narrative details, the evidential basis for interpreting the Nhlangano sphere as anything other than an unexplained eyewitness account is very weak. The first and most fundamental limitation is the **long delay between the event and the report**: the sighting allegedly happened in 1992 but was only recorded in NUFORC’s database in December 2003 and posted in January 2004. That gap of more than ten years places the entire account on retrospective memory rather than contemporaneous observation, increasing the risk of memory distortion or confabulation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=85879" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 85879December 17, 2011 — NUFORC UFO SIGHTING 85879 Occurred: 2000-01-13 23:30 Local Reported: 2011-12-16 07:26 Pacifi...</span><span class="citation-popover-meta">Published: January 13, 2000</span></span></span>
@@ -299,7 +299,7 @@ Eswatini’s public record of UFO/UAP claims is exceptionally thin compared with
 Maintaining focus on what the evidence *can* and *cannot* support helps prevent overinterpretation of anecdotal material and encourages rigorous criteria in future documentation — a benchmark that applies equally in Eswatini and internationally. Experts in UFO/UAP research commonly note that many such claims can eventually be explained with additional data or contextual understanding, and that unidentified status does not imply an extraterrestrial or anomalous cause in the absence of strong evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.planetary.org/articles/are-ufos-or-uaps-real" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: planetary.org">[The Planetary Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">planetary.org</span><span class="citation-popover-title">The Planetary Society Are UFOs or UAPs real? | The Planetary Society</span><span class="citation-popover-snippet">The Planetary SocietyAre UFOs or UAPs real? | The Planetary SocietyMay 8, 2026...</span><span class="citation-popover-meta">Published: May 8, 2026</span></span></span>
 
 
-<img src="{{ "/assets/images/Eswatini_16cc7f_nhlangano_sphere_rep_d73846-Illustration-3-light.svg" | relative_url }}" alt="Nhlangano illustration 3" data-theme-src-dark="{{ "/assets/images/Eswatini_16cc7f_nhlangano_sphere_rep_d73846-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eswatini_16cc7f_nhlangano_sphere_rep_d73846-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Eswatini_16cc7f_nhlangano_sphere_rep_d73846-Illustration-3-dark.svg" | relative_url }}" alt="Nhlangano illustration 3" data-theme-src-dark="{{ "/assets/images/Eswatini_16cc7f_nhlangano_sphere_rep_d73846-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eswatini_16cc7f_nhlangano_sphere_rep_d73846-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Summary
 
 The Nhlangano sphere report remains the most detailed UFO claim from Eswatini’s public record, distinguished by a vivid witness narrative from 1992 that was submitted more than a decade later. However, its evidential limits — retrospective reporting, lack of independent corroboration, absence of physical or instrument data, and reliance on subjective sensory impressions — mean that it cannot be taken as evidence of an extraordinary aerial phenomenon in any scientific or officially verified sense. Understanding both the content of the report and the limitations of its evidence anchors Eswatini’s UFO record in the standards that apply globally to unidentified aerial phenomena investigations.
@@ -392,6 +392,312 @@ The Nhlangano sphere report remains the most detailed UFO claim from Eswatini’
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
+</section>
+
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Xenomorph Alien Figure Statue - Premium Quality Collectible -🇬🇧 UK Seller New"><img src="{{ '/assets/images/marketplace-covers/4b80cf3261ffc0ba6263.jpg' | relative_url }}" alt="Listing image for Xenomorph Alien Figure Statue - Premium Quality Collectible -🇬🇧 UK Seller New" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Xenomorph Alien Figure Statue - Premium Quality Collectible -🇬🇧 UK Seller New</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Xenomorph Alien Bust Statue - 22cm Premium 3D Printed Collectible 🇬🇧 UK seller"><img src="{{ '/assets/images/marketplace-covers/569db291172e7ce323a5.jpg' | relative_url }}" alt="Listing image for Xenomorph Alien Bust Statue - 22cm Premium 3D Printed Collectible 🇬🇧 UK seller" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Xenomorph Alien Bust Statue - 22cm Premium 3D Printed Collectible 🇬🇧 UK seller</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funko POP! Movies Alien Chestburster Light Up Vinyl Figure 1988 Collectible"><img src="{{ '/assets/images/marketplace-covers/d9e8a2b2f1c215764b00.jpg' | relative_url }}" alt="Listing image for Funko POP! Movies Alien Chestburster Light Up Vinyl Figure 1988 Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Funko POP! Movies Alien Chestburster Light Up Vinyl Figure 1988 Collectible</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Creature Figurine Sci-Fi Statue Collectible"><img src="{{ '/assets/images/marketplace-covers/5a7ee03167e0b54d345f.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Creature Figurine Sci-Fi Statue Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Creature Figurine Sci-Fi Statue Collectible</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="nhlangano-how-strong-is-the-nhlangano-ufo-case-eswatini-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i < languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
+  }
+  function inferFromTimezone() {
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
+    for (var i = 0; i < timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return '';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] || '';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();
+</script>
+  <script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
+  if (!sections.length) return;
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
+  }
+  function flagClass(marketId) {
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  function availableMarkets(section) {
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
+    }
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
+    });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
+  });
+})();
+</script>
 </section>
 
 ## Endnotes

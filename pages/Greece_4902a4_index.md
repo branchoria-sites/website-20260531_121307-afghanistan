@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /greece-4902a4-index/
 description: Focused pages that expand on What Greece's UFO Records Reveal About Sky....
-date: '2026-05-31'
+date: '2026-06-02'
 layout: default
 parent_basename: Greece_4902a4
 parent_title: What Greece's UFO Records Reveal About Sky...

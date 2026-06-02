@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /republic-of-korea-8d9deb-index/
 description: Focused pages that expand on Republic of Korea.
-date: '2026-05-31'
+date: '2026-06-02'
 layout: default
 parent_basename: Republic_of_Korea_8d9deb
 parent_title: Republic of Korea

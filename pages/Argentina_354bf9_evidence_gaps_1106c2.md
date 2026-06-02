@@ -245,7 +245,7 @@ next_link:
   permalink: /uritorco/
   short_title: Uritorco
   heading_title: How Cerro Uritorco Became Argentina's UFO Hotspot
-date: '2026-05-31 03:57:37 '
+date: '2026-06-02 15:50:05 '
 header:
   og_image: /assets/images/Argentina_354bf9_evidence_gaps_1106c2-Illustration-1-social.jpg
   preview_image: /assets/images/Argentina_354bf9_evidence_gaps_1106c2-Illustration-1.webp
@@ -257,7 +257,7 @@ image: /assets/images/Argentina_354bf9_evidence_gaps_1106c2-Illustration-1-socia
 [Argentina]({{ 'argentinas-ufo-stories-records-and/' | relative_url }})’s most famous UFO stories rarely collapse because there were no witnesses. In many cases, there were too many witnesses, too much publicity, or too much folklore attached to the events. The real problem is that the strongest Argentine cases often lack the kind of evidence that would allow independent verification decades later: preserved radar records, authenticated photographs, contemporaneous military documents, chain-of-custody physical samples, or consistent testimony across investigators.
 
 
-<img src="{{ "/assets/images/Argentina_354bf9_evidence_gaps_1106c2-Illustration-1-light.svg" | relative_url }}" alt="Evidence Gaps illustration 1" data-theme-src-dark="{{ "/assets/images/Argentina_354bf9_evidence_gaps_1106c2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Argentina_354bf9_evidence_gaps_1106c2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Argentina_354bf9_evidence_gaps_1106c2-Illustration-1-dark.svg" | relative_url }}" alt="Evidence Gaps illustration 1" data-theme-src-dark="{{ "/assets/images/Argentina_354bf9_evidence_gaps_1106c2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Argentina_354bf9_evidence_gaps_1106c2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That does not mean every case was fabricated. Some incidents remain genuinely unresolved in the narrow sense that no fully proven conventional explanation exists. Yet unresolved is not the same as confirmed. Across Argentina’s UFO history, especially from the 1960s through the late 1980s, the pattern is strikingly consistent: dramatic narratives survive, while the evidence base weakens under scrutiny. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/exclusive/ufos-marathon-seventy-years-of-flying-saucers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerSeventy Years of Flying Saucers, Science, Myth, and Fiction11 Jul 2017 — Lianza explained the methodology of investigat...</span></span></span>
 
 ## Why Argentina Produced So Many Enduring UFO Stories
@@ -362,7 +362,7 @@ This creates a familiar evidentiary problem:
 That process is visible in several Argentine incidents from the 1960s onward. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Argentina" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Argentina</span><span class="citation-popover-snippet">UFO sightings in Argentina</span></span></span>
 
 
-<img src="{{ "/assets/images/Argentina_354bf9_evidence_gaps_1106c2-Illustration-2-light.svg" | relative_url }}" alt="Evidence Gaps illustration 2" data-theme-src-dark="{{ "/assets/images/Argentina_354bf9_evidence_gaps_1106c2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Argentina_354bf9_evidence_gaps_1106c2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Argentina_354bf9_evidence_gaps_1106c2-Illustration-2-dark.svg" | relative_url }}" alt="Evidence Gaps illustration 2" data-theme-src-dark="{{ "/assets/images/Argentina_354bf9_evidence_gaps_1106c2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Argentina_354bf9_evidence_gaps_1106c2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The 1962 Bahía Blanca Wave: Impressive Claims, Thin Documentation
 
 The Bahía Blanca sightings of May 1962 are often treated as a foundational Argentine UFO wave because they allegedly involved civilians, military personnel, pilots, and photographs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discoveryuk.com/mysteries/signal-from-the-south-argentina-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">Discovery UKSignal From the South: Argentina UFOs</span><span class="citation-popover-snippet">Discovery UK13 May 2026 — Is the Argentina UFO phenomenon real? How many alien sightings in Argentina have been seen? Here&#x27;s the astonish...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
@@ -410,7 +410,7 @@ The Dionisio Llanca case from 1973 became one of Argentina’s best-known alien 
 Unlike radar or photographic cases, abduction narratives depend heavily on human memory and psychological interpretation.
 
 
-<img src="{{ "/assets/images/Argentina_354bf9_evidence_gaps_1106c2-Illustration-3-light.svg" | relative_url }}" alt="Evidence Gaps illustration 3" data-theme-src-dark="{{ "/assets/images/Argentina_354bf9_evidence_gaps_1106c2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Argentina_354bf9_evidence_gaps_1106c2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Argentina_354bf9_evidence_gaps_1106c2-Illustration-3-dark.svg" | relative_url }}" alt="Evidence Gaps illustration 3" data-theme-src-dark="{{ "/assets/images/Argentina_354bf9_evidence_gaps_1106c2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Argentina_354bf9_evidence_gaps_1106c2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why the case remains contested
 
 Supporters argue that Llanca appeared traumatised and sincere. Critics point out several problems:

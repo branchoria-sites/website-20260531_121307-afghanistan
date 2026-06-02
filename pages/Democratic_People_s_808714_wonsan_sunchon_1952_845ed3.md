@@ -23,7 +23,7 @@ sidebar_expanded_urls:
 - /democratic-people-s-republic-of-korea/
 nav_short_title: Wonsan Sunchon 1952
 title: How Did US Bombers Witness UFOs Over Northern Korea in 1952?
-title_full: How Did US Bombers Witness UFOs Over Northern Korea in 1952? | DPRKUFOs
+title_full: How Did US Bombers Witness UFOs Over Northern Korea in 1952? | DPRK UFOs
 display_title_short: Wonsan Sunchon 1952
 display_title: Wonsan Sunchon 1952
 heading_title: How Did US Bombers Witness UFOs Over Northern Korea in 1952?
@@ -198,20 +198,20 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: DPRKUFOs
+parent_title: DPRK UFOs
 parent_permalink: /democratic-people-s-republic-of-korea/
-parent_nav_short_title: DPRKUFOs
+parent_nav_short_title: DPRK UFOs
 parent_heading_title: What We Know About UFO Sightings in North Korea
 ancestor_links:
 - basename: Democratic_People_s_808714
-  title: DPRKUFOs
+  title: DPRK UFOs
   permalink: /democratic-people-s-republic-of-korea/
-  short_title: DPRKUFOs
+  short_title: DPRK UFOs
 breadcrumb_links:
 - basename: Democratic_People_s_808714
-  title: DPRKUFOs
+  title: DPRK UFOs
   permalink: /democratic-people-s-republic-of-korea/
-  short_title: DPRKUFOs
+  short_title: DPRK UFOs
 sibling_links:
 - basename: Democratic_People_s_808714_dmz_ufo_alerts_6d0195
   title: DMZ UFO Alerts | What We Know About UFO Sightings in North Korea
@@ -230,16 +230,16 @@ sibling_links:
   heading_title: Did Ground Forces Encounter Strange Objects in the Iron Triangle?
 up_link:
   basename: Democratic_People_s_808714
-  title: DPRKUFOs
+  title: DPRK UFOs
   permalink: /democratic-people-s-republic-of-korea/
-  short_title: DPRKUFOs
+  short_title: DPRK UFOs
 prev_link:
   basename: Democratic_People_s_808714_iron_triangle_1951_e8fd6e
   title: Iron Triangle 1951 | What We Know About UFO Sightings in North Korea
   permalink: /iron-triangle-1951/
   short_title: Iron Triangle 1951
   heading_title: Did Ground Forces Encounter Strange Objects in the Iron Triangle?
-date: '2026-05-31 04:12:04 '
+date: '2026-06-02 16:08:01 '
 header:
   og_image: /assets/images/Democratic_People_s_808714_wonsan_sunchon_1952_845ed3-Illustration-1-social.jpg
   preview_image: /assets/images/Democratic_People_s_808714_wonsan_sunchon_1952_845ed3-Illustration-1.webp
@@ -251,7 +251,7 @@ image: /assets/images/Democratic_People_s_808714_wonsan_sunchon_1952_845ed3-Illu
 On **29 January 1952**, during the Korean War, multiple crew members aboard *United States Air Force* B‑29 *Superfortress* bombers reported visually tracking unusual aerial phenomena—bright, orange‑coloured, globe‑like objects—while flying over **Wonsan** and later **Sunchon** in what was then *[Democratic People]({{ 'democratic-people-s-republic-of-korea/' | relative_url }})’s Republic of Korea* airspace. These reports, made independently by experienced military personnel on two separate aircraft, were significant enough to be formally communicated up the chain of command and later cited in contemporary news coverage and official U.S. military UFO archives. Though often subsumed under broader Cold War UFO history, this pair of 1952 sightings remains one of the few well‑documented instances of alleged unidentified aerial objects associated with DPRK airspace during the conflict.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Wonsan-Sunchon_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Wonsan-Sunchon UFO incident</span><span class="citation-popover-snippet">Wonsan-Sunchon UFO incident</span></span></span>
 
 
-<img src="{{ "/assets/images/Democratic_People_s_808714_wonsan_sunchon_1952_845ed3-Illustration-1-light.svg" | relative_url }}" alt="Wonsan Sunchon 1952 illustration 1" data-theme-src-dark="{{ "/assets/images/Democratic_People_s_808714_wonsan_sunchon_1952_845ed3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Democratic_People_s_808714_wonsan_sunchon_1952_845ed3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Democratic_People_s_808714_wonsan_sunchon_1952_845ed3-Illustration-1-dark.svg" | relative_url }}" alt="Wonsan Sunchon 1952 illustration 1" data-theme-src-dark="{{ "/assets/images/Democratic_People_s_808714_wonsan_sunchon_1952_845ed3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Democratic_People_s_808714_wonsan_sunchon_1952_845ed3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Military Flight Observations Over Wonsan and Sunchon
 
 In the late evening hours of **29 January 1952**, around **23:00 local time**, the crew of a B‑29 engaged in a bombing mission over *Wonsan*—a strategic Korean port under blockade—reported seeing a strange luminous object alongside their aircraft. Two crew members, typically the *tail gunner* and a *waist fire‑control operator*, observed an **orange, globe or disc‑shaped light** that sometimes exhibited a **blue‑tinted halo** or flame‑like appearance. They described the phenomenon as roughly **three feet in diameter**, pulsating and rotating, and maintaining a parallel course to the bomber for an estimated **five minutes** before abruptly moving away.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/korea29jan52.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: US military UFO reports, Korea, January 29, 1952...</span><span class="citation-popover-meta">Published: January 29, 1952</span></span></span>
@@ -270,7 +270,7 @@ Following these observations, the U.S. Air Force reportedly **initiated formal i
 Although detailed declassified case files for this specific incident are scarce, references in period news sources and secondary compilations of *Project Grudge* and early *Project Blue Book* records suggest that analysts at Air Force intelligence considered the reports significant enough to merit evaluation—particularly because the sightings came from multiple, credible witnesses across two separate bombers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://project1947.com/fig/1952a.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-title">The bomber&#x27;s speed was slightly under 200 miles p</span><span class="citation-popover-snippet">PROJECT 1947 - UFO REPORTS 1952On January 29th, one of our B-29 bombers performing a solitary mission in Korea was flying at somewhat mor...</span></span></span>
 
 
-<img src="{{ "/assets/images/Democratic_People_s_808714_wonsan_sunchon_1952_845ed3-Illustration-2-light.svg" | relative_url }}" alt="Wonsan Sunchon 1952 illustration 2" data-theme-src-dark="{{ "/assets/images/Democratic_People_s_808714_wonsan_sunchon_1952_845ed3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Democratic_People_s_808714_wonsan_sunchon_1952_845ed3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Democratic_People_s_808714_wonsan_sunchon_1952_845ed3-Illustration-2-dark.svg" | relative_url }}" alt="Wonsan Sunchon 1952 illustration 2" data-theme-src-dark="{{ "/assets/images/Democratic_People_s_808714_wonsan_sunchon_1952_845ed3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Democratic_People_s_808714_wonsan_sunchon_1952_845ed3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Context Within Early UFO Investigation Programmes
 
 The January 1952 Korea sightings occurred in a transitional period for U.S. military investigation into unidentified aerial phenomena. *Project Blue Book*—the United States Air Force’s systematic UFO evaluation programme—was formally established in **March 1952**, only weeks after the Korea reports. Its remit was to assess reports for national security implications and scientific significance. Although not all early sightings were immediately catalogued under Blue Book, these Korea observations are considered part of the broader body of Cold War era UFO reporting that influenced the burgeoning investigation programme.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
@@ -287,7 +287,7 @@ Air Force theoreticians of the era—when evaluating similar reports—suggested
 Crucially, no physical evidence (such as radar tracks, instrumentation data, or recovered debris) from the Korea sightings appears to have survived in publicly accessible U.S. Air Force records, limiting any comprehensive post‑hoc technical evaluation. The reports’ reliance on human observation alone makes them notable as **contested historical accounts** rather than definitive evidence of anomalous aerial craft. Even within early Blue Book documentation, many cases were later categorised as misidentifications once fuller context or mundane explanations (e.g., stars, aircraft, atmospheric effects) were applied.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 
-<img src="{{ "/assets/images/Democratic_People_s_808714_wonsan_sunchon_1952_845ed3-Illustration-3-light.svg" | relative_url }}" alt="Wonsan Sunchon 1952 illustration 3" data-theme-src-dark="{{ "/assets/images/Democratic_People_s_808714_wonsan_sunchon_1952_845ed3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Democratic_People_s_808714_wonsan_sunchon_1952_845ed3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Democratic_People_s_808714_wonsan_sunchon_1952_845ed3-Illustration-3-dark.svg" | relative_url }}" alt="Wonsan Sunchon 1952 illustration 3" data-theme-src-dark="{{ "/assets/images/Democratic_People_s_808714_wonsan_sunchon_1952_845ed3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Democratic_People_s_808714_wonsan_sunchon_1952_845ed3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Legacy Within Korean War and UFO Historiography
 
 The Wonsan–Sunchon sightings have persisted in UFO literature as one of the most widely referenced Korea‑theatre reports of the era, largely because of their dual‑crew corroboration and their appearance in contemporary press coverage. Historians of UFO phenomena argue that incidents like this helped sustain public interest in aerial mysteries in the early 1950s, forming part of the broader “flying saucer wave” that carried into the more famous **1952 Washington, D.C.** sightings later that summer.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Wonsan-Sunchon_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Wonsan-Sunchon UFO incident</span><span class="citation-popover-snippet">Wonsan-Sunchon UFO incident</span></span></span>

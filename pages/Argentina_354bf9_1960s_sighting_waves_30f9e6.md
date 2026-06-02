@@ -239,7 +239,7 @@ next_link:
   permalink: /ciae-reports/
   short_title: CIAE Reports
   heading_title: What Argentina's Official UFO Reports Actually Find
-date: '2026-05-31 03:57:41 '
+date: '2026-06-02 15:50:09 '
 header:
   og_image: /assets/images/Argentina_354bf9_1960s_sighting_waves_30f9e6-Illustration-1-social.jpg
   preview_image: /assets/images/Argentina_354bf9_1960s_sighting_waves_30f9e6-Illustration-1.webp
@@ -251,7 +251,7 @@ image: /assets/images/Argentina_354bf9_1960s_sighting_waves_30f9e6-Illustration-
 During the 1960s, [Argentina]({{ 'argentinas-ufo-stories-records-and/' | relative_url }}) experienced what long‑time UFO researchers describe as one of the country’s earliest and most concentrated waves of unidentified aerial phenomena — a period marked by civilian reports, local press attention, and at least one documented instance of military aircraft involved in attempted interceptions of unexplained objects. While there is **no verified evidence of non‑terrestrial craft**, a mix of newspaper accounts, later‑referenced archival material, and post‑hoc ufological compilations have made this decade particularly prominent in Argentina’s *ovni* (UFO) history. This article focuses specifically on the **1960s sightings and the documented military reactions** — especially the May 1962 wave around Bahía Blanca and Buenos Aires‑area scrambles — and clarifies what the historical records can and cannot substantiate.
 
 
-<img src="{{ "/assets/images/Argentina_354bf9_1960s_sighting_waves_30f9e6-Illustration-1-light.svg" | relative_url }}" alt="1960s Waves illustration 1" data-theme-src-dark="{{ "/assets/images/Argentina_354bf9_1960s_sighting_waves_30f9e6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Argentina_354bf9_1960s_sighting_waves_30f9e6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Argentina_354bf9_1960s_sighting_waves_30f9e6-Illustration-1-dark.svg" | relative_url }}" alt="1960s Waves illustration 1" data-theme-src-dark="{{ "/assets/images/Argentina_354bf9_1960s_sighting_waves_30f9e6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Argentina_354bf9_1960s_sighting_waves_30f9e6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The May 1962 Bahía Blanca Wave
 
 One of the earliest and most cited chapters in Argentina’s UFO lore centres on a series of sightings around **Bahía Blanca and the nearby Puerto Belgrano/Naval and Espora Air Base areas in May 1962**. According to compiled reports, **multiple sightings occurred over successive days**, and at least two incidents drew attention in local newspapers and later compilations of declassified material.
@@ -278,7 +278,7 @@ Beyond the Bahía Blanca area, the **intersection of UFO reports with formal air
 This incident illustrates the early point at which reported sightings began to intersect with **formal military responses**, even if the outcome was an absence of intercept success.
 
 
-<img src="{{ "/assets/images/Argentina_354bf9_1960s_sighting_waves_30f9e6-Illustration-2-light.svg" | relative_url }}" alt="1960s Waves illustration 2" data-theme-src-dark="{{ "/assets/images/Argentina_354bf9_1960s_sighting_waves_30f9e6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Argentina_354bf9_1960s_sighting_waves_30f9e6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Argentina_354bf9_1960s_sighting_waves_30f9e6-Illustration-2-dark.svg" | relative_url }}" alt="1960s Waves illustration 2" data-theme-src-dark="{{ "/assets/images/Argentina_354bf9_1960s_sighting_waves_30f9e6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Argentina_354bf9_1960s_sighting_waves_30f9e6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Understanding the 1960s Record
 
 ### What the Records Are
@@ -302,7 +302,7 @@ This incident illustrates the early point at which reported sightings began to i
 </div>
 
 
-<img src="{{ "/assets/images/Argentina_354bf9_1960s_sighting_waves_30f9e6-Illustration-3-light.svg" | relative_url }}" alt="1960s Waves illustration 3" data-theme-src-dark="{{ "/assets/images/Argentina_354bf9_1960s_sighting_waves_30f9e6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Argentina_354bf9_1960s_sighting_waves_30f9e6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Argentina_354bf9_1960s_sighting_waves_30f9e6-Illustration-3-dark.svg" | relative_url }}" alt="1960s Waves illustration 3" data-theme-src-dark="{{ "/assets/images/Argentina_354bf9_1960s_sighting_waves_30f9e6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Argentina_354bf9_1960s_sighting_waves_30f9e6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the 1960s Matter in Argentine UFO History
 
 The 1960s — especially the cluster of sightings in May 1962 and the 1965 Buenos Aires reports — mark the era in which UFO phenomena began to transition in Argentina from anecdotal civilian reports into events referenced in **military logs, press coverage, and later archival investigations by national researchers**. These episodes laid the groundwork for subsequent UFO research efforts in the country, including the later formation of organisations dedicated to collecting and analysing such reports and the modern archival work that seeks to reassess historical cases with more transparency.

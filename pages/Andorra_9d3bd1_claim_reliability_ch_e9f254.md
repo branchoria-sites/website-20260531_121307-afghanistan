@@ -245,7 +245,7 @@ next_link:
   permalink: /official-files-d52964/
   short_title: Official Files
   heading_title: Where Would an Andorra UFO Case Be Documented?
-date: '2026-05-31 03:56:16 '
+date: '2026-06-02 15:49:18 '
 header:
   og_image: /assets/images/Andorra_9d3bd1_claim_reliability_ch_e9f254-Illustration-1-social.jpg
   preview_image: /assets/images/Andorra_9d3bd1_claim_reliability_ch_e9f254-Illustration-1.webp
@@ -257,7 +257,7 @@ image: /assets/images/Andorra_9d3bd1_claim_reliability_ch_e9f254-Illustration-1-
 Most online claims about UFOs in [Andorra]({{ 'what-is-actually-known-about-andorra/' | relative_url }}) are difficult to verify, not because the subject is uniquely mysterious, but because the public record is unusually thin. Unlike France, which has the official GEIPAN investigation unit, or Spain, which has declassified military UFO archives, Andorra has no major public investigative archive dedicated to unidentified aerial phenomena. That creates a reliability problem: weak database entries, recycled social-media stories and vague “Pyrenees UFO” narratives can quickly appear more substantial than they really are. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-snippet">7 Jul 2025 — GEIPAN, the French UAP research and information group created by CNES in 1977, collects, analyses and archives information o...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-snippet">7 Jul 2025 — GEIPAN, the French UAP research and information group created by CNES in 1977, collects, analyses and archives information o...</span></span></span>
 
 
-<img src="{{ "/assets/images/Andorra_9d3bd1_claim_reliability_ch_e9f254-Illustration-1-light.svg" | relative_url }}" alt="Claim Checks illustration 1" data-theme-src-dark="{{ "/assets/images/Andorra_9d3bd1_claim_reliability_ch_e9f254-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Andorra_9d3bd1_claim_reliability_ch_e9f254-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Andorra_9d3bd1_claim_reliability_ch_e9f254-Illustration-1-dark.svg" | relative_url }}" alt="Claim Checks illustration 1" data-theme-src-dark="{{ "/assets/images/Andorra_9d3bd1_claim_reliability_ch_e9f254-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Andorra_9d3bd1_claim_reliability_ch_e9f254-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For readers trying to judge whether an Andorra UFO claim deserves attention, the central question is not “Could it be extraterrestrial?” but “Can the report actually be checked?” In practice, many Andorra-related cases collapse under basic scrutiny because they lack dates, witnesses, original imagery, directional information or any evidence that the event occurred in Andorra at all. The useful task is therefore evidence filtering: separating searchable leads from claims that are effectively impossible to investigate.
 
 ## Why Andorra Creates a Verification Problem
@@ -321,9 +321,6 @@ Weak Andorra claims often lack all of these. The story exists only as a retold a
 
 That absence does not prove fabrication, but it greatly lowers evidential value.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/b4wSBmHX_E4" title="THE LIGHT GATE- OPEN MIC - Q&amp;A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=b4wSBmHX_E4" target="_blank" rel="noopener noreferrer">THE LIGHT GATE- OPEN MIC - Q&amp;A</a></p><p class="youtube-embed-meta">Channel: Preston Dennett</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=b4wSBmHX_E4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=b4wSBmHX_E4">Open on YouTube</a></p></div></div></div>
-
 ## The 2021 Regional Sighting Shows the Difference
 
 One of the more discussable recent incidents linked to Andorra was the November [2021 sighting]({{ '2021-sighting/' | relative_url }}) reported across southern France and nearby regions. Witnesses described a glowing or elongated object seen from multiple locations, including areas near the Pyrenees and Andorra. The significance of the event was not that it proved anything unusual, but that it produced multiple geographically separated observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.portugalresident.com/air-force-alert-for-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: portugalresident.com">[Portugal Resident]</a><span class="citation-popover" role="note"><span class="citation-popover-source">portugalresident.com</span><span class="citation-popover-snippet">Portugal ResidentAir Force alert for &#x27;UFO&#x27;A strange object passed over the Portuguese night skies last week, causing many who saw it to t...</span></span></span>
@@ -350,7 +347,7 @@ As a result, the sighting remained a lead rather than a resolved evidential case
 For Andorra specifically, a practical reliability framework is more useful than dramatic speculation. A claim becomes stronger when several independent checks align.
 
 
-<img src="{{ "/assets/images/Andorra_9d3bd1_claim_reliability_ch_e9f254-Illustration-2-light.svg" | relative_url }}" alt="Claim Checks illustration 2" data-theme-src-dark="{{ "/assets/images/Andorra_9d3bd1_claim_reliability_ch_e9f254-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Andorra_9d3bd1_claim_reliability_ch_e9f254-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Andorra_9d3bd1_claim_reliability_ch_e9f254-Illustration-2-dark.svg" | relative_url }}" alt="Claim Checks illustration 2" data-theme-src-dark="{{ "/assets/images/Andorra_9d3bd1_claim_reliability_ch_e9f254-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Andorra_9d3bd1_claim_reliability_ch_e9f254-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Stronger indicators
 
 An Andorra UFO report becomes materially more credible if it includes:
@@ -372,9 +369,6 @@ An Andorra UFO report becomes materially more credible if it includes:
 
 Cross-border confirmation is especially valuable in the Pyrenees. If witnesses in Andorra, Catalonia and southern France independently report the same object at matching times and directions, triangulation becomes possible.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
-
 ### Weak indicators
 
 Claims become weaker when they rely mainly on:
@@ -395,7 +389,7 @@ Claims become weaker when they rely mainly on:
 GEIPAN itself notes that UFO reporting is heavily influenced by expectation, media framing and extraterrestrial assumptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-snippet">7 Jul 2025 — GEIPAN, the French UAP research and information group created by CNES in 1977, collects, analyses and archives information o...</span></span></span> That observation matters in Andorra because small, poorly documented stories can rapidly acquire exaggerated narratives online.
 
 
-<img src="{{ "/assets/images/Andorra_9d3bd1_claim_reliability_ch_e9f254-Illustration-3-light.svg" | relative_url }}" alt="Claim Checks illustration 3" data-theme-src-dark="{{ "/assets/images/Andorra_9d3bd1_claim_reliability_ch_e9f254-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Andorra_9d3bd1_claim_reliability_ch_e9f254-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Andorra_9d3bd1_claim_reliability_ch_e9f254-Illustration-3-dark.svg" | relative_url }}" alt="Claim Checks illustration 3" data-theme-src-dark="{{ "/assets/images/Andorra_9d3bd1_claim_reliability_ch_e9f254-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Andorra_9d3bd1_claim_reliability_ch_e9f254-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why “Pyrenees UFO” Stories Often Drift Into Myth
 
 Andorra frequently appears inside a broader “Pyrenees mystery zone” narrative. Online discussions sometimes claim hidden bases, underground activity or repeated unexplained aerial phenomena throughout the mountain range. These stories often blend folklore, conspiracy material and second-hand retellings rather than documented investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1gec38z/is_there_a_ufo_base_inside_the_pyrenees_mountains/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Is there a UFO base inside the Pyrenees mountains</span><span class="citation-popover-snippet">RedditIs there a UFO base inside the Pyrenees mountains...October 28, 2024 — From the book Alien Interview by Matilda O&#x27;Donnell MacElroy...</span><span class="citation-popover-meta">Published: October 28, 2024</span></span></span>
@@ -425,9 +419,6 @@ A report worth serious attention should ideally contain:
 Evidence elementWhy it mattersExact observation pointAllows trajectory reconstructionTime to the minuteEnables satellite and aircraft checksRaw media filesPreserves metadata and compression historyWitness countHelps test consistencyViewing directionCritical in mountain terrainDurationSeparates transient events from structured motionEnvironmental conditionsRules out clouds, reflections and atmospheric effectsIndependent corroborationReduces hoax or memory contamination risk
 
 Without these basics, many cases remain permanently unresolved in the weakest possible sense: not because they resist explanation, but because there is not enough information to test anything.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zNZHTlRFD6E" title="Alien Encounters You Won&#x27;t Believe | Ancient Aliens | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zNZHTlRFD6E" target="_blank" rel="noopener noreferrer">Alien Encounters You Won&#x27;t Believe | Ancient Aliens | History</a></p><p class="youtube-embed-meta">Channel: HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zNZHTlRFD6E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zNZHTlRFD6E">Open on YouTube</a></p></div></div></div>
 
 ## Why Sparse Records Encourage Overstatement
 

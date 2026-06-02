@@ -219,9 +219,9 @@ heading_title: What Do UFO Sightings in Bhutan Really Reveal?
 page_heading_title: What Do UFO Sightings in Bhutan Really Reveal?
 source_count: 162
 infographic_count: 3
-page_website_name: BhutanUFOs
+page_website_name: Bhutan UFOs
 page_banner_line: Tracking the mysterious skies and archived sightings over Bhutan
-site_website_name: BhutanUFOs
+site_website_name: Bhutan UFOs
 site_banner_line: Tracking the mysterious skies and archived sightings over Bhutan
 site_image_description: A bluish light moving silently over the Thimphu skyline at night with Himalayan peaks in the background.
 output_language: English
@@ -411,9 +411,9 @@ sibling_links:
   permalink: /are-there-any-real-mali-ufo-cases/
   short_title: Mali UFOs
 - basename: Montenegro_479fb3
-  title: MontenegroUFOs
+  title: Montenegro UFOs
   permalink: /are-ufos-really-seen-over-montenegro/
-  short_title: MontenegroUFOs
+  short_title: Montenegro UFOs
 - basename: Argentina_354bf9
   title: Argentina OVNI
   permalink: /argentinas-ufo-stories-records-and/
@@ -427,17 +427,17 @@ sibling_links:
   permalink: /bolivia-plurinational-state-of/
   short_title: Bolivia UFOs
 - basename: Bosnia_and_Herzegovi_552c9f
-  title: BosniaUFOs
+  title: Bosnia UFOs
   permalink: /bosnia-and-herzegovina/
-  short_title: BosniaUFOs
+  short_title: Bosnia UFOs
 - basename: Brunei_Darussalam_eab94a
   title: Brunei UAP
   permalink: /brunei-darussalam/
   short_title: Brunei UAP
 - basename: Burkina_Faso_f61e5f
-  title: BurkinaUFO
+  title: Burkina UFO
   permalink: /burkina-faso/
-  short_title: BurkinaUFO
+  short_title: Burkina UFO
 - basename: Central_African_Repu_358788
   title: CAR UFOs
   permalink: /central-african-republic/
@@ -447,21 +447,21 @@ sibling_links:
   permalink: /cote-d-ivoire/
   short_title: Ivoire UFOs
 - basename: Czechia_045e2f
-  title: CzechUFOs
+  title: Czech UFOs
   permalink: /czechia/
-  short_title: CzechUFOs
+  short_title: Czech UFOs
 - basename: Democratic_People_s_808714
-  title: DPRKUFOs
+  title: DPRK UFOs
   permalink: /democratic-people-s-republic-of-korea/
-  short_title: DPRKUFOs
+  short_title: DPRK UFOs
 - basename: Democratic_Republic_679868
   title: DRC UFOs
   permalink: /democratic-republic-of-the-congo/
   short_title: DRC UFOs
 - basename: Djibouti_60a8b0
-  title: DjiboutiUAP
+  title: Djibouti UAP
   permalink: /djibouti/
-  short_title: DjiboutiUAP
+  short_title: Djibouti UAP
 - basename: Dominica_bc1cd4
   title: Dominica UAP
   permalink: /does-dominica-have-real-ufo-cases/
@@ -475,9 +475,9 @@ sibling_links:
   permalink: /dominican-republic/
   short_title: Dominican UAP
 - basename: Equatorial_Guinea_ae2c01
-  title: EquatorialGuineaUFOs
+  title: Equatorial Guinea UFOs
   permalink: /equatorial-guinea/
-  short_title: EquatorialGuineaUFOs
+  short_title: Equatorial Guinea UFOs
 - basename: Fiji_bbb7ef
   title: Fiji UFOs
   permalink: /fiji/
@@ -487,21 +487,21 @@ sibling_links:
   permalink: /finland/
   short_title: Finland UFOs
 - basename: Ghana_317dba
-  title: GhanaUFOs
+  title: Ghana UFOs
   permalink: /ghana/
-  short_title: GhanaUFOs
+  short_title: Ghana UFOs
 - basename: Comoros_e5bb59
-  title: ComorosUFOs
+  title: Comoros UFOs
   permalink: /have-ufos-really-been-seen-over-comoros/
-  short_title: ComorosUFOs
+  short_title: Comoros UFOs
 - basename: Chile_349507
-  title: ChileUFOs
+  title: Chile UFOs
   permalink: /how-chile-investigates-ufos-and-aerial/
-  short_title: ChileUFOs
+  short_title: Chile UFOs
 - basename: France_e3772a
-  title: FranceUFOs
+  title: France UFOs
   permalink: /how-france-investigates-and-archives-ufo/
-  short_title: FranceUFOs
+  short_title: France UFOs
 - basename: Iran_Islamic_Republi_94f9ee
   title: Iran UFOs
   permalink: /iran-islamic-republic-of/
@@ -519,9 +519,9 @@ sibling_links:
   permalink: /madagascars-ufo-record-famous-case-thin/
   short_title: Madagascar UFOs
 - basename: Maldives_213cb2
-  title: MaldivesUFOs
+  title: Maldives UFOs
   permalink: /maldives/
-  short_title: MaldivesUFOs
+  short_title: Maldives UFOs
 - basename: Micronesia_Federated_30e9e8
   title: Micronesia UFOs
   permalink: /micronesia-federated-states-of/
@@ -595,9 +595,9 @@ sibling_links:
   permalink: /turkiye/
   short_title: Türkiye UFOs
 - basename: Luxembourg_507672
-  title: LuxUFO
+  title: Lux UFO
   permalink: /uncovering-ufo-activity-across/
-  short_title: LuxUFO
+  short_title: Lux UFO
 - basename: Israel_4c197d
   title: Israel UFOs
   permalink: /uncovering-ufo-phenomena-across-israel/
@@ -623,17 +623,17 @@ sibling_links:
   permalink: /venezuela-bolivarian-republic-of/
   short_title: Venezuela UFOs
 - basename: Malawi_0ce65b
-  title: MalawiUFOs
+  title: Malawi UFOs
   permalink: /what-are-malawis-documented-ufos-and-sky/
-  short_title: MalawiUFOs
+  short_title: Malawi UFOs
 - basename: Belarus_027a12
   title: Belarus UFOs
   permalink: /what-belarus-ufo-reports-really-show/
   short_title: Belarus UFOs
 - basename: Brazil_37497a
-  title: BrazilUFOs
+  title: Brazil UFOs
   permalink: /what-brazils-ufo-records-reveal-about/
-  short_title: BrazilUFOs
+  short_title: Brazil UFOs
 - basename: Angola_a42522
   title: Angola UFOs
   permalink: /what-can-angolas-ufo-record-really-prove/
@@ -779,9 +779,9 @@ sibling_links:
   permalink: /what-does-botswanas-ufo-record-really/
   short_title: Botswana UFOs
 - basename: Ecuador_09f199
-  title: EcuadorUFOs
+  title: Ecuador UFOs
   permalink: /what-evidence-exists-for-ufos-in-ecuador/
-  short_title: EcuadorUFOs
+  short_title: Ecuador UFOs
 - basename: Georgia_9113c6
   title: Georgia UFOs
   permalink: /what-georgias-ufo-reports-reveal-about/
@@ -795,9 +795,9 @@ sibling_links:
   permalink: /what-greeces-ufo-records-reveal-about/
   short_title: Greece UFOs
 - basename: Guatemala_11760e
-  title: GuatemalaUFOs
+  title: Guatemala UFOs
   permalink: /what-guatemalas-ufo-reports-really/
-  short_title: GuatemalaUFOs
+  short_title: Guatemala UFOs
 - basename: Latvia_c5f5bb
   title: Latvia UFOs
   permalink: /what-has-latvia-really-seen-in-the-sky/
@@ -931,9 +931,9 @@ sibling_links:
   permalink: /what-lithuanias-ufo-reports-really-show/
   short_title: Lithuania UFOs
 - basename: Egypt_1c39ab
-  title: EgyptUFOs
+  title: Egypt UFOs
   permalink: /what-makes-egypt-a-hotspot-for-ufo/
-  short_title: EgyptUFOs
+  short_title: Egypt UFOs
 - basename: Italy_ad79ef
   title: Italy UFOs
   permalink: /what-makes-italys-ufo-record-unique-and/
@@ -1123,9 +1123,9 @@ sibling_links:
   permalink: /what-ufo-reports-survive-cabo-verde/
   short_title: Cabo Verde UFOs
 - basename: Cyprus_852add
-  title: CyprusUFOs
+  title: Cyprus UFOs
   permalink: /what-ufo-sightings-have-shaped-cyprus/
-  short_title: CyprusUFOs
+  short_title: Cyprus UFOs
 - basename: Eritrea_18740a
   title: Eritrea UFOs
   permalink: /what-ufos-have-been-reported-in/
@@ -1185,7 +1185,7 @@ next_link:
   title: Botswana UFOs
   permalink: /what-does-botswanas-ufo-record-really/
   short_title: Botswana UFOs
-date: '2026-05-31 04:05:04 '
+date: '2026-06-02 15:57:22 '
 header:
   og_image: /assets/images/Bhutan_bb2254-overview-social.jpg
   preview_image: /assets/images/Bhutan_bb2254-overview.webp
@@ -1215,7 +1215,7 @@ The details are striking but limited. There is no publicly available chain of lo
 The Thimphu case also sits inside a broader regional pattern. The same cluster included reports from eastern Nepal, north Sikkim and Ladakh. One Nepal case, near Pokhara, was later associated in reporting with a metallic disc-shaped object found in a crater, while the Bhutan entry appears to have remained a sky-only sighting. That makes the Bhutan case less materially rich than the Nepal branch of the same 1968 file. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nepalitimes.com/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepalitimes.com">[Nepali Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepalitimes.com</span><span class="citation-popover-title">ufo over pokhara</span><span class="citation-popover-snippet">ufo over pokhara</span></span></span>
 
 
-<img src="{{ "/assets/images/Bhutan_bb2254-Illustration-1-light.svg" | relative_url }}" alt="What Do UFO Sightings in Bhutan Really... illustration 1" data-theme-src-dark="{{ "/assets/images/Bhutan_bb2254-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bhutan_bb2254-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Bhutan_bb2254-Illustration-1-dark.svg" | relative_url }}" alt="What Do UFO Sightings in Bhutan Really... illustration 1" data-theme-src-dark="{{ "/assets/images/Bhutan_bb2254-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bhutan_bb2254-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Himalayan setting matters
 
 Bhutan’s terrain makes the 1968 case harder to read in isolation. Western Bhutan is mountainous, sparsely lit by comparison with large urban regions, and close to high-altitude air routes, borders and weather systems. A bright object seen at night could be interpreted differently depending on whether the observer had a clear horizon, knew the object’s distance, or could compare it with aircraft, meteors or lightning.
@@ -1248,7 +1248,7 @@ Bhutan does have relevant sky-observation infrastructure in a broader sense. The
 Modern drone regulation is another reason recent “UFO” claims in Bhutan would need careful checking. Bhutan’s Civil Aviation Authority states that drone operations are permitted only for government organisations under its UAS framework, and Bhutan Broadcasting Service reported in 2026 that about 300 drones were registered with the authority while new drone rules were being considered. A contemporary unknown light over Bhutan would therefore need to be checked not only against astronomy and aviation, but also against authorised drone activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://bcaa.gov.bt/faq-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bcaa.gov.bt">[bcaa.gov.bt]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bcaa.gov.bt</span><span class="citation-popover-snippet">Open source on bcaa.gov.bt.</span></span></span>
 
 
-<img src="{{ "/assets/images/Bhutan_bb2254-Illustration-3-light.svg" | relative_url }}" alt="What Do UFO Sightings in Bhutan Really... illustration 3" data-theme-src-dark="{{ "/assets/images/Bhutan_bb2254-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bhutan_bb2254-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Bhutan_bb2254-Illustration-3-dark.svg" | relative_url }}" alt="What Do UFO Sightings in Bhutan Really... illustration 3" data-theme-src-dark="{{ "/assets/images/Bhutan_bb2254-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bhutan_bb2254-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Bhutan has fewer public cases than some neighbouring branches
 
 The thinness of Bhutan’s UFO record probably has several causes. Bhutan is small, mountainous and less densely documented in English-language UFO databases than countries with larger populations, heavy military aviation, major media markets or long-standing civilian reporting organisations. The National UFO Reporting Center is an important public database, but it is US-centred in structure and volume; its location index is dominated by US states, while international coverage is far less systematic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFOR C Reports by Location</span><span class="citation-popover-snippet">NUFOR C Reports by Location</span></span></span>
@@ -1258,7 +1258,7 @@ There is also a reporting-channel problem. A sighting in Bhutan may be discussed
 This is where the Bhutan page links naturally to neighbouring project branches. Nepal has the richer 1968 material because of the Pokhara debris story; Sikkim and Ladakh are relevant because the same CIA report treated them as part of one Himalayan sighting cluster. Bhutan’s role is therefore best understood as one node in a regional Cold War-era sky-reporting pattern, not as an isolated national UFO wave. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nepalitimes.com/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepalitimes.com">[Nepali Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepalitimes.com</span><span class="citation-popover-title">ufo over pokhara</span><span class="citation-popover-snippet">ufo over pokhara</span></span></span>
 
 
-<img src="{{ "/assets/images/Bhutan_bb2254-Illustration-2-light.svg" | relative_url }}" alt="What Do UFO Sightings in Bhutan Really... illustration 2" data-theme-src-dark="{{ "/assets/images/Bhutan_bb2254-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bhutan_bb2254-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Bhutan_bb2254-Illustration-2-dark.svg" | relative_url }}" alt="What Do UFO Sightings in Bhutan Really... illustration 2" data-theme-src-dark="{{ "/assets/images/Bhutan_bb2254-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bhutan_bb2254-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How a future Bhutan sighting should be assessed
 
 A credible future Bhutan UFO report would need more than a dramatic description. The most useful evidence would include exact date and time, location, direction of view, duration, weather, photographs or video with original metadata, multiple independent witnesses, and checks against aircraft, drones, satellites, meteor activity and space debris. NASA’s UAP work repeatedly emphasises that poor-quality data is the main reason many sightings remain unresolved, not necessarily because the objects are extraordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span>

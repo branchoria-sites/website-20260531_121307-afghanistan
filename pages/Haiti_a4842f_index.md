@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /haiti-a4842f-index/
 description: Focused pages that expand on What Really Happened in Haiti's UFO Record?.
-date: '2026-05-31'
+date: '2026-06-02'
 layout: default
 parent_basename: Haiti_a4842f
 parent_title: What Really Happened in Haiti's UFO Record?

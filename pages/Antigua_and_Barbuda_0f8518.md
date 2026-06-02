@@ -407,9 +407,9 @@ sibling_links:
   permalink: /are-there-any-real-mali-ufo-cases/
   short_title: Mali UFOs
 - basename: Montenegro_479fb3
-  title: MontenegroUFOs
+  title: Montenegro UFOs
   permalink: /are-ufos-really-seen-over-montenegro/
-  short_title: MontenegroUFOs
+  short_title: Montenegro UFOs
 - basename: Argentina_354bf9
   title: Argentina OVNI
   permalink: /argentinas-ufo-stories-records-and/
@@ -423,17 +423,17 @@ sibling_links:
   permalink: /bolivia-plurinational-state-of/
   short_title: Bolivia UFOs
 - basename: Bosnia_and_Herzegovi_552c9f
-  title: BosniaUFOs
+  title: Bosnia UFOs
   permalink: /bosnia-and-herzegovina/
-  short_title: BosniaUFOs
+  short_title: Bosnia UFOs
 - basename: Brunei_Darussalam_eab94a
   title: Brunei UAP
   permalink: /brunei-darussalam/
   short_title: Brunei UAP
 - basename: Burkina_Faso_f61e5f
-  title: BurkinaUFO
+  title: Burkina UFO
   permalink: /burkina-faso/
-  short_title: BurkinaUFO
+  short_title: Burkina UFO
 - basename: Central_African_Repu_358788
   title: CAR UFOs
   permalink: /central-african-republic/
@@ -443,21 +443,21 @@ sibling_links:
   permalink: /cote-d-ivoire/
   short_title: Ivoire UFOs
 - basename: Czechia_045e2f
-  title: CzechUFOs
+  title: Czech UFOs
   permalink: /czechia/
-  short_title: CzechUFOs
+  short_title: Czech UFOs
 - basename: Democratic_People_s_808714
-  title: DPRKUFOs
+  title: DPRK UFOs
   permalink: /democratic-people-s-republic-of-korea/
-  short_title: DPRKUFOs
+  short_title: DPRK UFOs
 - basename: Democratic_Republic_679868
   title: DRC UFOs
   permalink: /democratic-republic-of-the-congo/
   short_title: DRC UFOs
 - basename: Djibouti_60a8b0
-  title: DjiboutiUAP
+  title: Djibouti UAP
   permalink: /djibouti/
-  short_title: DjiboutiUAP
+  short_title: Djibouti UAP
 - basename: Dominica_bc1cd4
   title: Dominica UAP
   permalink: /does-dominica-have-real-ufo-cases/
@@ -471,9 +471,9 @@ sibling_links:
   permalink: /dominican-republic/
   short_title: Dominican UAP
 - basename: Equatorial_Guinea_ae2c01
-  title: EquatorialGuineaUFOs
+  title: Equatorial Guinea UFOs
   permalink: /equatorial-guinea/
-  short_title: EquatorialGuineaUFOs
+  short_title: Equatorial Guinea UFOs
 - basename: Fiji_bbb7ef
   title: Fiji UFOs
   permalink: /fiji/
@@ -483,21 +483,21 @@ sibling_links:
   permalink: /finland/
   short_title: Finland UFOs
 - basename: Ghana_317dba
-  title: GhanaUFOs
+  title: Ghana UFOs
   permalink: /ghana/
-  short_title: GhanaUFOs
+  short_title: Ghana UFOs
 - basename: Comoros_e5bb59
-  title: ComorosUFOs
+  title: Comoros UFOs
   permalink: /have-ufos-really-been-seen-over-comoros/
-  short_title: ComorosUFOs
+  short_title: Comoros UFOs
 - basename: Chile_349507
-  title: ChileUFOs
+  title: Chile UFOs
   permalink: /how-chile-investigates-ufos-and-aerial/
-  short_title: ChileUFOs
+  short_title: Chile UFOs
 - basename: France_e3772a
-  title: FranceUFOs
+  title: France UFOs
   permalink: /how-france-investigates-and-archives-ufo/
-  short_title: FranceUFOs
+  short_title: France UFOs
 - basename: Iran_Islamic_Republi_94f9ee
   title: Iran UFOs
   permalink: /iran-islamic-republic-of/
@@ -515,9 +515,9 @@ sibling_links:
   permalink: /madagascars-ufo-record-famous-case-thin/
   short_title: Madagascar UFOs
 - basename: Maldives_213cb2
-  title: MaldivesUFOs
+  title: Maldives UFOs
   permalink: /maldives/
-  short_title: MaldivesUFOs
+  short_title: Maldives UFOs
 - basename: Micronesia_Federated_30e9e8
   title: Micronesia UFOs
   permalink: /micronesia-federated-states-of/
@@ -591,9 +591,9 @@ sibling_links:
   permalink: /turkiye/
   short_title: Türkiye UFOs
 - basename: Luxembourg_507672
-  title: LuxUFO
+  title: Lux UFO
   permalink: /uncovering-ufo-activity-across/
-  short_title: LuxUFO
+  short_title: Lux UFO
 - basename: Israel_4c197d
   title: Israel UFOs
   permalink: /uncovering-ufo-phenomena-across-israel/
@@ -619,17 +619,17 @@ sibling_links:
   permalink: /venezuela-bolivarian-republic-of/
   short_title: Venezuela UFOs
 - basename: Malawi_0ce65b
-  title: MalawiUFOs
+  title: Malawi UFOs
   permalink: /what-are-malawis-documented-ufos-and-sky/
-  short_title: MalawiUFOs
+  short_title: Malawi UFOs
 - basename: Belarus_027a12
   title: Belarus UFOs
   permalink: /what-belarus-ufo-reports-really-show/
   short_title: Belarus UFOs
 - basename: Brazil_37497a
-  title: BrazilUFOs
+  title: Brazil UFOs
   permalink: /what-brazils-ufo-records-reveal-about/
-  short_title: BrazilUFOs
+  short_title: Brazil UFOs
 - basename: Angola_a42522
   title: Angola UFOs
   permalink: /what-can-angolas-ufo-record-really-prove/
@@ -771,17 +771,17 @@ sibling_links:
   permalink: /what-do-ufo-reports-in-guinea-really/
   short_title: Guinea UFOs
 - basename: Bhutan_bb2254
-  title: BhutanUFOs
+  title: Bhutan UFOs
   permalink: /what-do-ufo-sightings-in-bhutan-really/
-  short_title: BhutanUFOs
+  short_title: Bhutan UFOs
 - basename: Botswana_180c89
   title: Botswana UFOs
   permalink: /what-does-botswanas-ufo-record-really/
   short_title: Botswana UFOs
 - basename: Ecuador_09f199
-  title: EcuadorUFOs
+  title: Ecuador UFOs
   permalink: /what-evidence-exists-for-ufos-in-ecuador/
-  short_title: EcuadorUFOs
+  short_title: Ecuador UFOs
 - basename: Georgia_9113c6
   title: Georgia UFOs
   permalink: /what-georgias-ufo-reports-reveal-about/
@@ -795,9 +795,9 @@ sibling_links:
   permalink: /what-greeces-ufo-records-reveal-about/
   short_title: Greece UFOs
 - basename: Guatemala_11760e
-  title: GuatemalaUFOs
+  title: Guatemala UFOs
   permalink: /what-guatemalas-ufo-reports-really/
-  short_title: GuatemalaUFOs
+  short_title: Guatemala UFOs
 - basename: Latvia_c5f5bb
   title: Latvia UFOs
   permalink: /what-has-latvia-really-seen-in-the-sky/
@@ -931,9 +931,9 @@ sibling_links:
   permalink: /what-lithuanias-ufo-reports-really-show/
   short_title: Lithuania UFOs
 - basename: Egypt_1c39ab
-  title: EgyptUFOs
+  title: Egypt UFOs
   permalink: /what-makes-egypt-a-hotspot-for-ufo/
-  short_title: EgyptUFOs
+  short_title: Egypt UFOs
 - basename: Italy_ad79ef
   title: Italy UFOs
   permalink: /what-makes-italys-ufo-record-unique-and/
@@ -1123,9 +1123,9 @@ sibling_links:
   permalink: /what-ufo-reports-survive-cabo-verde/
   short_title: Cabo Verde UFOs
 - basename: Cyprus_852add
-  title: CyprusUFOs
+  title: Cyprus UFOs
   permalink: /what-ufo-sightings-have-shaped-cyprus/
-  short_title: CyprusUFOs
+  short_title: Cyprus UFOs
 - basename: Eritrea_18740a
   title: Eritrea UFOs
   permalink: /what-ufos-have-been-reported-in/
@@ -1185,7 +1185,7 @@ next_link:
   title: Monaco UFOs
   permalink: /are-monaco-ufo-sightings-really/
   short_title: Monaco UFOs
-date: '2026-05-31 03:56:55 '
+date: '2026-06-02 15:49:48 '
 header:
   og_image: /assets/images/Antigua_and_Barbuda_0f8518-overview-social.jpg
   preview_image: /assets/images/Antigua_and_Barbuda_0f8518-overview.webp
@@ -1206,8 +1206,6 @@ The 1998 St John’s report is the more interesting of the two because it reads 
 
 The 2010 Coolidge report is weaker as evidence. It describes repeated high-altitude flashes over several years, with three observers present on the reported night, but the witness’s own narrative moves towards speculation about military activity and the Orion star system. The report also notes that the date was approximate, and the witness noticed a similar flashing pattern on US Navy aircraft beacons. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=75499" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> As a historical claim, it is worth logging; as evidence of an extraordinary object, it lacks the independent timing, imagery, radar data, or aviation records that would make it testable.
 
-
-<img src="{{ "/assets/images/Antigua_and_Barbuda_0f8518-Illustration-1-light.svg" | relative_url }}" alt="Antigua and Barbuda illustration 1" data-theme-src-dark="{{ "/assets/images/Antigua_and_Barbuda_0f8518-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Antigua_and_Barbuda_0f8518-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the strongest explanation is usually ordinary sky traffic
 
 The Antigua and Barbuda reports are dominated by lights and flashes, not close-range craft, physical traces, radar-visual cases, or official intercepts. That matters because global UAP research repeatedly finds that the weakest cases are often those based on brief, unaided visual impressions without calibrated sensor data. NASA’s independent UAP study warned that eyewitness reports can be interesting, but usually lack the information needed to reach firm conclusions about origin; it also stressed the need for a systematic, evidence-based framework. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
@@ -1223,8 +1221,7 @@ Several local factors raise the probability of mundane explanations:
 **Drones.** Antigua and Barbuda has specific guidance for drones and model aircraft, including visual line-of-sight operation, height limits, airport approach restrictions, and bans on unauthorised night or low-visibility operation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://antigua-barbuda.com/wp-content/uploads/2019/04/2019_Mar_Guidance-to-Drone-Operators.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: antigua-barbuda.com">[antigua-barbuda.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">antigua-barbuda.com</span><span class="citation-popover-title">2019 Mar Guidance to Drone Operators</span><span class="citation-popover-snippet">2019 Mar Guidance to Drone Operators</span></span></span> The same guidance names restricted areas including Codrington, Barbuda, Fort James, St John’s Harbour, North Sound, and areas around airports and official sites. <span class="citation-chip-wrap"><a class="citation-chip" href="https://antigua-barbuda.com/wp-content/uploads/2019/04/2019_Mar_Guidance-to-Drone-Operators.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: antigua-barbuda.com">[antigua-barbuda.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">antigua-barbuda.com</span><span class="citation-popover-title">2019 Mar Guidance to Drone Operators</span><span class="citation-popover-snippet">2019 Mar Guidance to Drone Operators</span></span></span> These rules show that small aerial objects are a known safety and security concern, even when they are not “UFOs” in the extraordinary sense.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GhLXCJ1Gyyc" title="Starlink satellites, the string of lights in the night sky." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GhLXCJ1Gyyc" target="_blank" rel="noopener noreferrer">Starlink satellites, the string of lights in the night sky.</a></p><p class="youtube-embed-meta">Channel: Brad Panovich (wxbrad) &middot; Views: 251.7K &middot; Uploaded: September 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GhLXCJ1Gyyc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GhLXCJ1Gyyc">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Antigua_and_Barbuda_0f8518-Illustration-1-dark.svg" | relative_url }}" alt="Antigua and Barbuda illustration 1" data-theme-src-dark="{{ "/assets/images/Antigua_and_Barbuda_0f8518-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Antigua_and_Barbuda_0f8518-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Confirmed, contested, and debunked claims
 
 For Antigua and Barbuda, the fairest evidence split is simple.(#endnote-10 "Endnote 10") <span class="citation-chip-wrap"><a class="citation-chip" href="https://antigua-barbuda.com/wp-content/uploads/2019/04/2019_Mar_Guidance-to-Drone-Operators.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: antigua-barbuda.com">[antigua-barbuda.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">antigua-barbuda.com</span><span class="citation-popover-title">2019 Mar Guidance to Drone Operators</span><span class="citation-popover-snippet">2019 Mar Guidance to Drone Operators</span></span></span>
@@ -1238,7 +1235,7 @@ For Antigua and Barbuda, the fairest evidence split is simple.(#endnote-10 "Endn
 No publicly available official Antiguan or Barbudan record found here establishes a confirmed anomalous craft, a landing, recovered material, biological evidence, or a government investigation comparable to better-known international UFO case files.
 
 
-<img src="{{ "/assets/images/Antigua_and_Barbuda_0f8518-Illustration-2-light.svg" | relative_url }}" alt="Antigua and Barbuda illustration 2" data-theme-src-dark="{{ "/assets/images/Antigua_and_Barbuda_0f8518-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Antigua_and_Barbuda_0f8518-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Antigua_and_Barbuda_0f8518-Illustration-2-dark.svg" | relative_url }}" alt="Antigua and Barbuda illustration 2" data-theme-src-dark="{{ "/assets/images/Antigua_and_Barbuda_0f8518-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Antigua_and_Barbuda_0f8518-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where official evidence would be expected to appear
 
 If a UFO or UAP event in Antigua and Barbuda created an aviation hazard, the most relevant institutional trail would probably not be a UFO archive; it would be aviation safety reporting. The Eastern Caribbean Civil Aviation Authority, headquartered in Antigua, states that its Accident Investigation Group works with member states on aircraft accidents and serious incidents in Antigua and Barbuda and other OECS jurisdictions. It also publishes final accident reports and provides reporting contacts for accidents and serious incidents. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eccaa.aero/index.php?Itemid=90&amp;id=175&amp;option=com_content&amp;view=article" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eccaa.aero">[eccaa.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eccaa.aero</span><span class="citation-popover-title">AI G Contact Information</span><span class="citation-popover-snippet">AI G Contact Information</span></span></span>
@@ -1247,9 +1244,6 @@ That is important for judging claims. A brief light seen from the ground may lea
 
 The international pattern supports this cautious approach. AARO’s 2024 report received 757 UAP reports for its reporting period, resolved many as prosaic objects such as balloons, birds, drones, satellites, and aircraft, and stated that it had found no evidence of extraterrestrial beings, activity, or technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">DOD AARO Consolidated Annual Report on UAP Nov2024</span><span class="citation-popover-snippet">DOD AARO Consolidated Annual Report on UAP Nov2024</span></span></span> It also recorded that many cases remain unresolved because they lack enough data for analysis, not because they demonstrate exotic technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">DOD AARO Consolidated Annual Report on UAP Nov2024</span><span class="citation-popover-snippet">DOD AARO Consolidated Annual Report on UAP Nov2024</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5GDKnHeKCJw" title="ANTIGUA AND BARBUDA - Land of 365 Beaches 🇦🇬 🌍" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5GDKnHeKCJw" target="_blank" rel="noopener noreferrer">ANTIGUA AND BARBUDA - Land of 365 Beaches 🇦🇬 🌍</a></p><p class="youtube-embed-meta">Channel: Geo&amp;His</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5GDKnHeKCJw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5GDKnHeKCJw">Open on YouTube</a></p></div></div></div>
-
 ## How Antigua and Barbuda compares with neighbouring branches
 
 Within a Caribbean UFO project, Antigua and Barbuda should be treated as a low-volume, low-corroboration branch. NUFORC’s own location index lists Antigua with [two reports]({{ 'two-reports/' | relative_url }}), while nearby entries include Barbados with nine, Trinidad and Tobago with sixteen, Jamaica with thirty-one, and the Bahamas with thirty-eight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=8677" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> Those counts are not a scientific measure of actual phenomena; they reflect language, internet access, population, tourism, database awareness, and reporting culture. But they do help prevent overstatement.
@@ -1257,7 +1251,7 @@ Within a Caribbean UFO project, Antigua and Barbuda should be treated as a low-v
 The useful comparison is not “Antigua has fewer UFOs”; it is “Antigua has fewer publicly archived reports in major English-language civilian databases.” That distinction matters because a small island state may have local stories, radio call-ins, social media posts, or informal police and aviation memories that never enter NUFORC, Enigma, or a government archive. The available evidence supports a modest conclusion: Antigua and Barbuda belongs in the regional UFO map, but as a sparse-record case, not a hotspot.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/j4emdViB_Fs" title="Exploring Antigua&#x27;s Naval Dockyard, Antigua and Barbuda : A Deep Dive into History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=j4emdViB_Fs" target="_blank" rel="noopener noreferrer">Exploring Antigua&#x27;s Naval Dockyard, Antigua and Barbuda : A Deep Dive into History</a></p><p class="youtube-embed-meta">Channel: World Wonders</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=j4emdViB_Fs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=j4emdViB_Fs">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GhLXCJ1Gyyc" title="Starlink satellites, the string of lights in the night sky." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GhLXCJ1Gyyc" target="_blank" rel="noopener noreferrer">Starlink satellites, the string of lights in the night sky.</a></p><p class="youtube-embed-meta">Channel: Brad Panovich (wxbrad) &middot; Views: 251.7K &middot; Uploaded: September 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GhLXCJ1Gyyc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GhLXCJ1Gyyc">Open on YouTube</a></p></div></div></div>
 
 ## How to judge future Antigua and Barbuda sightings
 
@@ -1274,7 +1268,7 @@ The most credible classification framework for the country is therefore:
 **Not established:** there is no strong public evidence that Antigua and Barbuda has hosted a verified non-human craft, a recovered object, or a documented official UFO investigation with extraordinary findings.
 
 
-<img src="{{ "/assets/images/Antigua_and_Barbuda_0f8518-Illustration-3-light.svg" | relative_url }}" alt="Antigua and Barbuda illustration 3" data-theme-src-dark="{{ "/assets/images/Antigua_and_Barbuda_0f8518-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Antigua_and_Barbuda_0f8518-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Antigua_and_Barbuda_0f8518-Illustration-3-dark.svg" | relative_url }}" alt="Antigua and Barbuda illustration 3" data-theme-src-dark="{{ "/assets/images/Antigua_and_Barbuda_0f8518-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Antigua_and_Barbuda_0f8518-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

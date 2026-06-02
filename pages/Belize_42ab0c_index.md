@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /belize-42ab0c-index/
 description: Focused pages that expand on What Do Belize UFO Reports Really Show?.
-date: '2026-05-31'
+date: '2026-06-02'
 layout: default
 parent_basename: Belize_42ab0c
 parent_title: What Do Belize UFO Reports Really Show?

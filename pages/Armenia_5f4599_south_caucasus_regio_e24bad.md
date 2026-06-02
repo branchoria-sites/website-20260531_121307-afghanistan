@@ -239,7 +239,7 @@ prev_link:
   permalink: /records-gap/
   short_title: Records Gap
   heading_title: Why Armenia's UFO Record Is So Patchy
-date: '2026-05-31 03:58:28 '
+date: '2026-06-02 15:50:25 '
 header:
   og_image: /assets/images/Armenia_5f4599_south_caucasus_regio_e24bad-Illustration-1-social.jpg
   preview_image: /assets/images/Armenia_5f4599_south_caucasus_regio_e24bad-Illustration-1.webp
@@ -251,7 +251,7 @@ image: /assets/images/Armenia_5f4599_south_caucasus_regio_e24bad-Illustration-1-
 Many Armenian UFO reports become easier to understand once they are viewed as part of a wider South Caucasus pattern rather than as isolated national mysteries. The region shares crowded air corridors, military activity, mountain observation points and highly visible atmospheric conditions. A single launch, re-entry event or optical phenomenon can therefore produce sightings across [Armenia]({{ 'what-really-explains-armenias-ufo/' | relative_url }}), Georgia and neighbouring territories within minutes. In practice, this has often led to the same event being described simultaneously as a missile, meteor, secret aircraft or UFO depending on local media framing and public expectation.
 
 
-<img src="{{ "/assets/images/Armenia_5f4599_south_caucasus_regio_e24bad-Illustration-1-light.svg" | relative_url }}" alt="Region illustration 1" data-theme-src-dark="{{ "/assets/images/Armenia_5f4599_south_caucasus_regio_e24bad-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Armenia_5f4599_south_caucasus_regio_e24bad-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Armenia_5f4599_south_caucasus_regio_e24bad-Illustration-1-dark.svg" | relative_url }}" alt="Region illustration 1" data-theme-src-dark="{{ "/assets/images/Armenia_5f4599_south_caucasus_regio_e24bad-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Armenia_5f4599_south_caucasus_regio_e24bad-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The strongest documented Armenian example came in June 2012, when bright aerial objects seen over Yerevan and other Armenian regions were also observed elsewhere across the South Caucasus and Middle East. Subsequent analysis linked the sightings to a Russian Topol intercontinental ballistic missile test rather than an unknown craft. «Ազատ Եվրոպա Ազատություն» ռադիոկայան <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.am/en/news/108895" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.am">[Armenia News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.am</span><span class="citation-popover-snippet">Israeli outlets linked the object with the Russian Topol...Read more...</span></span></span> The incident illustrates how regional geography and fragmented information systems can turn one physical event into many separate UFO narratives.
 
 ## Shared Skies Over the South Caucasus
@@ -263,9 +263,6 @@ This geography matters because eyewitnesses usually observe only fragments of an
 Armenia’s own scientific community has repeatedly stressed this problem. Researchers associated with the [Byurakan]({{ 'byurakan/' | relative_url }}) Astrophysical Observatory have noted that some alleged UFO events were better explained as optical effects, reflected light or missile-related atmospheric phenomena. «Ազատ Եվրոպա Ազատություն» ռադիոկայան <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.am/en/news/108895" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.am">[Armenia News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.am</span><span class="citation-popover-snippet">Israeli outlets linked the object with the Russian Topol...Read more...</span></span></span> The observatory’s prominence in regional astronomy also means Armenian experts are often consulted when unusual aerial events spread across multiple countries.
 
 The region’s political tensions add another layer. In the South Caucasus, unidentified lights are not interpreted in a vacuum. Military escalation, border anxieties and Russian security activity can all shape public assumptions. During periods of heightened tension, civilians are more likely to interpret unfamiliar aerial objects as covert technology or foreign surveillance rather than routine aerospace activity.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kT1RZuRcPnw" title="🔥Beasts Attack, He Can Infinitely Evolve His SSS Mecha Goddess Army, Sweeping Across Everything！" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kT1RZuRcPnw" target="_blank" rel="noopener noreferrer">🔥Beasts Attack, He Can Infinitely Evolve His SSS Mecha Goddess Army, Sweeping Across Everything！</a></p><p class="youtube-embed-meta">Channel: Blue Whale Comics Review</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kT1RZuRcPnw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kT1RZuRcPnw">Open on YouTube</a></p></div></div></div>
 
 ## Georgia Comparisons and Regional Reports
 
@@ -281,9 +278,6 @@ Yet the event did not stop at Armenia’s borders. Similar observations appeared
 
 This regional overlap is crucial. A genuinely local UFO sighting would usually remain geographically limited. The 2012 event instead behaved like a classic large-scale aerospace phenomenon: broad visibility, simultaneous cross-border reporting and strong correlation with a confirmed military launch.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hYsa7FZ9g7c" title="I&#x27;m 100x Stronger Than My SSS Angel Girlfriend, But Everyone Thinks I&#x27;m Her Useless Shield!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hYsa7FZ9g7c" target="_blank" rel="noopener noreferrer">I&#x27;m 100x Stronger Than My SSS Angel Girlfriend, But Everyone Thinks I&#x27;m Her Useless Shield!</a></p><p class="youtube-embed-meta">Channel: COMICS STORM</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hYsa7FZ9g7c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hYsa7FZ9g7c">Open on YouTube</a></p></div></div></div>
-
 ## When One Source Creates Many Sightings
 
 The South Caucasus repeatedly demonstrates how one event can fragment into multiple incompatible stories. Several mechanisms drive this process.
@@ -294,14 +288,14 @@ Official explanations in the region are often slow, incomplete or distrusted. Du
 
 The 2012 Armenian incident followed this exact pattern. Eyewitness photographs circulated before technical explanations emerged, allowing speculation to outrun verification. [«Ազատ Եվրոպա/Ազատություն» ռադիոկայան]
 
+
+<img src="{{ "/assets/images/Armenia_5f4599_south_caucasus_regio_e24bad-Illustration-2-dark.svg" | relative_url }}" alt="Region illustration 2" data-theme-src-dark="{{ "/assets/images/Armenia_5f4599_south_caucasus_regio_e24bad-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Armenia_5f4599_south_caucasus_regio_e24bad-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Different Viewing Angles
 
 Missile tests and atmospheric events can look radically different depending on location. A spiralling plume seen from Armenia may appear as a glowing orb from Georgia or as a streak from eastern Turkey. Social media then merges these varying descriptions into a broader mystery narrative.
 
 This effect is intensified by the South Caucasus landscape. Mountain horizons distort perceived altitude and speed, especially at dusk when light scattering is strongest.
 
-
-<img src="{{ "/assets/images/Armenia_5f4599_south_caucasus_regio_e24bad-Illustration-2-light.svg" | relative_url }}" alt="Region illustration 2" data-theme-src-dark="{{ "/assets/images/Armenia_5f4599_south_caucasus_regio_e24bad-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Armenia_5f4599_south_caucasus_regio_e24bad-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Military Secrecy
 
 The region’s heavy military presence encourages speculative interpretation. Russian tests, regional air defence systems and cross-border tensions create an environment where unusual aerial activity is expected but rarely transparent. In such conditions, even ordinary aerospace events can acquire a conspiratorial aura.
@@ -315,8 +309,7 @@ Regional news ecosystems frequently prioritise dramatic framing during the first
 This does not necessarily reflect deliberate misinformation. In fast-moving situations, journalists often rely on eyewitness accounts before technical confirmation is available. However, once UFO framing becomes established, corrections rarely spread as widely as the original claim.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aZ0pHDT-G_s" title="25 Optical Illusions And Phenomena Only Seen In Nature" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aZ0pHDT-G_s" target="_blank" rel="noopener noreferrer">25 Optical Illusions And Phenomena Only Seen In Nature</a></p><p class="youtube-embed-meta">Channel: List 25</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aZ0pHDT-G_s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aZ0pHDT-G_s">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Armenia_5f4599_south_caucasus_regio_e24bad-Illustration-3-dark.svg" | relative_url }}" alt="Region illustration 3" data-theme-src-dark="{{ "/assets/images/Armenia_5f4599_south_caucasus_regio_e24bad-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Armenia_5f4599_south_caucasus_regio_e24bad-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Armenia’s Scientific Perspective on Regional Sightings
 
 Armenia occupies an unusual place in regional UFO culture because it possesses a respected astronomical tradition centred around the Byurakan Astrophysical Observatory. The observatory has historically been associated with advanced astrophysical research and even hosted Soviet-era conferences connected to the scientific search for extraterrestrial intelligence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://allegralaboratory.net/soviet-russian-and-armenian-radio-astronomers-in-communication-with-extra-terrestrial-intelligence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: allegralaboratory.net">[Allegra Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">allegralaboratory.net</span><span class="citation-popover-snippet">He had spoken at SETI&#x27;s most imposing... Image 1: Byurakan Astrophysical Observatory Library. Photo by author.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://horizonweekly.ca/en/the-soviet-era-conference-in-armenia-on-communicating-with-aliens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: horizonweekly.ca">[Horizon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">horizonweekly.ca</span><span class="citation-popover-title">the soviet era conference in armenia on communicating with aliens</span><span class="citation-popover-snippet">The soviet-era conference in Armenia on communicating...4 Aug 2017 — The first major international conference dedicated to communicating...</span></span></span>
@@ -336,8 +329,6 @@ This distinction matters because Armenia’s UFO discourse is often less about b
 
 The South Caucasus context therefore acts as a corrective lens. What appears mysterious within one national information space often becomes more comprehensible once reports are compared across borders.
 
-
-<img src="{{ "/assets/images/Armenia_5f4599_south_caucasus_regio_e24bad-Illustration-3-light.svg" | relative_url }}" alt="Region illustration 3" data-theme-src-dark="{{ "/assets/images/Armenia_5f4599_south_caucasus_regio_e24bad-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Armenia_5f4599_south_caucasus_regio_e24bad-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Regional Comparison Matters
 
 Looking at Armenia alone can make certain sightings appear isolated and inexplicable. Looking at the South Caucasus as a connected observational zone changes the picture considerably.

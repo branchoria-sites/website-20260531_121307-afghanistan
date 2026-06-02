@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /south-sudan-80ac9c-index/
 description: Focused pages that expand on What Counts as a South Sudan UFO Case?.
-date: '2026-05-31'
+date: '2026-06-02'
 layout: default
 parent_basename: South_Sudan_80ac9c
 parent_title: What Counts as a South Sudan UFO Case?

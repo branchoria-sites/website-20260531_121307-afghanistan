@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /estonia-f0a96d-index/
 description: Focused pages that expand on What Really Shapes Estonia's UFO Record?.
-date: '2026-05-31'
+date: '2026-06-02'
 layout: default
 parent_basename: Estonia_f0a96d
 parent_title: What Really Shapes Estonia's UFO Record?

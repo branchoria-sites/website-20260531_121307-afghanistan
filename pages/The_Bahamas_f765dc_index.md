@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /the-bahamas-f765dc-index/
 description: Focused pages that expand on The Bahamas.
-date: '2026-05-31'
+date: '2026-06-02'
 layout: default
 parent_basename: The_Bahamas_f765dc
 parent_title: The Bahamas

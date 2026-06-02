@@ -407,9 +407,9 @@ sibling_links:
   permalink: /are-there-any-real-mali-ufo-cases/
   short_title: Mali UFOs
 - basename: Montenegro_479fb3
-  title: MontenegroUFOs
+  title: Montenegro UFOs
   permalink: /are-ufos-really-seen-over-montenegro/
-  short_title: MontenegroUFOs
+  short_title: Montenegro UFOs
 - basename: Argentina_354bf9
   title: Argentina OVNI
   permalink: /argentinas-ufo-stories-records-and/
@@ -423,17 +423,17 @@ sibling_links:
   permalink: /bolivia-plurinational-state-of/
   short_title: Bolivia UFOs
 - basename: Bosnia_and_Herzegovi_552c9f
-  title: BosniaUFOs
+  title: Bosnia UFOs
   permalink: /bosnia-and-herzegovina/
-  short_title: BosniaUFOs
+  short_title: Bosnia UFOs
 - basename: Brunei_Darussalam_eab94a
   title: Brunei UAP
   permalink: /brunei-darussalam/
   short_title: Brunei UAP
 - basename: Burkina_Faso_f61e5f
-  title: BurkinaUFO
+  title: Burkina UFO
   permalink: /burkina-faso/
-  short_title: BurkinaUFO
+  short_title: Burkina UFO
 - basename: Central_African_Repu_358788
   title: CAR UFOs
   permalink: /central-african-republic/
@@ -443,21 +443,21 @@ sibling_links:
   permalink: /cote-d-ivoire/
   short_title: Ivoire UFOs
 - basename: Czechia_045e2f
-  title: CzechUFOs
+  title: Czech UFOs
   permalink: /czechia/
-  short_title: CzechUFOs
+  short_title: Czech UFOs
 - basename: Democratic_People_s_808714
-  title: DPRKUFOs
+  title: DPRK UFOs
   permalink: /democratic-people-s-republic-of-korea/
-  short_title: DPRKUFOs
+  short_title: DPRK UFOs
 - basename: Democratic_Republic_679868
   title: DRC UFOs
   permalink: /democratic-republic-of-the-congo/
   short_title: DRC UFOs
 - basename: Djibouti_60a8b0
-  title: DjiboutiUAP
+  title: Djibouti UAP
   permalink: /djibouti/
-  short_title: DjiboutiUAP
+  short_title: Djibouti UAP
 - basename: Dominica_bc1cd4
   title: Dominica UAP
   permalink: /does-dominica-have-real-ufo-cases/
@@ -471,9 +471,9 @@ sibling_links:
   permalink: /dominican-republic/
   short_title: Dominican UAP
 - basename: Equatorial_Guinea_ae2c01
-  title: EquatorialGuineaUFOs
+  title: Equatorial Guinea UFOs
   permalink: /equatorial-guinea/
-  short_title: EquatorialGuineaUFOs
+  short_title: Equatorial Guinea UFOs
 - basename: Fiji_bbb7ef
   title: Fiji UFOs
   permalink: /fiji/
@@ -483,21 +483,21 @@ sibling_links:
   permalink: /finland/
   short_title: Finland UFOs
 - basename: Ghana_317dba
-  title: GhanaUFOs
+  title: Ghana UFOs
   permalink: /ghana/
-  short_title: GhanaUFOs
+  short_title: Ghana UFOs
 - basename: Comoros_e5bb59
-  title: ComorosUFOs
+  title: Comoros UFOs
   permalink: /have-ufos-really-been-seen-over-comoros/
-  short_title: ComorosUFOs
+  short_title: Comoros UFOs
 - basename: Chile_349507
-  title: ChileUFOs
+  title: Chile UFOs
   permalink: /how-chile-investigates-ufos-and-aerial/
-  short_title: ChileUFOs
+  short_title: Chile UFOs
 - basename: France_e3772a
-  title: FranceUFOs
+  title: France UFOs
   permalink: /how-france-investigates-and-archives-ufo/
-  short_title: FranceUFOs
+  short_title: France UFOs
 - basename: Iran_Islamic_Republi_94f9ee
   title: Iran UFOs
   permalink: /iran-islamic-republic-of/
@@ -515,9 +515,9 @@ sibling_links:
   permalink: /madagascars-ufo-record-famous-case-thin/
   short_title: Madagascar UFOs
 - basename: Maldives_213cb2
-  title: MaldivesUFOs
+  title: Maldives UFOs
   permalink: /maldives/
-  short_title: MaldivesUFOs
+  short_title: Maldives UFOs
 - basename: Micronesia_Federated_30e9e8
   title: Micronesia UFOs
   permalink: /micronesia-federated-states-of/
@@ -591,9 +591,9 @@ sibling_links:
   permalink: /turkiye/
   short_title: Türkiye UFOs
 - basename: Luxembourg_507672
-  title: LuxUFO
+  title: Lux UFO
   permalink: /uncovering-ufo-activity-across/
-  short_title: LuxUFO
+  short_title: Lux UFO
 - basename: Israel_4c197d
   title: Israel UFOs
   permalink: /uncovering-ufo-phenomena-across-israel/
@@ -619,17 +619,17 @@ sibling_links:
   permalink: /venezuela-bolivarian-republic-of/
   short_title: Venezuela UFOs
 - basename: Malawi_0ce65b
-  title: MalawiUFOs
+  title: Malawi UFOs
   permalink: /what-are-malawis-documented-ufos-and-sky/
-  short_title: MalawiUFOs
+  short_title: Malawi UFOs
 - basename: Belarus_027a12
   title: Belarus UFOs
   permalink: /what-belarus-ufo-reports-really-show/
   short_title: Belarus UFOs
 - basename: Brazil_37497a
-  title: BrazilUFOs
+  title: Brazil UFOs
   permalink: /what-brazils-ufo-records-reveal-about/
-  short_title: BrazilUFOs
+  short_title: Brazil UFOs
 - basename: Angola_a42522
   title: Angola UFOs
   permalink: /what-can-angolas-ufo-record-really-prove/
@@ -771,17 +771,17 @@ sibling_links:
   permalink: /what-do-ufo-reports-in-guinea-really/
   short_title: Guinea UFOs
 - basename: Bhutan_bb2254
-  title: BhutanUFOs
+  title: Bhutan UFOs
   permalink: /what-do-ufo-sightings-in-bhutan-really/
-  short_title: BhutanUFOs
+  short_title: Bhutan UFOs
 - basename: Botswana_180c89
   title: Botswana UFOs
   permalink: /what-does-botswanas-ufo-record-really/
   short_title: Botswana UFOs
 - basename: Ecuador_09f199
-  title: EcuadorUFOs
+  title: Ecuador UFOs
   permalink: /what-evidence-exists-for-ufos-in-ecuador/
-  short_title: EcuadorUFOs
+  short_title: Ecuador UFOs
 - basename: Georgia_9113c6
   title: Georgia UFOs
   permalink: /what-georgias-ufo-reports-reveal-about/
@@ -795,9 +795,9 @@ sibling_links:
   permalink: /what-greeces-ufo-records-reveal-about/
   short_title: Greece UFOs
 - basename: Guatemala_11760e
-  title: GuatemalaUFOs
+  title: Guatemala UFOs
   permalink: /what-guatemalas-ufo-reports-really/
-  short_title: GuatemalaUFOs
+  short_title: Guatemala UFOs
 - basename: Latvia_c5f5bb
   title: Latvia UFOs
   permalink: /what-has-latvia-really-seen-in-the-sky/
@@ -931,9 +931,9 @@ sibling_links:
   permalink: /what-lithuanias-ufo-reports-really-show/
   short_title: Lithuania UFOs
 - basename: Egypt_1c39ab
-  title: EgyptUFOs
+  title: Egypt UFOs
   permalink: /what-makes-egypt-a-hotspot-for-ufo/
-  short_title: EgyptUFOs
+  short_title: Egypt UFOs
 - basename: Italy_ad79ef
   title: Italy UFOs
   permalink: /what-makes-italys-ufo-record-unique-and/
@@ -1123,9 +1123,9 @@ sibling_links:
   permalink: /what-ufo-reports-survive-cabo-verde/
   short_title: Cabo Verde UFOs
 - basename: Cyprus_852add
-  title: CyprusUFOs
+  title: Cyprus UFOs
   permalink: /what-ufo-sightings-have-shaped-cyprus/
-  short_title: CyprusUFOs
+  short_title: Cyprus UFOs
 - basename: Eritrea_18740a
   title: Eritrea UFOs
   permalink: /what-ufos-have-been-reported-in/
@@ -1185,7 +1185,7 @@ next_link:
   title: Algeria UFOs
   permalink: /algeria/
   short_title: Algeria UFOs
-date: '2026-05-31 03:54:08 '
+date: '2026-06-02 15:45:41 '
 header:
   og_image: /assets/images/Albania_79b9d2-overview-social.jpg
   preview_image: /assets/images/Albania_79b9d2-overview.webp
@@ -1216,7 +1216,7 @@ A second early claim concerns Vlorë in 1933, where later UFO lists describe an 
 The 1947 “flying saucer” wave gives Albania a more concrete international hook. A July 1947 FBI-related reference, repeated by Albanian media, lists Albania among places where “flying saucers” had reportedly been observed, alongside cities and regions in North America and Europe. The FBI’s broader public UFO archive shows how many such reports circulated in that period, but the Albania mention by itself does not provide a detailed local case file, named witnesses or a technical explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/25706/pg25706-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 
-<img src="{{ "/assets/images/Albania_79b9d2-Illustration-1-light.svg" | relative_url }}" alt="Albania illustration 1" data-theme-src-dark="{{ "/assets/images/Albania_79b9d2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Albania_79b9d2-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Albania_79b9d2-Illustration-1-dark.svg" | relative_url }}" alt="Albania illustration 1" data-theme-src-dark="{{ "/assets/images/Albania_79b9d2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Albania_79b9d2-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Communist-era stories: Tomorr, Kuçova and the secrecy problem
 
 The most dramatic Albanian UFO legend is the Mount Tomorr or Skrapar-area story from the 1960s. In its common form, Albanian jets from Kuçova are said to have been scrambled after a bright spherical object; later retellings add instrument disruption, a pilot named Veiz Lamë, and a mysterious aircraft crash or damage. Albanian articles link the story to alleged awareness by State Security officials and senior communist figures Hysni Kapo and Gogo Nushi. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://shqiptarja.com/lajm/malindi-per-ufo-t-ne-tomorr-kishte-br-dijeni-sigurimi-i-shtetit-kapo-e-nushi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shqiptarja.com">[Shqiptarja]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shqiptarja.com</span><span class="citation-popover-title">malindi per ufo t ne tomorr kishte br dijeni sigurimi i shtetit kapo e nushi</span><span class="citation-popover-snippet">malindi per ufo t ne tomorr kishte br dijeni sigurimi i shtetit kapo e nushi</span></span></span>
@@ -1253,7 +1253,7 @@ This is the kind of case that often attracts strong claims, but its actual value
 Tirana 2010 is therefore Albania’s strongest “unexplained in public reporting” case, not its strongest proof of anything exotic. It has a date, a place, media footage, witness claims and a partial aviation response. What it lacks is the information needed for closure: original uncompressed video, exact camera location and direction, flight and radar data, meteorological data, astronomical checks and independent reconstruction.
 
 
-<img src="{{ "/assets/images/Albania_79b9d2-Illustration-2-light.svg" | relative_url }}" alt="Albania illustration 2" data-theme-src-dark="{{ "/assets/images/Albania_79b9d2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Albania_79b9d2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Albania_79b9d2-Illustration-2-dark.svg" | relative_url }}" alt="Albania illustration 2" data-theme-src-dark="{{ "/assets/images/Albania_79b9d2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Albania_79b9d2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Coastal and regional variation: why location changes the likely explanations
 
 Albanian UFO reports are not evenly distributed in meaning. Mountain, military, urban and coastal cases tend to raise different possibilities.
@@ -1291,7 +1291,7 @@ A practical reliability scale for Albanian UFO sources looks like this:
 4. **Useful only as leads:** YouTube clips, Reddit threads and social-media reposts unless they point back to original reporting or documents.
 
 
-<img src="{{ "/assets/images/Albania_79b9d2-Illustration-3-light.svg" | relative_url }}" alt="Albania illustration 3" data-theme-src-dark="{{ "/assets/images/Albania_79b9d2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Albania_79b9d2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Albania_79b9d2-Illustration-3-dark.svg" | relative_url }}" alt="Albania illustration 3" data-theme-src-dark="{{ "/assets/images/Albania_79b9d2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Albania_79b9d2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Confirmed, contested and debunked claims
 
 Albania’s UFO file has very few clean debunks in the public record. That is not because the cases are unusually strong; it is because most have not been investigated thoroughly enough to be resolved. In UAP research, “unresolved” often means “insufficient data”, not “extraordinary”. NASA and AARO both make this point in different ways: stronger data collection is needed, and many resolved UAP cases turn out to be ordinary objects or phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Records</span><span class="citation-popover-snippet">UAP Records</span></span></span>

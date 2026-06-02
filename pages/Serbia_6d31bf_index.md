@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /serbia-6d31bf-index/
 description: Focused pages that expand on What Can Serbia's UFO Record Really Show?.
-date: '2026-05-31'
+date: '2026-06-02'
 layout: default
 parent_basename: Serbia_6d31bf
 parent_title: What Can Serbia's UFO Record Really Show?

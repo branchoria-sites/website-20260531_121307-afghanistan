@@ -245,7 +245,7 @@ next_link:
   permalink: /thin-record/
   short_title: Thin Record
   heading_title: Where Are Micronesia's UFO Case Files?
-date: '2026-05-31 04:23:36 '
+date: '2026-06-02 16:23:26 '
 header:
   og_image: /assets/images/Micronesia_Federated_30e9e8_space_debris_sky_mys_77d127-Illustration-1-social.jpg
   preview_image: /assets/images/Micronesia_Federated_30e9e8_space_debris_sky_mys_77d127-Illustration-1.webp
@@ -257,7 +257,7 @@ image: /assets/images/Micronesia_Federated_30e9e8_space_debris_sky_mys_77d127-Il
 For anyone studying UFO reports in the Federated States of Micronesia (FSM), one of the most important facts is that many striking lights over the Pacific are not mysterious at all. The combination of exceptionally dark skies, vast ocean horizons, limited ground references, and frequent visibility of satellites, meteors, and atmospheric re-entries can make ordinary astronomical and aerospace events appear extraordinary. In a country spread across thousands of kilometres of ocean, a bright object seen over the sea may look far larger, slower, or stranger than it really is.
 
 
-<img src="{{ "/assets/images/Micronesia_Federated_30e9e8_space_debris_sky_mys_77d127-Illustration-1-light.svg" | relative_url }}" alt="Sky Causes illustration 1" data-theme-src-dark="{{ "/assets/images/Micronesia_Federated_30e9e8_space_debris_sky_mys_77d127-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Micronesia_Federated_30e9e8_space_debris_sky_mys_77d127-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Micronesia_Federated_30e9e8_space_debris_sky_mys_77d127-Illustration-1-dark.svg" | relative_url }}" alt="Sky Causes illustration 1" data-theme-src-dark="{{ "/assets/images/Micronesia_Federated_30e9e8_space_debris_sky_mys_77d127-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Micronesia_Federated_30e9e8_space_debris_sky_mys_77d127-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This does not mean every sighting can be immediately identified. Rather, it means that the most evidence-based starting point for unusual lights over Yap, Chuuk, Pohnpei, or Kosrae is usually to examine known sky phenomena before considering more exotic explanations. Across the Pacific, many dramatic reports have later been linked to satellite re-entries, space debris, meteors, aircraft lighting effects, or unusual weather conditions. Aerospace Corporation <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">things mistaken for ufos</span><span class="citation-popover-snippet">Sky at Night Magazine17 things commonly mistaken for UFOs11 May 2026 — 17 things commonly mistaken for UFOs. Think you&#x27;ve seen a UFO in t...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 ## What Re-Entry Looks Like from a Pacific Island
@@ -319,7 +319,7 @@ Recent examples include:
 For residents of Micronesia, this means that unusual lights in the sky are sometimes linked to genuine aerospace events occurring hundreds or thousands of kilometres away rather than to unknown craft operating locally.
 
 
-<img src="{{ "/assets/images/Micronesia_Federated_30e9e8_space_debris_sky_mys_77d127-Illustration-2-light.svg" | relative_url }}" alt="Sky Causes illustration 2" data-theme-src-dark="{{ "/assets/images/Micronesia_Federated_30e9e8_space_debris_sky_mys_77d127-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Micronesia_Federated_30e9e8_space_debris_sky_mys_77d127-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Micronesia_Federated_30e9e8_space_debris_sky_mys_77d127-Illustration-2-dark.svg" | relative_url }}" alt="Sky Causes illustration 2" data-theme-src-dark="{{ "/assets/images/Micronesia_Federated_30e9e8_space_debris_sky_mys_77d127-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Micronesia_Federated_30e9e8_space_debris_sky_mys_77d127-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Meteors Versus Space Debris
 
 A common challenge is distinguishing natural meteors from human-made debris.
@@ -372,7 +372,7 @@ Meteor monitoring networks regularly record large fireballs. A regional cluster 
 Many bright satellites can be visible shortly after sunset or before sunrise. Some flare unexpectedly and attract attention from casual observers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">things mistaken for ufos</span><span class="citation-popover-snippet">Sky at Night Magazine17 things commonly mistaken for UFOs11 May 2026 — 17 things commonly mistaken for UFOs. Think you&#x27;ve seen a UFO in t...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 
-<img src="{{ "/assets/images/Micronesia_Federated_30e9e8_space_debris_sky_mys_77d127-Illustration-3-light.svg" | relative_url }}" alt="Sky Causes illustration 3" data-theme-src-dark="{{ "/assets/images/Micronesia_Federated_30e9e8_space_debris_sky_mys_77d127-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Micronesia_Federated_30e9e8_space_debris_sky_mys_77d127-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Micronesia_Federated_30e9e8_space_debris_sky_mys_77d127-Illustration-3-dark.svg" | relative_url }}" alt="Sky Causes illustration 3" data-theme-src-dark="{{ "/assets/images/Micronesia_Federated_30e9e8_space_debris_sky_mys_77d127-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Micronesia_Federated_30e9e8_space_debris_sky_mys_77d127-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Check Aviation Activity
 
 Commercial aircraft approaching or departing Pacific airports can appear unusual when viewed at night over water, especially when landing lights face the observer.

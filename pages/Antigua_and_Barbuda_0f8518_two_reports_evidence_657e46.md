@@ -239,7 +239,7 @@ prev_link:
   permalink: /sky-lights/
   short_title: Sky Lights
   heading_title: Why Do Antigua's Night Lights Look Strange?
-date: '2026-05-31 03:57:33 '
+date: '2026-06-02 15:50:01 '
 header:
   og_image: /assets/images/Antigua_and_Barbuda_0f8518_two_reports_evidence_657e46-Illustration-1-social.jpg
   preview_image: /assets/images/Antigua_and_Barbuda_0f8518_two_reports_evidence_657e46-Illustration-1.webp
@@ -251,7 +251,7 @@ image: /assets/images/Antigua_and_Barbuda_0f8518_two_reports_evidence_657e46-Ill
 [Antigua and Barbuda]({{ 'antigua-and-barbuda/' | relative_url }})’s public UFO record is unusually small. Open-source databases and secondary catalogues point to only two widely circulated Antigua cases: a late-1990s sighting near St John’s and a 2010 flashing-light report from Coolidge. That does not make the cases unimportant, but it changes how they should be read. The real issue is not whether Antigua hides a large archive of unexplained encounters; it is whether the surviving reports contain enough evidence to support extraordinary conclusions.
 
 
-<img src="{{ "/assets/images/Antigua_and_Barbuda_0f8518_two_reports_evidence_657e46-Illustration-1-light.svg" | relative_url }}" alt="Two Reports illustration 1" data-theme-src-dark="{{ "/assets/images/Antigua_and_Barbuda_0f8518_two_reports_evidence_657e46-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Antigua_and_Barbuda_0f8518_two_reports_evidence_657e46-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Antigua_and_Barbuda_0f8518_two_reports_evidence_657e46-Illustration-1-dark.svg" | relative_url }}" alt="Two Reports illustration 1" data-theme-src-dark="{{ "/assets/images/Antigua_and_Barbuda_0f8518_two_reports_evidence_657e46-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Antigua_and_Barbuda_0f8518_two_reports_evidence_657e46-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Both cases share the same core weakness: they rely almost entirely on retrospective witness descriptions without photographs, radar logs, contemporaneous aviation records, or independently verified timelines. In a country with heavy night-time air traffic, maritime visibility, satellite passes, and a long-running US tracking presence linked to the Eastern Range space programme, those gaps matter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tdglobal.ksc.nasa.gov/servlet/sm.web.Fetch/ET-Eastern-Range-Instrumentation-Update-images.pdf?did=933727&amp;rhid=1000&amp;type=released" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tdglobal.ksc.nasa.gov">[NASA TechDoc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tdglobal.ksc.nasa.gov</span><span class="citation-popover-title">ET Eastern Range Instrumentation Update images</span><span class="citation-popover-snippet">The Eastern Range is the launch head at Cape Canaveral Air Force Station, which also supports Kennedy Space...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.patrick.spaceforce.mil/News/Article-Display/Article/732961/45th-sw-says-farewell-to-antigua-air-station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patrick.spaceforce.mil">[Patrick Space Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patrick.spaceforce.mil</span><span class="citation-popover-snippet">Patrick Space Force Base45th SW says Farewell to Antigua Air Station13 Jul 2015 — It served as one of the primary Range and Control instr...</span></span></span>
 
 ## The St John’s 1998 meteor-like account
@@ -317,7 +317,7 @@ The setting around Coolidge also complicates interpretation. The area sits near 
 None of those explanations can be confirmed from the surviving report alone, but all remain more evidentially grounded than extraterrestrial claims.
 
 
-<img src="{{ "/assets/images/Antigua_and_Barbuda_0f8518_two_reports_evidence_657e46-Illustration-2-light.svg" | relative_url }}" alt="Two Reports illustration 2" data-theme-src-dark="{{ "/assets/images/Antigua_and_Barbuda_0f8518_two_reports_evidence_657e46-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Antigua_and_Barbuda_0f8518_two_reports_evidence_657e46-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Antigua_and_Barbuda_0f8518_two_reports_evidence_657e46-Illustration-2-dark.svg" | relative_url }}" alt="Two Reports illustration 2" data-theme-src-dark="{{ "/assets/images/Antigua_and_Barbuda_0f8518_two_reports_evidence_657e46-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Antigua_and_Barbuda_0f8518_two_reports_evidence_657e46-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why flashing-light cases are difficult to verify
 
 The Coolidge report demonstrates a recurring problem in Caribbean UFO history: distant flashing lights are visually striking but scientifically weak unless accompanied by additional data.
@@ -343,9 +343,6 @@ The Coolidge case contains none of the elements that would elevate it beyond ane
 
 As a result, the report remains unresolved but also unverified.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/l4Ok-avapHc" title="UFO Files Trinidad &amp; Tobago" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=l4Ok-avapHc" target="_blank" rel="noopener noreferrer">UFO Files Trinidad &amp; Tobago</a></p><p class="youtube-embed-meta">Channel: Paul Elms Bacardi &middot; Views: 105 &middot; Uploaded: May 2026 &middot; Length: 2 minutes 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=l4Ok-avapHc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=l4Ok-avapHc">Open on YouTube</a></p></div></div></div>
-
 ## What evidence is missing from both cases
 
 The two Antigua reports become more revealing when viewed together. Their similarities show why Antigua and Barbuda has not developed a stronger UFO case archive despite decades of aviation and maritime activity.
@@ -356,14 +353,14 @@ Both reports appear to have been submitted after the events rather than document
 
 A credible investigative file would normally include immediate notes, local authority contact, weather records, and witness interviews taken close to the event.
 
+
+<img src="{{ "/assets/images/Antigua_and_Barbuda_0f8518_two_reports_evidence_657e46-Illustration-3-dark.svg" | relative_url }}" alt="Two Reports illustration 3" data-theme-src-dark="{{ "/assets/images/Antigua_and_Barbuda_0f8518_two_reports_evidence_657e46-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Antigua_and_Barbuda_0f8518_two_reports_evidence_657e46-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### No official records have surfaced
 
 This is particularly important in Antigua because of the island’s historic role in aerospace tracking. If a genuinely unusual object affected restricted airspace, launch operations, or aviation safety, some form of operational record might reasonably be expected.
 
 Yet no publicly available declassified files, air-traffic reports, military memoranda, or radar summaries linked to these sightings have emerged. The existence of Antigua Air Station proves that sophisticated instrumentation existed on the island, but no evidence has appeared showing that the UFO reports were confirmed by those systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.patrick.spaceforce.mil/News/Article-Display/Article/732961/45th-sw-says-farewell-to-antigua-air-station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patrick.spaceforce.mil">[Patrick Space Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patrick.spaceforce.mil</span><span class="citation-popover-snippet">Patrick Space Force Base45th SW says Farewell to Antigua Air Station13 Jul 2015 — It served as one of the primary Range and Control instr...</span></span></span>
 
-
-<img src="{{ "/assets/images/Antigua_and_Barbuda_0f8518_two_reports_evidence_657e46-Illustration-3-light.svg" | relative_url }}" alt="Two Reports illustration 3" data-theme-src-dark="{{ "/assets/images/Antigua_and_Barbuda_0f8518_two_reports_evidence_657e46-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Antigua_and_Barbuda_0f8518_two_reports_evidence_657e46-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The reports rely almost entirely on visual impressions
 
 Both Antigua sightings are classic “light in the sky” cases. They do not involve:
@@ -384,7 +381,7 @@ Both Antigua sightings are classic “light in the sky” cases. They do not inv
 Globally, those are the kinds of features that tend to make a UFO case historically durable. Antigua’s reports lack them.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LfVe6Ws4rlA" title="What If Aliens Are Here? The UFO UAP Phenomenon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LfVe6Ws4rlA" target="_blank" rel="noopener noreferrer">What If Aliens Are Here? The UFO UAP Phenomenon</a></p><p class="youtube-embed-meta">Channel: Insane Curiosity</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LfVe6Ws4rlA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LfVe6Ws4rlA">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/l4Ok-avapHc" title="UFO Files Trinidad &amp; Tobago" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=l4Ok-avapHc" target="_blank" rel="noopener noreferrer">UFO Files Trinidad &amp; Tobago</a></p><p class="youtube-embed-meta">Channel: Paul Elms Bacardi &middot; Views: 105 &middot; Uploaded: May 2026 &middot; Length: 2 minutes 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=l4Ok-avapHc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=l4Ok-avapHc">Open on YouTube</a></p></div></div></div>
 
 ### The island environment encourages ambiguity
 

@@ -245,7 +245,7 @@ next_link:
   permalink: /modern-sightings-0e33d3/
   short_title: Modern Sightings
   heading_title: Why Modern Viet Nam UFO Photos Stay Uncertain
-date: '2026-05-31 04:37:33 '
+date: '2026-06-02 16:44:26 '
 header:
   og_image: /assets/images/Viet_Nam_82ecdd_hmas_hobart_ufo_clai_5ad670-Illustration-1-social.jpg
   preview_image: /assets/images/Viet_Nam_82ecdd_hmas_hobart_ufo_clai_5ad670-Illustration-1.webp
@@ -257,7 +257,7 @@ image: /assets/images/Viet_Nam_82ecdd_hmas_hobart_ufo_clai_5ad670-Illustration-1
 The HMAS Hobart incident is one of the most frequently cited Vietnam War cases in which a documented military disaster later became entangled with UFO speculation. In the early hours of 17 June 1968, the Australian guided-missile destroyer HMAS Hobart was struck by missiles fired from a United States aircraft operating near the coast of North Vietnam. Two Australian sailors were killed and seven were wounded. Official investigations concluded that the ship had been hit in a friendly-fire incident during a confused night operation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://navyhistory.au/17-june-1968/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navyhistory.au">[Naval Historical Society of Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navyhistory.au</span><span class="citation-popover-title">17 june 1968</span><span class="citation-popover-snippet">W. Shands, RAN), was accidentally attacked by a US Air Force F-4 fighter, off Cap Lay, Vietnam.Read more...</span><span class="citation-popover-meta">Published: june 1968</span></span></span>
 
 
-<img src="{{ "/assets/images/Viet_Nam_82ecdd_hmas_hobart_ufo_clai_5ad670-Illustration-1-light.svg" | relative_url }}" alt="HMAS Hobart illustration 1" data-theme-src-dark="{{ "/assets/images/Viet_Nam_82ecdd_hmas_hobart_ufo_clai_5ad670-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Viet_Nam_82ecdd_hmas_hobart_ufo_clai_5ad670-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Viet_Nam_82ecdd_hmas_hobart_ufo_clai_5ad670-Illustration-1-dark.svg" | relative_url }}" alt="HMAS Hobart illustration 1" data-theme-src-dark="{{ "/assets/images/Viet_Nam_82ecdd_hmas_hobart_ufo_clai_5ad670-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Viet_Nam_82ecdd_hmas_hobart_ufo_clai_5ad670-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 What makes the case unusual is that the friendly-fire explanation did not end the story. Over time, accounts involving unidentified aircraft, reports of enemy helicopters, the loss of a US Navy Swift Boat, and rumours of strange aerial targets became woven into a wider UFO narrative. The result is a case where the underlying tragedy is well documented, but the claimed UFO connection remains highly disputed.
 
 ## The confirmed friendly-fire record
@@ -399,7 +399,7 @@ However, the weakness in that argument is that disproving one explanation does n
 The Vietnam War generated many situations in which participants observed real but poorly understood events without possessing enough information to identify them accurately. That broader pattern appears repeatedly across Vietnam-era UFO files and military records.
 
 
-<img src="{{ "/assets/images/Viet_Nam_82ecdd_hmas_hobart_ufo_clai_5ad670-Illustration-2-light.svg" | relative_url }}" alt="HMAS Hobart illustration 2" data-theme-src-dark="{{ "/assets/images/Viet_Nam_82ecdd_hmas_hobart_ufo_clai_5ad670-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Viet_Nam_82ecdd_hmas_hobart_ufo_clai_5ad670-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Viet_Nam_82ecdd_hmas_hobart_ufo_clai_5ad670-Illustration-2-dark.svg" | relative_url }}" alt="HMAS Hobart illustration 2" data-theme-src-dark="{{ "/assets/images/Viet_Nam_82ecdd_hmas_hobart_ufo_clai_5ad670-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Viet_Nam_82ecdd_hmas_hobart_ufo_clai_5ad670-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the evidence actually supports
 
 The strongest evidence in the Hobart case concerns the missile strike itself.
@@ -448,7 +448,7 @@ Such evidence has not appeared.
 As a result, the Hobart case occupies an unusual place in Vietnam-era UFO discussions. It is not important because it proves a UFO attack. It is important because it shows how an authenticated military tragedy, preserved in official records and photographs, became intertwined with unresolved questions about what participants believed they saw in the sky. The friendly-fire incident is historical fact. The UFO explanation remains a contested interpretation rather than a demonstrated conclusion.
 
 
-<img src="{{ "/assets/images/Viet_Nam_82ecdd_hmas_hobart_ufo_clai_5ad670-Illustration-3-light.svg" | relative_url }}" alt="HMAS Hobart illustration 3" data-theme-src-dark="{{ "/assets/images/Viet_Nam_82ecdd_hmas_hobart_ufo_clai_5ad670-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Viet_Nam_82ecdd_hmas_hobart_ufo_clai_5ad670-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Viet_Nam_82ecdd_hmas_hobart_ufo_clai_5ad670-Illustration-3-dark.svg" | relative_url }}" alt="HMAS Hobart illustration 3" data-theme-src-dark="{{ "/assets/images/Viet_Nam_82ecdd_hmas_hobart_ufo_clai_5ad670-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Viet_Nam_82ecdd_hmas_hobart_ufo_clai_5ad670-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Endnotes
 
 1. <a id="endnote-1"></a>
