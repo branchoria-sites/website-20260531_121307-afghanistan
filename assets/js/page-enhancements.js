@@ -87,8 +87,15 @@
     if (!isContentPageScrollResetEligible()) {
       return;
     }
-    // Fresh navigations naturally start at the top; forcing it here can
-    // interrupt readers after slow-loading assets or bfcache restores.
+    if (window.history && "scrollRestoration" in window.history) {
+      try {
+        window.history.scrollRestoration = "manual";
+      } catch (err) {
+        // Ignore browsers that expose but do not allow this setting.
+      }
+    }
+    scheduleContentPageTopReset();
+    window.addEventListener("pageshow", scheduleContentPageTopReset);
   }
 
   function getUiString(name, fallback) {
@@ -2870,6 +2877,7 @@
       if (!tree || !dataNode) {
         return;
       }
+      var preservedRootMap = tree.querySelector("[data-interactive-map], [data-uap-world-map]");
 
       var payload = {};
       try {
@@ -3413,6 +3421,12 @@
           card.classList.add("ct-node-heavy");
         } else if (childTotal >= 3) {
           card.classList.add("ct-node-medium");
+        }
+
+        if (preservedRootMap && String((node && node.semantic_level) || "").trim().toLowerCase() === "root") {
+          card.classList.add("uap-world-root-card");
+          link.classList.add("uap-world-root-heading");
+          card.appendChild(preservedRootMap);
         }
 
         if (pageUrl && pageUrl !== "#") {
@@ -5962,7 +5976,6 @@
         var bubble = makeNode("div", "ct-node " + (sizeClass || "ct-node-md"));
 
         applyHomeClusterNodeMeta(bubble, node);
-        bubble.setAttribute("data-node-id", String(node.id || ""));
 
         var link = makeNode("a", "ct-node-link");
 
@@ -6790,174 +6803,6 @@
         "home-cluster-mobile-detail",
         !!(isVertical && shouldPreferFocusedBranch && state.manualSelection && String(state.selectedBranchId || "").trim())
       );
-
-      function removeClusterConnectorOverlay() {
-        var existingOverlay = board.querySelector(".ct-connector-overlay");
-        if (existingOverlay && existingOverlay.parentNode) {
-          existingOverlay.parentNode.removeChild(existingOverlay);
-        }
-        board.classList.remove("ct-svg-connectors");
-      }
-
-      function ensureClusterConnectorOverlay() {
-        var overlay = board.querySelector(".ct-connector-overlay");
-        if (overlay) {
-          return overlay;
-        }
-        overlay = document.createElementNS(svgNs, "svg");
-        overlay.setAttribute("class", "ct-connector-overlay");
-        overlay.setAttribute("aria-hidden", "true");
-        board.insertBefore(overlay, board.firstChild || null);
-        return overlay;
-      }
-
-      function refreshClusterConnectorOverlay() {
-        if (
-          isVertical
-          || strategy === "grid"
-          || !document.createElementNS
-          || !board.isConnected
-        ) {
-          removeClusterConnectorOverlay();
-          return;
-        }
-
-        var boardRect = board.getBoundingClientRect();
-        var overlayWidth = Math.max(Math.ceil(boardRect.width || 0), board.scrollWidth || 0);
-        var overlayHeight = Math.max(Math.ceil(boardRect.height || 0), board.scrollHeight || 0);
-        if (!overlayWidth || !overlayHeight) {
-          removeClusterConnectorOverlay();
-          return;
-        }
-
-        var renderedById = {};
-        Array.prototype.forEach.call(board.querySelectorAll(".ct-node[data-node-id]"), function (bubble) {
-          var nodeId = String(bubble.getAttribute("data-node-id") || "").trim();
-          if (nodeId && !renderedById[nodeId]) {
-            renderedById[nodeId] = bubble;
-          }
-        });
-
-        var connectors = [];
-        Object.keys(renderedById).forEach(function (nodeId) {
-          var node = nodeById[nodeId];
-          var parentId = String((node && node.parent_id) || "").trim();
-          var parentBubble = parentId ? renderedById[parentId] : null;
-          var usesVirtualRoot = !!(
-            parentId
-            && rootNode
-            && String(rootNode.id || "").trim() === parentId
-            && !parentBubble
-          );
-          if (!parentId || (!parentBubble && !usesVirtualRoot)) {
-            return;
-          }
-
-          var childRect = renderedById[nodeId].getBoundingClientRect();
-          var parentRect = parentBubble ? parentBubble.getBoundingClientRect() : null;
-          var horizontalDistance = parentRect ? Math.abs(childRect.left - parentRect.right) : 0;
-          var verticalDistance = parentRect ? Math.abs(childRect.top - parentRect.bottom) : 999;
-          var mostlyHorizontal = horizontalDistance >= verticalDistance;
-          var startX;
-          var startY;
-          var endX;
-          var endY;
-          var pathData;
-
-          if (usesVirtualRoot) {
-            startX = boardRect.width * 0.5;
-            startY = 1;
-            endX = childRect.left - boardRect.left + (childRect.width * 0.5);
-            endY = childRect.top - boardRect.top;
-            var rootControl = Math.max(22, Math.abs(endY - startY) * 0.56);
-            pathData = "M " + startX + " " + startY
-              + " C " + startX + " " + (startY + rootControl)
-              + ", " + endX + " " + (endY - rootControl)
-              + ", " + endX + " " + endY;
-          } else if (mostlyHorizontal) {
-            startX = parentRect.right - boardRect.left;
-            startY = parentRect.top - boardRect.top + (parentRect.height * 0.5);
-            endX = childRect.left - boardRect.left;
-            endY = childRect.top - boardRect.top + (childRect.height * 0.5);
-            var horizontalControl = Math.max(22, Math.abs(endX - startX) * 0.52);
-            pathData = "M " + startX + " " + startY
-              + " C " + (startX + horizontalControl) + " " + startY
-              + ", " + (endX - horizontalControl) + " " + endY
-              + ", " + endX + " " + endY;
-          } else {
-            startX = parentRect.left - boardRect.left + (parentRect.width * 0.5);
-            startY = parentRect.bottom - boardRect.top;
-            endX = childRect.left - boardRect.left + (childRect.width * 0.5);
-            endY = childRect.top - boardRect.top;
-            var verticalControl = Math.max(18, Math.abs(endY - startY) * 0.52);
-            pathData = "M " + startX + " " + startY
-              + " C " + startX + " " + (startY + verticalControl)
-              + ", " + endX + " " + (endY - verticalControl)
-              + ", " + endX + " " + endY;
-          }
-
-          connectors.push({
-            childId: nodeId,
-            isActive: isNodeInSelectedBranch(nodeId),
-            pathData: pathData
-          });
-        });
-
-        if (!connectors.length) {
-          removeClusterConnectorOverlay();
-          return;
-        }
-
-        var overlay = ensureClusterConnectorOverlay();
-        while (overlay.firstChild) {
-          overlay.removeChild(overlay.firstChild);
-        }
-        overlay.setAttribute("viewBox", "0 0 " + overlayWidth + " " + overlayHeight);
-        overlay.setAttribute("width", String(overlayWidth));
-        overlay.setAttribute("height", String(overlayHeight));
-
-        connectors.forEach(function (connector) {
-          var path = document.createElementNS(svgNs, "path");
-          path.setAttribute("class", "ct-connector-path" + (connector.isActive ? " is-active" : ""));
-          path.setAttribute("d", connector.pathData);
-          path.setAttribute("data-child-id", connector.childId);
-          overlay.appendChild(path);
-        });
-        board.classList.add("ct-svg-connectors");
-      }
-
-      function scheduleClusterConnectorOverlayRefresh() {
-        if (container.__homeClusterConnectorFrame) {
-          window.cancelAnimationFrame(container.__homeClusterConnectorFrame);
-        }
-        container.__homeClusterConnectorFrame = window.requestAnimationFrame(function () {
-          container.__homeClusterConnectorFrame = 0;
-          var refreshOverlay = container.__homeClusterConnectorRefresh;
-          if (typeof refreshOverlay === "function") {
-            refreshOverlay();
-          }
-        });
-      }
-
-      container.__homeClusterConnectorRefresh = refreshClusterConnectorOverlay;
-      scheduleClusterConnectorOverlayRefresh();
-
-      if (!container.__homeClusterConnectorOverlayBound) {
-        if (window.ResizeObserver) {
-          container.__homeClusterConnectorObserver = new ResizeObserver(function () {
-            scheduleClusterConnectorOverlayRefresh();
-          });
-          container.__homeClusterConnectorObserver.observe(board);
-        }
-        if (document.fonts && document.fonts.ready && typeof document.fonts.ready.then === "function") {
-          document.fonts.ready.then(function () {
-            scheduleClusterConnectorOverlayRefresh();
-          }).catch(function () {
-            // Ignore font observer failures.
-          });
-        }
-        container.__homeClusterConnectorOverlayBound = true;
-      }
 
       if (focusTray && !focusTray.__homeClusterPreviewBound) {
         focusTray.__homeClusterPreviewBound = true;
@@ -8723,6 +8568,632 @@
     }
   }
 
+  function initUapWorldMap() {
+    var roots = document.querySelectorAll('[data-interactive-map], [data-uap-world-map]');
+    if (!roots.length) {
+      return;
+    }
+    Array.prototype.forEach.call(roots, function(root) {
+    if (root.__interactiveMapInitialized) {
+      return;
+    }
+    root.__interactiveMapInitialized = true;
+    var canvas = root.querySelector('[data-interactive-map-canvas], [data-uap-world-map-canvas]');
+    var preview = root.querySelector('[data-interactive-map-preview], [data-uap-world-map-preview]');
+    var mapSrc = root.getAttribute('data-map-src');
+    var dataSrc = root.getAttribute('data-map-data-src');
+    var itemType = root.getAttribute('data-map-item-type') || 'country';
+    var itemTypeTitle = itemType.charAt(0).toUpperCase() + itemType.slice(1);
+    var mapLabel = root.getAttribute('data-map-label') || 'Interactive map';
+    var fallbackSummary = root.getAttribute('data-map-fallback-summary') || 'Open this item from the map.';
+    var previewPreloadLimit = root.getAttribute('data-map-preview-preload') || 'all';
+    if (!canvas || !mapSrc || !dataSrc) {
+      return;
+    }
+    var loadText = function(url) {
+      if (typeof fetch === 'function') {
+        return fetch(url, { credentials: 'same-origin' }).then(function(res) {
+          if (!res.ok) {
+            throw new Error('Failed to load ' + url);
+          }
+          return res.text();
+        });
+      }
+      return new Promise(function(resolve, reject) {
+        var xhr = new XMLHttpRequest();
+        xhr.open('GET', url, true);
+        xhr.onload = function() {
+          if (xhr.status >= 200 && xhr.status < 300) {
+            resolve(xhr.responseText);
+          } else {
+            reject(new Error('Failed to load ' + url));
+          }
+        };
+        xhr.onerror = function() { reject(new Error('Failed to load ' + url)); };
+        xhr.send();
+      });
+    };
+
+    var siteAssetBase = (function() {
+      var source = String(mapSrc || dataSrc || '').trim();
+      try {
+        var sourceUrl = new URL(source || '.', document.baseURI);
+        var path = sourceUrl.pathname || '';
+        var marker = path.indexOf('/assets/');
+        if (marker !== -1) {
+          sourceUrl.pathname = path.slice(0, marker + 1);
+          sourceUrl.search = '';
+          sourceUrl.hash = '';
+          return sourceUrl.href;
+        }
+      } catch (err) {
+        return document.baseURI;
+      }
+      return document.baseURI;
+    })();
+
+    var resolveSiteAssetUrl = function(url) {
+      var value = String(url || '').trim();
+      if (!value) {
+        return '';
+      }
+      if (/^(?:[a-z][a-z0-9+.-]*:|\/\/)/i.test(value)) {
+        return value;
+      }
+      try {
+        return new URL(value.replace(/^\/+/, ''), siteAssetBase).href;
+      } catch (err) {
+        return value;
+      }
+    };
+    var cp1252ReverseMap = {
+      0x20AC: 0x80,
+      0x201A: 0x82,
+      0x0192: 0x83,
+      0x201E: 0x84,
+      0x2026: 0x85,
+      0x2020: 0x86,
+      0x2021: 0x87,
+      0x02C6: 0x88,
+      0x2030: 0x89,
+      0x0160: 0x8A,
+      0x2039: 0x8B,
+      0x0152: 0x8C,
+      0x017D: 0x8E,
+      0x2018: 0x91,
+      0x2019: 0x92,
+      0x201C: 0x93,
+      0x201D: 0x94,
+      0x2022: 0x95,
+      0x2013: 0x96,
+      0x2014: 0x97,
+      0x02DC: 0x98,
+      0x2122: 0x99,
+      0x0161: 0x9A,
+      0x203A: 0x9B,
+      0x0153: 0x9C,
+      0x017E: 0x9E,
+      0x0178: 0x9F
+    };
+    var repairMojibakeText = function(value) {
+      var text = String(value || '');
+      if (!/[ÃÂâ]/.test(text)) {
+        return text;
+      }
+      try {
+        if (typeof TextDecoder === 'function') {
+          var bytes = [];
+          for (var i = 0; i < text.length; i += 1) {
+            var code = text.charCodeAt(i);
+            if (code <= 0xFF) {
+              bytes.push(code);
+            } else if (cp1252ReverseMap[code]) {
+              bytes.push(cp1252ReverseMap[code]);
+            } else {
+              return text;
+            }
+          }
+          var decoded = new TextDecoder('utf-8', { fatal: false }).decode(new Uint8Array(bytes));
+          if (decoded && !/[ÃÂâ]\uFFFD?/.test(decoded)) {
+            return decoded;
+          }
+        }
+      } catch (err) {}
+      return text
+        .replace(/\u00e2\u20ac\u2122/g, '\u2019')
+        .replace(/\u00e2\u20ac\u0153/g, '\u201c')
+        .replace(/\u00e2\u20ac\u009d/g, '\u201d')
+        .replace(/\u00e2\u20ac\u009d/g, '\u201d')
+        .replace(/\u00e2\u20ac\u201d/g, '\u2014')
+        .replace(/\u00e2\u20ac\u201c/g, '\u2013')
+        .replace(/\u00e2\u20ac\u00a6/g, '\u2026')
+        .replace(/\u00c3\u00bc/g, '\u00fc')
+        .replace(/\u00c3\u00b4/g, '\u00f4')
+        .replace(/\u00c3\u00a9/g, '\u00e9')
+        .replace(/\u00c3\u00a3/g, '\u00e3');
+    };
+    var normaliseMapItemText = function(item) {
+      if (!item || typeof item !== 'object') {
+        return item;
+      }
+      ['country', 'mapName', 'title', 'label', 'summary', 'displayLabel', 'displayTitle', 'displaySummary'].forEach(function(key) {
+        if (item[key]) {
+          item[key] = repairMojibakeText(item[key]);
+        }
+      });
+      return item;
+    };
+    var getItemLabel = function(item) {
+      return item && (item.displayLabel || item.label || item.country || item.mapName || itemTypeTitle);
+    };
+    var getItemTitle = function(item) {
+      return item && (item.displayTitle || item.title || item.displayLabel || item.label || item.country || itemTypeTitle);
+    };
+    var getItemSummary = function(item) {
+      return item && (item.displaySummary || item.summary || fallbackSummary);
+    };
+    var warmedPreviewImages = {};
+    var warmPreviewImage = function(item) {
+      var imageUrl = item && resolveSiteAssetUrl(item.image);
+      if (!imageUrl || warmedPreviewImages[imageUrl]) {
+        return;
+      }
+      warmedPreviewImages[imageUrl] = true;
+      var image = new Image();
+      image.decoding = 'async';
+      image.loading = 'eager';
+      image.src = imageUrl;
+    };
+    var preloadPreviewImages = function(items) {
+      if (!items || !items.length) {
+        return;
+      }
+      var limit = String(previewPreloadLimit || '').toLowerCase() === 'all'
+        ? items.length
+        : Math.max(0, parseInt(previewPreloadLimit, 10) || 0);
+      var queue = items.filter(function(item) { return item && item.image; }).slice(0, limit);
+      if (!queue.length) {
+        return;
+      }
+      var preloadNext = function() {
+        var started = 0;
+        while (queue.length && started < 4) {
+          warmPreviewImage(queue.shift());
+          started += 1;
+        }
+        if (!queue.length) {
+          return;
+        }
+        if (typeof window.requestIdleCallback === 'function') {
+          window.requestIdleCallback(preloadNext, { timeout: 1800 });
+        } else {
+          window.setTimeout(preloadNext, 140);
+        }
+      };
+      window.setTimeout(preloadNext, 450);
+    };
+
+    var inlineDataNode = root.querySelector('[data-interactive-map-data], [data-uap-world-map-data]');
+    var inlineSvg = canvas.querySelector('svg');
+    var countryAliases = {
+      UK: 'GB',
+      EL: 'GR'
+    };
+    var timezoneCountryRules = [
+      [/^Europe\/London$/i, 'GB'],
+      [/^Europe\/Dublin$/i, 'IE'],
+      [/^America\/(New_York|Detroit|Kentucky|Indiana|Chicago|North_Dakota|Denver|Boise|Phoenix|Los_Angeles|Anchorage|Adak|Honolulu)$/i, 'US'],
+      [/^America\/(Toronto|Vancouver|Edmonton|Winnipeg|Regina|Halifax|St_Johns|Moncton|Whitehorse|Yellowknife|Iqaluit)$/i, 'CA'],
+      [/^Australia\//i, 'AU'],
+      [/^Pacific\/(Auckland|Chatham)$/i, 'NZ'],
+      [/^Europe\/Paris$/i, 'FR'],
+      [/^Europe\/Berlin$/i, 'DE'],
+      [/^Europe\/Madrid$/i, 'ES'],
+      [/^Europe\/Rome$/i, 'IT'],
+      [/^Europe\/Amsterdam$/i, 'NL'],
+      [/^Europe\/Brussels$/i, 'BE'],
+      [/^Europe\/Zurich$/i, 'CH'],
+      [/^Europe\/Stockholm$/i, 'SE'],
+      [/^Europe\/Oslo$/i, 'NO'],
+      [/^Europe\/Copenhagen$/i, 'DK'],
+      [/^Europe\/Helsinki$/i, 'FI'],
+      [/^Europe\/Warsaw$/i, 'PL'],
+      [/^Europe\/Prague$/i, 'CZ'],
+      [/^Europe\/Vienna$/i, 'AT'],
+      [/^Europe\/Lisbon$/i, 'PT'],
+      [/^America\/Mexico_City$/i, 'MX'],
+      [/^America\/Sao_Paulo$/i, 'BR'],
+      [/^America\/Buenos_Aires$/i, 'AR'],
+      [/^America\/Santiago$/i, 'CL'],
+      [/^Asia\/(Tokyo)$/i, 'JP'],
+      [/^Asia\/(Seoul)$/i, 'KR'],
+      [/^Asia\/(Shanghai|Hong_Kong)$/i, 'CN'],
+      [/^Asia\/(Kolkata|Calcutta)$/i, 'IN'],
+      [/^Asia\/Singapore$/i, 'SG'],
+      [/^Asia\/Dubai$/i, 'AE'],
+      [/^Africa\/Johannesburg$/i, 'ZA'],
+      [/^Africa\/Lagos$/i, 'NG']
+    ];
+    var normaliseCountryIso = function(value) {
+      var iso = String(value || '').trim().toUpperCase().replace(/[^A-Z]/g, '');
+      if (countryAliases[iso]) {
+        iso = countryAliases[iso];
+      }
+      return iso.length === 2 ? iso : '';
+    };
+    var inferCountryFromTimezone = function(availableCountries) {
+      var timezone = '';
+      try {
+        timezone = String(Intl.DateTimeFormat().resolvedOptions().timeZone || '');
+      } catch (err) {}
+      if (!timezone) {
+        return '';
+      }
+      for (var i = 0; i < timezoneCountryRules.length; i += 1) {
+        var rule = timezoneCountryRules[i];
+        if (rule[0].test(timezone) && availableCountries[rule[1]]) {
+          return rule[1];
+        }
+      }
+      return '';
+    };
+    var inferCountryFromLocale = function(availableCountries) {
+      var languages = [];
+      try {
+        if (navigator.languages && navigator.languages.length) {
+          languages = Array.prototype.slice.call(navigator.languages);
+        } else if (navigator.language) {
+          languages = [navigator.language];
+        }
+      } catch (err) {}
+      for (var i = 0; i < languages.length; i += 1) {
+        var parts = String(languages[i] || '').replace(/_/g, '-').split('-');
+        if (parts.length < 2) {
+          continue;
+        }
+        var iso = normaliseCountryIso(parts[parts.length - 1]);
+        if (iso && availableCountries[iso]) {
+          return iso;
+        }
+      }
+      return '';
+    };
+    var guessVisitorCountryIso = function(availableCountries) {
+      return inferCountryFromTimezone(availableCountries) || inferCountryFromLocale(availableCountries) || '';
+    };
+    var dataPromise = inlineDataNode && inlineSvg
+      ? Promise.resolve([null, JSON.parse(inlineDataNode.textContent || '{}'), true])
+      : Promise.all([
+        loadText(mapSrc),
+        loadText(dataSrc).then(function(text) { return JSON.parse(text); }),
+        Promise.resolve(false)
+      ]);
+
+    dataPromise.then(function(results) {
+      var svgText = results[0];
+      var mapData = results[1] || {};
+      var isInline = !!results[2];
+      var byIso = {};
+      (mapData.items || mapData.countries || []).forEach(function(item) {
+        item = normaliseMapItemText(item);
+        var id = item && (item.id || item.iso);
+        if (id) {
+          byIso[String(id).toUpperCase()] = item;
+        }
+      });
+      preloadPreviewImages(Object.keys(byIso).map(function(iso) { return byIso[iso]; }));
+      if (!isInline) {
+        canvas.innerHTML = svgText;
+      }
+      var svg = canvas.querySelector('svg');
+      if (!svg) {
+        return;
+      }
+      root.addEventListener('click', function(event) {
+        event.stopPropagation();
+      });
+      svg.setAttribute('role', 'img');
+      svg.setAttribute('aria-label', mapLabel);
+      var zoomState = { scale: 1, x: 0, y: 0 };
+      var minZoom = 1;
+      var maxZoom = 6;
+      var panButtons = {};
+      var getPanLimits = function() {
+        var rect = canvas.getBoundingClientRect();
+        var width = rect.width || 0;
+        var height = rect.height || 0;
+        return {
+          maxX: Math.max(0, width * (zoomState.scale - 1)),
+          maxY: Math.max(0, height * (zoomState.scale - 1))
+        };
+      };
+      var setPanButtonState = function(direction, isAvailable) {
+        var button = panButtons[direction];
+        if (!button) {
+          return;
+        }
+        button.hidden = !isAvailable;
+        button.disabled = !isAvailable;
+        button.setAttribute('aria-hidden', isAvailable ? 'false' : 'true');
+      };
+      var updatePanControls = function() {
+        var limits = getPanLimits();
+        var isZoomed = zoomState.scale > 1.01;
+        var tolerance = 1;
+        setPanButtonState('left', isZoomed && zoomState.x < -tolerance);
+        setPanButtonState('right', isZoomed && zoomState.x > -limits.maxX + tolerance);
+        setPanButtonState('up', isZoomed && zoomState.y < -tolerance);
+        setPanButtonState('down', isZoomed && zoomState.y > -limits.maxY + tolerance);
+      };
+      var applyZoom = function() {
+        svg.style.transform = 'translate(' + zoomState.x + 'px, ' + zoomState.y + 'px) scale(' + zoomState.scale + ')';
+        svg.style.transformOrigin = '0 0';
+        root.setAttribute('data-interactive-map-zoom', zoomState.scale > 1.01 ? 'zoomed' : 'default');
+        root.setAttribute('data-uap-world-map-zoom', zoomState.scale > 1.01 ? 'zoomed' : 'default');
+        updatePanControls();
+      };
+      var clampPan = function() {
+        var limits = getPanLimits();
+        zoomState.x = Math.min(0, Math.max(-limits.maxX, zoomState.x));
+        zoomState.y = Math.min(0, Math.max(-limits.maxY, zoomState.y));
+      };
+      var setZoom = function(nextScale, originX, originY) {
+        var rect = canvas.getBoundingClientRect();
+        var oldScale = zoomState.scale;
+        var scale = Math.max(minZoom, Math.min(maxZoom, nextScale));
+        var localX = typeof originX === 'number' ? originX : rect.width / 2;
+        var localY = typeof originY === 'number' ? originY : rect.height / 2;
+        if (Math.abs(scale - oldScale) < 0.001) {
+          return;
+        }
+        zoomState.x = localX - ((localX - zoomState.x) * scale / oldScale);
+        zoomState.y = localY - ((localY - zoomState.y) * scale / oldScale);
+        zoomState.scale = scale;
+        clampPan();
+        applyZoom();
+      };
+      var resetZoom = function() {
+        zoomState = { scale: 1, x: 0, y: 0 };
+        applyZoom();
+      };
+      var panBy = function(deltaX, deltaY) {
+        if (zoomState.scale <= 1.01) {
+          return;
+        }
+        zoomState.x += deltaX;
+        zoomState.y += deltaY;
+        clampPan();
+        applyZoom();
+      };
+      var zoomToNode = function(node, nextScale) {
+        var canvasRect = canvas.getBoundingClientRect();
+        var nodeRect = node.getBoundingClientRect();
+        if (!canvasRect.width || !canvasRect.height || !nodeRect.width || !nodeRect.height) {
+          return;
+        }
+        var screenX = nodeRect.left - canvasRect.left + nodeRect.width / 2;
+        var screenY = nodeRect.top - canvasRect.top + nodeRect.height / 2;
+        var worldX = (screenX - zoomState.x) / zoomState.scale;
+        var worldY = (screenY - zoomState.y) / zoomState.scale;
+        zoomState.scale = Math.max(minZoom, Math.min(maxZoom, nextScale));
+        zoomState.x = canvasRect.width / 2 - worldX * zoomState.scale;
+        zoomState.y = canvasRect.height / 2 - worldY * zoomState.scale;
+        clampPan();
+        applyZoom();
+      };
+      var controls = document.createElement('div');
+      controls.className = 'interactive-map-controls uap-world-map-controls';
+      controls.setAttribute('aria-label', 'Map zoom controls');
+      controls.setAttribute('role', 'group');
+      var panControls = document.createElement('div');
+      panControls.className = 'interactive-map-pan-controls uap-world-map-pan-controls';
+      panControls.setAttribute('aria-label', 'Map pan controls');
+      panControls.setAttribute('role', 'group');
+      var makeZoomButton = function(label, ariaLabel, handler) {
+        var button = document.createElement('button');
+        button.type = 'button';
+        button.className = 'interactive-map-control uap-world-map-control';
+        button.textContent = label;
+        button.setAttribute('aria-label', ariaLabel);
+        button.addEventListener('click', function(event) {
+          event.preventDefault();
+          handler();
+        });
+        return button;
+      };
+      var makePanButton = function(direction, label, ariaLabel, handler) {
+        var button = makeZoomButton(label, ariaLabel, handler);
+        button.className += ' interactive-map-pan-control uap-world-map-pan-control interactive-map-pan-control-' + direction;
+        button.hidden = true;
+        button.disabled = true;
+        button.setAttribute('aria-hidden', 'true');
+        panButtons[direction] = button;
+        return button;
+      };
+      controls.appendChild(makeZoomButton('+', 'Zoom in', function() { setZoom(zoomState.scale * 1.35); }));
+      controls.appendChild(makeZoomButton('-', 'Zoom out', function() { setZoom(zoomState.scale / 1.35); }));
+      controls.appendChild(makeZoomButton('Reset', 'Reset map zoom', resetZoom));
+      panControls.appendChild(makePanButton('left', '\u2190', 'Move map view left', function() {
+        panBy(Math.max(80, canvas.getBoundingClientRect().width * 0.18), 0);
+      }));
+      panControls.appendChild(makePanButton('up', '\u2191', 'Move map view up', function() {
+        panBy(0, Math.max(70, canvas.getBoundingClientRect().height * 0.18));
+      }));
+      panControls.appendChild(makePanButton('down', '\u2193', 'Move map view down', function() {
+        panBy(0, -Math.max(70, canvas.getBoundingClientRect().height * 0.18));
+      }));
+      panControls.appendChild(makePanButton('right', '\u2192', 'Move map view right', function() {
+        panBy(-Math.max(80, canvas.getBoundingClientRect().width * 0.18), 0);
+      }));
+      canvas.appendChild(controls);
+      canvas.appendChild(panControls);
+      canvas.addEventListener('wheel', function(event) {
+        event.preventDefault();
+        var rect = canvas.getBoundingClientRect();
+        var factor = event.deltaY < 0 ? 1.18 : 1 / 1.18;
+        setZoom(zoomState.scale * factor, event.clientX - rect.left, event.clientY - rect.top);
+      }, { passive: false });
+      var dragState = null;
+      var lastPointerCountryIso = '';
+      var lastPointerMoved = false;
+      var navigateToItem = function(item) {
+        if (item && item.url) {
+          window.location.href = resolveSiteAssetUrl(item.url);
+        }
+      };
+      canvas.addEventListener('pointerdown', function(event) {
+        if (event.target && event.target.closest && event.target.closest('.interactive-map-controls, .uap-world-map-controls, .interactive-map-pan-controls, .uap-world-map-pan-controls')) {
+          return;
+        }
+        lastPointerMoved = false;
+        lastPointerCountryIso = '';
+        if (event.target && event.target.closest) {
+          var countryTarget = event.target.closest('[data-interactive-map-item], [data-uap-country]');
+          if (countryTarget) {
+            lastPointerCountryIso = String(countryTarget.getAttribute('data-interactive-map-item') || countryTarget.getAttribute('data-uap-country') || '').toUpperCase();
+          }
+        }
+        if (zoomState.scale <= 1.01) {
+          return;
+        }
+        dragState = {
+          pointerId: event.pointerId,
+          startX: event.clientX,
+          startY: event.clientY,
+          originX: zoomState.x,
+          originY: zoomState.y
+        };
+        canvas.setPointerCapture(event.pointerId);
+        canvas.classList.add('is-panning');
+      });
+      canvas.addEventListener('pointermove', function(event) {
+        if (!dragState || dragState.pointerId !== event.pointerId) {
+          return;
+        }
+        if (Math.abs(event.clientX - dragState.startX) > 5 || Math.abs(event.clientY - dragState.startY) > 5) {
+          lastPointerMoved = true;
+        }
+        zoomState.x = dragState.originX + event.clientX - dragState.startX;
+        zoomState.y = dragState.originY + event.clientY - dragState.startY;
+        clampPan();
+        applyZoom();
+      });
+      var endPan = function(event) {
+        if (!dragState || dragState.pointerId !== event.pointerId) {
+          return;
+        }
+        dragState = null;
+        canvas.classList.remove('is-panning');
+      };
+      canvas.addEventListener('pointerup', endPan);
+      canvas.addEventListener('pointercancel', endPan);
+      canvas.addEventListener('click', function(event) {
+        event.preventDefault();
+        event.stopPropagation();
+        if (lastPointerMoved) {
+          lastPointerMoved = false;
+          lastPointerCountryIso = '';
+          return;
+        }
+        var countryNode = event.target && event.target.closest ? event.target.closest('[data-interactive-map-item], [data-uap-country]') : null;
+        var iso = countryNode
+          ? String(countryNode.getAttribute('data-interactive-map-item') || countryNode.getAttribute('data-uap-country') || '').toUpperCase()
+          : lastPointerCountryIso;
+        lastPointerCountryIso = '';
+        if (iso && byIso[iso]) {
+          navigateToItem(byIso[iso]);
+        }
+      });
+      applyZoom();
+      var active = null;
+      var activeItem = null;
+      var updatePreview = function(item) {
+        if (!item || !preview) {
+          return;
+        }
+        preview.setAttribute('tabindex', item.url ? '0' : '-1');
+        preview.setAttribute('role', item.url ? 'link' : 'group');
+        preview.setAttribute('aria-label', item.url ? 'Open ' + getItemLabel(item) : itemTypeTitle + ' preview');
+        var imageUrl = resolveSiteAssetUrl(item.image);
+        warmPreviewImage(item);
+        var imageHtml = imageUrl ? '<img src="' + escapeHtml(imageUrl) + '" alt="" loading="eager" decoding="async" fetchpriority="high">' : '';
+        preview.innerHTML = imageHtml + '<span class="interactive-map-preview-kicker uap-world-map-preview-kicker">' + escapeHtml(getItemLabel(item)) + '</span><strong data-interactive-map-preview-title data-uap-world-map-preview-title>' + escapeHtml(getItemTitle(item)) + '</strong><span data-interactive-map-preview-summary data-uap-world-map-preview-summary>' + escapeHtml(getItemSummary(item)) + '</span>';
+      };
+      var clearActive = function() {
+        if (active) {
+          active.classList.remove('is-hovered');
+          active = null;
+        }
+      };
+      if (preview) {
+        preview.addEventListener('click', function(event) {
+          event.preventDefault();
+          event.stopPropagation();
+          navigateToItem(activeItem);
+        });
+        preview.addEventListener('keydown', function(event) {
+          if (event.key === 'Enter' || event.key === ' ') {
+            event.preventDefault();
+            event.stopPropagation();
+            navigateToItem(activeItem);
+          }
+        });
+      }
+      var focusCountry = function(node, item, options) {
+        clearActive();
+        active = node;
+        activeItem = item;
+        node.classList.add('is-hovered');
+        updatePreview(item);
+        if (options && options.zoom) {
+          zoomToNode(node, options.scale || 2.7);
+        }
+      };
+      var guessedIso = guessVisitorCountryIso(byIso);
+      var guessedNode = null;
+      Object.keys(byIso).forEach(function(iso) {
+        var node = svg.getElementById ? svg.getElementById(iso) : svg.querySelector('#' + iso);
+        var item = byIso[iso];
+        if (!node || !item) {
+          return;
+        }
+        if (iso === guessedIso) {
+          guessedNode = node;
+        }
+        node.classList.add('is-linked');
+        node.setAttribute('data-uap-country', iso);
+        node.setAttribute('data-interactive-map-item', iso);
+        node.setAttribute('tabindex', '0');
+        node.setAttribute('role', 'link');
+        node.setAttribute('aria-label', 'Open ' + getItemLabel(item));
+        node.addEventListener('mouseenter', function() { focusCountry(node, item); });
+        node.addEventListener('focus', function() { focusCountry(node, item); });
+        node.addEventListener('click', function(event) {
+          event.preventDefault();
+          event.stopPropagation();
+          navigateToItem(item);
+        });
+        node.addEventListener('keydown', function(event) {
+          if ((event.key === 'Enter' || event.key === ' ') && item.url) {
+            event.preventDefault();
+            event.stopPropagation();
+            navigateToItem(item);
+          }
+        });
+      });
+      if (guessedIso && guessedNode) {
+        window.setTimeout(function() {
+          if (!active) {
+            focusCountry(guessedNode, byIso[guessedIso], { zoom: true });
+          }
+        }, 160);
+      }
+    }).catch(function() {
+      canvas.textContent = 'Map unavailable.';
+    });
+    });
+  }
+
   function init() {
     initContentPageScrollReset();
     initScrollAnimations();
@@ -8742,6 +9213,7 @@
     initHomeResponsiveDisclosures();
     initHomeModeSwitcher();
     initHomeVerticalView();
+    initUapWorldMap();
     initHomeFilter();
     initHomeCardNavigation();
     initHierarchyGraphs();
