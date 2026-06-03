@@ -15720,7 +15720,7 @@ a.fr-book-fit:focus-visible {
 }
 
 :where(.interactive-map-canvas, .uap-world-map-canvas)::after {
-  content: "Hover a highlighted country";
+  content: "Click on a highlighted country";
   position: absolute;
   right: 0.85rem;
   bottom: 0.75rem;
@@ -15788,6 +15788,7 @@ a.fr-book-fit:focus-visible {
 
 :where(.interactive-map-canvas, .uap-world-map-canvas) :where([data-interactive-map-item], [data-uap-country]).is-hovered,
 :where(.interactive-map-canvas, .uap-world-map-canvas) :where([data-interactive-map-item], [data-uap-country]):focus {
+  fill: #ff4d3d !important;
   stroke: rgba(255, 245, 218, 0.98) !important;
   stroke-width: 1.9;
   filter: drop-shadow(0 0 8px rgba(242, 166, 74, 0.88)) drop-shadow(0 10px 16px rgba(14, 35, 55, 0.3));
@@ -15856,6 +15857,11 @@ a.fr-book-fit:focus-visible {
   border-color: rgba(126, 210, 223, 0.22);
   background: linear-gradient(180deg, rgba(15, 30, 49, 0.84), rgba(8, 21, 36, 0.74));
   box-shadow: 0 18px 42px rgba(0, 0, 0, 0.28), inset 0 1px 0 rgba(255, 255, 255, 0.08);
+}
+
+:root[data-theme="dark"] :where(.interactive-map-canvas, .uap-world-map-canvas) :where([data-interactive-map-item], [data-uap-country]).is-hovered,
+:root[data-theme="dark"] :where(.interactive-map-canvas, .uap-world-map-canvas) :where([data-interactive-map-item], [data-uap-country]):focus {
+  fill: #ffd166 !important;
 }
 
 @media (max-width: 860px) {
