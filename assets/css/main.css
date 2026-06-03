@@ -15889,3 +15889,8 @@ a.fr-book-fit:focus-visible {
     max-height: none;
   }
 }
+
+/* Contents page keeps the country list but not the empty cluster root card. */
+.page-contents-home .home-cluster-root-card {
+  display: none;
+}
