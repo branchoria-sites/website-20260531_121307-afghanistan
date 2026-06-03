@@ -533,7 +533,7 @@
   }
 
   var liveSearchRenderDelayMs = 180;
-  var searchPageResultRenderLimit = 80;
+  var searchPageResultRenderLimit = 60;
 
   function createSearchRenderScheduler(renderNow, options) {
     var settings = options || {};
@@ -1400,6 +1400,11 @@
     return total;
   }
 
+  function getSearchHitCountBoost(hitCount) {
+    var cappedHitCount = Math.min(10, Math.max(0, Number(hitCount || 0) || 0));
+    return cappedHitCount * 2;
+  }
+
   function getSiteSearchExcerpt(page, query) {
     var fallback = page && (page.description || page.text || page.breadcrumb || "") || "";
     var text = collapseSearchText((page && (page.description || page.text)) || "");
@@ -1516,15 +1521,23 @@
   function rankSearchRecords(source, query, mode) {
     var searchMode = mode === "page" ? "page" : "all";
     return (source || []).map(function (record) {
+      var hitCount = searchMode === "page" ? 0 : countSearchPageHits(record, query);
+      var score = searchMode === "page" ? scoreCurrentPageSection(record, query) : scoreSiteSearchPage(record, query);
       return {
         page: record,
-        score: searchMode === "page" ? scoreCurrentPageSection(record, query) : scoreSiteSearchPage(record, query),
-        hitCount: searchMode === "page" ? 0 : countSearchPageHits(record, query)
+        score: score > 0 ? score + getSearchHitCountBoost(hitCount) : score,
+        hitCount: hitCount
       };
     }).filter(function (record) {
       return record.score > 0;
     }).sort(function (left, right) {
-      return right.score - left.score;
+      if (right.score !== left.score) {
+        return right.score - left.score;
+      }
+      if (right.hitCount !== left.hitCount) {
+        return right.hitCount - left.hitCount;
+      }
+      return String(left.page && left.page.title || "").localeCompare(String(right.page && right.page.title || ""));
     });
   }
 
@@ -2015,7 +2028,9 @@
     }
     var preparedPages = prepareSiteSearchPages();
     var preparedPagesIsFallback = !isSiteSearchIndexLoaded();
-    var searchPageResultRenderLimit = 80;
+    var latestSearchPageQuery = "";
+    var latestSearchPageRanked = [];
+    var visibleSearchPageResultLimit = searchPageResultRenderLimit;
 
     var setUrlQuery = function (query) {
       if (!window.history || typeof window.history.replaceState !== "function") {
@@ -2029,6 +2044,19 @@
       }
     };
 
+    var renderSearchPageResultBatch = function (ranked, query) {
+      var visibleLimit = Math.min(visibleSearchPageResultLimit, ranked.length);
+      status.setAttribute("data-state", "active");
+      status.textContent = ranked.length > visibleLimit
+        ? "Showing first " + String(visibleLimit) + " of " + String(ranked.length) + "."
+        : "Showing " + String(ranked.length) + " of " + String(ranked.length) + ".";
+      results.innerHTML = ranked.slice(0, visibleLimit).map(function (record) {
+        return renderSiteSearchResultRecord(record.page, query, "all", record.hitCount);
+      }).join("") + (ranked.length > visibleLimit
+        ? '<button class="site-search-more-button" type="button" data-search-page-show-more>Show more</button>'
+        : "");
+    };
+
     var renderSearchPageResults = function (options) {
       var settings = options || {};
       var query = String(input.value || "").trim();
@@ -2038,30 +2066,30 @@
       if (!query) {
         status.setAttribute("data-state", "default");
         status.textContent = getUiString("search-empty-hint", "Type to search every page on this site.");
-        results.innerHTML = '<p class="site-search-empty">' + escapeHtml(getUiString("search-empty-hint", "Type to search every page on this site.")) + "</p>";
+        results.innerHTML = "";
+        latestSearchPageQuery = "";
+        latestSearchPageRanked = [];
+        visibleSearchPageResultLimit = searchPageResultRenderLimit;
         return;
       }
 
+      if (query !== latestSearchPageQuery) {
+        visibleSearchPageResultLimit = searchPageResultRenderLimit;
+      }
       var ranked = rankSearchRecords(preparedPages, query, "all");
+      latestSearchPageQuery = query;
+      latestSearchPageRanked = ranked;
 
       if (!ranked.length) {
         var emptyResult = getUiString("no-search-results", "No pages match this search.");
         status.setAttribute("data-state", "empty");
         status.textContent = emptyResult;
         results.innerHTML = '<p class="site-search-empty">' + escapeHtml(emptyResult) + "</p>";
+        visibleSearchPageResultLimit = searchPageResultRenderLimit;
         return;
       }
 
-      status.setAttribute("data-state", "active");
-      status.textContent = formatUiString("search-results-count-template", "{count} results", {
-        count: String(ranked.length)
-      });
-      if (ranked.length > searchPageResultRenderLimit) {
-        status.textContent += " - showing first " + String(searchPageResultRenderLimit) + ".";
-      }
-      results.innerHTML = ranked.slice(0, searchPageResultRenderLimit).map(function (record) {
-        return renderSiteSearchResultRecord(record.page, query, "all", record.hitCount);
-      }).join("");
+      renderSearchPageResultBatch(ranked, query);
     };
 
     var scheduledSearchPageResults = createSearchRenderScheduler(renderSearchPageResults, {
@@ -2107,6 +2135,17 @@
 
     input.addEventListener("input", function () {
       scheduledSearchPageResults.schedule({ syncUrl: true });
+    });
+    results.addEventListener("click", function (event) {
+      var button = event.target && event.target.closest ? event.target.closest("[data-search-page-show-more]") : null;
+      if (!button || !results.contains(button) || !latestSearchPageRanked.length) {
+        return;
+      }
+      visibleSearchPageResultLimit = Math.min(
+        latestSearchPageRanked.length,
+        visibleSearchPageResultLimit + searchPageResultRenderLimit
+      );
+      renderSearchPageResultBatch(latestSearchPageRanked, latestSearchPageQuery);
     });
     if (form) {
       form.addEventListener("submit", function (event) {
@@ -8893,6 +8932,48 @@
     var getItemSummary = function(item) {
       return item && (item.displaySummary || item.summary || fallbackSummary);
     };
+    var getItemCode = function(item) {
+      return item && (item.displayCode || item.code || item.iso || item.id || '');
+    };
+    var getItemRegionLabel = function(item) {
+      if (!item) {
+        return '';
+      }
+      return item.displayRegion || item.regionLabel || item.region || item.subregion || '';
+    };
+    var getItemCountLabel = function(item) {
+      if (!item) {
+        return '';
+      }
+      var rawCount = item.displayCount || item.countLabel || item.pageCount || item.count || item.pages || item.total;
+      if (rawCount === null || typeof rawCount === 'undefined' || rawCount === '') {
+        return '';
+      }
+      if (typeof rawCount === 'string' && /\D/.test(rawCount)) {
+        return rawCount;
+      }
+      var count = Number(rawCount);
+      if (!isFinite(count) || count < 1) {
+        return '';
+      }
+      return String(count) + (count === 1 ? ' page' : ' pages');
+    };
+    var getPreviewMetaHtml = function(item) {
+      var chips = [];
+      var code = String(getItemCode(item) || '').trim();
+      var region = String(getItemRegionLabel(item) || '').trim();
+      var count = String(getItemCountLabel(item) || '').trim();
+      if (code) {
+        chips.push('<span class="interactive-map-preview-chip uap-world-map-preview-chip">' + escapeHtml(code) + '</span>');
+      }
+      if (region) {
+        chips.push('<span class="interactive-map-preview-chip uap-world-map-preview-chip">' + escapeHtml(region) + '</span>');
+      }
+      if (count) {
+        chips.push('<span class="interactive-map-preview-count uap-world-map-preview-count">' + escapeHtml(count) + '</span>');
+      }
+      return chips.length ? '<span class="interactive-map-preview-meta uap-world-map-preview-meta">' + chips.join('') + '</span>' : '';
+    };
     var warmedPreviewImages = {};
     var warmPreviewImage = function(item) {
       var imageUrl = item && resolveSiteAssetUrl(item.image);
@@ -9274,11 +9355,16 @@
         }
         preview.setAttribute('tabindex', item.url ? '0' : '-1');
         preview.setAttribute('role', item.url ? 'link' : 'group');
-        preview.setAttribute('aria-label', item.url ? 'Open ' + getItemLabel(item) : itemTypeTitle + ' preview');
+        preview.setAttribute('aria-label', item.url ? 'Open file for ' + getItemLabel(item) : itemTypeTitle + ' preview');
         var imageUrl = resolveSiteAssetUrl(item.image);
         warmPreviewImage(item);
         var imageHtml = imageUrl ? '<img src="' + escapeHtml(imageUrl) + '" alt="" loading="eager" decoding="async" fetchpriority="high">' : '';
-        preview.innerHTML = imageHtml + '<span class="interactive-map-preview-kicker uap-world-map-preview-kicker">' + escapeHtml(getItemLabel(item)) + '</span><strong data-interactive-map-preview-title data-uap-world-map-preview-title>' + escapeHtml(getItemTitle(item)) + '</strong><span data-interactive-map-preview-summary data-uap-world-map-preview-summary>' + escapeHtml(getItemSummary(item)) + '</span>';
+        preview.innerHTML = imageHtml
+          + getPreviewMetaHtml(item)
+          + '<span class="interactive-map-preview-kicker uap-world-map-preview-kicker">' + escapeHtml(getItemLabel(item)) + '</span>'
+          + '<strong data-interactive-map-preview-title data-uap-world-map-preview-title>' + escapeHtml(getItemTitle(item)) + '</strong>'
+          + '<span data-interactive-map-preview-summary data-uap-world-map-preview-summary>' + escapeHtml(getItemSummary(item)) + '</span>'
+          + (item.url ? '<span class="interactive-map-preview-cta uap-world-map-preview-cta">Open file</span>' : '');
       };
       var clearActive = function() {
         if (active) {
