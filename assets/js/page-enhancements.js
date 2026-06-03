@@ -495,29 +495,25 @@
     return normalized ? normalized.split(/\s+/).filter(Boolean) : [];
   }
 
-  function matchesSearchQuery(query, haystack) {
-    var normalizedQuery = normalizeSearchText(query);
+  function matchesNormalizedSearchQuery(normalizedQuery, normalizedHaystack, haystackTokens) {
     if (!normalizedQuery) {
       return true;
     }
-
-    var normalizedHaystack = normalizeSearchText(haystack);
     if (!normalizedHaystack) {
       return false;
     }
-
     if (normalizedHaystack.indexOf(normalizedQuery) !== -1) {
       return true;
     }
 
     var queryTokens = getSearchTokens(normalizedQuery);
-    var haystackTokens = getSearchTokens(normalizedHaystack);
-    if (!queryTokens.length || !haystackTokens.length) {
+    var targetTokens = haystackTokens && haystackTokens.length ? haystackTokens : getSearchTokens(normalizedHaystack);
+    if (!queryTokens.length || !targetTokens.length) {
       return false;
     }
 
     return queryTokens.every(function (queryToken) {
-      return haystackTokens.some(function (haystackToken) {
+      return targetTokens.some(function (haystackToken) {
         if (haystackToken === queryToken || haystackToken.indexOf(queryToken) === 0) {
           return true;
         }
@@ -530,6 +526,46 @@
         return false;
       });
     });
+  }
+
+  function matchesSearchQuery(query, haystack) {
+    return matchesNormalizedSearchQuery(normalizeSearchText(query), normalizeSearchText(haystack), null);
+  }
+
+  var liveSearchRenderDelayMs = 180;
+  var searchPageResultRenderLimit = 80;
+
+  function createSearchRenderScheduler(renderNow, options) {
+    var settings = options || {};
+    var delayMs = Number(settings.delayMs || liveSearchRenderDelayMs) || liveSearchRenderDelayMs;
+    var pendingTimer = 0;
+    var cancel = function () {
+      if (pendingTimer) {
+        window.clearTimeout(pendingTimer);
+        pendingTimer = 0;
+      }
+    };
+    return {
+      schedule: function (renderOptions) {
+        cancel();
+        if (settings.shouldRenderImmediately && settings.shouldRenderImmediately(renderOptions)) {
+          renderNow(renderOptions || {});
+          return;
+        }
+        if (settings.onPending) {
+          settings.onPending(renderOptions || {});
+        }
+        pendingTimer = window.setTimeout(function () {
+          pendingTimer = 0;
+          renderNow(settings.getDelayedOptions ? settings.getDelayedOptions(renderOptions || {}) : (renderOptions || {}));
+        }, delayMs);
+      },
+      flush: function (renderOptions) {
+        cancel();
+        renderNow(renderOptions || {});
+      },
+      cancel: cancel
+    };
   }
 
   function initSidebarFilterForNav(nav) {
@@ -588,7 +624,7 @@
         ? (getUiString("search-this-page", "Search this page") + "...")
         : getUiString("search-site-placeholder", "Search title, summary, or page text..."));
     };
-    var renderSidebarSearchResult = function (record, query, mode) {
+    var renderSidebarSearchResult = function (record, query, mode, hitCount) {
       var href = buildUrlWithSearchHighlight(record.url || "#", query);
       var title = mode === "page" ? (record.sectionTitle || getUiString("overview", "Overview")) : record.title;
       var kicker = mode === "page"
@@ -597,10 +633,15 @@
       var snippetSource = mode === "page"
         ? [record.sectionTitle, record.text].filter(Boolean).join(" ")
         : [record.title, record.description, record.text, record.breadcrumb].filter(Boolean).join(" ");
+      var numericHitCount = Math.max(0, Number(hitCount || 0) || 0);
+      var hitCountPill = mode !== "page" && numericHitCount > 0
+        ? '<span class="sidebar-filter-result-hit-count">' + escapeHtml(numericHitCount === 1 ? "1 hit" : String(numericHitCount) + " hits") + "</span>"
+        : "";
       return ''
         + '<a class="sidebar-filter-result-item" href="' + escapeHtml(href) + '">'
         + '<span class="sidebar-filter-result-kicker">' + escapeHtml(kicker || getUiString("overview", "Overview")) + "</span>"
         + '<span class="sidebar-filter-result-title">' + escapeHtml(title || getUiString("overview", "Overview")) + "</span>"
+        + hitCountPill
         + '<span class="sidebar-filter-result-excerpt">' + buildHighlightedSnippet(snippetSource, query, 140) + "</span>"
         + "</a>";
     };
@@ -622,7 +663,7 @@
         return;
       }
       resultsContainer.innerHTML = ranked.slice(0, 8).map(function (item) {
-        return renderSidebarSearchResult(item.page, query, activeSearchMode);
+        return renderSidebarSearchResult(item.page, query, activeSearchMode, item.hitCount);
       }).join("");
     };
     var applyFilter = function () {
@@ -659,16 +700,7 @@
         currentPageSections = getCurrentPageSearchSections();
       }
       var source = activeSearchMode === "page" ? currentPageSections : preparedPages;
-      var ranked = source.map(function (record) {
-        return {
-          page: record,
-          score: activeSearchMode === "page" ? scoreCurrentPageSection(record, query) : scoreSiteSearchPage(record, query)
-        };
-      }).filter(function (item) {
-        return item.score > 0;
-      }).sort(function (left, right) {
-        return right.score - left.score;
-      });
+      var ranked = rankSearchRecords(source, query, activeSearchMode);
       latestRanked = ranked;
       renderResults(ranked, query);
       if (status) {
@@ -688,16 +720,30 @@
         clearButton.hidden = false;
       }
     };
+    var scheduledApplyFilter = createSearchRenderScheduler(applyFilter, {
+      shouldRenderImmediately: function () {
+        return !String(input.value || "").trim();
+      },
+      onPending: function () {
+        if (status && String(input.value || "").trim()) {
+          status.setAttribute("data-state", "active");
+          status.textContent = "Searching...";
+        }
+      }
+    });
     input.addEventListener("focus", function () {
       if (activeSearchMode !== "page" && !isSiteSearchIndexLoaded()) {
         refreshAllPageResultsAfterIndexLoad(input.value);
       }
     });
-    input.addEventListener("input", applyFilter);
+    input.addEventListener("input", function () {
+      scheduledApplyFilter.schedule();
+    });
     input.addEventListener("keydown", function (event) {
       var key = String(event.key || "");
       if (key === "Enter" && String(input.value || "").trim()) {
         event.preventDefault();
+        scheduledApplyFilter.flush();
         if (activeSearchMode === "page" && latestRanked.length) {
           window.location.href = buildUrlWithSearchHighlight(latestRanked[0].page.url || window.location.href, input.value);
         } else {
@@ -707,14 +753,14 @@
       }
       if (key === "Escape" && String(input.value || "").trim()) {
         input.value = "";
-        applyFilter();
+        scheduledApplyFilter.flush();
         input.focus();
       }
     });
     if (clearButton) {
       clearButton.addEventListener("click", function () {
         input.value = "";
-        applyFilter();
+        scheduledApplyFilter.flush();
         input.focus();
       });
     }
@@ -728,7 +774,7 @@
         if (activeSearchMode !== "page" && !isSiteSearchIndexLoaded()) {
           refreshAllPageResultsAfterIndexLoad(input.value);
         }
-        applyFilter();
+        scheduledApplyFilter.flush();
         input.focus();
       });
     }
@@ -1234,6 +1280,8 @@
       var description = trimSearchText(page.description || page.summary || page.hero_summary || "", 260);
       var breadcrumb = collapseSearchText(page.breadcrumb || page.section || page.parent_title || "");
       var text = collapseSearchText(page.text || page.search_text || page.body || "");
+      var searchBlob = collapseSearchText([title, breadcrumb, description, text].join(" "));
+      var normalizedSearchBlob = normalizeSearchText(searchBlob);
       prepared.push({
         title: title,
         url: url,
@@ -1242,7 +1290,13 @@
         text: text,
         level: Number(page.level || 0) || 0,
         _index: index,
-        _searchBlob: collapseSearchText([title, breadcrumb, description, text].join(" "))
+        _searchBlob: searchBlob,
+        _searchBlobNormalized: normalizedSearchBlob,
+        _searchTokens: normalizedSearchBlob ? normalizedSearchBlob.split(/\s+/).filter(Boolean) : [],
+        _searchTitle: normalizeSearchText(title),
+        _searchDescription: normalizeSearchText(description),
+        _searchBreadcrumb: normalizeSearchText(breadcrumb),
+        _searchText: normalizeSearchText(text)
       });
     });
     return prepared;
@@ -1256,13 +1310,13 @@
     if (!normalizedQuery) {
       return Math.max(1, 20 - Math.max(0, Number(page.level || 0))) - (page._index || 0) / 1000;
     }
-    if (!matchesSearchQuery(normalizedQuery, page._searchBlob || "")) {
+    if (!matchesNormalizedSearchQuery(normalizedQuery, page._searchBlobNormalized || normalizeSearchText(page._searchBlob || ""), page._searchTokens)) {
       return 0;
     }
-    var title = normalizeSearchText(page.title);
-    var description = normalizeSearchText(page.description);
-    var breadcrumb = normalizeSearchText(page.breadcrumb);
-    var body = normalizeSearchText(page.text);
+    var title = page._searchTitle || normalizeSearchText(page.title);
+    var description = page._searchDescription || normalizeSearchText(page.description);
+    var breadcrumb = page._searchBreadcrumb || normalizeSearchText(page.breadcrumb);
+    var body = page._searchText || normalizeSearchText(page.text);
     var score = 1;
     if (title === normalizedQuery) {
       score += 100;
@@ -1298,6 +1352,52 @@
     score += Math.max(0, 8 - Math.max(0, Number(page.level || 0)));
     score -= (page._index || 0) / 10000;
     return score;
+  }
+
+  function countSearchPageHits(page, query) {
+    if (!page) {
+      return 0;
+    }
+    var normalizedQuery = normalizeSearchText(query);
+    if (!normalizedQuery) {
+      return 0;
+    }
+    var normalizedBlob = page._searchBlobNormalized || normalizeSearchText(page._searchBlob || "");
+    if (!normalizedBlob) {
+      return 0;
+    }
+    var tokens = getSearchTokens(normalizedQuery);
+    if (!tokens.length) {
+      return 0;
+    }
+    if (tokens.length > 1 && normalizedBlob.indexOf(normalizedQuery) !== -1) {
+      var phraseCount = 0;
+      var searchFrom = 0;
+      var phraseIndex = normalizedBlob.indexOf(normalizedQuery, searchFrom);
+      while (phraseIndex !== -1) {
+        phraseCount += 1;
+        searchFrom = phraseIndex + normalizedQuery.length;
+        phraseIndex = normalizedBlob.indexOf(normalizedQuery, searchFrom);
+      }
+      return phraseCount;
+    }
+    var searchTokens = page._searchTokens && page._searchTokens.length
+      ? page._searchTokens
+      : normalizedBlob.split(/\s+/).filter(Boolean);
+    var seenQueryTokens = Object.create(null);
+    var total = 0;
+    Array.prototype.forEach.call(tokens, function (queryToken) {
+      if (!queryToken || seenQueryTokens[queryToken]) {
+        return;
+      }
+      seenQueryTokens[queryToken] = true;
+      Array.prototype.forEach.call(searchTokens, function (searchToken) {
+        if (searchToken === queryToken) {
+          total += 1;
+        }
+      });
+    });
+    return total;
   }
 
   function getSiteSearchExcerpt(page, query) {
@@ -1413,7 +1513,22 @@
     return score;
   }
 
-  function renderSiteSearchResultRecord(record, query, mode) {
+  function rankSearchRecords(source, query, mode) {
+    var searchMode = mode === "page" ? "page" : "all";
+    return (source || []).map(function (record) {
+      return {
+        page: record,
+        score: searchMode === "page" ? scoreCurrentPageSection(record, query) : scoreSiteSearchPage(record, query),
+        hitCount: searchMode === "page" ? 0 : countSearchPageHits(record, query)
+      };
+    }).filter(function (record) {
+      return record.score > 0;
+    }).sort(function (left, right) {
+      return right.score - left.score;
+    });
+  }
+
+  function renderSiteSearchResultRecord(record, query, mode, hitCount) {
     var href = buildUrlWithSearchHighlight(record.url || "#", query);
     var title = mode === "page" ? (record.sectionTitle || getUiString("overview", "Overview")) : record.title;
     var kicker = mode === "page"
@@ -1422,11 +1537,19 @@
     var snippetSource = mode === "page"
       ? [record.sectionTitle, record.text].filter(Boolean).join(" ")
       : [record.title, record.description, record.text, record.breadcrumb].filter(Boolean).join(" ");
+    var numericHitCount = Math.max(0, Number(hitCount || 0) || 0);
+    var hitLabel = numericHitCount === 1 ? "1 hit" : String(numericHitCount) + " hits";
+    var hitCountPill = numericHitCount > 0
+      ? '<span class="site-search-result-hit-count">' + escapeHtml(hitLabel) + "</span>"
+      : "";
     return ""
       + '<a class="site-search-result" href="' + escapeHtml(href) + '">'
       + '<span class="site-search-result-kicker">' + escapeHtml(kicker || getUiString("overview", "Overview")) + "</span>"
       + '<span class="site-search-result-title">' + escapeHtml(title || getUiString("overview", "Overview")) + "</span>"
+      + '<span class="site-search-result-meta-row">'
       + '<span class="site-search-result-meta">' + escapeHtml(getSearchMatchKind(record, query)) + "</span>"
+      + hitCountPill
+      + "</span>"
       + '<span class="site-search-result-excerpt">' + buildHighlightedSnippet(snippetSource, query, 230) + "</span>"
       + "</a>";
   }
@@ -1573,7 +1696,11 @@
         preparedPages = null;
         preparedPagesIsFallback = false;
         if (activeSearchMode !== "page" && (!input || String(input.value || "").trim() === String(queryAtRequestTime || "").trim())) {
-          renderResults();
+          if (scheduledRenderResults) {
+            scheduledRenderResults.flush();
+          } else {
+            renderResults();
+          }
         }
       }).catch(function () {
         // Search remains usable with local fallback records if the full index cannot be fetched.
@@ -1627,12 +1754,7 @@
         return;
       }
       var source = activeSearchMode === "page" ? currentPageSections : preparedPages;
-      var ranked = source.map(function (record) {
-        return {
-          page: record,
-          score: activeSearchMode === "page" ? scoreCurrentPageSection(record, query) : scoreSiteSearchPage(record, query)
-        };
-      }).filter(function (record) { return record.score > 0; }).sort(function (left, right) { return right.score - left.score; });
+      var ranked = rankSearchRecords(source, query, activeSearchMode);
 
       if (!ranked.length) {
         var emptyResult = activeSearchMode === "page"
@@ -1647,9 +1769,20 @@
         count: String(ranked.length)
       });
       results.innerHTML = ranked.slice(0, 24).map(function (record) {
-        return renderSiteSearchResultRecord(record.page, query, activeSearchMode === "page" ? "page" : "all");
+        return renderSiteSearchResultRecord(record.page, query, activeSearchMode === "page" ? "page" : "all", record.hitCount);
       }).join("");
     };
+
+    var scheduledRenderResults = createSearchRenderScheduler(renderResults, {
+      shouldRenderImmediately: function () {
+        return !input || !String(input.value || "").trim();
+      },
+      onPending: function () {
+        if (status && String(input.value || "").trim()) {
+          status.textContent = "Searching...";
+        }
+      }
+    });
 
     var closeSearch = function () {
       if (!overlay || overlay.hidden) {
@@ -1772,16 +1905,20 @@
       if (form) {
         form.addEventListener("submit", function (event) {
           event.preventDefault();
+          scheduledRenderResults.cancel();
           if (navigateToSearchResultsPage(input ? input.value : "")) {
             closeSearch();
           }
         });
       }
       if (input) {
-        input.addEventListener("input", renderResults);
+        input.addEventListener("input", function () {
+          scheduledRenderResults.schedule();
+        });
         input.addEventListener("keydown", function (event) {
           if (String(event.key || "") === "Escape") {
             event.preventDefault();
+            scheduledRenderResults.cancel();
             closeSearch();
           }
         });
@@ -1796,7 +1933,7 @@
           if (activeSearchMode !== "page" && !isSiteSearchIndexLoaded()) {
             refreshModalResultsAfterIndexLoad(input ? input.value : "");
           }
-          renderResults();
+          scheduledRenderResults.flush();
           if (input && typeof input.focus === "function") {
             input.focus();
           }
@@ -1832,7 +1969,7 @@
       overlay.setAttribute("aria-hidden", "false");
       body.classList.add("site-search-open");
       setTriggerState(true);
-      renderResults();
+      scheduledRenderResults.flush();
       window.setTimeout(function () {
         if (input && typeof input.focus === "function") {
           input.focus();
@@ -1878,6 +2015,7 @@
     }
     var preparedPages = prepareSiteSearchPages();
     var preparedPagesIsFallback = !isSiteSearchIndexLoaded();
+    var searchPageResultRenderLimit = 80;
 
     var setUrlQuery = function (query) {
       if (!window.history || typeof window.history.replaceState !== "function") {
@@ -1904,16 +2042,7 @@
         return;
       }
 
-      var ranked = preparedPages.map(function (record) {
-        return {
-          page: record,
-          score: scoreSiteSearchPage(record, query)
-        };
-      }).filter(function (record) {
-        return record.score > 0;
-      }).sort(function (left, right) {
-        return right.score - left.score;
-      });
+      var ranked = rankSearchRecords(preparedPages, query, "all");
 
       if (!ranked.length) {
         var emptyResult = getUiString("no-search-results", "No pages match this search.");
@@ -1927,10 +2056,32 @@
       status.textContent = formatUiString("search-results-count-template", "{count} results", {
         count: String(ranked.length)
       });
-      results.innerHTML = ranked.map(function (record) {
-        return renderSiteSearchResultRecord(record.page, query, "all");
+      if (ranked.length > searchPageResultRenderLimit) {
+        status.textContent += " - showing first " + String(searchPageResultRenderLimit) + ".";
+      }
+      results.innerHTML = ranked.slice(0, searchPageResultRenderLimit).map(function (record) {
+        return renderSiteSearchResultRecord(record.page, query, "all", record.hitCount);
       }).join("");
     };
+
+    var scheduledSearchPageResults = createSearchRenderScheduler(renderSearchPageResults, {
+      shouldRenderImmediately: function () {
+        return !String(input.value || "").trim();
+      },
+      onPending: function (options) {
+        var query = String(input.value || "").trim();
+        if (options && options.syncUrl) {
+          setUrlQuery(query);
+        }
+        if (query) {
+          status.setAttribute("data-state", "active");
+          status.textContent = "Searching...";
+        }
+      },
+      getDelayedOptions: function () {
+        return { syncUrl: false };
+      }
+    });
 
     try {
       var params = new URLSearchParams(window.location.search || "");
@@ -1946,7 +2097,7 @@
       loadSiteSearchIndex().then(function () {
         preparedPages = prepareSiteSearchPages();
         preparedPagesIsFallback = false;
-        renderSearchPageResults({ syncUrl: false });
+        scheduledSearchPageResults.schedule({ syncUrl: false });
       }).catch(function () {
         renderSearchPageResults({ syncUrl: false });
         status.setAttribute("data-state", "empty");
@@ -1955,12 +2106,12 @@
     };
 
     input.addEventListener("input", function () {
-      renderSearchPageResults({ syncUrl: true });
+      scheduledSearchPageResults.schedule({ syncUrl: true });
     });
     if (form) {
       form.addEventListener("submit", function (event) {
         event.preventDefault();
-        renderSearchPageResults({ syncUrl: true });
+        scheduledSearchPageResults.flush({ syncUrl: true });
       });
     }
     if (String(input.value || "").trim() && preparedPagesIsFallback) {
@@ -3777,13 +3928,20 @@
       return preparedHomePages;
     };
 
-    var renderHomeSearchResult = function (record, query) {
+    var renderHomeSearchResult = function (record, query, hitCount) {
       var snippetSource = [record.title, record.description, record.text, record.breadcrumb].filter(Boolean).join(" ");
+      var numericHitCount = Math.max(0, Number(hitCount || 0) || 0);
+      var hitCountPill = numericHitCount > 0
+        ? '<span class="site-search-result-hit-count">' + escapeHtml(numericHitCount === 1 ? "1 hit" : String(numericHitCount) + " hits") + "</span>"
+        : "";
       return ""
         + '<a class="site-search-result home-filter-result" href="' + escapeHtml(buildUrlWithSearchHighlight(record.url || "#", query)) + '">'
         + '<span class="site-search-result-kicker">' + escapeHtml(record.breadcrumb || getUiString("overview", "Overview")) + "</span>"
         + '<span class="site-search-result-title">' + escapeHtml(record.title || getUiString("overview", "Overview")) + "</span>"
+        + '<span class="site-search-result-meta-row">'
         + '<span class="site-search-result-meta">' + escapeHtml(getSearchMatchKind(record, query)) + "</span>"
+        + hitCountPill
+        + "</span>"
         + '<span class="site-search-result-excerpt">' + buildHighlightedSnippet(snippetSource, query, 230) + "</span>"
         + "</a>";
     };
@@ -3814,24 +3972,13 @@
           preparedHomePages = null;
           preparedHomePagesIsFallback = false;
           if (String(input.value || "").trim().toLowerCase() === query) {
-            applyFilter();
+            scheduledHomeFilter.flush();
           }
         }).catch(function () {
           // Keep the home search on local fallback records if the full index is unavailable.
         });
       }
-      var ranked = query
-        ? records.map(function (record) {
-          return {
-            record: record,
-            score: scoreSiteSearchPage(record, query)
-          };
-        }).filter(function (item) {
-          return item.score > 0;
-        }).sort(function (left, right) {
-          return right.score - left.score;
-        })
-        : [];
+      var ranked = query ? rankSearchRecords(records, query, "all") : [];
 
       Array.prototype.forEach.call(allCards, function (card) {
         card.classList.remove("is-filtered-out");
@@ -3851,7 +3998,7 @@
         } else {
           results.hidden = false;
           results.innerHTML = ranked.slice(0, 24).map(function (item) {
-            return renderHomeSearchResult(item.record, query);
+            return renderHomeSearchResult(item.page, query, item.hitCount);
           }).join("");
         }
       }
@@ -3875,23 +4022,37 @@
         clearButton.hidden = !query;
       }
     };
-    input.addEventListener("input", applyFilter);
+    var scheduledHomeFilter = createSearchRenderScheduler(applyFilter, {
+      shouldRenderImmediately: function () {
+        return !String(input.value || "").trim();
+      },
+      onPending: function () {
+        if (status && String(input.value || "").trim()) {
+          status.setAttribute("data-state", "active");
+          status.textContent = "Searching...";
+        }
+      }
+    });
+    input.addEventListener("input", function () {
+      scheduledHomeFilter.schedule();
+    });
     input.addEventListener("keydown", function (event) {
       var key = String(event.key || "");
       if (key === "Enter" && String(input.value || "").trim()) {
         event.preventDefault();
+        scheduledHomeFilter.cancel();
         navigateToSearchResultsPage(input.value);
         return;
       }
       if (key === "Escape" && String(input.value || "").trim()) {
         input.value = "";
-        applyFilter();
+        scheduledHomeFilter.flush();
       }
     });
     if (clearButton) {
       clearButton.addEventListener("click", function () {
         input.value = "";
-        applyFilter();
+        scheduledHomeFilter.flush();
         input.focus();
       });
     }
