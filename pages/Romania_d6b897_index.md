@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /romania-d6b897-index/
 description: Focused pages that expand on What Romania's UFO Record Really Shows.
-date: '2026-06-02'
+date: '2026-06-09'
 layout: default
 parent_basename: Romania_d6b897
 parent_title: What Romania's UFO Record Really Shows

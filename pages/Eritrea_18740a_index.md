@@ -7,7 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /eritrea-18740a-index/
 description: Focused pages that expand on What UFOs Have Been Reported in Eritrea
   and....
-date: '2026-06-02'
+date: '2026-06-09'
 layout: default
 parent_basename: Eritrea_18740a
 parent_title: What UFOs Have Been Reported in Eritrea and...

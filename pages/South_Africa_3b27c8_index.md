@@ -7,7 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /south-africa-3b27c8-index/
 description: Focused pages that expand on What Really Stands Out in South Africa's
   UFO....
-date: '2026-06-02'
+date: '2026-06-09'
 layout: default
 parent_basename: South_Africa_3b27c8
 parent_title: What Really Stands Out in South Africa's UFO...

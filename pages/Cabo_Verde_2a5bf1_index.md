@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /cabo-verde-2a5bf1-index/
 description: Focused pages that expand on What UFO Reports Survive Cabo Verde?.
-date: '2026-06-02'
+date: '2026-06-09'
 layout: default
 parent_basename: Cabo_Verde_2a5bf1
 parent_title: What UFO Reports Survive Cabo Verde?

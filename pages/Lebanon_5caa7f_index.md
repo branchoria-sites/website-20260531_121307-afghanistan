@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /lebanon-5caa7f-index/
 description: Focused pages that expand on What Do Lebanon's UFO Reports Really Show?.
-date: '2026-06-02'
+date: '2026-06-09'
 layout: default
 parent_basename: Lebanon_5caa7f
 parent_title: What Do Lebanon's UFO Reports Really Show?

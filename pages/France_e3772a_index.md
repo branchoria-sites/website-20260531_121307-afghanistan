@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /france-e3772a-index/
 description: Focused pages that expand on How France Investigates and Archives UFO....
-date: '2026-06-02'
+date: '2026-06-09'
 layout: default
 parent_basename: France_e3772a
 parent_title: How France Investigates and Archives UFO...

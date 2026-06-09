@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /eswatini-16cc7f-index/
 description: Focused pages that expand on What Is Really in Eswatini's UFO Record?.
-date: '2026-06-02'
+date: '2026-06-09'
 layout: default
 parent_basename: Eswatini_16cc7f
 parent_title: What Is Really in Eswatini's UFO Record?

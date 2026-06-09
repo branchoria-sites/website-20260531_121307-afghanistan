@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /bangladesh-fa6c37-index/
 description: Focused pages that expand on Bangladesh.
-date: '2026-06-02'
+date: '2026-06-09'
 layout: default
 parent_basename: Bangladesh_fa6c37
 parent_title: Bangladesh

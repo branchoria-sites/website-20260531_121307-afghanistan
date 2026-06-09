@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /san-marino-8ff2c5-index/
 description: Focused pages that expand on Why San Marino Became a UFO Meeting Point.
-date: '2026-06-02'
+date: '2026-06-09'
 layout: default
 parent_basename: San_Marino_8ff2c5
 parent_title: Why San Marino Became a UFO Meeting Point

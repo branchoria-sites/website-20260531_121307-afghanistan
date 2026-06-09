@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /cote-d-ivoire-f8cb1a-index/
 description: Focused pages that expand on Cote d Ivoire.
-date: '2026-06-02'
+date: '2026-06-09'
 layout: default
 parent_basename: Cote_d_Ivoire_f8cb1a
 parent_title: Cote d Ivoire

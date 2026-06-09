@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /italy-ad79ef-index/
 description: Focused pages that expand on What Makes Italy’s UFO Record Unique and....
-date: '2026-06-02'
+date: '2026-06-09'
 layout: default
 parent_basename: Italy_ad79ef
 parent_title: What Makes Italy’s UFO Record Unique and...

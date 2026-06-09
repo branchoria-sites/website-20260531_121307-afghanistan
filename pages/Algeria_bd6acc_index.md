@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /algeria-bd6acc-index/
 description: Focused pages that expand on Algeria.
-date: '2026-06-02'
+date: '2026-06-09'
 layout: default
 parent_basename: Algeria_bd6acc
 parent_title: Algeria

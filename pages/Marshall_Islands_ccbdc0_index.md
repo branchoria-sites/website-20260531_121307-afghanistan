@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /marshall-islands-ccbdc0-index/
 description: Focused pages that expand on What Really Explains Marshall Islands UFO....
-date: '2026-06-02'
+date: '2026-06-09'
 layout: default
 parent_basename: Marshall_Islands_ccbdc0
 parent_title: What Really Explains Marshall Islands UFO...

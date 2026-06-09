@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /uganda-e92904-index/
 description: Focused pages that expand on What Really Happened in Uganda's UFO....
-date: '2026-06-02'
+date: '2026-06-09'
 layout: default
 parent_basename: Uganda_e92904
 parent_title: What Really Happened in Uganda's UFO...

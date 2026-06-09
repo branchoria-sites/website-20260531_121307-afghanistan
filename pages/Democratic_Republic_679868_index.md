@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /democratic-republic-679868-index/
 description: Focused pages that expand on Democratic Republic of the Congo.
-date: '2026-06-02'
+date: '2026-06-09'
 layout: default
 parent_basename: Democratic_Republic_679868
 parent_title: Democratic Republic of the Congo

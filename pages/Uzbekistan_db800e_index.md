@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /uzbekistan-db800e-index/
 description: Focused pages that expand on What Is Really In Uzbekistan's UFO Record?.
-date: '2026-06-02'
+date: '2026-06-09'
 layout: default
 parent_basename: Uzbekistan_db800e
 parent_title: What Is Really In Uzbekistan's UFO Record?

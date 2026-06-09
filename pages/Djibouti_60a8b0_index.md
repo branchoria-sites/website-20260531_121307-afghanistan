@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /djibouti-60a8b0-index/
 description: Focused pages that expand on Djibouti.
-date: '2026-06-02'
+date: '2026-06-09'
 layout: default
 parent_basename: Djibouti_60a8b0
 parent_title: Djibouti

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /malta-1a591a-index/
 description: Focused pages that expand on What Has Malta Really Seen in the Sky?.
-date: '2026-06-02'
+date: '2026-06-09'
 layout: default
 parent_basename: Malta_1a591a
 parent_title: What Has Malta Really Seen in the Sky?

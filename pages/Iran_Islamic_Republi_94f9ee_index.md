@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /iran-islamic-republi-94f9ee-index/
 description: Focused pages that expand on Iran Islamic Republic of.
-date: '2026-06-02'
+date: '2026-06-09'
 layout: default
 parent_basename: Iran_Islamic_Republi_94f9ee
 parent_title: Iran Islamic Republic of

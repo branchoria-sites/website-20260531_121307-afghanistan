@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /costa-rica-fe586b-index/
 description: Focused pages that expand on What Really Happened in Costa Rica's UFO....
-date: '2026-06-02'
+date: '2026-06-09'
 layout: default
 parent_basename: Costa_Rica_fe586b
 parent_title: What Really Happened in Costa Rica's UFO...

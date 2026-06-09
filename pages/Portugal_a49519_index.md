@@ -7,7 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /portugal-a49519-index/
 description: 'Focused pages that expand on Portugal''s UFO Files: Mystery, Memory,
   and....'
-date: '2026-06-02'
+date: '2026-06-09'
 layout: default
 parent_basename: Portugal_a49519
 parent_title: 'Portugal''s UFO Files: Mystery, Memory, and...'

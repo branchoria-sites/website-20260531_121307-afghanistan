@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /gambia-7c3997-index/
 description: Focused pages that expand on What Is Really Behind Gambia's UFO Reports?.
-date: '2026-06-02'
+date: '2026-06-09'
 layout: default
 parent_basename: Gambia_7c3997
 parent_title: What Is Really Behind Gambia's UFO Reports?

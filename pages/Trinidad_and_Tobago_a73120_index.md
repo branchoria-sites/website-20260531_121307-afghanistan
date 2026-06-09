@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /trinidad-and-tobago-a73120-index/
 description: Focused pages that expand on Trinidad and Tobago.
-date: '2026-06-02'
+date: '2026-06-09'
 layout: default
 parent_basename: Trinidad_and_Tobago_a73120
 parent_title: Trinidad and Tobago

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /tajikistan-279c77-index/
 description: Focused pages that expand on What Do Tajikistan's UFO Reports Really....
-date: '2026-06-02'
+date: '2026-06-09'
 layout: default
 parent_basename: Tajikistan_279c77
 parent_title: What Do Tajikistan's UFO Reports Really...

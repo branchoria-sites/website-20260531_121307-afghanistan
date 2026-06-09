@@ -59,43 +59,12 @@
     return body.classList.contains("page-article") || Boolean(document.querySelector(".article-body"));
   }
 
-  function scrollContentPageToTop() {
-    if (!isContentPageScrollResetEligible()) {
-      return;
-    }
-    if (typeof window.scrollTo === "function") {
-      window.scrollTo(0, 0);
-      return;
-    }
-    if (document.documentElement) {
-      document.documentElement.scrollTop = 0;
-    }
-    if (document.body) {
-      document.body.scrollTop = 0;
-    }
-  }
-
-  function scheduleContentPageTopReset() {
-    scrollContentPageToTop();
-    if (typeof window.requestAnimationFrame === "function") {
-      window.requestAnimationFrame(scrollContentPageToTop);
-    }
-    window.setTimeout(scrollContentPageToTop, 80);
-  }
-
   function initContentPageScrollReset() {
     if (!isContentPageScrollResetEligible()) {
       return;
     }
-    if (window.history && "scrollRestoration" in window.history) {
-      try {
-        window.history.scrollRestoration = "manual";
-      } catch (err) {
-        // Ignore browsers that expose but do not allow this setting.
-      }
-    }
-    scheduleContentPageTopReset();
-    window.addEventListener("pageshow", scheduleContentPageTopReset);
+    // Fresh navigations naturally start at the top; forcing it here can
+    // interrupt readers after slow-loading assets or bfcache restores.
   }
 
   function getUiString(name, fallback) {
@@ -319,19 +288,26 @@
     };
 
     var controlsRoot = nav.parentElement || sidebarRoot;
-    var actionsRoot = controlsRoot.querySelector(".sidebar-tree-actions");
-    var expandAllButton = controlsRoot.querySelector("[data-sidebar-expand-all]");
-    var collapseAllButton = controlsRoot.querySelector("[data-sidebar-collapse-all]");
+    var bulkActionTopThreshold = 10;
+    var actionsRoots = controlsRoot.querySelectorAll(".sidebar-tree-actions");
+    var expandAllButtons = controlsRoot.querySelectorAll("[data-sidebar-expand-all]");
+    var collapseAllButtons = controlsRoot.querySelectorAll("[data-sidebar-collapse-all]");
+    var showTopBulkActions = nav.querySelectorAll(".sidebar-link").length > bulkActionTopThreshold;
     var actionableItems = Array.prototype.filter.call(items, function (item) {
       return !(item && item.hasAttribute && item.hasAttribute("data-sidebar-lock-open"));
     });
     var hasFlexibleExpansion = actionableItems.length > 0;
-    var updateBulkActionButton = function (button, isActive) {
-      if (!button) {
+    var updateBulkActionButtons = function (buttons, isActive) {
+      if (!buttons || !buttons.length) {
         return;
       }
-      button.classList.toggle("is-active", Boolean(isActive));
-      button.setAttribute("aria-pressed", isActive ? "true" : "false");
+      Array.prototype.forEach.call(buttons, function (button) {
+        if (!button) {
+          return;
+        }
+        button.classList.toggle("is-active", Boolean(isActive));
+        button.setAttribute("aria-pressed", isActive ? "true" : "false");
+      });
     };
     var updateBulkActionState = function () {
       if (!hasFlexibleExpansion) {
@@ -343,8 +319,8 @@
       var allCollapsed = actionableItems.every(function (item) {
         return item && item.classList.contains("is-collapsed");
       });
-      updateBulkActionButton(expandAllButton, allExpanded);
-      updateBulkActionButton(collapseAllButton, allCollapsed);
+      updateBulkActionButtons(expandAllButtons, allExpanded);
+      updateBulkActionButtons(collapseAllButtons, allCollapsed);
     };
 
     var getSidebarLevel = function (item) {
@@ -449,26 +425,27 @@
       }
     }
 
-    if (actionsRoot) {
-      actionsRoot.hidden = !hasFlexibleExpansion;
-    }
-    if (expandAllButton) {
-      expandAllButton.hidden = !hasFlexibleExpansion;
-      expandAllButton.disabled = !hasFlexibleExpansion;
-      expandAllButton.setAttribute("aria-pressed", "false");
-      expandAllButton.addEventListener("click", function () {
+    Array.prototype.forEach.call(actionsRoots, function (actionsRoot) {
+      var isTopActions = actionsRoot && actionsRoot.hasAttribute("data-sidebar-tree-actions-top");
+      actionsRoot.hidden = !hasFlexibleExpansion || (isTopActions && !showTopBulkActions);
+    });
+    Array.prototype.forEach.call(expandAllButtons, function (button) {
+      button.hidden = !hasFlexibleExpansion;
+      button.disabled = !hasFlexibleExpansion;
+      button.setAttribute("aria-pressed", "false");
+      button.addEventListener("click", function () {
         setAllExpandedWithPersistence(true, true);
       });
-    }
+    });
 
-    if (collapseAllButton) {
-      collapseAllButton.hidden = !hasFlexibleExpansion;
-      collapseAllButton.disabled = !hasFlexibleExpansion;
-      collapseAllButton.setAttribute("aria-pressed", "false");
-      collapseAllButton.addEventListener("click", function () {
+    Array.prototype.forEach.call(collapseAllButtons, function (button) {
+      button.hidden = !hasFlexibleExpansion;
+      button.disabled = !hasFlexibleExpansion;
+      button.setAttribute("aria-pressed", "false");
+      button.addEventListener("click", function () {
         setAllExpandedWithPersistence(false, true);
       });
-    }
+    });
     updateBulkActionState();
   }
 
@@ -534,6 +511,7 @@
 
   var liveSearchRenderDelayMs = 180;
   var searchPageResultRenderLimit = 60;
+  var searchPageBackToTopThreshold = 24;
 
   function createSearchRenderScheduler(renderNow, options) {
     var settings = options || {};
@@ -2023,6 +2001,7 @@
     var status = root.querySelector("[data-search-page-status]");
     var results = root.querySelector("[data-search-page-results]");
     var form = root.querySelector("[data-search-page-form]");
+    var backToTopButton = root.querySelector("[data-search-page-back-to-top]");
     if (!input || !status || !results) {
       return;
     }
@@ -2055,6 +2034,9 @@
       }).join("") + (ranked.length > visibleLimit
         ? '<button class="site-search-more-button" type="button" data-search-page-show-more>Show more</button>'
         : "");
+      if (backToTopButton) {
+        backToTopButton.hidden = ranked.length <= searchPageBackToTopThreshold;
+      }
     };
 
     var renderSearchPageResults = function (options) {
@@ -2067,6 +2049,9 @@
         status.setAttribute("data-state", "default");
         status.textContent = getUiString("search-empty-hint", "Type to search every page on this site.");
         results.innerHTML = "";
+        if (backToTopButton) {
+          backToTopButton.hidden = true;
+        }
         latestSearchPageQuery = "";
         latestSearchPageRanked = [];
         visibleSearchPageResultLimit = searchPageResultRenderLimit;
@@ -2085,6 +2070,9 @@
         status.setAttribute("data-state", "empty");
         status.textContent = emptyResult;
         results.innerHTML = '<p class="site-search-empty">' + escapeHtml(emptyResult) + "</p>";
+        if (backToTopButton) {
+          backToTopButton.hidden = true;
+        }
         visibleSearchPageResultLimit = searchPageResultRenderLimit;
         return;
       }
@@ -3067,7 +3055,6 @@
       if (!tree || !dataNode) {
         return;
       }
-      var preservedRootMap = tree.querySelector("[data-interactive-map], [data-uap-world-map]");
 
       var payload = {};
       try {
@@ -3613,12 +3600,6 @@
           card.classList.add("ct-node-medium");
         }
 
-        if (preservedRootMap && String((node && node.semantic_level) || "").trim().toLowerCase() === "root") {
-          card.classList.add("uap-world-root-card");
-          link.classList.add("uap-world-root-heading");
-          card.appendChild(preservedRootMap);
-        }
-
         if (pageUrl && pageUrl !== "#") {
           card.setAttribute("tabindex", "0");
           card.setAttribute("role", "link");
@@ -3826,6 +3807,10 @@
     }
     var preparedHomePages = null;
     var preparedHomePagesIsFallback = false;
+    var latestHomeFilterQuery = "";
+    var latestHomeFilterRanked = [];
+    var latestHomeFilterTotal = 0;
+    var visibleHomeFilterResultLimit = searchPageResultRenderLimit;
     var allDisclosures = document.querySelectorAll("[data-home-disclosure]");
     var pathParts = normalizePath(window.location.pathname).split("/").filter(Boolean);
     var siteScope = pathParts.length ? pathParts[0] : "root";
@@ -3985,6 +3970,25 @@
         + "</a>";
     };
 
+    var renderHomeFilterResultBatch = function (ranked, query, totalUniqueReports) {
+      if (!results) {
+        return;
+      }
+      var visibleLimit = Math.min(visibleHomeFilterResultLimit, ranked.length);
+      results.hidden = false;
+      results.innerHTML = ranked.slice(0, visibleLimit).map(function (item) {
+        return renderHomeSearchResult(item.page, query, item.hitCount);
+      }).join("") + (ranked.length > visibleLimit
+        ? '<button class="site-search-more-button home-filter-more-button" type="button" data-home-filter-show-more>Show more</button>'
+        : "");
+      if (status) {
+        status.setAttribute("data-state", "active");
+        status.textContent = ranked.length > visibleLimit
+          ? "Showing first " + String(visibleLimit) + " of " + String(ranked.length) + " matching pages for \"" + query + "\"."
+          : "Showing " + String(ranked.length) + " of " + String(totalUniqueReports) + " pages for \"" + query + "\".";
+      }
+    };
+
     var collectFilterContext = function () {
       var contextCards = [];
       var addCard = function (card) {
@@ -4006,18 +4010,27 @@
       var cards = context.cards;
       var cardRecords = collectHomeSearchRecords(cards);
       var records = query ? getHomeSearchRecords(cards, cardRecords) : cardRecords;
+      if (query !== latestHomeFilterQuery) {
+        visibleHomeFilterResultLimit = searchPageResultRenderLimit;
+      }
       if (query && !cardRecords.length && preparedHomePagesIsFallback) {
         loadSiteSearchIndex().then(function () {
           preparedHomePages = null;
           preparedHomePagesIsFallback = false;
           if (String(input.value || "").trim().toLowerCase() === query) {
-            scheduledHomeFilter.flush();
+            applyFilter();
           }
         }).catch(function () {
           // Keep the home search on local fallback records if the full index is unavailable.
         });
       }
-      var ranked = query ? rankSearchRecords(records, query, "all") : [];
+      var ranked = query
+        ? rankSearchRecords(records, query, "all")
+        : [];
+      var totalUniqueReports = records.length || getUniqueCount(cards);
+      latestHomeFilterQuery = query;
+      latestHomeFilterRanked = ranked;
+      latestHomeFilterTotal = totalUniqueReports;
 
       Array.prototype.forEach.call(allCards, function (card) {
         card.classList.remove("is-filtered-out");
@@ -4035,25 +4048,23 @@
           results.hidden = false;
           results.innerHTML = '<p class="site-search-empty">' + escapeHtml("No pages match \"" + query + "\". Try a broader section or keyword.") + "</p>";
         } else {
-          results.hidden = false;
-          results.innerHTML = ranked.slice(0, 24).map(function (item) {
-            return renderHomeSearchResult(item.page, query, item.hitCount);
-          }).join("");
+          renderHomeFilterResultBatch(ranked, query, totalUniqueReports);
         }
       }
 
       if (status) {
-        var totalUniqueReports = records.length || getUniqueCount(cards);
         var visibleUnique = ranked.length;
         if (!query) {
           status.setAttribute("data-state", "default");
-          status.textContent = "Search " + String(totalUniqueReports) + " pages.";
+          status.textContent = "";
         } else if (!visibleUnique) {
           status.setAttribute("data-state", "empty");
           status.textContent = "No pages match \"" + query + "\". Try a broader section or keyword.";
         } else {
           status.setAttribute("data-state", "active");
-          status.textContent = "Showing " + String(visibleUnique) + " of " + String(totalUniqueReports) + " pages for \"" + query + "\".";
+          if (!results) {
+            status.textContent = "Showing " + String(visibleUnique) + " of " + String(totalUniqueReports) + " pages for \"" + query + "\".";
+          }
         }
       }
 
@@ -4095,6 +4106,19 @@
         input.focus();
       });
     }
+    if (results) {
+      results.addEventListener("click", function (event) {
+        var button = event.target && event.target.closest ? event.target.closest("[data-home-filter-show-more]") : null;
+        if (!button || !results.contains(button) || !latestHomeFilterRanked.length) {
+          return;
+        }
+        visibleHomeFilterResultLimit = Math.min(
+          latestHomeFilterRanked.length,
+          visibleHomeFilterResultLimit + searchPageResultRenderLimit
+        );
+        renderHomeFilterResultBatch(latestHomeFilterRanked, latestHomeFilterQuery, latestHomeFilterTotal);
+      });
+    }
     Array.prototype.forEach.call(allDisclosures, function (node, index) {
       node.addEventListener("toggle", function () {
         if (String(input.value || "").trim()) {
@@ -4104,7 +4128,7 @@
       });
     });
     document.addEventListener("phoenix-home-mode-changed", function () {
-      applyFilter();
+      scheduledHomeFilter.flush();
     });
     applyFilter();
   }
@@ -6176,6 +6200,7 @@
         var bubble = makeNode("div", "ct-node " + (sizeClass || "ct-node-md"));
 
         applyHomeClusterNodeMeta(bubble, node);
+        bubble.setAttribute("data-node-id", String(node.id || ""));
 
         var link = makeNode("a", "ct-node-link");
 
@@ -7003,6 +7028,174 @@
         "home-cluster-mobile-detail",
         !!(isVertical && shouldPreferFocusedBranch && state.manualSelection && String(state.selectedBranchId || "").trim())
       );
+
+      function removeClusterConnectorOverlay() {
+        var existingOverlay = board.querySelector(".ct-connector-overlay");
+        if (existingOverlay && existingOverlay.parentNode) {
+          existingOverlay.parentNode.removeChild(existingOverlay);
+        }
+        board.classList.remove("ct-svg-connectors");
+      }
+
+      function ensureClusterConnectorOverlay() {
+        var overlay = board.querySelector(".ct-connector-overlay");
+        if (overlay) {
+          return overlay;
+        }
+        overlay = document.createElementNS(svgNs, "svg");
+        overlay.setAttribute("class", "ct-connector-overlay");
+        overlay.setAttribute("aria-hidden", "true");
+        board.insertBefore(overlay, board.firstChild || null);
+        return overlay;
+      }
+
+      function refreshClusterConnectorOverlay() {
+        if (
+          isVertical
+          || strategy === "grid"
+          || !document.createElementNS
+          || !board.isConnected
+        ) {
+          removeClusterConnectorOverlay();
+          return;
+        }
+
+        var boardRect = board.getBoundingClientRect();
+        var overlayWidth = Math.max(Math.ceil(boardRect.width || 0), board.scrollWidth || 0);
+        var overlayHeight = Math.max(Math.ceil(boardRect.height || 0), board.scrollHeight || 0);
+        if (!overlayWidth || !overlayHeight) {
+          removeClusterConnectorOverlay();
+          return;
+        }
+
+        var renderedById = {};
+        Array.prototype.forEach.call(board.querySelectorAll(".ct-node[data-node-id]"), function (bubble) {
+          var nodeId = String(bubble.getAttribute("data-node-id") || "").trim();
+          if (nodeId && !renderedById[nodeId]) {
+            renderedById[nodeId] = bubble;
+          }
+        });
+
+        var connectors = [];
+        Object.keys(renderedById).forEach(function (nodeId) {
+          var node = nodeById[nodeId];
+          var parentId = String((node && node.parent_id) || "").trim();
+          var parentBubble = parentId ? renderedById[parentId] : null;
+          var usesVirtualRoot = !!(
+            parentId
+            && rootNode
+            && String(rootNode.id || "").trim() === parentId
+            && !parentBubble
+          );
+          if (!parentId || (!parentBubble && !usesVirtualRoot)) {
+            return;
+          }
+
+          var childRect = renderedById[nodeId].getBoundingClientRect();
+          var parentRect = parentBubble ? parentBubble.getBoundingClientRect() : null;
+          var horizontalDistance = parentRect ? Math.abs(childRect.left - parentRect.right) : 0;
+          var verticalDistance = parentRect ? Math.abs(childRect.top - parentRect.bottom) : 999;
+          var mostlyHorizontal = horizontalDistance >= verticalDistance;
+          var startX;
+          var startY;
+          var endX;
+          var endY;
+          var pathData;
+
+          if (usesVirtualRoot) {
+            startX = boardRect.width * 0.5;
+            startY = 1;
+            endX = childRect.left - boardRect.left + (childRect.width * 0.5);
+            endY = childRect.top - boardRect.top;
+            var rootControl = Math.max(22, Math.abs(endY - startY) * 0.56);
+            pathData = "M " + startX + " " + startY
+              + " C " + startX + " " + (startY + rootControl)
+              + ", " + endX + " " + (endY - rootControl)
+              + ", " + endX + " " + endY;
+          } else if (mostlyHorizontal) {
+            startX = parentRect.right - boardRect.left;
+            startY = parentRect.top - boardRect.top + (parentRect.height * 0.5);
+            endX = childRect.left - boardRect.left;
+            endY = childRect.top - boardRect.top + (childRect.height * 0.5);
+            var horizontalControl = Math.max(22, Math.abs(endX - startX) * 0.52);
+            pathData = "M " + startX + " " + startY
+              + " C " + (startX + horizontalControl) + " " + startY
+              + ", " + (endX - horizontalControl) + " " + endY
+              + ", " + endX + " " + endY;
+          } else {
+            startX = parentRect.left - boardRect.left + (parentRect.width * 0.5);
+            startY = parentRect.bottom - boardRect.top;
+            endX = childRect.left - boardRect.left + (childRect.width * 0.5);
+            endY = childRect.top - boardRect.top;
+            var verticalControl = Math.max(18, Math.abs(endY - startY) * 0.52);
+            pathData = "M " + startX + " " + startY
+              + " C " + startX + " " + (startY + verticalControl)
+              + ", " + endX + " " + (endY - verticalControl)
+              + ", " + endX + " " + endY;
+          }
+
+          connectors.push({
+            childId: nodeId,
+            isActive: isNodeInSelectedBranch(nodeId),
+            pathData: pathData
+          });
+        });
+
+        if (!connectors.length) {
+          removeClusterConnectorOverlay();
+          return;
+        }
+
+        var overlay = ensureClusterConnectorOverlay();
+        while (overlay.firstChild) {
+          overlay.removeChild(overlay.firstChild);
+        }
+        overlay.setAttribute("viewBox", "0 0 " + overlayWidth + " " + overlayHeight);
+        overlay.setAttribute("width", String(overlayWidth));
+        overlay.setAttribute("height", String(overlayHeight));
+
+        connectors.forEach(function (connector) {
+          var path = document.createElementNS(svgNs, "path");
+          path.setAttribute("class", "ct-connector-path" + (connector.isActive ? " is-active" : ""));
+          path.setAttribute("d", connector.pathData);
+          path.setAttribute("data-child-id", connector.childId);
+          overlay.appendChild(path);
+        });
+        board.classList.add("ct-svg-connectors");
+      }
+
+      function scheduleClusterConnectorOverlayRefresh() {
+        if (container.__homeClusterConnectorFrame) {
+          window.cancelAnimationFrame(container.__homeClusterConnectorFrame);
+        }
+        container.__homeClusterConnectorFrame = window.requestAnimationFrame(function () {
+          container.__homeClusterConnectorFrame = 0;
+          var refreshOverlay = container.__homeClusterConnectorRefresh;
+          if (typeof refreshOverlay === "function") {
+            refreshOverlay();
+          }
+        });
+      }
+
+      container.__homeClusterConnectorRefresh = refreshClusterConnectorOverlay;
+      scheduleClusterConnectorOverlayRefresh();
+
+      if (!container.__homeClusterConnectorOverlayBound) {
+        if (window.ResizeObserver) {
+          container.__homeClusterConnectorObserver = new ResizeObserver(function () {
+            scheduleClusterConnectorOverlayRefresh();
+          });
+          container.__homeClusterConnectorObserver.observe(board);
+        }
+        if (document.fonts && document.fonts.ready && typeof document.fonts.ready.then === "function") {
+          document.fonts.ready.then(function () {
+            scheduleClusterConnectorOverlayRefresh();
+          }).catch(function () {
+            // Ignore font observer failures.
+          });
+        }
+        container.__homeClusterConnectorOverlayBound = true;
+      }
 
       if (focusTray && !focusTray.__homeClusterPreviewBound) {
         focusTray.__homeClusterPreviewBound = true;
@@ -7885,12 +8078,17 @@
         toggle.setAttribute("title", isExpanded ? "Collapse subsections" : "Expand subsections");
         toggle.textContent = isExpanded ? "-" : "+";
       };
-      var updateBulkActionButton = function (button, isActive) {
-        if (!button) {
+      var updateBulkActionButtons = function (buttons, isActive) {
+        if (!buttons || !buttons.length) {
           return;
         }
-        button.classList.toggle("is-active", Boolean(isActive));
-        button.setAttribute("aria-pressed", isActive ? "true" : "false");
+        Array.prototype.forEach.call(buttons, function (button) {
+          if (!button) {
+            return;
+          }
+          button.classList.toggle("is-active", Boolean(isActive));
+          button.setAttribute("aria-pressed", isActive ? "true" : "false");
+        });
       };
       var updateBulkActionState = function () {
         if (!hasNestedGroups) {
@@ -7903,8 +8101,8 @@
         var allCollapsed = Array.prototype.every.call(nestedItems, function (item) {
           return item && item.classList.contains("is-collapsed");
         });
-        updateBulkActionButton(expandAllButton, allExpanded);
-        updateBulkActionButton(collapseAllButton, allCollapsed);
+        updateBulkActionButtons(expandAllButtons, allExpanded);
+        updateBulkActionButtons(collapseAllButtons, allCollapsed);
       };
       var setAllTocItemsExpanded = function (isExpanded) {
         Array.prototype.forEach.call(rootNode.querySelectorAll(".page-toc-item.has-children"), function (item) {
@@ -8000,28 +8198,31 @@
       rootNode.setAttribute("data-page-toc-mode", pageTocMode);
       rootNode.appendChild(tocList);
       var controlsRoot = rootNode.parentElement || rootNode;
-      var actionsRoot = controlsRoot.querySelector(".page-toc-actions, .mobile-page-toc-actions");
-      var expandAllButton = controlsRoot.querySelector("[data-page-toc-expand-all]");
-      var collapseAllButton = controlsRoot.querySelector("[data-page-toc-collapse-all]");
-      if (actionsRoot) {
-        actionsRoot.hidden = !hasNestedGroups;
-      }
-      if (expandAllButton) {
-        expandAllButton.hidden = !hasNestedGroups;
-        expandAllButton.disabled = !hasNestedGroups;
-        expandAllButton.setAttribute("aria-pressed", "false");
-        expandAllButton.onclick = function () {
+      var bulkActionTopThreshold = 10;
+      var actionsRoots = controlsRoot.querySelectorAll(".page-toc-actions, .mobile-page-toc-actions");
+      var expandAllButtons = controlsRoot.querySelectorAll("[data-page-toc-expand-all]");
+      var collapseAllButtons = controlsRoot.querySelectorAll("[data-page-toc-collapse-all]");
+      var showTopBulkActions = headingList.length > bulkActionTopThreshold;
+      Array.prototype.forEach.call(actionsRoots, function (actionsRoot) {
+        var isTopActions = actionsRoot && actionsRoot.hasAttribute("data-page-toc-actions-top");
+        actionsRoot.hidden = !hasNestedGroups || (isTopActions && !showTopBulkActions);
+      });
+      Array.prototype.forEach.call(expandAllButtons, function (button) {
+        button.hidden = !hasNestedGroups;
+        button.disabled = !hasNestedGroups;
+        button.setAttribute("aria-pressed", "false");
+        button.onclick = function () {
           setAllTocItemsExpanded(true);
         };
-      }
-      if (collapseAllButton) {
-        collapseAllButton.hidden = !hasNestedGroups;
-        collapseAllButton.disabled = !hasNestedGroups;
-        collapseAllButton.setAttribute("aria-pressed", "false");
-        collapseAllButton.onclick = function () {
+      });
+      Array.prototype.forEach.call(collapseAllButtons, function (button) {
+        button.hidden = !hasNestedGroups;
+        button.disabled = !hasNestedGroups;
+        button.setAttribute("aria-pressed", "false");
+        button.onclick = function () {
           setAllTocItemsExpanded(false);
         };
-      }
+      });
       updateBulkActionState();
       linkGroups.push({
         rootNode: rootNode,
@@ -8171,7 +8372,7 @@
   }
 
   function initBackToTop() {
-    var buttons = document.querySelectorAll("[data-back-to-top], [data-mobile-back-to-top], [data-footer-back-to-top]");
+    var buttons = document.querySelectorAll("[data-back-to-top], [data-mobile-back-to-top], [data-footer-back-to-top], [data-search-page-back-to-top]");
     if (!buttons.length) {
       return;
     }
@@ -8877,7 +9078,7 @@
     };
     var repairMojibakeText = function(value) {
       var text = String(value || '');
-      if (!/[ÃÂâ]/.test(text)) {
+      if (!/[ÃƒÃ‚Ã¢]/.test(text)) {
         return text;
       }
       try {
@@ -8894,7 +9095,7 @@
             }
           }
           var decoded = new TextDecoder('utf-8', { fatal: false }).decode(new Uint8Array(bytes));
-          if (decoded && !/[ÃÂâ]\uFFFD?/.test(decoded)) {
+          if (decoded && !/[ÃƒÃ‚Ã¢]\uFFFD?/.test(decoded)) {
             return decoded;
           }
         }
@@ -8941,6 +9142,15 @@
       }
       return item.displayRegion || item.regionLabel || item.region || item.subregion || '';
     };
+    var normaliseRegionKey = function(value) {
+      return String(value || '').trim().toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+    };
+    var getItemRegionKey = function(item) {
+      if (!item) {
+        return '';
+      }
+      return normaliseRegionKey(item.regionKey || item.region || item.displayRegion || item.regionLabel || item.subregion);
+    };
     var getItemCountLabel = function(item) {
       if (!item) {
         return '';
@@ -8967,7 +9177,17 @@
         chips.push('<span class="interactive-map-preview-chip uap-world-map-preview-chip">' + escapeHtml(code) + '</span>');
       }
       if (region) {
-        chips.push('<span class="interactive-map-preview-chip uap-world-map-preview-chip">' + escapeHtml(region) + '</span>');
+        var regionKey = getItemRegionKey(item);
+        if (regionKey) {
+          chips.push(
+            '<button type="button" class="interactive-map-preview-chip uap-world-map-preview-chip interactive-map-preview-chip-action uap-world-map-preview-chip-action" '
+            + 'data-interactive-map-continent-focus="' + escapeHtml(regionKey) + '" '
+            + 'data-uap-world-map-region-focus="' + escapeHtml(regionKey) + '" '
+            + 'aria-label="Focus map on ' + escapeHtml(region) + '">' + escapeHtml(region) + '</button>'
+          );
+        } else {
+          chips.push('<span class="interactive-map-preview-chip uap-world-map-preview-chip">' + escapeHtml(region) + '</span>');
+        }
       }
       if (count) {
         chips.push('<span class="interactive-map-preview-count uap-world-map-preview-count">' + escapeHtml(count) + '</span>');
@@ -9276,8 +9496,85 @@
         setZoom(zoomState.scale * factor, event.clientX - rect.left, event.clientY - rect.top);
       }, { passive: false });
       var dragState = null;
+      var activePointers = {};
+      var pinchState = null;
       var lastPointerCountryIso = '';
       var lastPointerMoved = false;
+      var getActivePointerList = function() {
+        return Object.keys(activePointers).map(function(pointerId) {
+          return activePointers[pointerId];
+        }).filter(Boolean);
+      };
+      var getPointerDistance = function(first, second) {
+        var dx = Number(second.clientX || 0) - Number(first.clientX || 0);
+        var dy = Number(second.clientY || 0) - Number(first.clientY || 0);
+        return Math.sqrt(dx * dx + dy * dy);
+      };
+      var getPointerCenter = function(first, second) {
+        var rect = canvas.getBoundingClientRect();
+        return {
+          x: ((Number(first.clientX || 0) + Number(second.clientX || 0)) / 2) - rect.left,
+          y: ((Number(first.clientY || 0) + Number(second.clientY || 0)) / 2) - rect.top
+        };
+      };
+      var beginPinchZoom = function(pointerList) {
+        if (!pointerList || pointerList.length < 2) {
+          pinchState = null;
+          return;
+        }
+        var first = pointerList[0];
+        var second = pointerList[1];
+        var distance = getPointerDistance(first, second);
+        if (!(distance > 0)) {
+          pinchState = null;
+          return;
+        }
+        var center = getPointerCenter(first, second);
+        pinchState = {
+          pointerIds: [String(first.pointerId), String(second.pointerId)],
+          distance: distance,
+          scale: zoomState.scale,
+          worldX: (center.x - zoomState.x) / zoomState.scale,
+          worldY: (center.y - zoomState.y) / zoomState.scale
+        };
+        dragState = null;
+        canvas.classList.add('is-panning');
+      };
+      var updatePinchZoom = function() {
+        if (!pinchState) {
+          return false;
+        }
+        var first = activePointers[pinchState.pointerIds[0]];
+        var second = activePointers[pinchState.pointerIds[1]];
+        if (!first || !second) {
+          pinchState = null;
+          return false;
+        }
+        var distance = getPointerDistance(first, second);
+        if (!(distance > 0)) {
+          return false;
+        }
+        var center = getPointerCenter(first, second);
+        zoomState.scale = Math.max(minZoom, Math.min(maxZoom, pinchState.scale * (distance / pinchState.distance)));
+        zoomState.x = center.x - pinchState.worldX * zoomState.scale;
+        zoomState.y = center.y - pinchState.worldY * zoomState.scale;
+        lastPointerMoved = true;
+        lastPointerCountryIso = '';
+        clampPan();
+        applyZoom();
+        return true;
+      };
+      var clearPointer = function(event) {
+        if (!event || typeof event.pointerId === 'undefined') {
+          return;
+        }
+        delete activePointers[String(event.pointerId)];
+      };
+      var capturePointer = function(pointerId) {
+        try {
+          canvas.setPointerCapture(pointerId);
+        } catch (err) {}
+      };
       var navigateToItem = function(item) {
         if (item && item.url) {
           window.location.href = resolveSiteAssetUrl(item.url);
@@ -9285,6 +9582,23 @@
       };
       canvas.addEventListener('pointerdown', function(event) {
         if (event.target && event.target.closest && event.target.closest('.interactive-map-controls, .uap-world-map-controls, .interactive-map-pan-controls, .uap-world-map-pan-controls')) {
+          return;
+        }
+        activePointers[String(event.pointerId)] = {
+          pointerId: event.pointerId,
+          clientX: event.clientX,
+          clientY: event.clientY,
+          pointerType: event.pointerType || ''
+        };
+        var pointerList = getActivePointerList();
+        if (pointerList.length >= 2) {
+          event.preventDefault();
+          pointerList.forEach(function(pointerInfo) {
+            capturePointer(pointerInfo.pointerId);
+          });
+          lastPointerMoved = true;
+          lastPointerCountryIso = '';
+          beginPinchZoom(pointerList);
           return;
         }
         lastPointerMoved = false;
@@ -9298,6 +9612,9 @@
         if (zoomState.scale <= 1.01) {
           return;
         }
+        if (event.pointerType === 'touch') {
+          return;
+        }
         dragState = {
           pointerId: event.pointerId,
           startX: event.clientX,
@@ -9305,10 +9622,19 @@
           originX: zoomState.x,
           originY: zoomState.y
         };
-        canvas.setPointerCapture(event.pointerId);
+        capturePointer(event.pointerId);
         canvas.classList.add('is-panning');
       });
       canvas.addEventListener('pointermove', function(event) {
+        if (activePointers[String(event.pointerId)]) {
+          activePointers[String(event.pointerId)].clientX = event.clientX;
+          activePointers[String(event.pointerId)].clientY = event.clientY;
+        }
+        if (pinchState) {
+          event.preventDefault();
+          updatePinchZoom();
+          return;
+        }
         if (!dragState || dragState.pointerId !== event.pointerId) {
           return;
         }
@@ -9321,6 +9647,17 @@
         applyZoom();
       });
       var endPan = function(event) {
+        clearPointer(event);
+        if (pinchState) {
+          if (getActivePointerList().length >= 2) {
+            beginPinchZoom(getActivePointerList());
+          } else {
+            pinchState = null;
+            dragState = null;
+            canvas.classList.remove('is-panning');
+          }
+          return;
+        }
         if (!dragState || dragState.pointerId !== event.pointerId) {
           return;
         }
@@ -9329,6 +9666,11 @@
       };
       canvas.addEventListener('pointerup', endPan);
       canvas.addEventListener('pointercancel', endPan);
+      canvas.addEventListener('pointerleave', function(event) {
+        if (event.pointerType === 'touch') {
+          endPan(event);
+        }
+      });
       canvas.addEventListener('click', function(event) {
         event.preventDefault();
         event.stopPropagation();
@@ -9349,6 +9691,55 @@
       applyZoom();
       var active = null;
       var activeItem = null;
+      var nodesByIso = {};
+      var zoomToScreenBounds = function(bounds, nextScale) {
+        var canvasRect = canvas.getBoundingClientRect();
+        if (!bounds || !canvasRect.width || !canvasRect.height || bounds.right <= bounds.left || bounds.bottom <= bounds.top) {
+          return;
+        }
+        var centerX = bounds.left - canvasRect.left + (bounds.right - bounds.left) / 2;
+        var centerY = bounds.top - canvasRect.top + (bounds.bottom - bounds.top) / 2;
+        var worldX = (centerX - zoomState.x) / zoomState.scale;
+        var worldY = (centerY - zoomState.y) / zoomState.scale;
+        zoomState.scale = Math.max(minZoom, Math.min(maxZoom, nextScale));
+        zoomState.x = canvasRect.width / 2 - worldX * zoomState.scale;
+        zoomState.y = canvasRect.height / 2 - worldY * zoomState.scale;
+        clampPan();
+        applyZoom();
+      };
+      var focusMapOnRegion = function(regionKey) {
+        var targetRegionKey = normaliseRegionKey(regionKey);
+        var bounds = null;
+        if (!targetRegionKey) {
+          return false;
+        }
+        Object.keys(byIso).forEach(function(iso) {
+          var item = byIso[iso];
+          var node = nodesByIso[iso];
+          if (!item || !node || getItemRegionKey(item) !== targetRegionKey || !node.getBoundingClientRect) {
+            return;
+          }
+          var rect = node.getBoundingClientRect();
+          if (!rect.width || !rect.height) {
+            return;
+          }
+          if (!bounds) {
+            bounds = { left: rect.left, top: rect.top, right: rect.right, bottom: rect.bottom };
+            return;
+          }
+          bounds.left = Math.min(bounds.left, rect.left);
+          bounds.top = Math.min(bounds.top, rect.top);
+          bounds.right = Math.max(bounds.right, rect.right);
+          bounds.bottom = Math.max(bounds.bottom, rect.bottom);
+        });
+        if (!bounds) {
+          return false;
+        }
+        zoomToScreenBounds(bounds, targetRegionKey === 'americas' ? 1.75 : 2.05);
+        root.setAttribute('data-interactive-map-region-focus', targetRegionKey);
+        root.setAttribute('data-uap-world-map-region-focus', targetRegionKey);
+        return true;
+      };
       var updatePreview = function(item) {
         if (!item || !preview) {
           return;
@@ -9376,9 +9767,22 @@
         preview.addEventListener('click', function(event) {
           event.preventDefault();
           event.stopPropagation();
+          var regionFocusButton = event.target && event.target.closest
+            ? event.target.closest('[data-interactive-map-continent-focus], [data-uap-world-map-region-focus]')
+            : null;
+          if (regionFocusButton) {
+            focusMapOnRegion(
+              regionFocusButton.getAttribute('data-interactive-map-continent-focus')
+              || regionFocusButton.getAttribute('data-uap-world-map-region-focus')
+            );
+            return;
+          }
           navigateToItem(activeItem);
         });
         preview.addEventListener('keydown', function(event) {
+          if (event.target && event.target.closest && event.target.closest('[data-interactive-map-continent-focus], [data-uap-world-map-region-focus]')) {
+            return;
+          }
           if (event.key === 'Enter' || event.key === ' ') {
             event.preventDefault();
             event.stopPropagation();
@@ -9407,6 +9811,7 @@
         if (iso === guessedIso) {
           guessedNode = node;
         }
+        nodesByIso[iso] = node;
         node.classList.add('is-linked');
         node.setAttribute('data-uap-country', iso);
         node.setAttribute('data-interactive-map-item', iso);
@@ -9476,3 +9881,4 @@
     init();
   }
 })();
+

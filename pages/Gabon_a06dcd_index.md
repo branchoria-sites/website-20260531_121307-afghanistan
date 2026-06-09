@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /gabon-a06dcd-index/
 description: Focused pages that expand on What Do Gabon's UFO Stories Really Show?.
-date: '2026-06-02'
+date: '2026-06-09'
 layout: default
 parent_basename: Gabon_a06dcd
 parent_title: What Do Gabon's UFO Stories Really Show?

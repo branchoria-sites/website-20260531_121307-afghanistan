@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /malaysia-ff3ea3-index/
 description: Focused pages that expand on What Do Malaysia's UFO Stories Really Show?.
-date: '2026-06-02'
+date: '2026-06-09'
 layout: default
 parent_basename: Malaysia_ff3ea3
 parent_title: What Do Malaysia's UFO Stories Really Show?
