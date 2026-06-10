@@ -9855,7 +9855,7 @@
           }
         });
       });
-      if (guessedIso && guessedNode) {
+      if (root.getAttribute('data-map-auto-focus') === 'visitor' && guessedIso && guessedNode) {
         window.setTimeout(function() {
           if (!active) {
             focusCountry(guessedNode, byIso[guessedIso], { zoom: true });
