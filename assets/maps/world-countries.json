@@ -17,7 +17,11 @@
       "url": "are-monaco-ufo-sightings-really/",
       "image": "assets/images/Monaco_35ab1c-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "principality of monaco",
+        "monaco"
+      ]
     },
     {
       "id": "ML",
@@ -29,7 +33,11 @@
       "url": "are-there-any-real-mali-ufo-cases/",
       "image": "assets/images/Mali_daa6a4-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of mali",
+        "mali"
+      ]
     },
     {
       "id": "ME",
@@ -41,7 +49,10 @@
       "url": "are-ufos-really-seen-over-montenegro/",
       "image": "assets/images/Montenegro_479fb3-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "montenegro"
+      ]
     },
     {
       "id": "AR",
@@ -53,7 +64,11 @@
       "url": "argentinas-ufo-stories-records-and/",
       "image": "assets/images/Argentina_354bf9-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "argentine republic",
+        "argentina"
+      ]
     },
     {
       "id": "DM",
@@ -65,7 +80,11 @@
       "url": "does-dominica-have-real-ufo-cases/",
       "image": "assets/images/Dominica_bc1cd4-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "commonwealth of dominica",
+        "dominica"
+      ]
     },
     {
       "id": "IS",
@@ -77,7 +96,11 @@
       "url": "does-iceland-have-a-real-ufo-record/",
       "image": "assets/images/Iceland_b3c92e-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "republic of iceland",
+        "iceland"
+      ]
     },
     {
       "id": "KM",
@@ -89,7 +112,11 @@
       "url": "have-ufos-really-been-seen-over-comoros/",
       "image": "assets/images/Comoros_e5bb59-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "union of the comoros",
+        "comoros"
+      ]
     },
     {
       "id": "CL",
@@ -101,7 +128,11 @@
       "url": "how-chile-investigates-ufos-and-aerial/",
       "image": "assets/images/Chile_349507-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "republic of chile",
+        "chile"
+      ]
     },
     {
       "id": "FR",
@@ -113,7 +144,11 @@
       "url": "how-france-investigates-and-archives-ufo/",
       "image": "assets/images/France_e3772a-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "french republic",
+        "france"
+      ]
     },
     {
       "id": "MG",
@@ -125,7 +160,11 @@
       "url": "madagascars-ufo-record-famous-case-thin/",
       "image": "assets/images/Madagascar_f92bcb-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of madagascar",
+        "madagascar"
+      ]
     },
     {
       "id": "MA",
@@ -137,7 +176,11 @@
       "url": "moroccos-ufo-mystery-and-its-best/",
       "image": "assets/images/Morocco_32e087-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "kingdom of morocco",
+        "morocco"
+      ]
     },
     {
       "id": "PT",
@@ -149,7 +192,11 @@
       "url": "portugals-ufo-files-mystery-memory-and/",
       "image": "assets/images/Portugal_a49519-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "portuguese republic",
+        "portugal"
+      ]
     },
     {
       "id": "RU",
@@ -161,7 +208,11 @@
       "url": "russian-federation/",
       "image": "assets/images/Russian_Federation_87c89a-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "russian federation",
+        "russia"
+      ]
     },
     {
       "id": "ES",
@@ -173,7 +224,11 @@
       "url": "spains-ufo-files-mystery-evidence-and/",
       "image": "assets/images/Spain_20a8df-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "kingdom of spain",
+        "spain"
+      ]
     },
     {
       "id": "LU",
@@ -185,7 +240,11 @@
       "url": "uncovering-ufo-activity-across/",
       "image": "assets/images/Luxembourg_507672-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "grand duchy of luxembourg",
+        "luxembourg"
+      ]
     },
     {
       "id": "IL",
@@ -197,7 +256,11 @@
       "url": "uncovering-ufo-phenomena-across-israel/",
       "image": "assets/images/Israel_4c197d-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "state of israel",
+        "israel"
+      ]
     },
     {
       "id": "FJ",
@@ -209,7 +272,11 @@
       "url": "fiji/",
       "image": "assets/images/Fiji_bbb7ef-overview.webp",
       "pageCount": 5,
-      "region": "Oceania"
+      "region": "Oceania",
+      "mapAliases": [
+        "republic of fiji",
+        "fiji"
+      ]
     },
     {
       "id": "MW",
@@ -221,7 +288,11 @@
       "url": "what-are-malawis-documented-ufos-and-sky/",
       "image": "assets/images/Malawi_0ce65b-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of malawi",
+        "malawi"
+      ]
     },
     {
       "id": "DZ",
@@ -233,7 +304,11 @@
       "url": "algeria/",
       "image": "assets/images/Algeria_bd6acc-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "people s democratic republic of algeria",
+        "algeria"
+      ]
     },
     {
       "id": "BY",
@@ -245,7 +320,11 @@
       "url": "what-belarus-ufo-reports-really-show/",
       "image": "assets/images/Belarus_027a12-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "republic of belarus",
+        "belarus"
+      ]
     },
     {
       "id": "BR",
@@ -257,7 +336,11 @@
       "url": "what-brazils-ufo-records-reveal-about/",
       "image": "assets/images/Brazil_37497a-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "federative republic of brazil",
+        "brazil"
+      ]
     },
     {
       "id": "AO",
@@ -269,7 +352,11 @@
       "url": "what-can-angolas-ufo-record-really-prove/",
       "image": "assets/images/Angola_a42522-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of angola",
+        "angola"
+      ]
     },
     {
       "id": "BJ",
@@ -281,7 +368,11 @@
       "url": "what-can-really-be-said-about-benin-ufos/",
       "image": "assets/images/Benin_373616-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of benin",
+        "benin"
+      ]
     },
     {
       "id": "RS",
@@ -293,7 +384,11 @@
       "url": "what-can-serbias-ufo-record-really-show/",
       "image": "assets/images/Serbia_6d31bf-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "republic of serbia",
+        "serbia"
+      ]
     },
     {
       "id": "TV",
@@ -305,7 +400,10 @@
       "url": "what-can-tuvalus-ufo-record-really-show/",
       "image": "assets/images/Tuvalu_9a2248-overview.webp",
       "pageCount": 5,
-      "region": "Oceania"
+      "region": "Oceania",
+      "mapAliases": [
+        "tuvalu"
+      ]
     },
     {
       "id": "CA",
@@ -317,7 +415,10 @@
       "url": "what-canada-ufo-reports-really-show/",
       "image": "assets/images/Canada_cd6a7b-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "canada"
+      ]
     },
     {
       "id": "CN",
@@ -329,7 +430,11 @@
       "url": "what-chinas-ufo-cases-really-show/",
       "image": "assets/images/China_d2eaf2-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "people s republic of china",
+        "china"
+      ]
     },
     {
       "id": "SS",
@@ -341,7 +446,11 @@
       "url": "what-counts-as-a-south-sudan-ufo-case/",
       "image": "assets/images/South_Sudan_80ac9c-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of south sudan",
+        "south sudan"
+      ]
     },
     {
       "id": "CF",
@@ -353,7 +462,10 @@
       "url": "central-african-republic/",
       "image": "assets/images/Central_African_Repu_358788-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "central african republic"
+      ]
     },
     {
       "id": "JO",
@@ -365,7 +477,11 @@
       "url": "what-counts-as-a-ufo-in-jordan/",
       "image": "assets/images/Jordan_674027-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "hashemite kingdom of jordan",
+        "jordan"
+      ]
     },
     {
       "id": "HR",
@@ -377,7 +493,11 @@
       "url": "what-croatias-ufo-records-reveal-about/",
       "image": "assets/images/Croatia_d7e045-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "republic of croatia",
+        "croatia"
+      ]
     },
     {
       "id": "BH",
@@ -389,7 +509,11 @@
       "url": "what-did-bahrains-ufo-sightings-really/",
       "image": "assets/images/Bahrain_3ae11c-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "kingdom of bahrain",
+        "bahrain"
+      ]
     },
     {
       "id": "VN",
@@ -401,7 +525,12 @@
       "url": "what-did-viet-nams-ufo-reports-really/",
       "image": "assets/images/Viet_Nam_82ecdd-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "socialist republic of viet nam",
+        "viet nam",
+        "vietnam"
+      ]
     },
     {
       "id": "US",
@@ -413,7 +542,13 @@
       "url": "united-states/",
       "image": "assets/images/United_States_f5f19f-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "united states of america",
+        "united states",
+        "usa",
+        "us"
+      ]
     },
     {
       "id": "AT",
@@ -425,7 +560,11 @@
       "url": "what-do-austrias-ufo-reports-really-show/",
       "image": "assets/images/Austria_593905-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "republic of austria",
+        "austria"
+      ]
     },
     {
       "id": "BZ",
@@ -437,7 +576,10 @@
       "url": "what-do-belize-ufo-reports-really-show/",
       "image": "assets/images/Belize_42ab0c-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "belize"
+      ]
     },
     {
       "id": "CM",
@@ -449,7 +591,11 @@
       "url": "what-do-cameroons-ufo-stories-really/",
       "image": "assets/images/Cameroon_73a7dd-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of cameroon",
+        "cameroon"
+      ]
     },
     {
       "id": "CU",
@@ -461,7 +607,11 @@
       "url": "what-do-cubas-ufo-sightings-reveal-about/",
       "image": "assets/images/Cuba_c484b1-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "republic of cuba",
+        "cuba"
+      ]
     },
     {
       "id": "GA",
@@ -473,7 +623,11 @@
       "url": "what-do-gabons-ufo-stories-really-show/",
       "image": "assets/images/Gabon_a06dcd-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "gabonese republic",
+        "gabon"
+      ]
     },
     {
       "id": "GW",
@@ -485,7 +639,11 @@
       "url": "what-do-guinea-bissaus-ufo-reports/",
       "image": "assets/images/Guinea-Bissau_b07cb9-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of guinea bissau",
+        "guinea bissau"
+      ]
     },
     {
       "id": "HN",
@@ -497,7 +655,11 @@
       "url": "what-do-honduras-ufo-reports-really-show/",
       "image": "assets/images/Honduras_5aa588-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "republic of honduras",
+        "honduras"
+      ]
     },
     {
       "id": "HU",
@@ -509,7 +671,10 @@
       "url": "what-do-hungarys-ufo-stories-really-show/",
       "image": "assets/images/Hungary_f14e46-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "hungary"
+      ]
     },
     {
       "id": "IN",
@@ -521,7 +686,11 @@
       "url": "what-do-indias-ufo-reports-really-show/",
       "image": "assets/images/India_967ce3-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "republic of india",
+        "india"
+      ]
     },
     {
       "id": "CI",
@@ -533,7 +702,13 @@
       "url": "cote-d-ivoire/",
       "image": "assets/images/Cote_d_Ivoire_f8cb1a-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of cote d ivoire",
+        "cote d ivoire",
+        "cote divoire",
+        "ivory coast"
+      ]
     },
     {
       "id": "LB",
@@ -545,7 +720,11 @@
       "url": "what-do-lebanons-ufo-reports-really-show/",
       "image": "assets/images/Lebanon_5caa7f-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "lebanese republic",
+        "lebanon"
+      ]
     },
     {
       "id": "LY",
@@ -557,7 +736,10 @@
       "url": "what-do-libyas-ufo-reports-really-show/",
       "image": "assets/images/Libya_55949d-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "libya"
+      ]
     },
     {
       "id": "MY",
@@ -569,7 +751,10 @@
       "url": "what-do-malaysias-ufo-stories-really/",
       "image": "assets/images/Malaysia_ff3ea3-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "malaysia"
+      ]
     },
     {
       "id": "MN",
@@ -581,7 +766,10 @@
       "url": "what-do-mongolias-ufo-reports-really/",
       "image": "assets/images/Mongolia_f54da3-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "mongolia"
+      ]
     },
     {
       "id": "NR",
@@ -593,7 +781,11 @@
       "url": "what-do-nauru-ufo-reports-really-show/",
       "image": "assets/images/Nauru_f648c7-overview.webp",
       "pageCount": 5,
-      "region": "Oceania"
+      "region": "Oceania",
+      "mapAliases": [
+        "republic of nauru",
+        "nauru"
+      ]
     },
     {
       "id": "NG",
@@ -605,7 +797,11 @@
       "url": "what-do-nigerias-ufo-reports-really-show/",
       "image": "assets/images/Nigeria_9742d0-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "federal republic of nigeria",
+        "nigeria"
+      ]
     },
     {
       "id": "PK",
@@ -617,7 +813,11 @@
       "url": "what-do-pakistans-ufo-cases-really-show/",
       "image": "assets/images/Pakistan_82d220-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "islamic republic of pakistan",
+        "pakistan"
+      ]
     },
     {
       "id": "PA",
@@ -629,7 +829,11 @@
       "url": "what-do-panama-ufo-reports-really-show/",
       "image": "assets/images/Panama_1e36b3-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "republic of panama",
+        "panama"
+      ]
     },
     {
       "id": "PH",
@@ -641,7 +845,11 @@
       "url": "philippines/",
       "image": "assets/images/Philippines_806736-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "republic of the philippines",
+        "philippines"
+      ]
     },
     {
       "id": "QA",
@@ -653,7 +861,11 @@
       "url": "what-do-qatars-ufo-reports-really-show/",
       "image": "assets/images/Qatar_83ef3e-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "state of qatar",
+        "qatar"
+      ]
     },
     {
       "id": "SC",
@@ -665,7 +877,11 @@
       "url": "what-do-seychelles-ufo-reports-really/",
       "image": "assets/images/Seychelles_3d2d7b-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of seychelles",
+        "seychelles"
+      ]
     },
     {
       "id": "SL",
@@ -677,7 +893,11 @@
       "url": "what-do-sierra-leones-ufo-reports-really/",
       "image": "assets/images/Sierra_Leone_817b0d-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of sierra leone",
+        "sierra leone"
+      ]
     },
     {
       "id": "SO",
@@ -689,7 +909,11 @@
       "url": "what-do-somalias-ufo-reports-really-show/",
       "image": "assets/images/Somalia_4dfdf1-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "federal republic of somalia",
+        "somalia"
+      ]
     },
     {
       "id": "TJ",
@@ -701,7 +925,11 @@
       "url": "what-do-tajikistans-ufo-reports-really/",
       "image": "assets/images/Tajikistan_279c77-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "republic of tajikistan",
+        "tajikistan"
+      ]
     },
     {
       "id": "TZ",
@@ -713,7 +941,12 @@
       "url": "united-republic-of-tanzania/",
       "image": "assets/images/United_Republic_of_T_f850a5-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "tanzania united republic of",
+        "united republic of tanzania",
+        "tanzania"
+      ]
     },
     {
       "id": "TL",
@@ -725,7 +958,11 @@
       "url": "what-do-timor-leste-ufo-reports-really/",
       "image": "assets/images/Timor-Leste_2d79f6-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "democratic republic of timor leste",
+        "timor leste"
+      ]
     },
     {
       "id": "TR",
@@ -737,7 +974,12 @@
       "url": "turkiye/",
       "image": "assets/images/Turkiye_c8c5d5-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "republic of turkiye",
+        "turkiye",
+        "turkey"
+      ]
     },
     {
       "id": "GN",
@@ -749,7 +991,11 @@
       "url": "what-do-ufo-reports-in-guinea-really/",
       "image": "assets/images/Guinea_b47b54-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of guinea",
+        "guinea"
+      ]
     },
     {
       "id": "BA",
@@ -761,7 +1007,11 @@
       "url": "bosnia-and-herzegovina/",
       "image": "assets/images/Bosnia_and_Herzegovi_552c9f-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "republic of bosnia and herzegovina",
+        "bosnia and herzegovina"
+      ]
     },
     {
       "id": "BT",
@@ -773,7 +1023,11 @@
       "url": "what-do-ufo-sightings-in-bhutan-really/",
       "image": "assets/images/Bhutan_bb2254-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "kingdom of bhutan",
+        "bhutan"
+      ]
     },
     {
       "id": "BD",
@@ -785,7 +1039,11 @@
       "url": "bangladesh/",
       "image": "assets/images/Bangladesh_fa6c37-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "people s republic of bangladesh",
+        "bangladesh"
+      ]
     },
     {
       "id": "MV",
@@ -797,7 +1055,11 @@
       "url": "maldives/",
       "image": "assets/images/Maldives_213cb2-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "republic of maldives",
+        "maldives"
+      ]
     },
     {
       "id": "GQ",
@@ -809,7 +1071,11 @@
       "url": "equatorial-guinea/",
       "image": "assets/images/Equatorial_Guinea_ae2c01-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of equatorial guinea",
+        "equatorial guinea"
+      ]
     },
     {
       "id": "BW",
@@ -821,7 +1087,11 @@
       "url": "what-does-botswanas-ufo-record-really/",
       "image": "assets/images/Botswana_180c89-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of botswana",
+        "botswana"
+      ]
     },
     {
       "id": "DJ",
@@ -833,7 +1103,11 @@
       "url": "djibouti/",
       "image": "assets/images/Djibouti_60a8b0-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of djibouti",
+        "djibouti"
+      ]
     },
     {
       "id": "EC",
@@ -845,7 +1119,11 @@
       "url": "what-evidence-exists-for-ufos-in-ecuador/",
       "image": "assets/images/Ecuador_09f199-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "republic of ecuador",
+        "ecuador"
+      ]
     },
     {
       "id": "GE",
@@ -857,7 +1135,10 @@
       "url": "what-georgias-ufo-reports-reveal-about/",
       "image": "assets/images/Georgia_9113c6-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "georgia"
+      ]
     },
     {
       "id": "DE",
@@ -869,7 +1150,11 @@
       "url": "what-germanys-ufo-record-really-shows/",
       "image": "assets/images/Germany_17d53e-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "federal republic of germany",
+        "germany"
+      ]
     },
     {
       "id": "GR",
@@ -881,7 +1166,11 @@
       "url": "what-greeces-ufo-records-reveal-about/",
       "image": "assets/images/Greece_4902a4-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "hellenic republic",
+        "greece"
+      ]
     },
     {
       "id": "GT",
@@ -893,7 +1182,11 @@
       "url": "what-guatemalas-ufo-reports-really/",
       "image": "assets/images/Guatemala_11760e-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "republic of guatemala",
+        "guatemala"
+      ]
     },
     {
       "id": "BN",
@@ -905,7 +1198,11 @@
       "url": "brunei-darussalam/",
       "image": "assets/images/Brunei_Darussalam_eab94a-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "brunei darussalam",
+        "brunei"
+      ]
     },
     {
       "id": "LV",
@@ -917,7 +1214,11 @@
       "url": "what-has-latvia-really-seen-in-the-sky/",
       "image": "assets/images/Latvia_c5f5bb-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "republic of latvia",
+        "latvia"
+      ]
     },
     {
       "id": "MT",
@@ -929,7 +1230,11 @@
       "url": "what-has-malta-really-seen-in-the-sky/",
       "image": "assets/images/Malta_1a591a-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "republic of malta",
+        "malta"
+      ]
     },
     {
       "id": "LC",
@@ -941,7 +1246,10 @@
       "url": "what-has-saint-lucia-really-reported/",
       "image": "assets/images/Saint_Lucia_85ac35-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "saint lucia"
+      ]
     },
     {
       "id": "WS",
@@ -953,7 +1261,11 @@
       "url": "what-has-samoa-really-seen-in-the-sky/",
       "image": "assets/images/Samoa_f56806-overview.webp",
       "pageCount": 5,
-      "region": "Oceania"
+      "region": "Oceania",
+      "mapAliases": [
+        "independent state of samoa",
+        "samoa"
+      ]
     },
     {
       "id": "ZM",
@@ -965,7 +1277,11 @@
       "url": "what-has-zambia-really-seen-in-the-sky/",
       "image": "assets/images/Zambia_dcf25e-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of zambia",
+        "zambia"
+      ]
     },
     {
       "id": "ID",
@@ -977,7 +1293,11 @@
       "url": "what-indonesias-ufo-record-really-shows/",
       "image": "assets/images/Indonesia_35536a-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "republic of indonesia",
+        "indonesia"
+      ]
     },
     {
       "id": "AD",
@@ -989,7 +1309,11 @@
       "url": "what-is-actually-known-about-andorra/",
       "image": "assets/images/Andorra_9d3bd1-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "principality of andorra",
+        "andorra"
+      ]
     },
     {
       "id": "AG",
@@ -1001,7 +1325,10 @@
       "url": "antigua-and-barbuda/",
       "image": "assets/images/Antigua_and_Barbuda_0f8518-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "antigua and barbuda"
+      ]
     },
     {
       "id": "AZ",
@@ -1013,7 +1340,11 @@
       "url": "what-is-behind-azerbaijans-ufo-reports/",
       "image": "assets/images/Azerbaijan_213598-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "republic of azerbaijan",
+        "azerbaijan"
+      ]
     },
     {
       "id": "LR",
@@ -1025,7 +1356,11 @@
       "url": "what-is-known-about-ufos-in-liberia/",
       "image": "assets/images/Liberia_1ed5dd-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of liberia",
+        "liberia"
+      ]
     },
     {
       "id": "TD",
@@ -1037,7 +1372,11 @@
       "url": "what-is-really-behind-chads-ufo-reports/",
       "image": "assets/images/Chad_6c6b1b-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of chad",
+        "chad"
+      ]
     },
     {
       "id": "GM",
@@ -1049,7 +1388,11 @@
       "url": "what-is-really-behind-gambias-ufo/",
       "image": "assets/images/Gambia_7c3997-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of the gambia",
+        "gambia"
+      ]
     },
     {
       "id": "MM",
@@ -1061,7 +1404,11 @@
       "url": "what-is-really-behind-myanmar-ufo/",
       "image": "assets/images/Myanmar_928b7c-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "republic of myanmar",
+        "myanmar"
+      ]
     },
     {
       "id": "NA",
@@ -1073,7 +1420,11 @@
       "url": "what-is-really-behind-namibias-ufo/",
       "image": "assets/images/Namibia_bfe79d-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of namibia",
+        "namibia"
+      ]
     },
     {
       "id": "SK",
@@ -1085,7 +1436,11 @@
       "url": "what-is-really-behind-slovakias-ufo/",
       "image": "assets/images/Slovakia_b6c149-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "slovak republic",
+        "slovakia"
+      ]
     },
     {
       "id": "SZ",
@@ -1097,7 +1452,11 @@
       "url": "what-is-really-in-eswatinis-ufo-record/",
       "image": "assets/images/Eswatini_16cc7f-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "kingdom of eswatini",
+        "eswatini"
+      ]
     },
     {
       "id": "JM",
@@ -1109,7 +1468,10 @@
       "url": "what-is-really-in-jamaicas-ufo-record/",
       "image": "assets/images/Jamaica_5eedd6-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "jamaica"
+      ]
     },
     {
       "id": "MK",
@@ -1121,7 +1483,11 @@
       "url": "what-is-really-in-north-macedonias-ufo/",
       "image": "assets/images/North_Macedonia_cece1d-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "republic of north macedonia",
+        "north macedonia"
+      ]
     },
     {
       "id": "UZ",
@@ -1133,7 +1499,11 @@
       "url": "what-is-really-in-uzbekistans-ufo-record/",
       "image": "assets/images/Uzbekistan_db800e-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "republic of uzbekistan",
+        "uzbekistan"
+      ]
     },
     {
       "id": "YE",
@@ -1145,7 +1515,11 @@
       "url": "what-is-really-in-yemens-ufo-record/",
       "image": "assets/images/Yemen_ac33d6-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "republic of yemen",
+        "yemen"
+      ]
     },
     {
       "id": "BI",
@@ -1157,7 +1531,11 @@
       "url": "what-is-really-known-about-burundi-ufos/",
       "image": "assets/images/Burundi_461758-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of burundi",
+        "burundi"
+      ]
     },
     {
       "id": "CO",
@@ -1169,7 +1547,11 @@
       "url": "what-is-really-known-about-colombias-ufo/",
       "image": "assets/images/Colombia_2f7373-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "republic of colombia",
+        "colombia"
+      ]
     },
     {
       "id": "KI",
@@ -1181,7 +1563,11 @@
       "url": "what-is-really-known-about-kiribati-ufos/",
       "image": "assets/images/Kiribati_3f57ad-overview.webp",
       "pageCount": 5,
-      "region": "Oceania"
+      "region": "Oceania",
+      "mapAliases": [
+        "republic of kiribati",
+        "kiribati"
+      ]
     },
     {
       "id": "LS",
@@ -1193,7 +1579,11 @@
       "url": "what-is-really-known-about-lesotho-ufos/",
       "image": "assets/images/Lesotho_93b12b-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "kingdom of lesotho",
+        "lesotho"
+      ]
     },
     {
       "id": "NE",
@@ -1205,7 +1595,11 @@
       "url": "what-is-really-known-about-niger-ufos/",
       "image": "assets/images/Niger_6687e1-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of the niger",
+        "niger"
+      ]
     },
     {
       "id": "PW",
@@ -1217,7 +1611,11 @@
       "url": "what-is-really-known-about-palau-ufos/",
       "image": "assets/images/Palau_e5e0b6-overview.webp",
       "pageCount": 5,
-      "region": "Oceania"
+      "region": "Oceania",
+      "mapAliases": [
+        "republic of palau",
+        "palau"
+      ]
     },
     {
       "id": "TM",
@@ -1229,7 +1627,10 @@
       "url": "what-is-really-known-about-turkmenistan/",
       "image": "assets/images/Turkmenistan_1f8dc1-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "turkmenistan"
+      ]
     },
     {
       "id": "DO",
@@ -1241,7 +1642,10 @@
       "url": "dominican-republic/",
       "image": "assets/images/Dominican_Republic_dba665-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "dominican republic"
+      ]
     },
     {
       "id": "IE",
@@ -1253,7 +1657,10 @@
       "url": "what-is-really-seen-over-ireland/",
       "image": "assets/images/Ireland_eb2131-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "ireland"
+      ]
     },
     {
       "id": "KZ",
@@ -1265,7 +1672,11 @@
       "url": "what-is-really-seen-over-kazakhstan/",
       "image": "assets/images/Kazakhstan_2f36b6-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "republic of kazakhstan",
+        "kazakhstan"
+      ]
     },
     {
       "id": "TT",
@@ -1277,7 +1688,11 @@
       "url": "trinidad-and-tobago/",
       "image": "assets/images/Trinidad_and_Tobago_a73120-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "republic of trinidad and tobago",
+        "trinidad and tobago"
+      ]
     },
     {
       "id": "AE",
@@ -1289,7 +1704,11 @@
       "url": "united-arab-emirates/",
       "image": "assets/images/United_Arab_Emirates_c92b89-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "united arab emirates",
+        "uae"
+      ]
     },
     {
       "id": "UA",
@@ -1301,7 +1720,10 @@
       "url": "what-is-really-seen-over-ukraine/",
       "image": "assets/images/Ukraine_c951ec-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "ukraine"
+      ]
     },
     {
       "id": "RW",
@@ -1313,7 +1735,11 @@
       "url": "what-is-rwandas-real-ufo-record/",
       "image": "assets/images/Rwanda_7266a1-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "rwandese republic",
+        "rwanda"
+      ]
     },
     {
       "id": "LK",
@@ -1325,7 +1751,11 @@
       "url": "what-is-sri-lankas-ufo-record-really/",
       "image": "assets/images/Sri_Lanka_db33ad-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "democratic socialist republic of sri lanka",
+        "sri lanka"
+      ]
     },
     {
       "id": "CH",
@@ -1337,7 +1767,11 @@
       "url": "what-is-switzerlands-ufo-record-really/",
       "image": "assets/images/Switzerland_77dcd8-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "swiss confederation",
+        "switzerland"
+      ]
     },
     {
       "id": "LT",
@@ -1349,7 +1783,11 @@
       "url": "what-lithuanias-ufo-reports-really-show/",
       "image": "assets/images/Lithuania_74a788-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "republic of lithuania",
+        "lithuania"
+      ]
     },
     {
       "id": "CZ",
@@ -1361,7 +1799,11 @@
       "url": "czechia/",
       "image": "assets/images/Czechia_045e2f-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "czech republic",
+        "czechia"
+      ]
     },
     {
       "id": "EG",
@@ -1373,7 +1815,11 @@
       "url": "what-makes-egypt-a-hotspot-for-ufo/",
       "image": "assets/images/Egypt_1c39ab-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "arab republic of egypt",
+        "egypt"
+      ]
     },
     {
       "id": "IT",
@@ -1385,7 +1831,11 @@
       "url": "what-makes-italys-ufo-record-unique-and/",
       "image": "assets/images/Italy_ad79ef-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "italian republic",
+        "italy"
+      ]
     },
     {
       "id": "JP",
@@ -1397,7 +1847,10 @@
       "url": "what-makes-japans-ufo-record-so-unusual/",
       "image": "assets/images/Japan_fcf29f-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "japan"
+      ]
     },
     {
       "id": "LI",
@@ -1409,7 +1862,11 @@
       "url": "what-makes-liechtensteins-ufo-story/",
       "image": "assets/images/Liechtenstein_b0ddce-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "principality of liechtenstein",
+        "liechtenstein"
+      ]
     },
     {
       "id": "NO",
@@ -1421,7 +1878,11 @@
       "url": "what-makes-norways-ufo-record-different/",
       "image": "assets/images/Norway_988455-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "kingdom of norway",
+        "norway"
+      ]
     },
     {
       "id": "PE",
@@ -1433,7 +1894,11 @@
       "url": "what-makes-perus-ufo-story-so/",
       "image": "assets/images/Peru_36c572-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "republic of peru",
+        "peru"
+      ]
     },
     {
       "id": "SE",
@@ -1445,7 +1910,11 @@
       "url": "what-makes-swedens-ufo-record-different/",
       "image": "assets/images/Sweden_72ddd2-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "kingdom of sweden",
+        "sweden"
+      ]
     },
     {
       "id": "MD",
@@ -1457,7 +1926,12 @@
       "url": "republic-of-moldova/",
       "image": "assets/images/Republic_of_Moldova_a6ad94-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "moldova republic of",
+        "republic of moldova",
+        "moldova"
+      ]
     },
     {
       "id": "NZ",
@@ -1469,7 +1943,10 @@
       "url": "what-new-zealands-ufo-files-really-show/",
       "image": "assets/images/New_Zealand_3d3336-overview.webp",
       "pageCount": 5,
-      "region": "Oceania"
+      "region": "Oceania",
+      "mapAliases": [
+        "new zealand"
+      ]
     },
     {
       "id": "SD",
@@ -1481,7 +1958,11 @@
       "url": "what-really-appeared-over-sudan/",
       "image": "assets/images/Sudan_1193ba-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of the sudan",
+        "sudan"
+      ]
     },
     {
       "id": "CG",
@@ -1493,7 +1974,12 @@
       "url": "what-really-counts-as-a-congo-ufo/",
       "image": "assets/images/Congo_77f256-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of the congo",
+        "republic of congo",
+        "congo"
+      ]
     },
     {
       "id": "TH",
@@ -1505,7 +1991,11 @@
       "url": "thailand/",
       "image": "assets/images/Thailand_a2b7c1-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "kingdom of thailand",
+        "thailand"
+      ]
     },
     {
       "id": "AF",
@@ -1517,7 +2007,11 @@
       "url": "afghanistan/",
       "image": "assets/images/Afghanistan_c69153-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "islamic republic of afghanistan",
+        "afghanistan"
+      ]
     },
     {
       "id": "OM",
@@ -1529,7 +2023,11 @@
       "url": "what-really-counts-as-an-oman-ufo/",
       "image": "assets/images/Oman_c14c36-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "sultanate of oman",
+        "oman"
+      ]
     },
     {
       "id": "ET",
@@ -1541,7 +2039,11 @@
       "url": "what-really-counts-as-ethiopias-ufo/",
       "image": "assets/images/Ethiopia_3d91f7-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "federal democratic republic of ethiopia",
+        "ethiopia"
+      ]
     },
     {
       "id": "TO",
@@ -1553,7 +2055,11 @@
       "url": "what-really-exists-in-tongas-ufo-record/",
       "image": "assets/images/Tonga_e8a123-overview.webp",
       "pageCount": 5,
-      "region": "Oceania"
+      "region": "Oceania",
+      "mapAliases": [
+        "kingdom of tonga",
+        "tonga"
+      ]
     },
     {
       "id": "AM",
@@ -1565,7 +2071,11 @@
       "url": "what-really-explains-armenias-ufo/",
       "image": "assets/images/Armenia_5f4599-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "republic of armenia",
+        "armenia"
+      ]
     },
     {
       "id": "BG",
@@ -1577,7 +2087,11 @@
       "url": "what-really-explains-bulgarias-ufo/",
       "image": "assets/images/Bulgaria_5c7772-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "republic of bulgaria",
+        "bulgaria"
+      ]
     },
     {
       "id": "KG",
@@ -1589,7 +2103,11 @@
       "url": "what-really-explains-kyrgyzstans-ufo/",
       "image": "assets/images/Kyrgyzstan_c78791-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "kyrgyz republic",
+        "kyrgyzstan"
+      ]
     },
     {
       "id": "MH",
@@ -1601,7 +2119,11 @@
       "url": "what-really-explains-marshall-islands/",
       "image": "assets/images/Marshall_Islands_ccbdc0-overview.webp",
       "pageCount": 5,
-      "region": "Oceania"
+      "region": "Oceania",
+      "mapAliases": [
+        "republic of the marshall islands",
+        "marshall islands"
+      ]
     },
     {
       "id": "SA",
@@ -1613,7 +2135,11 @@
       "url": "what-really-explains-saudi-arabias-ufo/",
       "image": "assets/images/Saudi_Arabia_8bf7f8-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "kingdom of saudi arabia",
+        "saudi arabia"
+      ]
     },
     {
       "id": "VU",
@@ -1625,7 +2151,11 @@
       "url": "what-really-explains-vanuatus-strange/",
       "image": "assets/images/Vanuatu_d16ad2-overview.webp",
       "pageCount": 5,
-      "region": "Oceania"
+      "region": "Oceania",
+      "mapAliases": [
+        "republic of vanuatu",
+        "vanuatu"
+      ]
     },
     {
       "id": "KE",
@@ -1637,7 +2167,11 @@
       "url": "what-really-fell-from-kenyas-skies/",
       "image": "assets/images/Kenya_a84f56-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of kenya",
+        "kenya"
+      ]
     },
     {
       "id": "CD",
@@ -1649,7 +2183,12 @@
       "url": "democratic-republic-of-the-congo/",
       "image": "assets/images/Democratic_Republic_679868-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "congo the democratic republic of the",
+        "democratic republic of the congo",
+        "drc"
+      ]
     },
     {
       "id": "SV",
@@ -1661,7 +2200,11 @@
       "url": "what-really-flies-over-el-salvador/",
       "image": "assets/images/El_Salvador_9b83b7-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "republic of el salvador",
+        "el salvador"
+      ]
     },
     {
       "id": "BE",
@@ -1673,7 +2216,11 @@
       "url": "what-really-happened-during-belgiums/",
       "image": "assets/images/Belgium_5cb4c9-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "kingdom of belgium",
+        "belgium"
+      ]
     },
     {
       "id": "AU",
@@ -1685,7 +2232,10 @@
       "url": "what-really-happened-in-australias-ufo/",
       "image": "assets/images/Australia_ceafb5-overview.webp",
       "pageCount": 5,
-      "region": "Oceania"
+      "region": "Oceania",
+      "mapAliases": [
+        "australia"
+      ]
     },
     {
       "id": "BB",
@@ -1697,7 +2247,10 @@
       "url": "what-really-happened-in-barbados-skies/",
       "image": "assets/images/Barbados_93409a-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "barbados"
+      ]
     },
     {
       "id": "BO",
@@ -1709,7 +2262,12 @@
       "url": "bolivia-plurinational-state-of/",
       "image": "assets/images/Bolivia_Plurinationa_9e2db7-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "bolivia plurinational state of",
+        "plurinational state of bolivia",
+        "bolivia"
+      ]
     },
     {
       "id": "GB",
@@ -1721,7 +2279,13 @@
       "url": "united-kingdom/",
       "image": "assets/images/United_Kingdom_d25561-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "united kingdom of great britain and northern ireland",
+        "united kingdom",
+        "great britain",
+        "uk"
+      ]
     },
     {
       "id": "KH",
@@ -1733,7 +2297,11 @@
       "url": "what-really-happened-in-cambodias-ufo/",
       "image": "assets/images/Cambodia_314ccd-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "kingdom of cambodia",
+        "cambodia"
+      ]
     },
     {
       "id": "CR",
@@ -1745,7 +2313,11 @@
       "url": "what-really-happened-in-costa-ricas-ufo/",
       "image": "assets/images/Costa_Rica_fe586b-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "republic of costa rica",
+        "costa rica"
+      ]
     },
     {
       "id": "NL",
@@ -1757,7 +2329,12 @@
       "url": "netherlands-kingdom-of-the/",
       "image": "assets/images/Netherlands_Kingdom_d6d70a-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "kingdom of the netherlands",
+        "netherlands kingdom of the",
+        "netherlands"
+      ]
     },
     {
       "id": "HT",
@@ -1769,7 +2346,11 @@
       "url": "what-really-happened-in-haitis-ufo/",
       "image": "assets/images/Haiti_a4842f-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "republic of haiti",
+        "haiti"
+      ]
     },
     {
       "id": "IR",
@@ -1781,7 +2362,12 @@
       "url": "iran-islamic-republic-of/",
       "image": "assets/images/Iran_Islamic_Republi_94f9ee-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "iran islamic republic of",
+        "islamic republic of iran",
+        "iran"
+      ]
     },
     {
       "id": "KR",
@@ -1793,7 +2379,12 @@
       "url": "republic-of-korea/",
       "image": "assets/images/Republic_of_Korea_8d9deb-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "korea republic of",
+        "republic of korea",
+        "south korea"
+      ]
     },
     {
       "id": "KW",
@@ -1805,7 +2396,11 @@
       "url": "what-really-happened-in-kuwaits-ufo/",
       "image": "assets/images/Kuwait_93295b-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "state of kuwait",
+        "kuwait"
+      ]
     },
     {
       "id": "MU",
@@ -1817,7 +2412,11 @@
       "url": "what-really-happened-in-mauritius-sky/",
       "image": "assets/images/Mauritius_26160d-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of mauritius",
+        "mauritius"
+      ]
     },
     {
       "id": "MX",
@@ -1829,7 +2428,11 @@
       "url": "what-really-happened-in-mexicos-ufo/",
       "image": "assets/images/Mexico_41937b-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "united mexican states",
+        "mexico"
+      ]
     },
     {
       "id": "NP",
@@ -1841,7 +2444,11 @@
       "url": "what-really-happened-in-nepals-ufo/",
       "image": "assets/images/Nepal_0e1d58-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "federal democratic republic of nepal",
+        "nepal"
+      ]
     },
     {
       "id": "NI",
@@ -1853,7 +2460,11 @@
       "url": "what-really-happened-in-nicaraguas-ufo/",
       "image": "assets/images/Nicaragua_481264-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "republic of nicaragua",
+        "nicaragua"
+      ]
     },
     {
       "id": "PY",
@@ -1865,7 +2476,11 @@
       "url": "what-really-happened-in-paraguays-ufo/",
       "image": "assets/images/Paraguay_71a452-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "republic of paraguay",
+        "paraguay"
+      ]
     },
     {
       "id": "PG",
@@ -1877,7 +2492,11 @@
       "url": "papua-new-guinea/",
       "image": "assets/images/Papua_New_Guinea_90e80c-overview.webp",
       "pageCount": 5,
-      "region": "Oceania"
+      "region": "Oceania",
+      "mapAliases": [
+        "independent state of papua new guinea",
+        "papua new guinea"
+      ]
     },
     {
       "id": "PL",
@@ -1889,7 +2508,11 @@
       "url": "what-really-happened-in-polands-ufo/",
       "image": "assets/images/Poland_5ff03b-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "republic of poland",
+        "poland"
+      ]
     },
     {
       "id": "SB",
@@ -1901,7 +2524,10 @@
       "url": "what-really-happened-in-solomon/",
       "image": "assets/images/Solomon_Islands_6f943d-overview.webp",
       "pageCount": 5,
-      "region": "Oceania"
+      "region": "Oceania",
+      "mapAliases": [
+        "solomon islands"
+      ]
     },
     {
       "id": "KN",
@@ -1913,7 +2539,11 @@
       "url": "saint-kitts-and-nevis/",
       "image": "assets/images/Saint_Kitts_and_Nevi_a66de5-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "saint kitts and nevis",
+        "st kitts and nevis"
+      ]
     },
     {
       "id": "TG",
@@ -1925,7 +2555,11 @@
       "url": "what-really-happened-in-togos-ufo-files/",
       "image": "assets/images/Togo_30949d-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "togolese republic",
+        "togo"
+      ]
     },
     {
       "id": "TN",
@@ -1937,7 +2571,11 @@
       "url": "what-really-happened-in-tunisias-ufo/",
       "image": "assets/images/Tunisia_edf404-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of tunisia",
+        "tunisia"
+      ]
     },
     {
       "id": "UG",
@@ -1949,7 +2587,11 @@
       "url": "what-really-happened-in-ugandas-ufo/",
       "image": "assets/images/Uganda_e92904-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of uganda",
+        "uganda"
+      ]
     },
     {
       "id": "ZW",
@@ -1961,7 +2603,11 @@
       "url": "what-really-happened-in-zimbabwes-ufo/",
       "image": "assets/images/Zimbabwe_5922f5-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of zimbabwe",
+        "zimbabwe"
+      ]
     },
     {
       "id": "GH",
@@ -1973,7 +2619,11 @@
       "url": "ghana/",
       "image": "assets/images/Ghana_317dba-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of ghana",
+        "ghana"
+      ]
     },
     {
       "id": "BS",
@@ -1985,7 +2635,12 @@
       "url": "the-bahamas/",
       "image": "assets/images/The_Bahamas_f765dc-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "commonwealth of the bahamas",
+        "the bahamas",
+        "bahamas"
+      ]
     },
     {
       "id": "EE",
@@ -1997,7 +2652,11 @@
       "url": "what-really-shapes-estonias-ufo-record/",
       "image": "assets/images/Estonia_f0a96d-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "republic of estonia",
+        "estonia"
+      ]
     },
     {
       "id": "VE",
@@ -2009,7 +2668,12 @@
       "url": "venezuela-bolivarian-republic-of/",
       "image": "assets/images/Venezuela_Bolivarian_3dc4c3-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "bolivarian republic of venezuela",
+        "venezuela bolivarian republic of",
+        "venezuela"
+      ]
     },
     {
       "id": "SI",
@@ -2021,7 +2685,11 @@
       "url": "what-really-stands-out-in-slovenias-ufo/",
       "image": "assets/images/Slovenia_d1aa05-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "republic of slovenia",
+        "slovenia"
+      ]
     },
     {
       "id": "ZA",
@@ -2033,7 +2701,11 @@
       "url": "what-really-stands-out-in-south/",
       "image": "assets/images/South_Africa_3b27c8-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of south africa",
+        "south africa"
+      ]
     },
     {
       "id": "MZ",
@@ -2045,7 +2717,11 @@
       "url": "what-really-survives-in-mozambiques-ufo/",
       "image": "assets/images/Mozambique_a40a9b-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of mozambique",
+        "mozambique"
+      ]
     },
     {
       "id": "RO",
@@ -2057,7 +2733,10 @@
       "url": "what-romanias-ufo-record-really-shows/",
       "image": "assets/images/Romania_d6b897-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "romania"
+      ]
     },
     {
       "id": "SG",
@@ -2069,7 +2748,11 @@
       "url": "what-singapore-ufo-sightings-really-show/",
       "image": "assets/images/Singapore_20c0b7-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "republic of singapore",
+        "singapore"
+      ]
     },
     {
       "id": "SR",
@@ -2081,7 +2764,11 @@
       "url": "what-surinames-ufo-stories-really-show/",
       "image": "assets/images/Suriname_b17fc6-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "republic of suriname",
+        "suriname"
+      ]
     },
     {
       "id": "SN",
@@ -2093,7 +2780,11 @@
       "url": "what-survives-in-senegals-ufo-record/",
       "image": "assets/images/Senegal_d8973b-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of senegal",
+        "senegal"
+      ]
     },
     {
       "id": "SY",
@@ -2105,7 +2796,11 @@
       "url": "syrian-arab-republic/",
       "image": "assets/images/Syrian_Arab_Republic_099887-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "syrian arab republic",
+        "syria"
+      ]
     },
     {
       "id": "LA",
@@ -2117,7 +2812,11 @@
       "url": "lao-people-s-democratic-republic/",
       "image": "assets/images/Lao_People_s_Democra_44f2bd-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "lao people s democratic republic",
+        "laos"
+      ]
     },
     {
       "id": "CV",
@@ -2129,7 +2828,12 @@
       "url": "what-ufo-reports-survive-cabo-verde/",
       "image": "assets/images/Cabo_Verde_2a5bf1-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of cabo verde",
+        "cabo verde",
+        "cape verde"
+      ]
     },
     {
       "id": "CY",
@@ -2141,7 +2845,11 @@
       "url": "what-ufo-sightings-have-shaped-cyprus/",
       "image": "assets/images/Cyprus_852add-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "republic of cyprus",
+        "cyprus"
+      ]
     },
     {
       "id": "ER",
@@ -2153,7 +2861,11 @@
       "url": "what-ufos-have-been-reported-in/",
       "image": "assets/images/Eritrea_18740a-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "the state of eritrea",
+        "eritrea"
+      ]
     },
     {
       "id": "FI",
@@ -2165,7 +2877,11 @@
       "url": "finland/",
       "image": "assets/images/Finland_c909b1-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "republic of finland",
+        "finland"
+      ]
     },
     {
       "id": "AL",
@@ -2177,7 +2893,11 @@
       "url": "albania/",
       "image": "assets/images/Albania_79b9d2-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "republic of albania",
+        "albania"
+      ]
     },
     {
       "id": "IQ",
@@ -2189,7 +2909,11 @@
       "url": "iraq/",
       "image": "assets/images/Iraq_1aed9e-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "republic of iraq",
+        "iraq"
+      ]
     },
     {
       "id": "UY",
@@ -2201,7 +2925,11 @@
       "url": "what-uruguays-ufo-files-really-show/",
       "image": "assets/images/Uruguay_66b989-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "eastern republic of uruguay",
+        "uruguay"
+      ]
     },
     {
       "id": "VC",
@@ -2213,7 +2941,11 @@
       "url": "saint-vincent-and-the-grenadines/",
       "image": "assets/images/Saint_Vincent_and_th_3bce2a-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "saint vincent and the grenadines",
+        "st vincent and the grenadines"
+      ]
     },
     {
       "id": "DK",
@@ -2225,7 +2957,11 @@
       "url": "what-we-know-about-ufo-phenomena-in/",
       "image": "assets/images/Denmark_89da12-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "kingdom of denmark",
+        "denmark"
+      ]
     },
     {
       "id": "BF",
@@ -2237,7 +2973,10 @@
       "url": "burkina-faso/",
       "image": "assets/images/Burkina_Faso_f61e5f-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "burkina faso"
+      ]
     },
     {
       "id": "GY",
@@ -2249,7 +2988,11 @@
       "url": "what-we-know-about-ufo-sightings-in/",
       "image": "assets/images/Guyana_bc88a2-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "republic of guyana",
+        "guyana"
+      ]
     },
     {
       "id": "KP",
@@ -2261,7 +3004,12 @@
       "url": "democratic-people-s-republic-of-korea/",
       "image": "assets/images/Democratic_People_s_808714-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "democratic people s republic of korea",
+        "korea democratic people s republic of",
+        "north korea"
+      ]
     },
     {
       "id": "MR",
@@ -2273,7 +3021,11 @@
       "url": "why-are-mauritanias-ufo-records-so/",
       "image": "assets/images/Mauritania_85fa35-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "islamic republic of mauritania",
+        "mauritania"
+      ]
     },
     {
       "id": "ST",
@@ -2285,7 +3037,11 @@
       "url": "sao-tome-and-principe/",
       "image": "assets/images/Sao_Tome_and_Princip_3437b2-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "democratic republic of sao tome and principe",
+        "sao tome and principe"
+      ]
     },
     {
       "id": "GD",
@@ -2297,7 +3053,10 @@
       "url": "why-grenada-became-a-ufo-footnote/",
       "image": "assets/images/Grenada_dbf2a2-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "grenada"
+      ]
     },
     {
       "id": "FM",
@@ -2309,7 +3068,12 @@
       "url": "micronesia-federated-states-of/",
       "image": "assets/images/Micronesia_Federated_30e9e8-overview.webp",
       "pageCount": 5,
-      "region": "Oceania"
+      "region": "Oceania",
+      "mapAliases": [
+        "federated states of micronesia",
+        "micronesia federated states of",
+        "micronesia"
+      ]
     },
     {
       "id": "SM",
@@ -2321,7 +3085,11 @@
       "url": "why-san-marino-became-a-ufo-meeting/",
       "image": "assets/images/San_Marino_8ff2c5-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "republic of san marino",
+        "san marino"
+      ]
     }
   ],
   "countries": [
@@ -2335,7 +3103,11 @@
       "url": "are-monaco-ufo-sightings-really/",
       "image": "assets/images/Monaco_35ab1c-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "principality of monaco",
+        "monaco"
+      ]
     },
     {
       "id": "ML",
@@ -2347,7 +3119,11 @@
       "url": "are-there-any-real-mali-ufo-cases/",
       "image": "assets/images/Mali_daa6a4-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of mali",
+        "mali"
+      ]
     },
     {
       "id": "ME",
@@ -2359,7 +3135,10 @@
       "url": "are-ufos-really-seen-over-montenegro/",
       "image": "assets/images/Montenegro_479fb3-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "montenegro"
+      ]
     },
     {
       "id": "AR",
@@ -2371,7 +3150,11 @@
       "url": "argentinas-ufo-stories-records-and/",
       "image": "assets/images/Argentina_354bf9-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "argentine republic",
+        "argentina"
+      ]
     },
     {
       "id": "DM",
@@ -2383,7 +3166,11 @@
       "url": "does-dominica-have-real-ufo-cases/",
       "image": "assets/images/Dominica_bc1cd4-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "commonwealth of dominica",
+        "dominica"
+      ]
     },
     {
       "id": "IS",
@@ -2395,7 +3182,11 @@
       "url": "does-iceland-have-a-real-ufo-record/",
       "image": "assets/images/Iceland_b3c92e-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "republic of iceland",
+        "iceland"
+      ]
     },
     {
       "id": "KM",
@@ -2407,7 +3198,11 @@
       "url": "have-ufos-really-been-seen-over-comoros/",
       "image": "assets/images/Comoros_e5bb59-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "union of the comoros",
+        "comoros"
+      ]
     },
     {
       "id": "CL",
@@ -2419,7 +3214,11 @@
       "url": "how-chile-investigates-ufos-and-aerial/",
       "image": "assets/images/Chile_349507-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "republic of chile",
+        "chile"
+      ]
     },
     {
       "id": "FR",
@@ -2431,7 +3230,11 @@
       "url": "how-france-investigates-and-archives-ufo/",
       "image": "assets/images/France_e3772a-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "french republic",
+        "france"
+      ]
     },
     {
       "id": "MG",
@@ -2443,7 +3246,11 @@
       "url": "madagascars-ufo-record-famous-case-thin/",
       "image": "assets/images/Madagascar_f92bcb-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of madagascar",
+        "madagascar"
+      ]
     },
     {
       "id": "MA",
@@ -2455,7 +3262,11 @@
       "url": "moroccos-ufo-mystery-and-its-best/",
       "image": "assets/images/Morocco_32e087-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "kingdom of morocco",
+        "morocco"
+      ]
     },
     {
       "id": "PT",
@@ -2467,7 +3278,11 @@
       "url": "portugals-ufo-files-mystery-memory-and/",
       "image": "assets/images/Portugal_a49519-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "portuguese republic",
+        "portugal"
+      ]
     },
     {
       "id": "RU",
@@ -2479,7 +3294,11 @@
       "url": "russian-federation/",
       "image": "assets/images/Russian_Federation_87c89a-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "russian federation",
+        "russia"
+      ]
     },
     {
       "id": "ES",
@@ -2491,7 +3310,11 @@
       "url": "spains-ufo-files-mystery-evidence-and/",
       "image": "assets/images/Spain_20a8df-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "kingdom of spain",
+        "spain"
+      ]
     },
     {
       "id": "LU",
@@ -2503,7 +3326,11 @@
       "url": "uncovering-ufo-activity-across/",
       "image": "assets/images/Luxembourg_507672-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "grand duchy of luxembourg",
+        "luxembourg"
+      ]
     },
     {
       "id": "IL",
@@ -2515,7 +3342,11 @@
       "url": "uncovering-ufo-phenomena-across-israel/",
       "image": "assets/images/Israel_4c197d-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "state of israel",
+        "israel"
+      ]
     },
     {
       "id": "FJ",
@@ -2527,7 +3358,11 @@
       "url": "fiji/",
       "image": "assets/images/Fiji_bbb7ef-overview.webp",
       "pageCount": 5,
-      "region": "Oceania"
+      "region": "Oceania",
+      "mapAliases": [
+        "republic of fiji",
+        "fiji"
+      ]
     },
     {
       "id": "MW",
@@ -2539,7 +3374,11 @@
       "url": "what-are-malawis-documented-ufos-and-sky/",
       "image": "assets/images/Malawi_0ce65b-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of malawi",
+        "malawi"
+      ]
     },
     {
       "id": "DZ",
@@ -2551,7 +3390,11 @@
       "url": "algeria/",
       "image": "assets/images/Algeria_bd6acc-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "people s democratic republic of algeria",
+        "algeria"
+      ]
     },
     {
       "id": "BY",
@@ -2563,7 +3406,11 @@
       "url": "what-belarus-ufo-reports-really-show/",
       "image": "assets/images/Belarus_027a12-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "republic of belarus",
+        "belarus"
+      ]
     },
     {
       "id": "BR",
@@ -2575,7 +3422,11 @@
       "url": "what-brazils-ufo-records-reveal-about/",
       "image": "assets/images/Brazil_37497a-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "federative republic of brazil",
+        "brazil"
+      ]
     },
     {
       "id": "AO",
@@ -2587,7 +3438,11 @@
       "url": "what-can-angolas-ufo-record-really-prove/",
       "image": "assets/images/Angola_a42522-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of angola",
+        "angola"
+      ]
     },
     {
       "id": "BJ",
@@ -2599,7 +3454,11 @@
       "url": "what-can-really-be-said-about-benin-ufos/",
       "image": "assets/images/Benin_373616-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of benin",
+        "benin"
+      ]
     },
     {
       "id": "RS",
@@ -2611,7 +3470,11 @@
       "url": "what-can-serbias-ufo-record-really-show/",
       "image": "assets/images/Serbia_6d31bf-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "republic of serbia",
+        "serbia"
+      ]
     },
     {
       "id": "TV",
@@ -2623,7 +3486,10 @@
       "url": "what-can-tuvalus-ufo-record-really-show/",
       "image": "assets/images/Tuvalu_9a2248-overview.webp",
       "pageCount": 5,
-      "region": "Oceania"
+      "region": "Oceania",
+      "mapAliases": [
+        "tuvalu"
+      ]
     },
     {
       "id": "CA",
@@ -2635,7 +3501,10 @@
       "url": "what-canada-ufo-reports-really-show/",
       "image": "assets/images/Canada_cd6a7b-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "canada"
+      ]
     },
     {
       "id": "CN",
@@ -2647,7 +3516,11 @@
       "url": "what-chinas-ufo-cases-really-show/",
       "image": "assets/images/China_d2eaf2-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "people s republic of china",
+        "china"
+      ]
     },
     {
       "id": "SS",
@@ -2659,7 +3532,11 @@
       "url": "what-counts-as-a-south-sudan-ufo-case/",
       "image": "assets/images/South_Sudan_80ac9c-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of south sudan",
+        "south sudan"
+      ]
     },
     {
       "id": "CF",
@@ -2671,7 +3548,10 @@
       "url": "central-african-republic/",
       "image": "assets/images/Central_African_Repu_358788-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "central african republic"
+      ]
     },
     {
       "id": "JO",
@@ -2683,7 +3563,11 @@
       "url": "what-counts-as-a-ufo-in-jordan/",
       "image": "assets/images/Jordan_674027-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "hashemite kingdom of jordan",
+        "jordan"
+      ]
     },
     {
       "id": "HR",
@@ -2695,7 +3579,11 @@
       "url": "what-croatias-ufo-records-reveal-about/",
       "image": "assets/images/Croatia_d7e045-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "republic of croatia",
+        "croatia"
+      ]
     },
     {
       "id": "BH",
@@ -2707,7 +3595,11 @@
       "url": "what-did-bahrains-ufo-sightings-really/",
       "image": "assets/images/Bahrain_3ae11c-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "kingdom of bahrain",
+        "bahrain"
+      ]
     },
     {
       "id": "VN",
@@ -2719,7 +3611,12 @@
       "url": "what-did-viet-nams-ufo-reports-really/",
       "image": "assets/images/Viet_Nam_82ecdd-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "socialist republic of viet nam",
+        "viet nam",
+        "vietnam"
+      ]
     },
     {
       "id": "US",
@@ -2731,7 +3628,13 @@
       "url": "united-states/",
       "image": "assets/images/United_States_f5f19f-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "united states of america",
+        "united states",
+        "usa",
+        "us"
+      ]
     },
     {
       "id": "AT",
@@ -2743,7 +3646,11 @@
       "url": "what-do-austrias-ufo-reports-really-show/",
       "image": "assets/images/Austria_593905-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "republic of austria",
+        "austria"
+      ]
     },
     {
       "id": "BZ",
@@ -2755,7 +3662,10 @@
       "url": "what-do-belize-ufo-reports-really-show/",
       "image": "assets/images/Belize_42ab0c-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "belize"
+      ]
     },
     {
       "id": "CM",
@@ -2767,7 +3677,11 @@
       "url": "what-do-cameroons-ufo-stories-really/",
       "image": "assets/images/Cameroon_73a7dd-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of cameroon",
+        "cameroon"
+      ]
     },
     {
       "id": "CU",
@@ -2779,7 +3693,11 @@
       "url": "what-do-cubas-ufo-sightings-reveal-about/",
       "image": "assets/images/Cuba_c484b1-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "republic of cuba",
+        "cuba"
+      ]
     },
     {
       "id": "GA",
@@ -2791,7 +3709,11 @@
       "url": "what-do-gabons-ufo-stories-really-show/",
       "image": "assets/images/Gabon_a06dcd-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "gabonese republic",
+        "gabon"
+      ]
     },
     {
       "id": "GW",
@@ -2803,7 +3725,11 @@
       "url": "what-do-guinea-bissaus-ufo-reports/",
       "image": "assets/images/Guinea-Bissau_b07cb9-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of guinea bissau",
+        "guinea bissau"
+      ]
     },
     {
       "id": "HN",
@@ -2815,7 +3741,11 @@
       "url": "what-do-honduras-ufo-reports-really-show/",
       "image": "assets/images/Honduras_5aa588-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "republic of honduras",
+        "honduras"
+      ]
     },
     {
       "id": "HU",
@@ -2827,7 +3757,10 @@
       "url": "what-do-hungarys-ufo-stories-really-show/",
       "image": "assets/images/Hungary_f14e46-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "hungary"
+      ]
     },
     {
       "id": "IN",
@@ -2839,7 +3772,11 @@
       "url": "what-do-indias-ufo-reports-really-show/",
       "image": "assets/images/India_967ce3-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "republic of india",
+        "india"
+      ]
     },
     {
       "id": "CI",
@@ -2851,7 +3788,13 @@
       "url": "cote-d-ivoire/",
       "image": "assets/images/Cote_d_Ivoire_f8cb1a-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of cote d ivoire",
+        "cote d ivoire",
+        "cote divoire",
+        "ivory coast"
+      ]
     },
     {
       "id": "LB",
@@ -2863,7 +3806,11 @@
       "url": "what-do-lebanons-ufo-reports-really-show/",
       "image": "assets/images/Lebanon_5caa7f-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "lebanese republic",
+        "lebanon"
+      ]
     },
     {
       "id": "LY",
@@ -2875,7 +3822,10 @@
       "url": "what-do-libyas-ufo-reports-really-show/",
       "image": "assets/images/Libya_55949d-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "libya"
+      ]
     },
     {
       "id": "MY",
@@ -2887,7 +3837,10 @@
       "url": "what-do-malaysias-ufo-stories-really/",
       "image": "assets/images/Malaysia_ff3ea3-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "malaysia"
+      ]
     },
     {
       "id": "MN",
@@ -2899,7 +3852,10 @@
       "url": "what-do-mongolias-ufo-reports-really/",
       "image": "assets/images/Mongolia_f54da3-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "mongolia"
+      ]
     },
     {
       "id": "NR",
@@ -2911,7 +3867,11 @@
       "url": "what-do-nauru-ufo-reports-really-show/",
       "image": "assets/images/Nauru_f648c7-overview.webp",
       "pageCount": 5,
-      "region": "Oceania"
+      "region": "Oceania",
+      "mapAliases": [
+        "republic of nauru",
+        "nauru"
+      ]
     },
     {
       "id": "NG",
@@ -2923,7 +3883,11 @@
       "url": "what-do-nigerias-ufo-reports-really-show/",
       "image": "assets/images/Nigeria_9742d0-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "federal republic of nigeria",
+        "nigeria"
+      ]
     },
     {
       "id": "PK",
@@ -2935,7 +3899,11 @@
       "url": "what-do-pakistans-ufo-cases-really-show/",
       "image": "assets/images/Pakistan_82d220-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "islamic republic of pakistan",
+        "pakistan"
+      ]
     },
     {
       "id": "PA",
@@ -2947,7 +3915,11 @@
       "url": "what-do-panama-ufo-reports-really-show/",
       "image": "assets/images/Panama_1e36b3-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "republic of panama",
+        "panama"
+      ]
     },
     {
       "id": "PH",
@@ -2959,7 +3931,11 @@
       "url": "philippines/",
       "image": "assets/images/Philippines_806736-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "republic of the philippines",
+        "philippines"
+      ]
     },
     {
       "id": "QA",
@@ -2971,7 +3947,11 @@
       "url": "what-do-qatars-ufo-reports-really-show/",
       "image": "assets/images/Qatar_83ef3e-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "state of qatar",
+        "qatar"
+      ]
     },
     {
       "id": "SC",
@@ -2983,7 +3963,11 @@
       "url": "what-do-seychelles-ufo-reports-really/",
       "image": "assets/images/Seychelles_3d2d7b-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of seychelles",
+        "seychelles"
+      ]
     },
     {
       "id": "SL",
@@ -2995,7 +3979,11 @@
       "url": "what-do-sierra-leones-ufo-reports-really/",
       "image": "assets/images/Sierra_Leone_817b0d-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of sierra leone",
+        "sierra leone"
+      ]
     },
     {
       "id": "SO",
@@ -3007,7 +3995,11 @@
       "url": "what-do-somalias-ufo-reports-really-show/",
       "image": "assets/images/Somalia_4dfdf1-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "federal republic of somalia",
+        "somalia"
+      ]
     },
     {
       "id": "TJ",
@@ -3019,7 +4011,11 @@
       "url": "what-do-tajikistans-ufo-reports-really/",
       "image": "assets/images/Tajikistan_279c77-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "republic of tajikistan",
+        "tajikistan"
+      ]
     },
     {
       "id": "TZ",
@@ -3031,7 +4027,12 @@
       "url": "united-republic-of-tanzania/",
       "image": "assets/images/United_Republic_of_T_f850a5-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "tanzania united republic of",
+        "united republic of tanzania",
+        "tanzania"
+      ]
     },
     {
       "id": "TL",
@@ -3043,7 +4044,11 @@
       "url": "what-do-timor-leste-ufo-reports-really/",
       "image": "assets/images/Timor-Leste_2d79f6-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "democratic republic of timor leste",
+        "timor leste"
+      ]
     },
     {
       "id": "TR",
@@ -3055,7 +4060,12 @@
       "url": "turkiye/",
       "image": "assets/images/Turkiye_c8c5d5-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "republic of turkiye",
+        "turkiye",
+        "turkey"
+      ]
     },
     {
       "id": "GN",
@@ -3067,7 +4077,11 @@
       "url": "what-do-ufo-reports-in-guinea-really/",
       "image": "assets/images/Guinea_b47b54-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of guinea",
+        "guinea"
+      ]
     },
     {
       "id": "BA",
@@ -3079,7 +4093,11 @@
       "url": "bosnia-and-herzegovina/",
       "image": "assets/images/Bosnia_and_Herzegovi_552c9f-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "republic of bosnia and herzegovina",
+        "bosnia and herzegovina"
+      ]
     },
     {
       "id": "BT",
@@ -3091,7 +4109,11 @@
       "url": "what-do-ufo-sightings-in-bhutan-really/",
       "image": "assets/images/Bhutan_bb2254-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "kingdom of bhutan",
+        "bhutan"
+      ]
     },
     {
       "id": "BD",
@@ -3103,7 +4125,11 @@
       "url": "bangladesh/",
       "image": "assets/images/Bangladesh_fa6c37-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "people s republic of bangladesh",
+        "bangladesh"
+      ]
     },
     {
       "id": "MV",
@@ -3115,7 +4141,11 @@
       "url": "maldives/",
       "image": "assets/images/Maldives_213cb2-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "republic of maldives",
+        "maldives"
+      ]
     },
     {
       "id": "GQ",
@@ -3127,7 +4157,11 @@
       "url": "equatorial-guinea/",
       "image": "assets/images/Equatorial_Guinea_ae2c01-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of equatorial guinea",
+        "equatorial guinea"
+      ]
     },
     {
       "id": "BW",
@@ -3139,7 +4173,11 @@
       "url": "what-does-botswanas-ufo-record-really/",
       "image": "assets/images/Botswana_180c89-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of botswana",
+        "botswana"
+      ]
     },
     {
       "id": "DJ",
@@ -3151,7 +4189,11 @@
       "url": "djibouti/",
       "image": "assets/images/Djibouti_60a8b0-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of djibouti",
+        "djibouti"
+      ]
     },
     {
       "id": "EC",
@@ -3163,7 +4205,11 @@
       "url": "what-evidence-exists-for-ufos-in-ecuador/",
       "image": "assets/images/Ecuador_09f199-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "republic of ecuador",
+        "ecuador"
+      ]
     },
     {
       "id": "GE",
@@ -3175,7 +4221,10 @@
       "url": "what-georgias-ufo-reports-reveal-about/",
       "image": "assets/images/Georgia_9113c6-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "georgia"
+      ]
     },
     {
       "id": "DE",
@@ -3187,7 +4236,11 @@
       "url": "what-germanys-ufo-record-really-shows/",
       "image": "assets/images/Germany_17d53e-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "federal republic of germany",
+        "germany"
+      ]
     },
     {
       "id": "GR",
@@ -3199,7 +4252,11 @@
       "url": "what-greeces-ufo-records-reveal-about/",
       "image": "assets/images/Greece_4902a4-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "hellenic republic",
+        "greece"
+      ]
     },
     {
       "id": "GT",
@@ -3211,7 +4268,11 @@
       "url": "what-guatemalas-ufo-reports-really/",
       "image": "assets/images/Guatemala_11760e-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "republic of guatemala",
+        "guatemala"
+      ]
     },
     {
       "id": "BN",
@@ -3223,7 +4284,11 @@
       "url": "brunei-darussalam/",
       "image": "assets/images/Brunei_Darussalam_eab94a-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "brunei darussalam",
+        "brunei"
+      ]
     },
     {
       "id": "LV",
@@ -3235,7 +4300,11 @@
       "url": "what-has-latvia-really-seen-in-the-sky/",
       "image": "assets/images/Latvia_c5f5bb-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "republic of latvia",
+        "latvia"
+      ]
     },
     {
       "id": "MT",
@@ -3247,7 +4316,11 @@
       "url": "what-has-malta-really-seen-in-the-sky/",
       "image": "assets/images/Malta_1a591a-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "republic of malta",
+        "malta"
+      ]
     },
     {
       "id": "LC",
@@ -3259,7 +4332,10 @@
       "url": "what-has-saint-lucia-really-reported/",
       "image": "assets/images/Saint_Lucia_85ac35-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "saint lucia"
+      ]
     },
     {
       "id": "WS",
@@ -3271,7 +4347,11 @@
       "url": "what-has-samoa-really-seen-in-the-sky/",
       "image": "assets/images/Samoa_f56806-overview.webp",
       "pageCount": 5,
-      "region": "Oceania"
+      "region": "Oceania",
+      "mapAliases": [
+        "independent state of samoa",
+        "samoa"
+      ]
     },
     {
       "id": "ZM",
@@ -3283,7 +4363,11 @@
       "url": "what-has-zambia-really-seen-in-the-sky/",
       "image": "assets/images/Zambia_dcf25e-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of zambia",
+        "zambia"
+      ]
     },
     {
       "id": "ID",
@@ -3295,7 +4379,11 @@
       "url": "what-indonesias-ufo-record-really-shows/",
       "image": "assets/images/Indonesia_35536a-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "republic of indonesia",
+        "indonesia"
+      ]
     },
     {
       "id": "AD",
@@ -3307,7 +4395,11 @@
       "url": "what-is-actually-known-about-andorra/",
       "image": "assets/images/Andorra_9d3bd1-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "principality of andorra",
+        "andorra"
+      ]
     },
     {
       "id": "AG",
@@ -3319,7 +4411,10 @@
       "url": "antigua-and-barbuda/",
       "image": "assets/images/Antigua_and_Barbuda_0f8518-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "antigua and barbuda"
+      ]
     },
     {
       "id": "AZ",
@@ -3331,7 +4426,11 @@
       "url": "what-is-behind-azerbaijans-ufo-reports/",
       "image": "assets/images/Azerbaijan_213598-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "republic of azerbaijan",
+        "azerbaijan"
+      ]
     },
     {
       "id": "LR",
@@ -3343,7 +4442,11 @@
       "url": "what-is-known-about-ufos-in-liberia/",
       "image": "assets/images/Liberia_1ed5dd-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of liberia",
+        "liberia"
+      ]
     },
     {
       "id": "TD",
@@ -3355,7 +4458,11 @@
       "url": "what-is-really-behind-chads-ufo-reports/",
       "image": "assets/images/Chad_6c6b1b-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of chad",
+        "chad"
+      ]
     },
     {
       "id": "GM",
@@ -3367,7 +4474,11 @@
       "url": "what-is-really-behind-gambias-ufo/",
       "image": "assets/images/Gambia_7c3997-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of the gambia",
+        "gambia"
+      ]
     },
     {
       "id": "MM",
@@ -3379,7 +4490,11 @@
       "url": "what-is-really-behind-myanmar-ufo/",
       "image": "assets/images/Myanmar_928b7c-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "republic of myanmar",
+        "myanmar"
+      ]
     },
     {
       "id": "NA",
@@ -3391,7 +4506,11 @@
       "url": "what-is-really-behind-namibias-ufo/",
       "image": "assets/images/Namibia_bfe79d-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of namibia",
+        "namibia"
+      ]
     },
     {
       "id": "SK",
@@ -3403,7 +4522,11 @@
       "url": "what-is-really-behind-slovakias-ufo/",
       "image": "assets/images/Slovakia_b6c149-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "slovak republic",
+        "slovakia"
+      ]
     },
     {
       "id": "SZ",
@@ -3415,7 +4538,11 @@
       "url": "what-is-really-in-eswatinis-ufo-record/",
       "image": "assets/images/Eswatini_16cc7f-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "kingdom of eswatini",
+        "eswatini"
+      ]
     },
     {
       "id": "JM",
@@ -3427,7 +4554,10 @@
       "url": "what-is-really-in-jamaicas-ufo-record/",
       "image": "assets/images/Jamaica_5eedd6-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "jamaica"
+      ]
     },
     {
       "id": "MK",
@@ -3439,7 +4569,11 @@
       "url": "what-is-really-in-north-macedonias-ufo/",
       "image": "assets/images/North_Macedonia_cece1d-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "republic of north macedonia",
+        "north macedonia"
+      ]
     },
     {
       "id": "UZ",
@@ -3451,7 +4585,11 @@
       "url": "what-is-really-in-uzbekistans-ufo-record/",
       "image": "assets/images/Uzbekistan_db800e-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "republic of uzbekistan",
+        "uzbekistan"
+      ]
     },
     {
       "id": "YE",
@@ -3463,7 +4601,11 @@
       "url": "what-is-really-in-yemens-ufo-record/",
       "image": "assets/images/Yemen_ac33d6-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "republic of yemen",
+        "yemen"
+      ]
     },
     {
       "id": "BI",
@@ -3475,7 +4617,11 @@
       "url": "what-is-really-known-about-burundi-ufos/",
       "image": "assets/images/Burundi_461758-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of burundi",
+        "burundi"
+      ]
     },
     {
       "id": "CO",
@@ -3487,7 +4633,11 @@
       "url": "what-is-really-known-about-colombias-ufo/",
       "image": "assets/images/Colombia_2f7373-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "republic of colombia",
+        "colombia"
+      ]
     },
     {
       "id": "KI",
@@ -3499,7 +4649,11 @@
       "url": "what-is-really-known-about-kiribati-ufos/",
       "image": "assets/images/Kiribati_3f57ad-overview.webp",
       "pageCount": 5,
-      "region": "Oceania"
+      "region": "Oceania",
+      "mapAliases": [
+        "republic of kiribati",
+        "kiribati"
+      ]
     },
     {
       "id": "LS",
@@ -3511,7 +4665,11 @@
       "url": "what-is-really-known-about-lesotho-ufos/",
       "image": "assets/images/Lesotho_93b12b-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "kingdom of lesotho",
+        "lesotho"
+      ]
     },
     {
       "id": "NE",
@@ -3523,7 +4681,11 @@
       "url": "what-is-really-known-about-niger-ufos/",
       "image": "assets/images/Niger_6687e1-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of the niger",
+        "niger"
+      ]
     },
     {
       "id": "PW",
@@ -3535,7 +4697,11 @@
       "url": "what-is-really-known-about-palau-ufos/",
       "image": "assets/images/Palau_e5e0b6-overview.webp",
       "pageCount": 5,
-      "region": "Oceania"
+      "region": "Oceania",
+      "mapAliases": [
+        "republic of palau",
+        "palau"
+      ]
     },
     {
       "id": "TM",
@@ -3547,7 +4713,10 @@
       "url": "what-is-really-known-about-turkmenistan/",
       "image": "assets/images/Turkmenistan_1f8dc1-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "turkmenistan"
+      ]
     },
     {
       "id": "DO",
@@ -3559,7 +4728,10 @@
       "url": "dominican-republic/",
       "image": "assets/images/Dominican_Republic_dba665-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "dominican republic"
+      ]
     },
     {
       "id": "IE",
@@ -3571,7 +4743,10 @@
       "url": "what-is-really-seen-over-ireland/",
       "image": "assets/images/Ireland_eb2131-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "ireland"
+      ]
     },
     {
       "id": "KZ",
@@ -3583,7 +4758,11 @@
       "url": "what-is-really-seen-over-kazakhstan/",
       "image": "assets/images/Kazakhstan_2f36b6-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "republic of kazakhstan",
+        "kazakhstan"
+      ]
     },
     {
       "id": "TT",
@@ -3595,7 +4774,11 @@
       "url": "trinidad-and-tobago/",
       "image": "assets/images/Trinidad_and_Tobago_a73120-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "republic of trinidad and tobago",
+        "trinidad and tobago"
+      ]
     },
     {
       "id": "AE",
@@ -3607,7 +4790,11 @@
       "url": "united-arab-emirates/",
       "image": "assets/images/United_Arab_Emirates_c92b89-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "united arab emirates",
+        "uae"
+      ]
     },
     {
       "id": "UA",
@@ -3619,7 +4806,10 @@
       "url": "what-is-really-seen-over-ukraine/",
       "image": "assets/images/Ukraine_c951ec-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "ukraine"
+      ]
     },
     {
       "id": "RW",
@@ -3631,7 +4821,11 @@
       "url": "what-is-rwandas-real-ufo-record/",
       "image": "assets/images/Rwanda_7266a1-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "rwandese republic",
+        "rwanda"
+      ]
     },
     {
       "id": "LK",
@@ -3643,7 +4837,11 @@
       "url": "what-is-sri-lankas-ufo-record-really/",
       "image": "assets/images/Sri_Lanka_db33ad-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "democratic socialist republic of sri lanka",
+        "sri lanka"
+      ]
     },
     {
       "id": "CH",
@@ -3655,7 +4853,11 @@
       "url": "what-is-switzerlands-ufo-record-really/",
       "image": "assets/images/Switzerland_77dcd8-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "swiss confederation",
+        "switzerland"
+      ]
     },
     {
       "id": "LT",
@@ -3667,7 +4869,11 @@
       "url": "what-lithuanias-ufo-reports-really-show/",
       "image": "assets/images/Lithuania_74a788-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "republic of lithuania",
+        "lithuania"
+      ]
     },
     {
       "id": "CZ",
@@ -3679,7 +4885,11 @@
       "url": "czechia/",
       "image": "assets/images/Czechia_045e2f-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "czech republic",
+        "czechia"
+      ]
     },
     {
       "id": "EG",
@@ -3691,7 +4901,11 @@
       "url": "what-makes-egypt-a-hotspot-for-ufo/",
       "image": "assets/images/Egypt_1c39ab-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "arab republic of egypt",
+        "egypt"
+      ]
     },
     {
       "id": "IT",
@@ -3703,7 +4917,11 @@
       "url": "what-makes-italys-ufo-record-unique-and/",
       "image": "assets/images/Italy_ad79ef-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "italian republic",
+        "italy"
+      ]
     },
     {
       "id": "JP",
@@ -3715,7 +4933,10 @@
       "url": "what-makes-japans-ufo-record-so-unusual/",
       "image": "assets/images/Japan_fcf29f-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "japan"
+      ]
     },
     {
       "id": "LI",
@@ -3727,7 +4948,11 @@
       "url": "what-makes-liechtensteins-ufo-story/",
       "image": "assets/images/Liechtenstein_b0ddce-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "principality of liechtenstein",
+        "liechtenstein"
+      ]
     },
     {
       "id": "NO",
@@ -3739,7 +4964,11 @@
       "url": "what-makes-norways-ufo-record-different/",
       "image": "assets/images/Norway_988455-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "kingdom of norway",
+        "norway"
+      ]
     },
     {
       "id": "PE",
@@ -3751,7 +4980,11 @@
       "url": "what-makes-perus-ufo-story-so/",
       "image": "assets/images/Peru_36c572-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "republic of peru",
+        "peru"
+      ]
     },
     {
       "id": "SE",
@@ -3763,7 +4996,11 @@
       "url": "what-makes-swedens-ufo-record-different/",
       "image": "assets/images/Sweden_72ddd2-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "kingdom of sweden",
+        "sweden"
+      ]
     },
     {
       "id": "MD",
@@ -3775,7 +5012,12 @@
       "url": "republic-of-moldova/",
       "image": "assets/images/Republic_of_Moldova_a6ad94-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "moldova republic of",
+        "republic of moldova",
+        "moldova"
+      ]
     },
     {
       "id": "NZ",
@@ -3787,7 +5029,10 @@
       "url": "what-new-zealands-ufo-files-really-show/",
       "image": "assets/images/New_Zealand_3d3336-overview.webp",
       "pageCount": 5,
-      "region": "Oceania"
+      "region": "Oceania",
+      "mapAliases": [
+        "new zealand"
+      ]
     },
     {
       "id": "SD",
@@ -3799,7 +5044,11 @@
       "url": "what-really-appeared-over-sudan/",
       "image": "assets/images/Sudan_1193ba-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of the sudan",
+        "sudan"
+      ]
     },
     {
       "id": "CG",
@@ -3811,7 +5060,12 @@
       "url": "what-really-counts-as-a-congo-ufo/",
       "image": "assets/images/Congo_77f256-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of the congo",
+        "republic of congo",
+        "congo"
+      ]
     },
     {
       "id": "TH",
@@ -3823,7 +5077,11 @@
       "url": "thailand/",
       "image": "assets/images/Thailand_a2b7c1-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "kingdom of thailand",
+        "thailand"
+      ]
     },
     {
       "id": "AF",
@@ -3835,7 +5093,11 @@
       "url": "afghanistan/",
       "image": "assets/images/Afghanistan_c69153-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "islamic republic of afghanistan",
+        "afghanistan"
+      ]
     },
     {
       "id": "OM",
@@ -3847,7 +5109,11 @@
       "url": "what-really-counts-as-an-oman-ufo/",
       "image": "assets/images/Oman_c14c36-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "sultanate of oman",
+        "oman"
+      ]
     },
     {
       "id": "ET",
@@ -3859,7 +5125,11 @@
       "url": "what-really-counts-as-ethiopias-ufo/",
       "image": "assets/images/Ethiopia_3d91f7-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "federal democratic republic of ethiopia",
+        "ethiopia"
+      ]
     },
     {
       "id": "TO",
@@ -3871,7 +5141,11 @@
       "url": "what-really-exists-in-tongas-ufo-record/",
       "image": "assets/images/Tonga_e8a123-overview.webp",
       "pageCount": 5,
-      "region": "Oceania"
+      "region": "Oceania",
+      "mapAliases": [
+        "kingdom of tonga",
+        "tonga"
+      ]
     },
     {
       "id": "AM",
@@ -3883,7 +5157,11 @@
       "url": "what-really-explains-armenias-ufo/",
       "image": "assets/images/Armenia_5f4599-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "republic of armenia",
+        "armenia"
+      ]
     },
     {
       "id": "BG",
@@ -3895,7 +5173,11 @@
       "url": "what-really-explains-bulgarias-ufo/",
       "image": "assets/images/Bulgaria_5c7772-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "republic of bulgaria",
+        "bulgaria"
+      ]
     },
     {
       "id": "KG",
@@ -3907,7 +5189,11 @@
       "url": "what-really-explains-kyrgyzstans-ufo/",
       "image": "assets/images/Kyrgyzstan_c78791-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "kyrgyz republic",
+        "kyrgyzstan"
+      ]
     },
     {
       "id": "MH",
@@ -3919,7 +5205,11 @@
       "url": "what-really-explains-marshall-islands/",
       "image": "assets/images/Marshall_Islands_ccbdc0-overview.webp",
       "pageCount": 5,
-      "region": "Oceania"
+      "region": "Oceania",
+      "mapAliases": [
+        "republic of the marshall islands",
+        "marshall islands"
+      ]
     },
     {
       "id": "SA",
@@ -3931,7 +5221,11 @@
       "url": "what-really-explains-saudi-arabias-ufo/",
       "image": "assets/images/Saudi_Arabia_8bf7f8-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "kingdom of saudi arabia",
+        "saudi arabia"
+      ]
     },
     {
       "id": "VU",
@@ -3943,7 +5237,11 @@
       "url": "what-really-explains-vanuatus-strange/",
       "image": "assets/images/Vanuatu_d16ad2-overview.webp",
       "pageCount": 5,
-      "region": "Oceania"
+      "region": "Oceania",
+      "mapAliases": [
+        "republic of vanuatu",
+        "vanuatu"
+      ]
     },
     {
       "id": "KE",
@@ -3955,7 +5253,11 @@
       "url": "what-really-fell-from-kenyas-skies/",
       "image": "assets/images/Kenya_a84f56-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of kenya",
+        "kenya"
+      ]
     },
     {
       "id": "CD",
@@ -3967,7 +5269,12 @@
       "url": "democratic-republic-of-the-congo/",
       "image": "assets/images/Democratic_Republic_679868-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "congo the democratic republic of the",
+        "democratic republic of the congo",
+        "drc"
+      ]
     },
     {
       "id": "SV",
@@ -3979,7 +5286,11 @@
       "url": "what-really-flies-over-el-salvador/",
       "image": "assets/images/El_Salvador_9b83b7-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "republic of el salvador",
+        "el salvador"
+      ]
     },
     {
       "id": "BE",
@@ -3991,7 +5302,11 @@
       "url": "what-really-happened-during-belgiums/",
       "image": "assets/images/Belgium_5cb4c9-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "kingdom of belgium",
+        "belgium"
+      ]
     },
     {
       "id": "AU",
@@ -4003,7 +5318,10 @@
       "url": "what-really-happened-in-australias-ufo/",
       "image": "assets/images/Australia_ceafb5-overview.webp",
       "pageCount": 5,
-      "region": "Oceania"
+      "region": "Oceania",
+      "mapAliases": [
+        "australia"
+      ]
     },
     {
       "id": "BB",
@@ -4015,7 +5333,10 @@
       "url": "what-really-happened-in-barbados-skies/",
       "image": "assets/images/Barbados_93409a-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "barbados"
+      ]
     },
     {
       "id": "BO",
@@ -4027,7 +5348,12 @@
       "url": "bolivia-plurinational-state-of/",
       "image": "assets/images/Bolivia_Plurinationa_9e2db7-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "bolivia plurinational state of",
+        "plurinational state of bolivia",
+        "bolivia"
+      ]
     },
     {
       "id": "GB",
@@ -4039,7 +5365,13 @@
       "url": "united-kingdom/",
       "image": "assets/images/United_Kingdom_d25561-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "united kingdom of great britain and northern ireland",
+        "united kingdom",
+        "great britain",
+        "uk"
+      ]
     },
     {
       "id": "KH",
@@ -4051,7 +5383,11 @@
       "url": "what-really-happened-in-cambodias-ufo/",
       "image": "assets/images/Cambodia_314ccd-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "kingdom of cambodia",
+        "cambodia"
+      ]
     },
     {
       "id": "CR",
@@ -4063,7 +5399,11 @@
       "url": "what-really-happened-in-costa-ricas-ufo/",
       "image": "assets/images/Costa_Rica_fe586b-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "republic of costa rica",
+        "costa rica"
+      ]
     },
     {
       "id": "NL",
@@ -4075,7 +5415,12 @@
       "url": "netherlands-kingdom-of-the/",
       "image": "assets/images/Netherlands_Kingdom_d6d70a-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "kingdom of the netherlands",
+        "netherlands kingdom of the",
+        "netherlands"
+      ]
     },
     {
       "id": "HT",
@@ -4087,7 +5432,11 @@
       "url": "what-really-happened-in-haitis-ufo/",
       "image": "assets/images/Haiti_a4842f-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "republic of haiti",
+        "haiti"
+      ]
     },
     {
       "id": "IR",
@@ -4099,7 +5448,12 @@
       "url": "iran-islamic-republic-of/",
       "image": "assets/images/Iran_Islamic_Republi_94f9ee-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "iran islamic republic of",
+        "islamic republic of iran",
+        "iran"
+      ]
     },
     {
       "id": "KR",
@@ -4111,7 +5465,12 @@
       "url": "republic-of-korea/",
       "image": "assets/images/Republic_of_Korea_8d9deb-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "korea republic of",
+        "republic of korea",
+        "south korea"
+      ]
     },
     {
       "id": "KW",
@@ -4123,7 +5482,11 @@
       "url": "what-really-happened-in-kuwaits-ufo/",
       "image": "assets/images/Kuwait_93295b-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "state of kuwait",
+        "kuwait"
+      ]
     },
     {
       "id": "MU",
@@ -4135,7 +5498,11 @@
       "url": "what-really-happened-in-mauritius-sky/",
       "image": "assets/images/Mauritius_26160d-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of mauritius",
+        "mauritius"
+      ]
     },
     {
       "id": "MX",
@@ -4147,7 +5514,11 @@
       "url": "what-really-happened-in-mexicos-ufo/",
       "image": "assets/images/Mexico_41937b-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "united mexican states",
+        "mexico"
+      ]
     },
     {
       "id": "NP",
@@ -4159,7 +5530,11 @@
       "url": "what-really-happened-in-nepals-ufo/",
       "image": "assets/images/Nepal_0e1d58-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "federal democratic republic of nepal",
+        "nepal"
+      ]
     },
     {
       "id": "NI",
@@ -4171,7 +5546,11 @@
       "url": "what-really-happened-in-nicaraguas-ufo/",
       "image": "assets/images/Nicaragua_481264-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "republic of nicaragua",
+        "nicaragua"
+      ]
     },
     {
       "id": "PY",
@@ -4183,7 +5562,11 @@
       "url": "what-really-happened-in-paraguays-ufo/",
       "image": "assets/images/Paraguay_71a452-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "republic of paraguay",
+        "paraguay"
+      ]
     },
     {
       "id": "PG",
@@ -4195,7 +5578,11 @@
       "url": "papua-new-guinea/",
       "image": "assets/images/Papua_New_Guinea_90e80c-overview.webp",
       "pageCount": 5,
-      "region": "Oceania"
+      "region": "Oceania",
+      "mapAliases": [
+        "independent state of papua new guinea",
+        "papua new guinea"
+      ]
     },
     {
       "id": "PL",
@@ -4207,7 +5594,11 @@
       "url": "what-really-happened-in-polands-ufo/",
       "image": "assets/images/Poland_5ff03b-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "republic of poland",
+        "poland"
+      ]
     },
     {
       "id": "SB",
@@ -4219,7 +5610,10 @@
       "url": "what-really-happened-in-solomon/",
       "image": "assets/images/Solomon_Islands_6f943d-overview.webp",
       "pageCount": 5,
-      "region": "Oceania"
+      "region": "Oceania",
+      "mapAliases": [
+        "solomon islands"
+      ]
     },
     {
       "id": "KN",
@@ -4231,7 +5625,11 @@
       "url": "saint-kitts-and-nevis/",
       "image": "assets/images/Saint_Kitts_and_Nevi_a66de5-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "saint kitts and nevis",
+        "st kitts and nevis"
+      ]
     },
     {
       "id": "TG",
@@ -4243,7 +5641,11 @@
       "url": "what-really-happened-in-togos-ufo-files/",
       "image": "assets/images/Togo_30949d-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "togolese republic",
+        "togo"
+      ]
     },
     {
       "id": "TN",
@@ -4255,7 +5657,11 @@
       "url": "what-really-happened-in-tunisias-ufo/",
       "image": "assets/images/Tunisia_edf404-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of tunisia",
+        "tunisia"
+      ]
     },
     {
       "id": "UG",
@@ -4267,7 +5673,11 @@
       "url": "what-really-happened-in-ugandas-ufo/",
       "image": "assets/images/Uganda_e92904-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of uganda",
+        "uganda"
+      ]
     },
     {
       "id": "ZW",
@@ -4279,7 +5689,11 @@
       "url": "what-really-happened-in-zimbabwes-ufo/",
       "image": "assets/images/Zimbabwe_5922f5-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of zimbabwe",
+        "zimbabwe"
+      ]
     },
     {
       "id": "GH",
@@ -4291,7 +5705,11 @@
       "url": "ghana/",
       "image": "assets/images/Ghana_317dba-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of ghana",
+        "ghana"
+      ]
     },
     {
       "id": "BS",
@@ -4303,7 +5721,12 @@
       "url": "the-bahamas/",
       "image": "assets/images/The_Bahamas_f765dc-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "commonwealth of the bahamas",
+        "the bahamas",
+        "bahamas"
+      ]
     },
     {
       "id": "EE",
@@ -4315,7 +5738,11 @@
       "url": "what-really-shapes-estonias-ufo-record/",
       "image": "assets/images/Estonia_f0a96d-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "republic of estonia",
+        "estonia"
+      ]
     },
     {
       "id": "VE",
@@ -4327,7 +5754,12 @@
       "url": "venezuela-bolivarian-republic-of/",
       "image": "assets/images/Venezuela_Bolivarian_3dc4c3-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "bolivarian republic of venezuela",
+        "venezuela bolivarian republic of",
+        "venezuela"
+      ]
     },
     {
       "id": "SI",
@@ -4339,7 +5771,11 @@
       "url": "what-really-stands-out-in-slovenias-ufo/",
       "image": "assets/images/Slovenia_d1aa05-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "republic of slovenia",
+        "slovenia"
+      ]
     },
     {
       "id": "ZA",
@@ -4351,7 +5787,11 @@
       "url": "what-really-stands-out-in-south/",
       "image": "assets/images/South_Africa_3b27c8-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of south africa",
+        "south africa"
+      ]
     },
     {
       "id": "MZ",
@@ -4363,7 +5803,11 @@
       "url": "what-really-survives-in-mozambiques-ufo/",
       "image": "assets/images/Mozambique_a40a9b-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of mozambique",
+        "mozambique"
+      ]
     },
     {
       "id": "RO",
@@ -4375,7 +5819,10 @@
       "url": "what-romanias-ufo-record-really-shows/",
       "image": "assets/images/Romania_d6b897-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "romania"
+      ]
     },
     {
       "id": "SG",
@@ -4387,7 +5834,11 @@
       "url": "what-singapore-ufo-sightings-really-show/",
       "image": "assets/images/Singapore_20c0b7-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "republic of singapore",
+        "singapore"
+      ]
     },
     {
       "id": "SR",
@@ -4399,7 +5850,11 @@
       "url": "what-surinames-ufo-stories-really-show/",
       "image": "assets/images/Suriname_b17fc6-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "republic of suriname",
+        "suriname"
+      ]
     },
     {
       "id": "SN",
@@ -4411,7 +5866,11 @@
       "url": "what-survives-in-senegals-ufo-record/",
       "image": "assets/images/Senegal_d8973b-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of senegal",
+        "senegal"
+      ]
     },
     {
       "id": "SY",
@@ -4423,7 +5882,11 @@
       "url": "syrian-arab-republic/",
       "image": "assets/images/Syrian_Arab_Republic_099887-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "syrian arab republic",
+        "syria"
+      ]
     },
     {
       "id": "LA",
@@ -4435,7 +5898,11 @@
       "url": "lao-people-s-democratic-republic/",
       "image": "assets/images/Lao_People_s_Democra_44f2bd-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "lao people s democratic republic",
+        "laos"
+      ]
     },
     {
       "id": "CV",
@@ -4447,7 +5914,12 @@
       "url": "what-ufo-reports-survive-cabo-verde/",
       "image": "assets/images/Cabo_Verde_2a5bf1-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "republic of cabo verde",
+        "cabo verde",
+        "cape verde"
+      ]
     },
     {
       "id": "CY",
@@ -4459,7 +5931,11 @@
       "url": "what-ufo-sightings-have-shaped-cyprus/",
       "image": "assets/images/Cyprus_852add-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "republic of cyprus",
+        "cyprus"
+      ]
     },
     {
       "id": "ER",
@@ -4471,7 +5947,11 @@
       "url": "what-ufos-have-been-reported-in/",
       "image": "assets/images/Eritrea_18740a-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "the state of eritrea",
+        "eritrea"
+      ]
     },
     {
       "id": "FI",
@@ -4483,7 +5963,11 @@
       "url": "finland/",
       "image": "assets/images/Finland_c909b1-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "republic of finland",
+        "finland"
+      ]
     },
     {
       "id": "AL",
@@ -4495,7 +5979,11 @@
       "url": "albania/",
       "image": "assets/images/Albania_79b9d2-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "republic of albania",
+        "albania"
+      ]
     },
     {
       "id": "IQ",
@@ -4507,7 +5995,11 @@
       "url": "iraq/",
       "image": "assets/images/Iraq_1aed9e-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "republic of iraq",
+        "iraq"
+      ]
     },
     {
       "id": "UY",
@@ -4519,7 +6011,11 @@
       "url": "what-uruguays-ufo-files-really-show/",
       "image": "assets/images/Uruguay_66b989-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "eastern republic of uruguay",
+        "uruguay"
+      ]
     },
     {
       "id": "VC",
@@ -4531,7 +6027,11 @@
       "url": "saint-vincent-and-the-grenadines/",
       "image": "assets/images/Saint_Vincent_and_th_3bce2a-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "saint vincent and the grenadines",
+        "st vincent and the grenadines"
+      ]
     },
     {
       "id": "DK",
@@ -4543,7 +6043,11 @@
       "url": "what-we-know-about-ufo-phenomena-in/",
       "image": "assets/images/Denmark_89da12-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "kingdom of denmark",
+        "denmark"
+      ]
     },
     {
       "id": "BF",
@@ -4555,7 +6059,10 @@
       "url": "burkina-faso/",
       "image": "assets/images/Burkina_Faso_f61e5f-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "burkina faso"
+      ]
     },
     {
       "id": "GY",
@@ -4567,7 +6074,11 @@
       "url": "what-we-know-about-ufo-sightings-in/",
       "image": "assets/images/Guyana_bc88a2-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "republic of guyana",
+        "guyana"
+      ]
     },
     {
       "id": "KP",
@@ -4579,7 +6090,12 @@
       "url": "democratic-people-s-republic-of-korea/",
       "image": "assets/images/Democratic_People_s_808714-overview.webp",
       "pageCount": 5,
-      "region": "Asia"
+      "region": "Asia",
+      "mapAliases": [
+        "democratic people s republic of korea",
+        "korea democratic people s republic of",
+        "north korea"
+      ]
     },
     {
       "id": "MR",
@@ -4591,7 +6107,11 @@
       "url": "why-are-mauritanias-ufo-records-so/",
       "image": "assets/images/Mauritania_85fa35-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "islamic republic of mauritania",
+        "mauritania"
+      ]
     },
     {
       "id": "ST",
@@ -4603,7 +6123,11 @@
       "url": "sao-tome-and-principe/",
       "image": "assets/images/Sao_Tome_and_Princip_3437b2-overview.webp",
       "pageCount": 5,
-      "region": "Africa"
+      "region": "Africa",
+      "mapAliases": [
+        "democratic republic of sao tome and principe",
+        "sao tome and principe"
+      ]
     },
     {
       "id": "GD",
@@ -4615,7 +6139,10 @@
       "url": "why-grenada-became-a-ufo-footnote/",
       "image": "assets/images/Grenada_dbf2a2-overview.webp",
       "pageCount": 5,
-      "region": "Americas"
+      "region": "Americas",
+      "mapAliases": [
+        "grenada"
+      ]
     },
     {
       "id": "FM",
@@ -4627,7 +6154,12 @@
       "url": "micronesia-federated-states-of/",
       "image": "assets/images/Micronesia_Federated_30e9e8-overview.webp",
       "pageCount": 5,
-      "region": "Oceania"
+      "region": "Oceania",
+      "mapAliases": [
+        "federated states of micronesia",
+        "micronesia federated states of",
+        "micronesia"
+      ]
     },
     {
       "id": "SM",
@@ -4639,7 +6171,11 @@
       "url": "why-san-marino-became-a-ufo-meeting/",
       "image": "assets/images/San_Marino_8ff2c5-overview.webp",
       "pageCount": 5,
-      "region": "Europe"
+      "region": "Europe",
+      "mapAliases": [
+        "republic of san marino",
+        "san marino"
+      ]
     }
   ],
   "matchedCount": 193,

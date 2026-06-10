@@ -9865,6 +9865,13 @@
       var escapeAttrValue = function(value) {
         return String(value || '').replace(/\\/g, '\\\\').replace(/"/g, '\\"');
       };
+      var normaliseMapSvgLabel = function(value) {
+        var text = String(value || '').trim().toLowerCase();
+        if (text.normalize) {
+          text = text.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+        }
+        return text.replace(/[^a-z0-9]+/g, ' ').trim();
+      };
       var getMapNodesForItem = function(iso, item) {
         var exact = svg.getElementById ? svg.getElementById(iso) : svg.querySelector('#' + iso);
         if (exact) {
@@ -9875,7 +9882,7 @@
           item && item.label,
           item && item.mapName,
           item && item.displayLabel
-        ].filter(Boolean);
+        ].concat((item && item.mapAliases) || []).filter(Boolean);
         var selectors = [];
         labels.forEach(function(label) {
           var safe = escapeAttrValue(label);
@@ -9891,6 +9898,18 @@
             seen.push(node);
           }
         });
+        if (!seen.length) {
+          var normalisedLabels = labels.map(normaliseMapSvgLabel).filter(Boolean);
+          Array.prototype.forEach.call(svg.querySelectorAll('[name], [class]'), function(node) {
+            var candidates = [
+              normaliseMapSvgLabel(node.getAttribute('name')),
+              normaliseMapSvgLabel(node.getAttribute('class'))
+            ];
+            if (candidates.some(function(candidate) { return normalisedLabels.indexOf(candidate) !== -1; })) {
+              seen.push(node);
+            }
+          });
+        }
         return seen;
       };
       var guessedIso = guessVisitorCountryIso(byIso);
